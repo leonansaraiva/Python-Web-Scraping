@@ -1,0 +1,500 @@
+{"genre":"Drama, History, Sport","movie":"United Passions","rating":2.1,"year":2014}
+{"genre":"Drama, History","movie":"Beginning of the Great Revival","rating":2.5,"year":2011}
+{"genre":"Action, Drama, History","movie":"American Soldiers","rating":3.2,"year":2005}
+{"genre":"Action, History, War","movie":"Operation Dunkirk","rating":3.5,"year":2017}
+{"genre":"Adventure, Drama, History","movie":"Nemanjici-radjanje kraljevine","rating":3.7,"year":2018}
+{"genre":"Drama, History, War","movie":"Het Bombardement","rating":3.9,"year":2012}
+{"genre":"Comedy, Drama, History","movie":"Vezir Parmagi","rating":4.0,"year":2017}
+{"genre":"Drama, History, Musical","movie":"Battle of Warsaw 1920","rating":4.2,"year":2011}
+{"genre":"Adventure, Drama, History","movie":"The Day of the Siege: September Eleven 1683","rating":4.2,"year":2012}
+{"genre":"Action, Adventure, History","movie":"Hammer of the Gods","rating":4.5,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Killing Jesus","rating":4.6,"year":2015}
+{"genre":"Action, Drama, History","movie":"Viking","rating":4.6,"year":2016}
+{"genre":"Drama, History","movie":"DC 9\/11: Time of Crisis","rating":4.7,"year":2003}
+{"genre":"Adventure, Comedy, History","movie":"Virgin Territory","rating":4.8,"year":2007}
+{"genre":"Action, Comedy, History","movie":"Iceman","rating":4.8,"year":2014}
+{"genre":"Adventure, Drama, History","movie":" Nemanjici-radjanje kraljevine","rating":4.8,"year":2018}
+{"genre":"Drama, History","movie":"Payitaht Abdülhamid","rating":4.9,"year":2017}
+{"genre":"Drama, History, War","movie":"A Fundação de uma República","rating":4.9,"year":2009}
+{"genre":"Drama, Family, History","movie":"The Cokeville Miracle","rating":5.0,"year":2015}
+{"genre":"Drama, History, Horror","movie":"An American Haunting","rating":5.0,"year":2005}
+{"genre":"Drama, History, War","movie":"LOC: Kargil","rating":5.1,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Sibelius","rating":5.2,"year":2003}
+{"genre":"Action, Drama, History","movie":"Britannic","rating":5.2,"year":2000}
+{"genre":"Action, Drama, History","movie":"USS Indianapolis: Men of Courage","rating":5.2,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Mathilde","rating":5.3,"year":2017}
+{"genre":"Adventure, Drama, History","movie":"The Final Inquiry","rating":5.3,"year":2006}
+{"genre":"Documentary, History","movie":"Stupidity","rating":5.4,"year":2003}
+{"genre":"Adventure, Drama, History","movie":"Army of Valhalla","rating":5.4,"year":2003}
+{"genre":"Documentary, History","movie":"A Funny Thing Happened on the Way to the Moon","rating":5.4,"year":2001}
+{"genre":"Action, Drama, History","movie":"Warrior Queen","rating":5.4,"year":2003}
+{"genre":"Documentary, Biography, History","movie":"Hillary's America: The Secret History of the Democratic Party","rating":5.4,"year":2016}
+{"genre":"Drama, History, Romance","movie":"Battle of the Brave","rating":5.4,"year":2004}
+{"genre":"Drama, History, Romance","movie":"Bel Ami","rating":5.4,"year":2012}
+{"genre":"Documentary, History","movie":"1915 Armenian Genocide","rating":5.5,"year":2010}
+{"genre":"Biography, Drama, History","movie":"The Day Reagan Was Shot","rating":5.5,"year":2001}
+{"genre":"Action, Drama, History","movie":"Begum Jaan","rating":5.6,"year":2017}
+{"genre":"Drama, History","movie":"O Imperador","rating":5.6,"year":2012}
+{"genre":"Crime, Drama, History","movie":"Texas Killing Fields","rating":5.7,"year":2011}
+{"genre":"Documentary, History, War","movie":"Armenian Genocide","rating":5.7,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Rainha do Deserto","rating":5.7,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Son of God","rating":5.7,"year":2014}
+{"genre":"Drama, History, Romance","movie":"September Dawn","rating":5.8,"year":2007}
+{"genre":"Drama, History, Romance","movie":"Death Defying Acts","rating":5.8,"year":2007}
+{"genre":"Drama, History, Romance","movie":"Guernica","rating":5.8,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Measuring the World","rating":5.8,"year":2012}
+{"genre":"Action, Drama, History","movie":"Rangoon","rating":5.8,"year":2017}
+{"genre":"Drama, History, War","movie":"Tali-Ihantala 1944","rating":5.8,"year":2007}
+{"genre":"Action, Drama, History","movie":"Taras Bulba","rating":5.8,"year":2009}
+{"genre":"Drama, History","movie":"O Senhor dos Mares","rating":5.8,"year":2011}
+{"genre":"Biography, Drama, History","movie":"A Jovem Rainha","rating":5.9,"year":2015}
+{"genre":"Drama, History, Thriller","movie":"Backstabbing for Beginners","rating":5.9,"year":2018}
+{"genre":"Drama, History, Thriller","movie":"Phantom","rating":5.9,"year":2013}
+{"genre":"Action, Drama, History","movie":"An Empress and the Warriors","rating":5.9,"year":2008}
+{"genre":"Biography, Drama, History","movie":"Adolf Eichmann","rating":5.9,"year":2007}
+{"genre":"Drama, History","movie":"Finding Altamira","rating":5.9,"year":2016}
+{"genre":"Drama, History, Thriller","movie":"World Trade Center","rating":6.0,"year":2006}
+{"genre":"Drama, History, War","movie":"The Alamo","rating":6.0,"year":2004}
+{"genre":"Drama, History, War","movie":"Purple Butterfly","rating":6.0,"year":2003}
+{"genre":"Adventure, Biography, History","movie":"God Loves Caviar","rating":6.0,"year":2012}
+{"genre":"Drama, History, Thriller","movie":"D.C. Sniper: 23 Days of Fear","rating":6.0,"year":2003}
+{"genre":"Drama, History, War","movie":"Nomad: The Warrior","rating":6.0,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Van Diemen's Land","rating":6.0,"year":2009}
+{"genre":"Action, Drama, History","movie":"A natureza contra ataca","rating":6.1,"year":2009}
+{"genre":"Drama, History","movie":"Flor da Neve e o Leque Secreto","rating":6.1,"year":2011}
+{"genre":"Action, Drama, History","movie":"Memorial Day","rating":6.1,"year":2012}
+{"genre":"Drama, History, Romance","movie":"The King's Daughters","rating":6.1,"year":2000}
+{"genre":"Action, Adventure, History","movie":"The Sovereign's Servant","rating":6.1,"year":2007}
+{"genre":"Action, History, Thriller","movie":"Fuga","rating":6.1,"year":2012}
+{"genre":"Adventure, Drama, History","movie":"Captain Alatriste: The Spanish Musketeer","rating":6.1,"year":2006}
+{"genre":"Action, Drama, History","movie":"Pearl Harbor","rating":6.1,"year":2001}
+{"genre":"Action, History, Thriller","movie":"O Resgate","rating":6.1,"year":2010}
+{"genre":"Documentary, Animation, History","movie":"Video Games: The Movie","rating":6.1,"year":2014}
+{"genre":"Biography, Drama, History","movie":"The Case for Christ","rating":6.1,"year":2017}
+{"genre":"Drama, History, Romance","movie":"The Affair of the Necklace","rating":6.1,"year":2001}
+{"genre":"Drama, History, War","movie":"The Monuments Men","rating":6.1,"year":2014}
+{"genre":"Action, Biography, History","movie":"Rudhramadevi","rating":6.1,"year":2015}
+{"genre":"Drama, History","movie":"Age of Uprising: The Legend of Michael Kohlhaas","rating":6.1,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Most Hated Woman in America","rating":6.1,"year":2017}
+{"genre":"Action, Drama, History","movie":"Battle for Incheon: Operation Chromite","rating":6.2,"year":2016}
+{"genre":"Action, Drama, History","movie":"Three Kingdoms","rating":6.2,"year":2008}
+{"genre":"Biography, Drama, History","movie":"To Kill a King","rating":6.2,"year":2003}
+{"genre":"Biography, History","movie":"The Borgia","rating":6.2,"year":2006}
+{"genre":"Documentary, History","movie":"Are All Men Pedophiles?","rating":6.2,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Zubeidaa","rating":6.2,"year":2001}
+{"genre":"Drama, History, Sport","movie":"The Game of Their Lives","rating":6.2,"year":2005}
+{"genre":"Drama, History, Romance","movie":"Tulip Fever","rating":6.2,"year":2017}
+{"genre":"Action, Drama, History","movie":"6 Days","rating":6.2,"year":2017}
+{"genre":"Biography, Drama, History","movie":"A Batalha pelo Império","rating":6.2,"year":2010}
+{"genre":"Drama, History, Music","movie":"A Questão Humana","rating":6.2,"year":2007}
+{"genre":"Drama, History","movie":"As Bruxas de Salem","rating":6.2,"year":2002}
+{"genre":"Biography, Drama, History","movie":"The Invisible Woman","rating":6.2,"year":2013}
+{"genre":"Comedy, History","movie":"The Libertine","rating":6.2,"year":2000}
+{"genre":"Drama, History","movie":"O Sacrifício","rating":6.2,"year":2010}
+{"genre":"Comedy, History, War","movie":"N (Io e Napoleone)","rating":6.3,"year":2006}
+{"genre":"Action, Drama, History","movie":"White Vengeance","rating":6.3,"year":2011}
+{"genre":"Drama, History","movie":"The Cut","rating":6.3,"year":2014}
+{"genre":"Biography, Drama, History","movie":"W.","rating":6.3,"year":2008}
+{"genre":"Drama, History, Romance","movie":"Farewell, My Queen","rating":6.3,"year":2012}
+{"genre":"Drama, History","movie":"Miral","rating":6.3,"year":2010}
+{"genre":"Drama, History","movie":"The Path to 9\/11","rating":6.3,"year":2006}
+{"genre":"Biography, Drama, History","movie":"A Condessa","rating":6.3,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Gods and Generals","rating":6.3,"year":2003}
+{"genre":"Documentary, Family, History","movie":"Back in Time","rating":6.3,"year":2015}
+{"genre":"Biography, Drama, History","movie":"One Night with the King","rating":6.3,"year":2006}
+{"genre":"Biography, Drama, History","movie":"The Immortal Life of Henrietta Lacks","rating":6.3,"year":2017}
+{"genre":"Drama, History, Romance","movie":"W.E.","rating":6.3,"year":2011}
+{"genre":"Drama, History, Horror","movie":"A Field in England","rating":6.3,"year":2013}
+{"genre":"Action, Drama, History","movie":"Legend of the Fist: The Return of Chen Zhen","rating":6.3,"year":2010}
+{"genre":"Crime, Drama, History","movie":"Bonhoeffer: O Agente da Graça","rating":6.3,"year":2000}
+{"genre":"Action, Drama, History","movie":"The Assassin","rating":6.3,"year":2015}
+{"genre":"Documentary, Crime, History","movie":"H.H. Holmes: America's First Serial Killer","rating":6.4,"year":2004}
+{"genre":"Action, History, Thriller","movie":"14 Blades","rating":6.4,"year":2010}
+{"genre":"Action, Drama, History","movie":"O Destemido","rating":6.4,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Mark Felt: The Man Who Brought Down the White House","rating":6.4,"year":2017}
+{"genre":"Biography, Drama, History","movie":"The Birth of a Nation","rating":6.4,"year":2016}
+{"genre":"Drama, History, Sci-Fi","movie":"Capsule","rating":6.4,"year":2015}
+{"genre":"Adventure, History","movie":"Ao: The Last Hunter","rating":6.4,"year":2010}
+{"genre":"Crime, Drama, History","movie":"A Gangue de Oss","rating":6.4,"year":2011}
+{"genre":"Documentary, Crime, History","movie":"Killer Legends","rating":6.4,"year":2014}
+{"genre":"Comedy, History","movie":"Elvis & Nixon","rating":6.4,"year":2016}
+{"genre":"Adventure, History","movie":"Saving General Yang","rating":6.4,"year":2013}
+{"genre":"Drama, History, Mystery","movie":"Parkland","rating":6.4,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Marie Antoinette","rating":6.4,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Southside with You","rating":6.4,"year":2016}
+{"genre":"Action, History","movie":"Gojô reisenki: Gojoe","rating":6.4,"year":2000}
+{"genre":"Drama, History, Romance","movie":"Passchendaele","rating":6.5,"year":2008}
+{"genre":"Crime, History, Thriller","movie":"O Sequestro de Heineken","rating":6.5,"year":2011}
+{"genre":"Action, Drama, History","movie":"The Princess of Montpensier","rating":6.5,"year":2010}
+{"genre":"Documentary, Action, History","movie":"Hell and Back Again","rating":6.5,"year":2011}
+{"genre":"Drama, History, Romance","movie":"Muhtesem Yüzyil: Kösem","rating":6.5,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Churchill","rating":6.5,"year":2017}
+{"genre":"Drama, History","movie":"The Eichmann Show","rating":6.5,"year":2015}
+{"genre":"Drama, History, Romance","movie":"The Scandalous Lady W","rating":6.5,"year":2015}
+{"genre":"Drama, History, Thriller","movie":"Glorious 39","rating":6.5,"year":2009}
+{"genre":"Drama, History, Romance","movie":"St. George Shoots the Dragon","rating":6.5,"year":2009}
+{"genre":"Drama, History, War","movie":"April 9th","rating":6.5,"year":2015}
+{"genre":"Drama, History, Romance","movie":"Augustus - O Primeiro Imperador","rating":6.5,"year":2003}
+{"genre":"Drama, History, War","movie":"1898. Los últimos de Filipinas","rating":6.5,"year":2016}
+{"genre":"Comedy, History","movie":"Return of the Hero","rating":6.5,"year":2018}
+{"genre":"Action, Crime, History","movie":"Killer Elite","rating":6.5,"year":2011}
+{"genre":"Adventure, Drama, History","movie":"Expresso Da Morte","rating":6.5,"year":2010}
+{"genre":"Action, Adventure, History","movie":"Shadowless Sword","rating":6.5,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Renoir","rating":6.5,"year":2012}
+{"genre":"Drama, History","movie":"The Lark Farm","rating":6.5,"year":2007}
+{"genre":"Crime, Drama, History","movie":"Escobar: Paraíso Perdido","rating":6.5,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Olga","rating":6.5,"year":2004}
+{"genre":"Drama, History, War","movie":"Imperador","rating":6.5,"year":2012}
+{"genre":"Drama, History, Thriller","movie":"O Último Poema do Rinoceronte","rating":6.6,"year":2012}
+{"genre":"Documentary, History, News","movie":"Banking on Bitcoin","rating":6.6,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Experimenter","rating":6.6,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Viceroy's House","rating":6.6,"year":2017}
+{"genre":"Action, Drama, History","movie":"12 Strong","rating":6.6,"year":2018}
+{"genre":"Drama, History","movie":"Francofonia: Louvre Sob Ocupação","rating":6.6,"year":2015}
+{"genre":"Drama, History, Thriller","movie":"The Pentagon Papers","rating":6.6,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Magnificent Century","rating":6.6,"year":20112014}
+{"genre":"Biography, Drama, History","movie":"The Young Karl Marx","rating":6.6,"year":2017}
+{"genre":"Biography, Drama, History","movie":"Nightwatching","rating":6.6,"year":2007}
+{"genre":"History","movie":"Filinta","rating":6.6,"year":20142016}
+{"genre":"Drama, History, Romance","movie":"Kurt Seyit ve Sura","rating":6.6,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Lutero","rating":6.6,"year":2003}
+{"genre":"Biography, Drama, History","movie":"And Starring Pancho Villa as Himself","rating":6.6,"year":2003}
+{"genre":"Drama, Fantasy, History","movie":"1864","rating":6.6,"year":2014}
+{"genre":"Drama, History, War","movie":"Cristiada","rating":6.6,"year":2012}
+{"genre":"Documentary, Action, History","movie":"The Hornet's Nest","rating":6.6,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Caesar","rating":6.7,"year":2002}
+{"genre":"Drama, History","movie":"The Happy Prince","rating":6.7,"year":2018}
+{"genre":"Drama, History, Thriller","movie":"K-19: The Widowmaker","rating":6.7,"year":2002}
+{"genre":"Action, Drama, History","movie":"Goemon","rating":6.7,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Catch a Fire","rating":6.7,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Jimmy's Hall","rating":6.7,"year":2014}
+{"genre":"Comedy, Drama, History","movie":"A Talking Picture","rating":6.7,"year":2003}
+{"genre":"Drama, History, War","movie":"Army of Crime","rating":6.7,"year":2009}
+{"genre":"Drama, History, Thriller","movie":"The Good Shepherd","rating":6.7,"year":2006}
+{"genre":"Documentary, Crime, History","movie":"Cocaine Cowboys 2","rating":6.7,"year":2008}
+{"genre":"Biography, Drama, History","movie":"Mangal Pandey: The Rising","rating":6.7,"year":2005}
+{"genre":"Drama, History, Romance","movie":"Warsaw '44","rating":6.7,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Mad Love","rating":6.7,"year":2001}
+{"genre":"Biography, Drama, History","movie":"The New World","rating":6.7,"year":2005}
+{"genre":"Drama, History, Horror","movie":"The Exorcism of Emily Rose","rating":6.7,"year":2005}
+{"genre":"Action, Drama, History","movie":"Bang Rajan","rating":6.7,"year":2000}
+{"genre":"Biography, Drama, History","movie":"A Mighty Heart","rating":6.7,"year":2007}
+{"genre":"Crime, Drama, History","movie":"Honeydripper","rating":6.7,"year":2007}
+{"genre":"Biography, Drama, History","movie":"The Other Boleyn Girl","rating":6.7,"year":2008}
+{"genre":"Action, Drama, History","movie":"The Kingdom of Solomon","rating":6.7,"year":2010}
+{"genre":"History","movie":"Gautamiputra Satakarni","rating":6.7,"year":2017}
+{"genre":"Drama, History, War","movie":"Beyond Enemy Lines","rating":6.7,"year":2004}
+{"genre":"Drama, History, Romance","movie":"The White Countess","rating":6.7,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Confirmation","rating":6.8,"year":2016}
+{"genre":"Drama, History, Thriller","movie":"Chappaquiddick","rating":6.8,"year":2017}
+{"genre":"Drama, Family, History","movie":"The Nativity Story","rating":6.8,"year":2006}
+{"genre":"Drama, History, Romance","movie":"Viola do Mar","rating":6.8,"year":2009}
+{"genre":"Action, Drama, History","movie":"The Finest Hours","rating":6.8,"year":2016}
+{"genre":"Drama, History, Thriller","movie":"The German Doctor","rating":6.8,"year":2013}
+{"genre":"Drama, History","movie":"Giant","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, History","movie":"The Special Relationship","rating":6.8,"year":2010}
+{"genre":"Drama, History","movie":"Venus Negra","rating":6.8,"year":2010}
+{"genre":"Drama, History, Romance","movie":"The Guernsey Literary and Potato Peel Pie Society","rating":6.8,"year":2018}
+{"genre":"Drama, History","movie":"Gunpowder","rating":6.8,"year":2017}
+{"genre":"Documentary, Biography, History","movie":"Inside Deep Throat","rating":6.8,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Conspiração e Poder","rating":6.8,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Victoria & Abdul","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, History","movie":"Mr. Turner","rating":6.8,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Killing Lincoln","rating":6.8,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Forever Enthralled","rating":6.8,"year":2008}
+{"genre":"Action, Drama, History","movie":"Spartacus","rating":6.8,"year":2004}
+{"genre":"Biography, Drama, History","movie":"Admiral","rating":6.8,"year":2008}
+{"genre":"Documentary, History, News","movie":"Korengal","rating":6.8,"year":2014}
+{"genre":"Drama, History, Music","movie":"The King Is Dancing","rating":6.8,"year":2000}
+{"genre":"Drama, History","movie":"The Kautokeino Rebellion","rating":6.8,"year":2008}
+{"genre":"Drama, History, War","movie":"In the Fog","rating":6.8,"year":2012}
+{"genre":"Biography, Drama, History","movie":"Leopardi: Um Jovem Fabuloso","rating":6.8,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Operação Valkiria","rating":6.8,"year":2004}
+{"genre":"Drama, History","movie":"Jamestown","rating":6.8,"year":2017}
+{"genre":"Action, History","movie":"Reino dos Assassinos","rating":6.9,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Suffragette","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Os 33","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"The Stanford Prison Experiment","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Süskind","rating":6.9,"year":2012}
+{"genre":"Drama, History","movie":"The Face Reader","rating":6.9,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Liberator","rating":6.9,"year":2013}
+{"genre":"Drama, History","movie":"O Moinho e a Cruz","rating":6.9,"year":2011}
+{"genre":"Biography, Drama, History","movie":"Elizabeth: The Golden Age","rating":6.9,"year":2007}
+{"genre":"History, War","movie":"Ghetto","rating":6.9,"year":2005}
+{"genre":"Drama, History","movie":"Tsar","rating":6.9,"year":2009}
+{"genre":"Drama, History, War","movie":"Na Mira do inimigo","rating":6.9,"year":2007}
+{"genre":"Action, Drama, History","movie":"Guarda Costas e Assassinos","rating":6.9,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The God Who Wasn't There","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Two Sons of Francisco","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, History","movie":"The Duchess","rating":6.9,"year":2008}
+{"genre":"Drama, History, Romance","movie":"Novo Mundo","rating":6.9,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Che: Part Two","rating":6.9,"year":2008}
+{"genre":"Drama, History","movie":"Cenneti Beklerken","rating":6.9,"year":2006}
+{"genre":"Crime, Drama, History","movie":"The Conspirator","rating":6.9,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Goya's Ghosts","rating":6.9,"year":2006}
+{"genre":"Drama, History, Romance","movie":"Children of Glory","rating":7.0,"year":2006}
+{"genre":"Drama, History, Romance","movie":"Çalikusu","rating":7.0,"year":20132014}
+{"genre":"Drama, History, War","movie":"Battle for Haditha","rating":7.0,"year":2007}
+{"genre":"Biography, Drama, History","movie":"Prophet Joseph","rating":7.0,"year":2008}
+{"genre":"Drama, History","movie":"Sakuran","rating":7.0,"year":2006}
+{"genre":"Comedy, Drama, History","movie":"The President's Last Bang","rating":7.0,"year":2005}
+{"genre":"Drama, History, Romance","movie":"The Lady and the Duke","rating":7.0,"year":2001}
+{"genre":"Biography, Drama, History","movie":"Bobby","rating":7.0,"year":2006}
+{"genre":"Action, Adventure, History","movie":"Mehmetçik Kut'ül Amare","rating":7.0,"year":2018}
+{"genre":"Drama, History, Romance","movie":"Pan Am","rating":7.0,"year":20112012}
+{"genre":"Drama, History, War","movie":"O Objetivo das Armas","rating":7.0,"year":2001}
+{"genre":"Biography, Drama, History","movie":"The Zookeeper's Wife","rating":7.0,"year":2017}
+{"genre":"Drama, History, War","movie":"La Rafle","rating":7.0,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Safe Conduct","rating":7.0,"year":2002}
+{"genre":"Drama, History","movie":"The Miniaturist","rating":7.0,"year":2017}
+{"genre":"Action, Drama, History","movie":"A Rebelião","rating":7.0,"year":2011}
+{"genre":"Drama, History, Romance","movie":"Mundo Sem Fim","rating":7.0,"year":2012}
+{"genre":"Action, Drama, History","movie":"Defenders of Riga","rating":7.0,"year":2007}
+{"genre":"Action, Drama, History","movie":"Panfilov's 28","rating":7.0,"year":2016}
+{"genre":"Drama, History, War","movie":"Oorlogswinter","rating":7.0,"year":2008}
+{"genre":"Biography, Drama, History","movie":"Repórteres de Guerra","rating":7.0,"year":2010}
+{"genre":"Drama, History","movie":"The Time that Remains","rating":7.0,"year":2009}
+{"genre":"Drama, History, Romance","movie":"Padmaavat","rating":7.1,"year":2018}
+{"genre":"Biography, Drama, History","movie":"The Color of Freedom","rating":7.1,"year":2007}
+{"genre":"Drama, History, War","movie":"Katyn","rating":7.1,"year":2007}
+{"genre":"Drama, History, Romance","movie":"Lore","rating":7.1,"year":2012}
+{"genre":"Drama, History, War","movie":"The Grey Zone","rating":7.1,"year":2001}
+{"genre":"Drama, History, Thriller","movie":"Valkyrie","rating":7.1,"year":2008}
+{"genre":"Action, Drama, History","movie":"The Warlords","rating":7.1,"year":2007}
+{"genre":"Biography, Drama, History","movie":"The Danish Girl","rating":7.1,"year":2015}
+{"genre":"Drama, History, War","movie":"1944","rating":7.1,"year":2015}
+{"genre":"Drama, History, War","movie":"Flags of our Fathers","rating":7.1,"year":2006}
+{"genre":"Documentary, Biography, History","movie":"The Unknown Known","rating":7.1,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Mandela: Long Walk to Freedom","rating":7.1,"year":2013}
+{"genre":"Documentary, History","movie":" National Geographic Explorer","rating":7.1,"year":1985}
+{"genre":"Biography, Drama, History","movie":"Afterimage","rating":7.1,"year":2016}
+{"genre":"Drama, History, War","movie":"Promessas de Guerra","rating":7.1,"year":2014}
+{"genre":"Drama, History, War","movie":"Beneath Hill 60","rating":7.1,"year":2010}
+{"genre":"Drama, History","movie":"Paul, Apostle of Christ","rating":7.1,"year":2018}
+{"genre":"Drama, History","movie":"Oranges and Sunshine","rating":7.1,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Além da Liberdade","rating":7.1,"year":2011}
+{"genre":"Documentary, History, War","movie":"The Age of Stupid","rating":7.1,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Into the Storm","rating":7.1,"year":2009}
+{"genre":"Drama, History, War","movie":"April Captains","rating":7.1,"year":2000}
+{"genre":"Biography, Drama, History","movie":"The Downfall of Berlin: Anonyma","rating":7.1,"year":2008}
+{"genre":"Biography, Drama, History","movie":"First They Killed My Father","rating":7.2,"year":2017}
+{"genre":"Adventure, Drama, History","movie":"Cold Mountain","rating":7.2,"year":2003}
+{"genre":"Comedy, History","movie":"Another Period","rating":7.2,"year":2013}
+{"genre":"Drama, History, Romance","movie":"The Devil's Whore","rating":7.2,"year":2008}
+{"genre":"Drama, History","movie":"Indian Summers","rating":7.2,"year":20152016}
+{"genre":"Drama, History, Mystery","movie":"A Garota Húngara","rating":7.2,"year":2015}
+{"genre":"Drama, History","movie":"Shattered Glass","rating":7.2,"year":2003}
+{"genre":"Action, Drama, History","movie":"The Battleship Island","rating":7.2,"year":2017}
+{"genre":"Drama, History, War","movie":"Naked Among Wolves","rating":7.2,"year":2015}
+{"genre":"Action, Drama, History","movie":"The Warrior","rating":7.2,"year":2001}
+{"genre":"Drama, History","movie":"Homens e Deuses","rating":7.2,"year":2010}
+{"genre":"Adventure, Drama, History","movie":"O Médico","rating":7.2,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Faraó","rating":7.2,"year":2015}
+{"genre":"Comedy, History","movie":"Ghahveye Talkh","rating":7.2,"year":2010}
+{"genre":"Drama, History, War","movie":"Ike: Countdown to D-Day","rating":7.2,"year":2004}
+{"genre":"Action, Drama, History","movie":"We Were Soldiers","rating":7.2,"year":2002}
+{"genre":"Drama, History, Romance","movie":"The Lion in Winter","rating":7.2,"year":2003}
+{"genre":"Action, Adventure, History","movie":"Assassin's Creed: Unity","rating":7.2,"year":2014}
+{"genre":"Drama, History","movie":"Pompeii: The Last Day","rating":7.2,"year":2003}
+{"genre":"Action, Drama, History","movie":"Bajirao Mastani","rating":7.2,"year":2015}
+{"genre":"Comedy, Drama, History","movie":"The Dish","rating":7.2,"year":2000}
+{"genre":"Biography, Drama, History","movie":"The King's Choice","rating":7.2,"year":2016}
+{"genre":"Drama, History, Romance","movie":"Troy","rating":7.2,"year":2004}
+{"genre":"Biography, Drama, History","movie":"The Post","rating":7.2,"year":2017}
+{"genre":"Documentary, History, Mystery","movie":"Loose Change: Second Edition","rating":7.2,"year":2005}
+{"genre":"Action, Drama, History","movie":"9th Company","rating":7.2,"year":2005}
+{"genre":"Biography, Drama, History","movie":"City of War: The Story of John Rabe","rating":7.2,"year":2009}
+{"genre":"Drama, History, Sport","movie":"O Esgrimista","rating":7.2,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Better Times","rating":7.2,"year":20042007}
+{"genre":"Action, History, War","movie":"The Admiral","rating":7.2,"year":2014}
+{"genre":"Documentary, History, War","movie":"Loose Change 9\/11: An American Coup","rating":7.2,"year":2009}
+{"genre":"Action, Drama, History","movie":"The Patriot","rating":7.2,"year":2000}
+{"genre":"Drama, History, Romance","movie":"Shadow Magic","rating":7.2,"year":2000}
+{"genre":"Action, Drama, History","movie":"Defiance","rating":7.2,"year":2008}
+{"genre":"Drama, History, Western","movie":"Bury My Heart at Wounded Knee","rating":7.2,"year":2007}
+{"genre":"Biography, History, Thriller","movie":"Operação Anthropoid","rating":7.2,"year":2016}
+{"genre":"Adventure, Drama, History","movie":"Silêncio","rating":7.2,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Lumumba","rating":7.2,"year":2000}
+{"genre":"Drama, History, Romance","movie":"Flor Congelada","rating":7.2,"year":2008}
+{"genre":"Biography, Drama, History","movie":"The Crossing","rating":7.2,"year":2000}
+{"genre":"Biography, Drama, History","movie":"Che: Part One","rating":7.2,"year":2008}
+{"genre":"Biography, Drama, History","movie":"The Founder","rating":7.2,"year":2016}
+{"genre":"Documentary, Biography, History","movie":"Terror's Advocate","rating":7.2,"year":2007}
+{"genre":"Documentary, History","movie":"DRUNK STONED BRILLIANT DEAD: The Story of the National Lampoon","rating":7.2,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Veda - Atatürk","rating":7.2,"year":2010}
+{"genre":"Documentary, History, Mystery","movie":"Loose Change: Final Cut","rating":7.2,"year":2007}
+{"genre":"Biography, Drama, History","movie":"My Boy Jack","rating":7.2,"year":2007}
+{"genre":"Adventure, History","movie":"Kon-Tiki","rating":7.2,"year":2012}
+{"genre":"Adventure, Drama, History","movie":"The Way Back","rating":7.3,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Hitler: The Rise of Evil","rating":7.3,"year":2003}
+{"genre":"Action, Adventure, History","movie":"Medal of Honor: Rising Sun","rating":7.3,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Painted Fire","rating":7.3,"year":2002}
+{"genre":"Drama, History, Thriller","movie":"Thirteen Days","rating":7.3,"year":2000}
+{"genre":"Drama, History","movie":"Titanic: Blood and Steel","rating":7.3,"year":2012}
+{"genre":"Crime, Drama, History","movie":"Polytechnique","rating":7.3,"year":2009}
+{"genre":"Action, Drama, History","movie":"Salyut-7","rating":7.3,"year":2017}
+{"genre":"Drama, History","movie":"The Innocents","rating":7.3,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Woman in Gold","rating":7.3,"year":2015}
+{"genre":"Action, Drama, History","movie":"Six","rating":7.3,"year":2017}
+{"genre":"Action, Adventure, History","movie":"The Tiger: An Old Hunter's Tale","rating":7.3,"year":2015}
+{"genre":"Drama, History, Romance","movie":"Daniel Deronda","rating":7.3,"year":2002}
+{"genre":"Biography, Drama, History","movie":"The Young Victoria","rating":7.3,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The Goebbels Experiment","rating":7.3,"year":2005}
+{"genre":"Drama, History, Music","movie":"Phoenix","rating":7.3,"year":2014}
+{"genre":"Drama, History, Romance","movie":"Guerra e Paz","rating":7.3,"year":2007}
+{"genre":"Documentary, History, Music","movie":"All Things Must Pass: The Rise and Fall of Tower Records","rating":7.3,"year":2015}
+{"genre":"Action, Drama, History","movie":"Gallipoli: End of the Road","rating":7.3,"year":2013}
+{"genre":"Documentary, Drama, History","movie":"A Film Unfinished","rating":7.3,"year":2010}
+{"genre":"Drama, History","movie":"The Challenger Disaster","rating":7.3,"year":2013}
+{"genre":"Biography, Drama, History","movie":"All the Way","rating":7.3,"year":2016}
+{"genre":"Drama, History","movie":"Labirinto de Mentiras","rating":7.3,"year":2014}
+{"genre":"Comedy, History","movie":"As Aventuras de Molière","rating":7.3,"year":2007}
+{"genre":"Drama, History","movie":"Bhopal: A Prayer for Rain","rating":7.3,"year":2014}
+{"genre":"Adventure, Drama, History","movie":"The Red Tent","rating":7.3,"year":2014}
+{"genre":"Drama, History, War","movie":"120","rating":7.3,"year":2008}
+{"genre":"Documentary, History","movie":"America: The Story of the US","rating":7.3,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Sarbjit","rating":7.3,"year":2016}
+{"genre":"Action, Drama, History","movie":"13 Hours","rating":7.3,"year":2016}
+{"genre":"Drama, History, Romance","movie":"A Viúva de Saint-Pierre","rating":7.3,"year":2000}
+{"genre":"Biography, Drama, History","movie":"Testament of Youth","rating":7.3,"year":2014}
+{"genre":"Drama, History","movie":"February 15, 1839","rating":7.3,"year":2001}
+{"genre":"Adventure, Drama, History","movie":"Tadas Blinda. Pradzia","rating":7.3,"year":2011}
+{"genre":"Documentary, Biography, History","movie":"Good Ol' Freda","rating":7.3,"year":2013}
+{"genre":"Action, Drama, History","movie":"Flame & Citron","rating":7.3,"year":2008}
+{"genre":"Crime, Drama, History","movie":"The Laramie Project","rating":7.3,"year":2002}
+{"genre":"Drama, History, Sport","movie":"Seabiscuit","rating":7.3,"year":2003}
+{"genre":"Drama, History","movie":"Gunpowder, Treason & Plot","rating":7.3,"year":2004}
+{"genre":"Documentary, Animation, History","movie":"Chicago 10","rating":7.4,"year":2007}
+{"genre":"Biography, Drama, History","movie":"Darkest Hour","rating":7.4,"year":2017}
+{"genre":"Documentary, History, Sci-Fi","movie":"Ancient Aliens","rating":7.4,"year":2009}
+{"genre":"Drama, History, War","movie":"O Julgamento de Nuremberg","rating":7.4,"year":2000}
+{"genre":"Biography, Drama, History","movie":"Gandhi, My Father","rating":7.4,"year":2007}
+{"genre":"Documentary, History","movie":"O Ataque das Mulheres Assassinas","rating":7.4,"year":2010}
+{"genre":"Drama, History","movie":"O Sol","rating":7.4,"year":2005}
+{"genre":"Drama, History","movie":"Deli Deli Olma","rating":7.4,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Lincoln","rating":7.4,"year":2012}
+{"genre":"Biography, Drama, History","movie":"Dias de Sadat","rating":7.4,"year":2001}
+{"genre":"Biography, Drama, History","movie":"Game Change","rating":7.4,"year":2012}
+{"genre":"Documentary, Biography, History","movie":"The Soul of a Man","rating":7.4,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Salvador (Puig Antich)","rating":7.4,"year":2006}
+{"genre":"Documentary, Biography, History","movie":"Bobby Fischer Against the World","rating":7.4,"year":2011}
+{"genre":"Drama, History","movie":"Plataforma","rating":7.4,"year":2000}
+{"genre":"Drama, Fantasy, History","movie":"Arca Russa","rating":7.4,"year":2002}
+{"genre":"Action, Drama, History","movie":"The Front Line","rating":7.4,"year":2011}
+{"genre":"Crime, Drama, History","movie":"O Dia do Atentado","rating":7.4,"year":2016}
+{"genre":"Drama, History","movie":"Firaaq","rating":7.4,"year":2008}
+{"genre":"Biography, Drama, History","movie":"Einstein and Eddington","rating":7.4,"year":2008}
+{"genre":"Documentary, History","movie":"Cave of Forgotten Dreams","rating":7.4,"year":2010}
+{"genre":"Documentary, History, Music","movie":"American Hardcore","rating":7.4,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Too Big to Fail","rating":7.4,"year":2011}
+{"genre":"Biography, Drama, History","movie":"Talk to Me","rating":7.4,"year":2007}
+{"genre":"Adventure, Drama, History","movie":"Spacewalk","rating":7.4,"year":2017}
+{"genre":"Drama, History, War","movie":"Little Boy - Além do Impossível","rating":7.4,"year":2015}
+{"genre":"Drama, History, Romance","movie":"Birdsong","rating":7.4,"year":2012}
+{"genre":"Action, Comedy, History","movie":"Hem till Midgård","rating":7.4,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Invictus","rating":7.4,"year":2009}
+{"genre":"Documentary, Crime, History","movie":"Oklahoma City","rating":7.4,"year":2017}
+{"genre":"Action, Drama, History","movie":"Warriors of the Rainbow: Seediq Bale I","rating":7.5,"year":2011}
+{"genre":"Biography, Drama, History","movie":"O Aviador","rating":7.5,"year":2004}
+{"genre":"Drama, History","movie":"Conflito das Águas","rating":7.5,"year":2010}
+{"genre":"Drama, History","movie":"Mercy Street","rating":7.5,"year":20162017}
+{"genre":"Biography, Drama, History","movie":"Selma","rating":7.5,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Good Night, and Good Luck.","rating":7.5,"year":2005}
+{"genre":"Biography, Drama, History","movie":"The Greatest Game Ever Played","rating":7.5,"year":2005}
+{"genre":"Drama, History, War","movie":"Kya Dilli Kya Lahore","rating":7.5,"year":2014}
+{"genre":"Action, Drama, History","movie":"Fortress of War","rating":7.5,"year":2010}
+{"genre":"Drama, History, War","movie":"Copenhagen","rating":7.5,"year":2002}
+{"genre":"Action, Drama, History","movie":"The Pagan King","rating":7.5,"year":2018}
+{"genre":"Drama, History","movie":"Recount","rating":7.5,"year":2008}
+{"genre":"Documentary, History","movie":"The Black Power Mixtape 1967-1975","rating":7.5,"year":2011}
+{"genre":"Comedy, Drama, History","movie":"Killing the Shadows","rating":7.5,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Amazing Grace","rating":7.5,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Desafio no Gelo","rating":7.5,"year":2004}
+{"genre":"Biography, Drama, History","movie":"Everlasting Moments","rating":7.5,"year":2008}
+{"genre":"Action, Drama, History","movie":"Once Upon a Time in High School: The Spirit of Jeet Kune Do","rating":7.5,"year":2004}
+{"genre":"Drama, History","movie":"The King and the Clown","rating":7.5,"year":2005}
+{"genre":"Drama, History, Western","movie":"O Rastreador","rating":7.5,"year":2002}
+{"genre":"Documentary, Biography, History","movie":"The Agronomist","rating":7.5,"year":2003}
+{"genre":"Drama, History","movie":"Banished","rating":7.5,"year":2015}
+{"genre":"Drama, History, Romance","movie":"Frantz","rating":7.5,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Iron Jawed Angels","rating":7.6,"year":2004}
+{"genre":"Documentary, History, Music","movie":"Festival Express","rating":7.6,"year":2003}
+{"genre":"Documentary, History, War","movie":"Last Days in Vietnam","rating":7.6,"year":2014}
+{"genre":"Documentary, Biography, History","movie":"Red Army","rating":7.6,"year":2014}
+{"genre":"Drama, History","movie":"A Culpa é do Fidel","rating":7.6,"year":2006}
+{"genre":"Action, Drama, History","movie":"Rurouni Kenshin","rating":7.6,"year":2012}
+{"genre":"Documentary, History","movie":"Guns, Germs, and Steel","rating":7.6,"year":2005}
+{"genre":"Drama, History, Thriller","movie":"United 93","rating":7.6,"year":2006}
+{"genre":"Action, Adventure, History","movie":"Sharpe's Challenge","rating":7.6,"year":2006}
+{"genre":"Documentary, History, News","movie":"How to Survive a Plague","rating":7.6,"year":2012}
+{"genre":"Drama, History, War","movie":"Enemy at the Gates","rating":7.6,"year":2001}
+{"genre":"Documentary, History, War","movie":"Os Guardiões","rating":7.6,"year":2012}
+{"genre":"Documentary, History","movie":"Tibet: Cry of the Snow Lion","rating":7.6,"year":2002}
+{"genre":"Documentary, History, War","movie":"The Weather Underground","rating":7.6,"year":2002}
+{"genre":"Adventure, Drama, History","movie":"Kincsem","rating":7.6,"year":2017}
+{"genre":"Drama, History, War","movie":"Remake","rating":7.6,"year":2003}
+{"genre":"Drama, History","movie":"O Inferno de São Judas","rating":7.6,"year":2003}
+{"genre":"Biography, Drama, History","movie":"House of Saddam","rating":7.6,"year":2008}
+{"genre":"Biography, Drama, History","movie":"Victoria & Albert","rating":7.6,"year":2001}
+{"genre":"Documentary, History, News","movie":"Best of Enemies: Buckley vs. Vidal","rating":7.6,"year":2015}
+{"genre":"Drama, History, Thriller","movie":"The Hurt Locker","rating":7.6,"year":2008}
+{"genre":"Drama, History, Thriller","movie":"Munique","rating":7.6,"year":2005}
+{"genre":"Drama, History, Romance","movie":"Flores do Oriente","rating":7.6,"year":2011}
+{"genre":"Drama, History","movie":"Sons of Liberty","rating":7.6,"year":2015}
+{"genre":"Action, Drama, History","movie":"A Batalha dos Três Reinos - Parte 2","rating":7.6,"year":2009}
+{"genre":"Biography, Drama, History","movie":"A Royal Affair","rating":7.6,"year":2012}
+{"genre":"Biography, Drama, History","movie":"The Gathering Storm","rating":7.6,"year":2002}
+{"genre":"Biography, Drama, History","movie":"The Last King","rating":7.6,"year":2003}
+{"genre":"Drama, History, Thriller","movie":"Bridge of Spies","rating":7.6,"year":2015}
+{"genre":"Drama, History","movie":"Cambridge Spies","rating":7.7,"year":2003}
+{"genre":"Documentary, History","movie":"Walking with Cavemen","rating":7.7,"year":2003}
+{"genre":"Action, Drama, History","movie":"Madras Cafe","rating":7.7,"year":2013}
+{"genre":"History, War","movie":"Fatih","rating":7.7,"year":2018}
+{"genre":"Drama, History, War","movie":"História de um Massacre","rating":7.7,"year":2007}
+{"genre":"Documentary, Biography, History","movie":"Muscle Shoals","rating":7.7,"year":2013}
+{"genre":"Drama, History, Romance","movie":"Eternal Winter","rating":7.7,"year":2018}
+{"genre":"Drama, History","movie":"Parzania","rating":7.7,"year":2005}
+{"genre":"Action, History, Thriller","movie":"The Ghazi Attack","rating":7.7,"year":2017}
+{"genre":"Biography, Drama, History","movie":"The Last King of Scotland","rating":7.7,"year":2006}
+{"genre":"Documentary, History","movie":"Mankind the Story of All of Us","rating":7.7,"year":2012}
+{"genre":"Crime, Drama, History","movie":"Zodiac","rating":7.7,"year":2007}
+{"genre":"Documentary, Crime, History","movie":"The Central Park Five","rating":7.7,"year":2012}
+{"genre":"Drama, History, War","movie":"Black Hawk Down","rating":7.7,"year":2001}
+{"genre":"Action, Drama, History","movie":"The Last Samurai","rating":7.7,"year":2003}
+{"genre":"Documentary, Biography, History","movie":"Only the Dead","rating":7.7,"year":2015}
+{"genre":"Drama, History, Romance","movie":"Remember Darling","rating":7.7,"year":2006}
+{"genre":"Drama, History, Romance","movie":"The Kennedys","rating":7.7,"year":2011}
+{"genre":"Documentary, Biography, History","movie":"Z Channel: A Magnificent Obsession","rating":7.7,"year":2004}
+{"genre":"Biography, Drama, History","movie":"Frost\/Nixon","rating":7.7,"year":2008}
+{"genre":"Documentary, Biography, History","movie":"Going Upriver: The Long War of John Kerry","rating":7.7,"year":2004}
+{"genre":"Action, Game-Show, History","movie":"Deadliest Warrior","rating":7.7,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Muhammad: The Messenger of God","rating":7.7,"year":2015}
+{"genre":"Drama, History, War","movie":"Bloody Sunday","rating":7.7,"year":2002}
+{"genre":"Drama, History, War","movie":"Hatred","rating":7.7,"year":2016}
+{"genre":"Drama, History, War","movie":"Mokhtarnameh","rating":7.7,"year":20102011}
+{"genre":"Drama, History, War","movie":"Beyond the Gates","rating":7.7,"year":2005}
+{"genre":"Biography, Drama, History","movie":"The Virgin Queen","rating":7.7,"year":2005}
+{"genre":"Drama, History, War","movie":"O Massacre de Nanquim","rating":7.7,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The Autobiography of Nicolae Ceausescu","rating":7.7,"year":2010}
+{"genre":"Drama, History","movie":"Les Misérables","rating":7.7,"year":2000}
+{"genre":"Documentary, Biography, History","movie":"The Tramp and the Dictator","rating":7.8,"year":2002}
+{"genre":"Biography, Drama, History","movie":"O Evangelho Segundo João","rating":7.8,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Hidden Figures","rating":7.8,"year":2016}
+{"genre":"Biography, History, War","movie":"Nanking","rating":7.8,"year":2007}
+{"genre":"Animation, Drama, History","movie":"Ethel & Ernest","rating":7.8,"year":2016}
+{"genre":"Drama, History, Music","movie":"Joyeux Noel","rating":7.8,"year":2005}
+{"genre":"Drama, History, Thriller","movie":"O Túnel","rating":7.8,"year":2001}
+{"genre":"Documentary, History, Sport","movie":"Deep Water","rating":7.8,"year":2006}
+{"genre":"Biography, Drama, History","movie":"61*","rating":7.8,"year":2001}
+{"genre":"Biography, Drama, History","movie":"Conspiracy","rating":7.8,"year":2001}
+{"genre":"Documentary, Drama, History","movie":"Hiroshima","rating":7.8,"year":2005}
+{"genre":"Documentary, History","movie":"Tim's Vermeer","rating":7.8,"year":2013}
+{"genre":"Documentary, History, War","movie":"The Rape of Europa","rating":7.8,"year":2006}
+{"genre":"Drama, History, Romance","movie":"The White Queen","rating":7.8,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Butterfly's Dream","rating":7.8,"year":2013}
+{"genre":"Drama, History, Mystery","movie":"The White Ribbon","rating":7.8,"year":2009}
+{"genre":"Action, Drama, History","movie":"A Espada Oculta","rating":7.8,"year":2004}
+{"genre":"Documentary, Adventure, History","movie":"The Barkley Marathons: The Race That Eats Its Young","rating":7.8,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Machuca","rating":7.8,"year":2004}
+{"genre":"Drama, History, War","movie":"Terra de Minas","rating":7.8,"year":2015}
+{"genre":"Documentary, Biography, History","movie":"We Were Here","rating":7.8,"year":2011}

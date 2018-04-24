@@ -1,0 +1,418 @@
+{"genre":"Short","movie":"No Entry","rating":3.4,"year":2003}
+{"genre":"Drama, Short","movie":"Ready","rating":4.1,"year":2002}
+{"genre":"Comedy, Short","movie":"Couch","rating":4.6,"year":2003}
+{"genre":"Documentary, Short","movie":"Fitna","rating":4.7,"year":2008}
+{"genre":"Short, Drama","movie":"God, Sex and Truth","rating":4.8,"year":2018}
+{"genre":"Animation, Short, Adventure","movie":"Olaf's Frozen Adventure","rating":5.1,"year":2017}
+{"genre":"Animation, Comedy, Short","movie":"The Man with the Smallest Penis in Existence and the Electron Microscope Technician Who Loved Him","rating":5.2,"year":2003}
+{"genre":"Short, Drama, Mystery","movie":"Far Cry 5: Inside Eden's Gate","rating":5.3,"year":2018}
+{"genre":"Short, Drama","movie":"O Beautiful","rating":5.6,"year":2002}
+{"genre":"Short, Drama, Romance","movie":"Campfire","rating":5.6,"year":2000}
+{"genre":"Documentary, Short","movie":"Jet Li Is 'The One'","rating":5.7,"year":2002}
+{"genre":"Animation, Short","movie":"Achoo","rating":5.7,"year":2018}
+{"genre":"Short, Drama, Romance","movie":"Hotel Desire","rating":5.7,"year":2011}
+{"genre":"Animation, Short, Sci-Fi","movie":"Elephants Dream","rating":5.7,"year":2006}
+{"genre":"Short","movie":"Darkened Room","rating":5.7,"year":2002}
+{"genre":"Short, Musical, Comedy","movie":"Pecan Pie","rating":5.9,"year":2003}
+{"genre":"Short, Comedy, Drama","movie":"Crush","rating":5.9,"year":2000}
+{"genre":"Animation, Short, Adventure","movie":"Ice Age: The Great Egg-Scapade","rating":5.9,"year":2016}
+{"genre":"Short, Drama","movie":"Los Bandoleros","rating":6.0,"year":2009}
+{"genre":"Short, Drama, Romance","movie":"Laranjas","rating":6.1,"year":2004}
+{"genre":"Comedy, Short","movie":"One Day...","rating":6.2,"year":2001}
+{"genre":"Short","movie":"Five Feet High and Rising","rating":6.2,"year":2000}
+{"genre":"Action, Short, Comedy","movie":"D.E.B.S.","rating":6.2,"year":2003}
+{"genre":"Short, Music, Musical","movie":"Britney Spears: Oops!...I Did It Again","rating":6.2,"year":2000}
+{"genre":"Short, Action","movie":"Predator Dark Ages","rating":6.2,"year":2015}
+{"genre":"Animation, Short, Action","movie":"Van Helsing: The London Assignment","rating":6.2,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"George and A.J.","rating":6.2,"year":2009}
+{"genre":"Short, Drama","movie":"Submission: Part I","rating":6.3,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Far Far Away Idol","rating":6.3,"year":2004}
+{"genre":"Short, Drama, Mystery","movie":"Lady Blue Shanghai","rating":6.3,"year":2010}
+{"genre":"Short, Comedy","movie":"Sounds from a Town I Love","rating":6.4,"year":2001}
+{"genre":"Short, Sci-Fi, Thriller","movie":"Whistle","rating":6.4,"year":2002}
+{"genre":"Animation, Short, Family","movie":"Peppa","rating":6.4,"year":2004}
+{"genre":"Short, Comedy","movie":"Don't Try This at Home: The Steve-O Video","rating":6.4,"year":2001}
+{"genre":"Comedy, Drama, Short","movie":"Blossoms & Blood","rating":6.4,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"Granny O'Grimm's Sleeping Beauty","rating":6.4,"year":2008}
+{"genre":"Animation, Short, Action","movie":"Megamind: The Button of Doom","rating":6.4,"year":2011}
+{"genre":"Animation, Short, Comedy","movie":"Book of Dragons","rating":6.4,"year":2011}
+{"genre":"Short, Action, Sport","movie":"Turbo Charged Prelude to 2 Fast 2 Furious","rating":6.4,"year":2003}
+{"genre":"Animation, Short, Adventure","movie":"Shrek 4-D","rating":6.4,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"DumbLand","rating":6.4,"year":2002}
+{"genre":"Short, Action","movie":"Mr. and Mrs. Smith","rating":6.4,"year":2007}
+{"genre":"Short, Comedy","movie":"Freddy vs Ghostbusters","rating":6.4,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Strange Invaders","rating":6.5,"year":2001}
+{"genre":"Animation, Short, Adventure","movie":"Ice Age: A Mammoth Christmas","rating":6.5,"year":2011}
+{"genre":"Animation, Short, Comedy","movie":"Cavalcade of Cartoon Comedy","rating":6.5,"year":20082010}
+{"genre":"Drama, Short","movie":"Dare","rating":6.5,"year":2005}
+{"genre":"Animation, Short, Comedy","movie":"Monsters vs Aliens: Mutant Pumpkins from Outer Space","rating":6.5,"year":2009}
+{"genre":"Animation, Short, Adventure","movie":"Shrek the Halls","rating":6.5,"year":2007}
+{"genre":"Short, Sci-Fi","movie":"Marvel One-Shot: The Consultant","rating":6.6,"year":2011}
+{"genre":"Animation, Short, Comedy","movie":"Clifford the Big Red Dog","rating":6.6,"year":20002003}
+{"genre":"Animation, Short, Comedy","movie":"Big Buck Bunny","rating":6.6,"year":2008}
+{"genre":"Short","movie":"Prada: Candy","rating":6.6,"year":2013}
+{"genre":"Short, Comedy","movie":"Team Darryl","rating":6.6,"year":2018}
+{"genre":"Short, Comedy, Crime","movie":"Os Novos Inquilinos","rating":6.6,"year":2009}
+{"genre":"Short, Action, Comedy","movie":"Spider-Plant Man","rating":6.6,"year":2005}
+{"genre":"Comedy, Short","movie":"Peluca","rating":6.6,"year":2003}
+{"genre":"Documentary, Short","movie":"O Mercador","rating":6.6,"year":2018}
+{"genre":"Animation, Short, Comedy","movie":"Mater and the Ghostlight","rating":6.6,"year":2006}
+{"genre":"Short, Drama, Romance","movie":"Café com Leite","rating":6.7,"year":2007}
+{"genre":"Short, Romance","movie":"Lucky Blue","rating":6.7,"year":2007}
+{"genre":"Comedy, Short","movie":"Bat Thumb","rating":6.7,"year":2001}
+{"genre":"Drama, Short","movie":"Starcrossed","rating":6.7,"year":2005}
+{"genre":"Short, Comedy","movie":"R2-D2: Beneath the Dome","rating":6.7,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"Lorenzo","rating":6.7,"year":2004}
+{"genre":"Animation, Short, Drama","movie":"Angel Sanctuary","rating":6.7,"year":2000}
+{"genre":"Short, Comedy, Drama","movie":"Doors Cut Down","rating":6.7,"year":2000}
+{"genre":"Animation, Short, Action","movie":"Tokyo Mater","rating":6.7,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Gopher Broke","rating":6.7,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Mower Minions","rating":6.7,"year":2016}
+{"genre":"Comedy, Short","movie":"The Godthumb","rating":6.8,"year":2002}
+{"genre":"Animation, Short, Adventure","movie":"Scared Shrekless","rating":6.8,"year":2010}
+{"genre":"Short, Sci-Fi","movie":"The Silent City","rating":6.8,"year":2006}
+{"genre":"Action, Sci-Fi, Short","movie":"Men in Black Alien Attack","rating":6.8,"year":2000}
+{"genre":"Short, Horror, Sci-Fi","movie":"Alien: Covenant - Prologue: Last Supper","rating":6.8,"year":2017}
+{"genre":"Short, Drama, Music","movie":"Trapped in the Closet: Chapters 1-12","rating":6.8,"year":2005}
+{"genre":"Animation, Short, Adventure","movie":"Merry Madagascar","rating":6.8,"year":2009}
+{"genre":"Short, Drama","movie":"The Long and Short of It","rating":6.8,"year":2003}
+{"genre":"Short, Action, Sci-Fi","movie":"Marvel One-Shot: Item 47","rating":6.8,"year":2012}
+{"genre":"Animation, Short, Drama","movie":"John Henry","rating":6.8,"year":2000}
+{"genre":"Documentary, Short","movie":"Heroin(e)","rating":6.9,"year":2017}
+{"genre":"Animation, Short, Action","movie":"Kung Fu Panda: Secrets of the Masters","rating":6.9,"year":2011}
+{"genre":"Short, Comedy","movie":"Cousin Ben Troop Screening with Jason Schwartzman","rating":6.9,"year":2012}
+{"genre":"Short, Sci-Fi, Thriller","movie":"The Rift","rating":6.9,"year":2012}
+{"genre":"Animation, Short, Adventure","movie":"Frozen Fever","rating":6.9,"year":2015}
+{"genre":"Short, Action, Sci-Fi","movie":"2048: Nowhere to Run","rating":6.9,"year":2017}
+{"genre":"Animation, Short, Adventure","movie":"Cosmic Scrat-tastrophe","rating":6.9,"year":2015}
+{"genre":"Animation, Short, Comedy","movie":"Kung Fu Panda Holiday","rating":6.9,"year":2010}
+{"genre":"Animation, Short, Drama","movie":"Adam and Dog","rating":6.9,"year":2012}
+{"genre":"Short, Romance","movie":"Protect Me from What I Want","rating":6.9,"year":2009}
+{"genre":"Animation, Short, Comedy","movie":"Fifty Percent Grey","rating":6.9,"year":2001}
+{"genre":"Short, Action, Adventure","movie":"The Hunt for Gollum","rating":6.9,"year":2009}
+{"genre":"Documentary, Short","movie":"Journey Into Amazing Caves","rating":6.9,"year":2001}
+{"genre":"Short","movie":"About a Girl","rating":6.9,"year":2001}
+{"genre":"Short, Comedy, Horror","movie":"The Blair Thumb","rating":6.9,"year":2002}
+{"genre":"Short, Comedy","movie":"Thumbtanic","rating":6.9,"year":2000}
+{"genre":"Short","movie":"Dream Work","rating":6.9,"year":2002}
+{"genre":"Animation, Short","movie":"This Way Up","rating":7.0,"year":2008}
+{"genre":"Action, Short","movie":"Chosen","rating":7.0,"year":2001}
+{"genre":"Action, Short","movie":"World's Finest","rating":7.0,"year":2004}
+{"genre":"Short, Horror, Romance","movie":"I Love Sarah Jane","rating":7.0,"year":2008}
+{"genre":"Animation, Short, Music","movie":"Pearl","rating":7.0,"year":2016}
+{"genre":"Animation, Short, Adventure","movie":"Puss in Boots: The Three Diablos","rating":7.0,"year":2012}
+{"genre":"Animation, Short, Biography","movie":"Dear Basketball","rating":7.0,"year":2017}
+{"genre":"Documentary, Animation, Short","movie":"Magnificent Desolation: Walking on the Moon 3D","rating":7.0,"year":2005}
+{"genre":"Short, Sci-Fi","movie":"2036: Nexus Dawn","rating":7.0,"year":2017}
+{"genre":"Short, Fantasy, Romance","movie":"The Man Without a Head","rating":7.0,"year":2003}
+{"genre":"Horror, Short","movie":"I'll See You in My Dreams","rating":7.0,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"Tripping the Rift","rating":7.0,"year":2000}
+{"genre":"Short, Sci-Fi","movie":"Panic Attack!","rating":7.0,"year":2009}
+{"genre":"Animation, Short, Comedy","movie":"Boundin'","rating":7.0,"year":2003}
+{"genre":"Animation, Short, Adventure","movie":"Scrat's Continental Crack-Up: Part 2","rating":7.0,"year":2011}
+{"genre":"Animation, Short, Action","movie":"Sanjay's Super Team","rating":7.0,"year":2015}
+{"genre":"Short, Drama","movie":"Camera","rating":7.0,"year":2000}
+{"genre":"Short, Animation","movie":"In Absentia","rating":7.0,"year":2000}
+{"genre":"Short, Drama, Family","movie":"Cirque du Soleil: Journey of Man","rating":7.0,"year":2000}
+{"genre":"Comedy, Short","movie":"This Charming Man","rating":7.0,"year":2002}
+{"genre":"Short, Drama, Fantasy","movie":"Rabbits","rating":7.0,"year":2002}
+{"genre":"Short, Horror, Sci-Fi","movie":"BlinkyTM","rating":7.0,"year":2011}
+{"genre":"Short, Comedy, Drama","movie":"Umshini Wam","rating":7.1,"year":2011}
+{"genre":"Animation, Short, Adventure","movie":"The Snowman and the Snowdog","rating":7.1,"year":2012}
+{"genre":"Short, Horror, Thriller","movie":"Tell","rating":7.1,"year":2012}
+{"genre":"Animation, Short, Comedy","movie":"Your Friend the Rat","rating":7.1,"year":2007}
+{"genre":"Animation, Short","movie":"Lavatory Lovestory","rating":7.1,"year":2007}
+{"genre":"Animation, Short, Comedy","movie":"Mike's New Car","rating":7.1,"year":2002}
+{"genre":"Animation, Short, Comedy","movie":"Love Hina Again","rating":7.1,"year":2002}
+{"genre":"Animation, Comedy, Short","movie":"A Brief History of the United States of America","rating":7.1,"year":2002}
+{"genre":"Short, Comedy, Drama","movie":"The Skywalk Is Gone","rating":7.1,"year":2002}
+{"genre":"Animation, Sci-Fi, Short","movie":"Matriculated","rating":7.1,"year":2003}
+{"genre":"Short, Horror, Thriller","movie":"Rings","rating":7.1,"year":2005}
+{"genre":"Short, Drama","movie":"Aningaaq","rating":7.1,"year":2013}
+{"genre":"Short, Action, Sci-Fi","movie":"2081","rating":7.1,"year":2009}
+{"genre":"Animation, Short","movie":"French Roast","rating":7.1,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Home Makeover","rating":7.1,"year":2010}
+{"genre":"Animation, Short, Comedy","movie":"Dug's Special Mission","rating":7.1,"year":2009}
+{"genre":"Animation, Short, Action","movie":"Tales of the Black Freighter","rating":7.1,"year":2009}
+{"genre":"Animation, Short, Comedy","movie":"Toy Story Toons: Small Fry","rating":7.1,"year":2011}
+{"genre":"Animation, Short, Family","movie":"The Gruffalo's Child","rating":7.1,"year":2011}
+{"genre":"Short, Horror","movie":"Mamá","rating":7.1,"year":2008}
+{"genre":"Animation, Short, Adventure","movie":"Legend of the Boneknapper Dragon","rating":7.1,"year":2010}
+{"genre":"Animation, Short, Comedy","movie":"Shrek in the Swamp Karaoke Dance Party","rating":7.2,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"Mr Hublot","rating":7.2,"year":2013}
+{"genre":"Short, Comedy","movie":"Castello Cavalcanti","rating":7.2,"year":2013}
+{"genre":"Action, Short","movie":"Ambush","rating":7.2,"year":2001}
+{"genre":"Short, Horror, Sci-Fi","movie":"Alien: Covenant - Prologue: The Crossing","rating":7.2,"year":2017}
+{"genre":"Animation, Short","movie":"The World of Stainboy","rating":7.2,"year":2000}
+{"genre":"Short, Fantasy, Music","movie":"Taylor Swift: Bad Blood","rating":7.2,"year":2015}
+{"genre":"Animation, Short, Comedy","movie":"A Senhora e a Morte","rating":7.2,"year":2009}
+{"genre":"Comedy, Short","movie":"The Flying Car","rating":7.2,"year":2002}
+{"genre":"Short, Action, Adventure","movie":"Under the Hood","rating":7.2,"year":2009}
+{"genre":"Animation, Short, Family","movie":"I Want a Dog for Christmas, Charlie Brown","rating":7.2,"year":2003}
+{"genre":"Short, Drama","movie":"The Phone Call","rating":7.2,"year":2013}
+{"genre":"Animation, Sci-Fi, Short","movie":"World Record","rating":7.2,"year":2003}
+{"genre":"Animation, Short, Family","movie":"Lava","rating":7.2,"year":2014}
+{"genre":"Animation, Short, Adventure","movie":"Toy Story That Time Forgot","rating":7.2,"year":2014}
+{"genre":"Short, Action, Sci-Fi","movie":"Portal: No Escape","rating":7.2,"year":2011}
+{"genre":"Animation, Short, Action","movie":"Superman\/Shazam!: The Return of Black Adam","rating":7.2,"year":2010}
+{"genre":"Short, Comedy, Thriller","movie":"405","rating":7.2,"year":2000}
+{"genre":"Short, Horror, Sci-Fi","movie":"Firebase","rating":7.2,"year":2017}
+{"genre":"Animation, Short, Action","movie":"Kung Fu Panda: Secrets of the Furious Five","rating":7.2,"year":2008}
+{"genre":"Comedy, Short","movie":"Sex and the Matrix","rating":7.2,"year":2000}
+{"genre":"Animation, Short, Comedy","movie":"Oktapodi","rating":7.3,"year":2007}
+{"genre":"Animation, Short, Action","movie":"Dragon Ball: Hey! Son Goku and Friends Return!!","rating":7.3,"year":2008}
+{"genre":"Short, Drama, Fantasy","movie":"Death of a Shadow","rating":7.3,"year":2012}
+{"genre":"Short, Drama, Family","movie":"Helium","rating":7.3,"year":2013}
+{"genre":"Animation, Short, Comedy","movie":"A Charlie Brown Valentine","rating":7.3,"year":2002}
+{"genre":"Animation, Short, Action","movie":"Program","rating":7.3,"year":2003}
+{"genre":"Musical, Short","movie":"7:35 in the Morning","rating":7.3,"year":2003}
+{"genre":"Animation, Short, Fantasy","movie":"Alma","rating":7.3,"year":2009}
+{"genre":"Animation, Short, Action","movie":"Green Arrow","rating":7.3,"year":2010}
+{"genre":"Animation, Short, Thriller","movie":"Madame Tutli-Putli","rating":7.3,"year":2007}
+{"genre":"Animation, Comedy, Short","movie":"Welcome to the Show\/Intermission in the Third Dimension\/The End of the Show","rating":7.3,"year":2003}
+{"genre":"Short, Drama, Music","movie":"Scenes from the Suburbs","rating":7.3,"year":2011}
+{"genre":"Short, Action, Adventure","movie":"Hostage","rating":7.3,"year":2002}
+{"genre":"Animation, Short, Comedy","movie":"The Meaning of Life","rating":7.3,"year":2005}
+{"genre":"Short, Music","movie":"Pedro Abrunhosa: Momento","rating":7.3,"year":2002}
+{"genre":"Animation, Short, Comedy","movie":"How to Hook Up Your Home Theater","rating":7.3,"year":2007}
+{"genre":"Animation, Short, Horror","movie":"Sebastian's Voodoo","rating":7.3,"year":2008}
+{"genre":"Documentary, Short","movie":"Extremis","rating":7.3,"year":2016}
+{"genre":"Animation, Short","movie":"The Spectre","rating":7.3,"year":2010}
+{"genre":"Short, Horror, Sci-Fi","movie":"Zygote","rating":7.3,"year":2017}
+{"genre":"Animation, Short, Comedy","movie":"The Longest Daycare","rating":7.3,"year":2012}
+{"genre":"Drama, Romance, Short","movie":"Two Cars, One Night","rating":7.3,"year":2004}
+{"genre":"Short, Drama, Romance","movie":"Hotel Chevalier","rating":7.3,"year":2007}
+{"genre":"Animation, Short, Drama","movie":"Blind Vaysha","rating":7.3,"year":2016}
+{"genre":"Short, Action, Adventure","movie":"Aquaman","rating":7.3,"year":2006}
+{"genre":"Short, Comedy, Romance","movie":"Red Nose Day Actually","rating":7.3,"year":2017}
+{"genre":"Short, Drama","movie":"Dennis","rating":7.4,"year":2007}
+{"genre":"Animation, Short, Comedy","movie":"Guard Dog","rating":7.4,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Charlie Brown's Christmas Tales","rating":7.4,"year":2002}
+{"genre":"Short, Comedy","movie":"Tropic Thunder: Rain of Madness","rating":7.4,"year":2008}
+{"genre":"Animation, Short, Drama","movie":"The Lost Thing","rating":7.4,"year":2010}
+{"genre":"Comedy, Short","movie":"Our Time Is Up","rating":7.4,"year":2004}
+{"genre":"Animation, Short, Action","movie":"Last Order: Final Fantasy VII","rating":7.4,"year":2005}
+{"genre":"Animation, Short, Horror","movie":"Rubber Johnny","rating":7.4,"year":2005}
+{"genre":"Animation, Short, Action","movie":"DC Showcase: Jonah Hex","rating":7.4,"year":2010}
+{"genre":"Short, Comedy, Musical","movie":"West Bank Story","rating":7.4,"year":2005}
+{"genre":"Short","movie":"Je t'aime John Wayne","rating":7.4,"year":2000}
+{"genre":"Short, Action, Sci-Fi","movie":"Marvel One-Shot: All Hail the King","rating":7.4,"year":2014}
+{"genre":"Animation, Short, Sci-Fi","movie":"Blade Runner: Black Out 2022","rating":7.4,"year":2017}
+{"genre":"Short, Drama, War","movie":"10 Minutes","rating":7.4,"year":2002}
+{"genre":"Animation, Short, Fantasy","movie":"Fresh Guacamole","rating":7.4,"year":2012}
+{"genre":"Animation, Short, Action","movie":"Vixen","rating":7.4,"year":2015}
+{"genre":"Animation, Short, Comedy","movie":"Toy Story Toons: Hawaiian Vacation","rating":7.4,"year":2011}
+{"genre":"Animation, Short, Sci-Fi","movie":"The Cathedral","rating":7.4,"year":2002}
+{"genre":"Animation, Short, Adventure","movie":"Fast Film","rating":7.4,"year":2003}
+{"genre":"Short, Action, Comedy","movie":"Spyz","rating":7.4,"year":2003}
+{"genre":"Documentary, Short","movie":"Long Shot","rating":7.4,"year":2017}
+{"genre":"Short, Comedy, Horror","movie":"Treevenge","rating":7.4,"year":2008}
+{"genre":"Short, Action, Sci-Fi","movie":"Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer","rating":7.4,"year":2011}
+{"genre":"Animation, Short, Drama","movie":"Vozes de uma Estrela Distante","rating":7.4,"year":2003}
+{"genre":"Short, Horror, Sci-Fi","movie":"Rakka","rating":7.4,"year":2017}
+{"genre":"Animation, Comedy, Short","movie":"Clerks: The Lost Scene","rating":7.5,"year":2004}
+{"genre":"Animation, Short, Family","movie":"The Gruffalo","rating":7.5,"year":2009}
+{"genre":"Short, Comedy","movie":"Próximo Piso","rating":7.5,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Riley's First Date?","rating":7.5,"year":2015}
+{"genre":"Animation, Short, Comedy","movie":"Room on the Broom","rating":7.5,"year":2012}
+{"genre":"Animation, Short, Drama","movie":"Zero","rating":7.5,"year":2010}
+{"genre":"Short, Comedy, Drama","movie":"Gridlock","rating":7.5,"year":2001}
+{"genre":"Animation, Short, Action","movie":"Pixels","rating":7.5,"year":2010}
+{"genre":"Animation, Sci-Fi, Short","movie":"Kid's Story","rating":7.5,"year":2003}
+{"genre":"Short, Comedy","movie":"Come Together: A Fashion Picture in Motion","rating":7.5,"year":2016}
+{"genre":"Short, Comedy, Drama","movie":"Cutlass","rating":7.5,"year":2007}
+{"genre":"Animation, Short, Comedy","movie":"Banana","rating":7.5,"year":2010}
+{"genre":"Short, Horror, Sci-Fi","movie":"Still Life","rating":7.5,"year":2005}
+{"genre":"Short, Action, Crime","movie":"Batman: Dead End","rating":7.5,"year":2003}
+{"genre":"Animation, Horror, Short","movie":"The Cat with Hands","rating":7.5,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"The Madagascar Penguins in a Christmas Caper","rating":7.5,"year":2005}
+{"genre":"Short, Sci-Fi","movie":"Alive in Joburg","rating":7.5,"year":2005}
+{"genre":"Animation, Short, Adventure","movie":"Gone Nutty","rating":7.5,"year":2002}
+{"genre":"Action, Short, Mystery","movie":"The Follow","rating":7.5,"year":2001}
+{"genre":"Action, Short, Adventure","movie":"Beat the Devil","rating":7.5,"year":2002}
+{"genre":"Sci-Fi, Short, Action","movie":"Grayson","rating":7.5,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"The Chubbchubbs!","rating":7.5,"year":2002}
+{"genre":"Comedy, Short, Romance","movie":"I'll Wait for the Next One...","rating":7.5,"year":2002}
+{"genre":"Documentary, Short","movie":"Under the Sea 3D","rating":7.6,"year":2009}
+{"genre":"Documentary, Animation, Short","movie":"Ryan","rating":7.6,"year":2004}
+{"genre":"Animation, Short, Fantasy","movie":"Sintel","rating":7.6,"year":2010}
+{"genre":"Short, Comedy, Drama","movie":"Six Shooter","rating":7.6,"year":2004}
+{"genre":"Animation, Short, Action","movie":"Assassin's Creed: Embers","rating":7.6,"year":2011}
+{"genre":"Comedy, Short","movie":"uristen@menny.hu","rating":7.6,"year":2000}
+{"genre":"Animation, Short, Comedy","movie":"Get a Horse!","rating":7.6,"year":2013}
+{"genre":"Comedy, Short","movie":"Jack Black: Spider-Man","rating":7.6,"year":2002}
+{"genre":"Short, Crime","movie":"The Bypass","rating":7.6,"year":2003}
+{"genre":"Animation, Short, Adventure","movie":"No Time for Nuts","rating":7.6,"year":2006}
+{"genre":"Animation, Short, Family","movie":"Peter & the Wolf","rating":7.6,"year":2006}
+{"genre":"Animation, Short, Adventure","movie":"Toy Story of Terror","rating":7.6,"year":2013}
+{"genre":"Drama, Short, Comedy","movie":"Copy Shop","rating":7.6,"year":2001}
+{"genre":"Short","movie":"Inside","rating":7.6,"year":2002}
+{"genre":"Short, Comedy","movie":"Mattress Man Commercial","rating":7.6,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"Toy Story Toons: Partysaurus Rex","rating":7.6,"year":2012}
+{"genre":"Animation, Short, Adventure","movie":"Dragons: Gift of the Night Fury","rating":7.6,"year":2011}
+{"genre":"Short, Comedy","movie":"Team Thor: Part 2","rating":7.6,"year":2017}
+{"genre":"Short, Action, Sci-Fi","movie":"Ghost Recon: Alpha","rating":7.6,"year":2012}
+{"genre":"Documentary, Short","movie":"Fundo do Mar 3D","rating":7.6,"year":2006}
+{"genre":"Documentary, Short, Comedy","movie":"The White Helmets","rating":7.6,"year":2016}
+{"genre":"Animation, Short, Romance","movie":"O Poeta Dinamarquês","rating":7.6,"year":2006}
+{"genre":"Short, Crime, Horror","movie":"Saw","rating":7.6,"year":2003}
+{"genre":"Animation, Short, Adventure","movie":"Jack-Jack Attack","rating":7.6,"year":2005}
+{"genre":"Documentary, Short, Adventure","movie":"Born to Be Wild","rating":7.6,"year":2011}
+{"genre":"Animation, Short, Drama","movie":"Borrowed Time","rating":7.6,"year":2015}
+{"genre":"Animation, Short, Action","movie":"Logorama","rating":7.6,"year":2009}
+{"genre":"Short, Drama","movie":"Wasp","rating":7.6,"year":2003}
+{"genre":"Documentary, Short, Comedy","movie":"Patton Oswalt: No Reason to Complain","rating":7.6,"year":2004}
+{"genre":"Short, Comedy, Mystery","movie":"Unreel: A True Hollywood Story","rating":7.6,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"Scrat's Continental Crack-Up","rating":7.6,"year":2010}
+{"genre":"Animation, Short, Comedy","movie":"Maestro","rating":7.6,"year":2005}
+{"genre":"Animation, Short, Comedy","movie":"A Matter of Loaf and Death","rating":7.6,"year":2008}
+{"genre":"Animation, Short, Adventure","movie":"Despicable Me: Minion Madness","rating":7.7,"year":2010}
+{"genre":"Comedy, Short","movie":"Lord of the Piercing","rating":7.7,"year":2002}
+{"genre":"Animation, Short, Adventure","movie":"Burn-E","rating":7.7,"year":2008}
+{"genre":"Animation, Short, Action","movie":"Tangled Ever After","rating":7.7,"year":2012}
+{"genre":"Short, Action, Drama","movie":"Spider","rating":7.7,"year":2007}
+{"genre":"Short, Comedy","movie":"Mission: Improbable","rating":7.7,"year":2000}
+{"genre":"Animation, Short, Comedy","movie":"Cat Soup","rating":7.7,"year":2001}
+{"genre":"Short","movie":"The Heart of the World","rating":7.7,"year":2000}
+{"genre":"Short, Action, Adventure","movie":"Marvel One-Shot: Agent Carter","rating":7.7,"year":2013}
+{"genre":"Short, Drama","movie":"Stutterer","rating":7.7,"year":2015}
+{"genre":"Animation, Short, Family","movie":"In a Heartbeat","rating":7.7,"year":2017}
+{"genre":"Action, Short","movie":"Powder Keg","rating":7.7,"year":2001}
+{"genre":"Animation, Short, Action","movie":"Digimon Adventure: Our War Game!","rating":7.7,"year":2000}
+{"genre":"Short, Crime, Music","movie":"Lady Gaga Feat. Beyoncé: Telephone","rating":7.7,"year":2010}
+{"genre":"Short, Comedy, Fantasy","movie":"God of Love","rating":7.7,"year":2010}
+{"genre":"Animation, Short, Adventure","movie":"A História de Um Urso","rating":7.7,"year":2014}
+{"genre":"Short, Comedy, Drama","movie":"Cashback","rating":7.7,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Rocks","rating":7.7,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"Wallace & Gromit's Cracking Contraptions","rating":7.7,"year":2002}
+{"genre":"Short, Action, Sci-Fi","movie":"Power Rangers","rating":7.8,"year":2015}
+{"genre":"Animation, Short, Adventure","movie":"The Mysterious Geographic Explorations of Jasper Morello","rating":7.8,"year":2005}
+{"genre":"Short, Drama, Music","movie":"Whiplash","rating":7.8,"year":2013}
+{"genre":"Short, Music","movie":"Runaway","rating":7.8,"year":2010}
+{"genre":"Comedy, Short","movie":"The Accountant","rating":7.8,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"One Man Band","rating":7.8,"year":2005}
+{"genre":"Action, Short, Comedy","movie":"Star","rating":7.8,"year":2001}
+{"genre":"Short, Action, Comedy","movie":"The Official Rare Exports Inc. Safety Instructions 2005","rating":7.8,"year":2005}
+{"genre":"Animation, Short, Drama","movie":"Adagio","rating":7.8,"year":2000}
+{"genre":"Animation, Short, Adventure","movie":"Inner Workings","rating":7.8,"year":2016}
+{"genre":"Short, Drama, Family","movie":"Inseparable","rating":7.8,"year":2007}
+{"genre":"Short, Romance, War","movie":"Hua yang de nian hua","rating":7.8,"year":2000}
+{"genre":"Animation, Short, Comedy","movie":"Ward 13","rating":7.8,"year":2003}
+{"genre":"Short, Comedy, Horror","movie":"The Horribly Slow Murderer with the Extremely Inefficient Weapon","rating":7.8,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Prep & Landing","rating":7.8,"year":2009}
+{"genre":"Short, Drama, War","movie":"Toyland","rating":7.8,"year":2007}
+{"genre":"Short, Drama","movie":"The Last Farm","rating":7.8,"year":2004}
+{"genre":"Comedy, Animation, Short","movie":"Fallen Art","rating":7.8,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"Monty Python & the Holy Grail in Lego","rating":7.8,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"Robot Chicken: DC Comics Special","rating":7.9,"year":2012}
+{"genre":"Documentary, Short","movie":"13 Reasons Why: Beyond the Reasons","rating":7.9,"year":2017}
+{"genre":"Documentary, Short","movie":"The X-Files: Re-Opened","rating":7.9,"year":2015}
+{"genre":"Short, Drama, Romance","movie":"I'm Here","rating":7.9,"year":2010}
+{"genre":"Animation, Short, Family","movie":"The Maker","rating":7.9,"year":2011}
+{"genre":"Short, Drama","movie":"Curfew","rating":7.9,"year":2012}
+{"genre":"Short, Action, Drama","movie":"Marco Polo: One Hundred Eyes","rating":7.9,"year":2015}
+{"genre":"Animation, Short, Drama","movie":"Father and Daughter","rating":7.9,"year":2000}
+{"genre":"Short, Action, Comedy","movie":"Forklift Driver Klaus: The First Day on the Job","rating":7.9,"year":2000}
+{"genre":"Documentary, Short, Biography","movie":"I Knew It Was You: Rediscovering John Cazale","rating":7.9,"year":2009}
+{"genre":"Short, Music","movie":"Lady Gaga: Paparazzi","rating":7.9,"year":2009}
+{"genre":"Short, Comedy, Fantasy","movie":"Spin","rating":7.9,"year":2005}
+{"genre":"Animation, Short, Comedy","movie":"Lifted","rating":7.9,"year":2006}
+{"genre":"Short, Comedy, Music","movie":"Music for One Apartment and Six Drummers","rating":7.9,"year":2001}
+{"genre":"Animation, Short, Drama","movie":"The Little Matchgirl","rating":7.9,"year":2006}
+{"genre":"Animation, Short, Comedy","movie":"Lou","rating":7.9,"year":2017}
+{"genre":"Animation, Short","movie":"Destino","rating":7.9,"year":2003}
+{"genre":"Short, Comedy, Crime","movie":"Michael Jackson: You Rock My World","rating":8.0,"year":2001}
+{"genre":"Comedy, Short","movie":"In God We Trust","rating":8.0,"year":2000}
+{"genre":"Short, Action, Comedy","movie":"Rare Exports Inc.","rating":8.0,"year":2003}
+{"genre":"Animation, Short, Family","movie":"La Luna","rating":8.0,"year":2011}
+{"genre":"Short, Drama","movie":"Most","rating":8.0,"year":2003}
+{"genre":"Animation, Sci-Fi, Short","movie":"The Second Renaissance Part II","rating":8.0,"year":2003}
+{"genre":"Animation, Short, Adventure","movie":"The Fantastic Flying Books of Mr. Morris Lessmore","rating":8.0,"year":2011}
+{"genre":"Short, Drama","movie":"The Butterfly Circus","rating":8.0,"year":2009}
+{"genre":"Documentary, Short","movie":"Chernobyl Heart","rating":8.0,"year":2003}
+{"genre":"Short, Drama, Thriller","movie":"The Piano Tuner","rating":8.0,"year":2010}
+{"genre":"Animation, Short, Drama","movie":"The Dam Keeper","rating":8.0,"year":2014}
+{"genre":"Animation, Short, Action","movie":"The Amazing Screw-On Head","rating":8.0,"year":2006}
+{"genre":"Short, Action, Comedy","movie":"Kung Fury","rating":8.0,"year":2015}
+{"genre":"Short, Drama, Fantasy","movie":"Room 8","rating":8.0,"year":2013}
+{"genre":"Short","movie":"Six Days","rating":8.0,"year":2002}
+{"genre":"Short, Drama","movie":"Decrepit Crescendo","rating":8.0,"year":2010}
+{"genre":"Animation, Comedy, Short","movie":"Harvie Krumpet","rating":8.0,"year":2003}
+{"genre":"Short, Action, Drama","movie":"Arrow: Blood Rush","rating":8.0,"year":2013}
+{"genre":"Short","movie":"The Key to Reserva","rating":8.0,"year":2007}
+{"genre":"Short, Crime, Drama","movie":"Indochine: College Boy","rating":8.0,"year":2013}
+{"genre":"Short, Drama","movie":"The Circle","rating":8.1,"year":2018}
+{"genre":"Animation, Short, Comedy","movie":"Don't Hug Me I'm Scared","rating":8.1,"year":2011}
+{"genre":"Short, Comedy, Western","movie":"The Gunfighter","rating":8.1,"year":2014}
+{"genre":"Animation, Short, Comedy","movie":"Everything Will Be Ok","rating":8.1,"year":2006}
+{"genre":"Short, Comedy, Music","movie":"Beastie Boys: Fight for Your Right Revisited","rating":8.1,"year":2011}
+{"genre":"Comedy, Short","movie":"The Parlor","rating":8.1,"year":2001}
+{"genre":"Short, Romance","movie":"True","rating":8.1,"year":2004}
+{"genre":"Animation, Short, Comedy","movie":"O Emprego","rating":8.1,"year":2008}
+{"genre":"Short, Drama, Horror","movie":"The Walking Dead: Webisodes","rating":8.1,"year":20112013}
+{"genre":"Animation, Short, Comedy","movie":"For the Birds","rating":8.1,"year":2000}
+{"genre":"Animation, Short, Drama","movie":"The Second Renaissance Part I","rating":8.1,"year":2003}
+{"genre":"Animation, Short, Comedy","movie":"Rejected","rating":8.1,"year":2000}
+{"genre":"Short, Adventure","movie":"Harry Potter and the Forbidden Journey","rating":8.1,"year":2010}
+{"genre":"Short, Comedy, Fantasy","movie":"Team Thor","rating":8.1,"year":2016}
+{"genre":"Animation, Short, Comedy","movie":"Day & Night","rating":8.1,"year":2010}
+{"genre":"Short, Comedy","movie":"The Landlord","rating":8.1,"year":2007}
+{"genre":"Comedy, Short","movie":"Terry Tate, Office Linebacker","rating":8.1,"year":2002}
+{"genre":"Animation, Short, Comedy","movie":"Mei and the Kitten Bus","rating":8.1,"year":2002}
+{"genre":"Documentary, Short, Drama","movie":"The Referee","rating":8.1,"year":2010}
+{"genre":"Short, Comedy, History","movie":"Drunk History","rating":8.1,"year":20072011}
+{"genre":"Animation, Short, Drama","movie":"Meu Amor","rating":8.1,"year":2006}
+{"genre":"Short, Drama, Music","movie":"Sing","rating":8.1,"year":2016}
+{"genre":"Short, Drama, History","movie":"Shok","rating":8.2,"year":2015}
+{"genre":"Short, Comedy, Horror","movie":"Doom House","rating":8.2,"year":2005}
+{"genre":"Animation, Short, Comedy","movie":"Robot Chicken: Star Wars","rating":8.2,"year":2007}
+{"genre":"Short","movie":"Lost - Epilogue: The New Man in Charge","rating":8.2,"year":2010}
+{"genre":"Short, Comedy, Romance","movie":"Validation","rating":8.2,"year":2007}
+{"genre":"Animation, Short, Drama","movie":"Skhizein","rating":8.2,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Robot Chicken: Star Wars Episode II","rating":8.2,"year":2008}
+{"genre":"Short, Action, Crime","movie":"The Punisher: Dirty Laundry","rating":8.2,"year":2012}
+{"genre":"Animation, Short, Comedy","movie":"I Am So Proud of You","rating":8.2,"year":2008}
+{"genre":"Short, Comedy, Sci-Fi","movie":"Deadpool: No Good Deed","rating":8.2,"year":2017}
+{"genre":"Animation, Short, Comedy","movie":"World of Tomorrow","rating":8.2,"year":2015}
+{"genre":"Short, Crime, Drama","movie":"Eminem: Stan","rating":8.2,"year":2000}
+{"genre":"Animation, Short, Action","movie":"Kiwi!","rating":8.2,"year":2006}
+{"genre":"Animation, Short, Comedy","movie":"Partly Cloudy","rating":8.2,"year":2009}
+{"genre":"Short","movie":"The Day We Disappear","rating":8.3,"year":2001}
+{"genre":"Animation, Short, Comedy","movie":"Shaun the Sheep","rating":8.3,"year":2007}
+{"genre":"Short, Comedy","movie":"The Guild","rating":8.3,"year":20072013}
+{"genre":"Animation, Short, Comedy","movie":"Paperman","rating":8.3,"year":2012}
+{"genre":"Animation, Short, Drama","movie":"The House of Small Cubes","rating":8.3,"year":2008}
+{"genre":"Short, Comedy, Fantasy","movie":"Carmilla","rating":8.3,"year":20142016}
+{"genre":"Short","movie":"Friends: The Stuff You've Never Seen","rating":8.3,"year":2001}
+{"genre":"Short, Comedy","movie":"Tourism Australia: Dundee - The Son of a Legend Returns Home","rating":8.3,"year":2018}
+{"genre":"Short, Drama, Romance","movie":"Eu Não Quero Voltar Sozinho","rating":8.3,"year":2010}
+{"genre":"Short, Comedy, History","movie":"Epic Rap Battles of History","rating":8.3,"year":2010}
+{"genre":"Animation, Short, Family","movie":"Piper","rating":8.4,"year":2016}
+{"genre":"Short, Comedy, Talk-Show","movie":"Game Grumps","rating":8.4,"year":2012}
+{"genre":"Short, Action, Adventure","movie":"Batman: The Dark Knight","rating":8.4,"year":2008}
+{"genre":"Animation, Short, Comedy","movie":"Presto","rating":8.4,"year":2008}
+{"genre":"Animation, Fantasy, Short","movie":"Mickey's PhilharMagic","rating":8.4,"year":2003}
+{"genre":"Short, Drama, Thriller","movie":"The Defector","rating":8.5,"year":2018}
+{"genre":"Short, Comedy, Horror","movie":"Too Many Cooks","rating":8.5,"year":2014}
+{"genre":"Animation, Short, Action","movie":"Hunter x Hunter: Greed Island","rating":8.6,"year":2003}
+{"genre":"Short, Music, Musical","movie":"Sia: Elastic Heart","rating":8.6,"year":2015}
+{"genre":"Animation, Short, Drama","movie":"It's Such a Beautiful Day","rating":8.6,"year":2011}
+{"genre":"Short","movie":"Angel of Anywhere","rating":8.6,"year":2018}
+{"genre":"Short, Comedy, Crime","movie":"Bad Hero","rating":8.7,"year":2010}
+{"genre":"Short, Crime, Mystery","movie":"Buoyancy","rating":8.7,"year":2018}
+{"genre":"Animation, Short, Action","movie":"Korgoth of Barbaria","rating":8.7,"year":2006}
+{"genre":"Short, Fantasy, Music","movie":"Fatboy Slim: Weapon of Choice","rating":8.7,"year":2001}
+{"genre":"Short, Music","movie":"Welcome Home","rating":8.7,"year":2018}
+{"genre":"Documentary, Short","movie":"The Making of Dr. Horrible's Sing-Along Blog","rating":8.8,"year":2008}
+{"genre":"Animation, Short, Music","movie":"Magma 03","rating":8.9,"year":2011}
+{"genre":"Short, Action, Fantasy","movie":"Superhero Fight Club","rating":8.9,"year":2015}
+{"genre":"Documentary, Short","movie":"Sabrina's Bollywood","rating":9.1,"year":2002}
+{"genre":"Short, Music","movie":"MeTheForce","rating":9.1,"year":2018}
+{"genre":"Short, Music, News","movie":"Les Journées pas si classiques que ça","rating":9.2,"year":2009}
+{"genre":"Documentary, Short","movie":"Bollywood for Beginners","rating":9.3,"year":2002}
+{"genre":"Animation, Short, Action","movie":"Peaux d'Vaches","rating":9.4,"year":2010}
+{"genre":"Documentary, Short, Comedy","movie":"Human Cake","rating":9.5,"year":2016}
+{"genre":"Short, Action","movie":"Stop-and-Cop Interactive","rating":9.6,"year":2009}
+{"genre":"Short, Adventure","movie":"Le Morbite","rating":9.6,"year":2010}
+{"genre":"Short, Action","movie":"Stop-and-Cop","rating":9.6,"year":2009}
+{"genre":"Short, Comedy, Fantasy","movie":"The Filthy Frank Show","rating":9.8,"year":20112017}

@@ -1,0 +1,500 @@
+{"genre":"Drama, Thriller","movie":"Smolensk","rating":1.3,"year":2016}
+{"genre":"Drama","movie":"For Better or Worse","rating":1.4,"year":2005}
+{"genre":"Drama","movie":"Hunting of Man","rating":1.4,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Kyunki... Saas Bhi Kabhi Bahu Thi...","rating":1.6,"year":2000}
+{"genre":"Crime, Drama, Thriller","movie":"B.T.K. Killer","rating":1.6,"year":2005}
+{"genre":"Biography, Drama","movie":"Reis","rating":1.8,"year":2017}
+{"genre":"Comedy, Drama","movie":"From Vegas to Macau III","rating":2.0,"year":2016}
+{"genre":"Drama, History, Sport","movie":"United Passions","rating":2.1,"year":2014}
+{"genre":"Drama, Thriller","movie":"Sweetie Pie","rating":2.1,"year":2002}
+{"genre":"Action, Adventure, Drama","movie":"The Legend of Drona","rating":2.1,"year":2008}
+{"genre":"Action, Drama, Romance","movie":"Gunday","rating":2.1,"year":2014}
+{"genre":"Drama","movie":"Anne B. Real","rating":2.1,"year":2003}
+{"genre":"Drama, Romance, Thriller","movie":"Joy: The Real Love Story","rating":2.2,"year":2007}
+{"genre":"Drama, Music, Romance","movie":"Glitter","rating":2.2,"year":2001}
+{"genre":"Action, Adventure, Drama","movie":"200 M.P.H.","rating":2.2,"year":2011}
+{"genre":"Drama, Romance, Thriller","movie":"Ben & Arthur","rating":2.2,"year":2002}
+{"genre":"Action, Drama, Western","movie":"Gang of Roses","rating":2.3,"year":2003}
+{"genre":"Drama","movie":"Bending All the Rules","rating":2.4,"year":2002}
+{"genre":"Action, Drama, Horror","movie":"Scarecrow Slayer","rating":2.4,"year":2003}
+{"genre":"Action, Adventure, Drama","movie":"Seven Mummies","rating":2.4,"year":2006}
+{"genre":"Action, Drama","movie":"The Alternate","rating":2.4,"year":2000}
+{"genre":"Drama, History","movie":"Beginning of the Great Revival","rating":2.5,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Guilty by Association","rating":2.5,"year":2003}
+{"genre":"Drama, Romance","movie":"Addiction - When Nothing Is Enough","rating":2.6,"year":2004}
+{"genre":"Crime, Drama","movie":"The Hillz","rating":2.6,"year":2004}
+{"genre":"Comedy, Drama","movie":"Hooking Up","rating":2.6,"year":2009}
+{"genre":"Action, Comedy, Drama","movie":"Deportees 2","rating":2.6,"year":2009}
+{"genre":"Drama, Musical","movie":"Battlefield America","rating":2.6,"year":2012}
+{"genre":"Action, Adventure, Drama","movie":"Love Story 2050","rating":2.6,"year":2008}
+{"genre":"Drama, Horror, Thriller","movie":"The Captives","rating":2.7,"year":2001}
+{"genre":"Adventure, Biography, Drama","movie":"The Gaul","rating":2.7,"year":2001}
+{"genre":"Action, Drama, Thriller","movie":"Never Surrender","rating":2.7,"year":2009}
+{"genre":"Drama, Horror, Adventure","movie":"Shark Zone","rating":2.7,"year":2003}
+{"genre":"Comedy, Crime, Drama","movie":"In the Mix","rating":2.7,"year":2005}
+{"genre":"Drama, Romance","movie":"Yaariyan","rating":2.7,"year":2014}
+{"genre":"Drama","movie":"Three Suns","rating":2.8,"year":2004}
+{"genre":"Sci-Fi, Action, Drama","movie":"The War of the Worlds","rating":2.8,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Death Valley: The Revenge of Bloody Bill","rating":2.8,"year":2004}
+{"genre":"Drama, Music","movie":"Feel the Noise","rating":2.8,"year":2007}
+{"genre":"Biography, Drama, Music","movie":"Time You Change","rating":2.8,"year":2010}
+{"genre":"Action, Adventure, Drama","movie":"Killer Bees","rating":2.8,"year":2002}
+{"genre":"Drama, Reality-TV","movie":"Keeping Up with the Kardashians","rating":2.8,"year":2007}
+{"genre":"Drama, Mystery, Thriller","movie":"Fuga na Escuridão","rating":2.8,"year":2001}
+{"genre":"Action, Adventure, Drama","movie":"Thor: Hammer of the Gods","rating":2.9,"year":2009}
+{"genre":"Adventure, Drama, Fantasy","movie":"Cyclops","rating":2.9,"year":2008}
+{"genre":"Comedy, Drama, Horror","movie":"Hisss","rating":2.9,"year":2010}
+{"genre":"Drama, Horror, Mystery","movie":"The Cavern","rating":2.9,"year":2005}
+{"genre":"Drama, Thriller","movie":"Jism 2","rating":3.0,"year":2012}
+{"genre":"Drama, Romance","movie":"Tiny Times 1.0","rating":3.0,"year":2013}
+{"genre":"Drama, Horror, Thriller","movie":"Bloody Murder","rating":3.0,"year":2000}
+{"genre":"Crime, Horror, Drama","movie":"Campfire Stories","rating":3.0,"year":2001}
+{"genre":"Drama","movie":"Diary of a Sex Addict","rating":3.0,"year":2001}
+{"genre":"Drama, Romance, Thriller","movie":"The Last Sign","rating":3.1,"year":2005}
+{"genre":"Action, Thriller, Drama","movie":"Road Rage","rating":3.1,"year":2000}
+{"genre":"Drama, Romance","movie":"Sanam Re","rating":3.1,"year":2016}
+{"genre":"Drama, Action, Adventure","movie":"Amazons and Gladiators","rating":3.1,"year":2001}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind","rating":3.1,"year":2014}
+{"genre":"Action, Drama, Horror","movie":"Moscow Zero","rating":3.1,"year":2006}
+{"genre":"Action, Drama, Romance","movie":"Aap Mujhe Achche Lagne Lage","rating":3.1,"year":2002}
+{"genre":"Drama, Horror, Mystery","movie":"#Horror","rating":3.1,"year":2015}
+{"genre":"Comedy, Drama, Family","movie":"The Honeymooners","rating":3.1,"year":2005}
+{"genre":"Drama, Musical, Romance","movie":"Dirty Dancing","rating":3.2,"year":2017}
+{"genre":"Action, Drama, History","movie":"American Soldiers","rating":3.2,"year":2005}
+{"genre":"Drama, Action, Thriller","movie":"Ablaze","rating":3.2,"year":2001}
+{"genre":"Drama, Fantasy, Romance","movie":"A Bela e a Fera","rating":3.2,"year":2009}
+{"genre":"Drama, Reality-TV","movie":"Kourtney & Kim Take New York","rating":3.3,"year":2011}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"20 Years After","rating":3.3,"year":2008}
+{"genre":"Drama, Romance, Sport","movie":"Gol! III: Assumindo o Mundial","rating":3.3,"year":2009}
+{"genre":"Comedy, Drama","movie":"Mais que o Máximo","rating":3.3,"year":2009}
+{"genre":"Action, Drama, War","movie":"Sniper: Special Ops","rating":3.3,"year":2016}
+{"genre":"Drama","movie":"Como Ela Dança","rating":3.3,"year":2007}
+{"genre":"Action, Drama, Mystery","movie":"Roy","rating":3.3,"year":2015}
+{"genre":"Comedy, Drama, Music","movie":"Morangos com Açúcar","rating":3.3,"year":2003}
+{"genre":"Action, Comedy, Drama","movie":"Fool N Final","rating":3.3,"year":2007}
+{"genre":"Action, Drama, Musical","movie":"Munna Michael","rating":3.4,"year":2017}
+{"genre":"Action, Comedy, Drama","movie":"Villu","rating":3.4,"year":2009}
+{"genre":"Comedy, Drama, Romance","movie":"Crossroads","rating":3.4,"year":2002}
+{"genre":"Action, Drama","movie":"Maa Tujhhe Salaam","rating":3.4,"year":2002}
+{"genre":"Action, Adventure, Drama","movie":"Hirokin: The Last Samurai","rating":3.4,"year":2012}
+{"genre":"Crime, Drama, Thriller","movie":"Hate Story IV","rating":3.4,"year":2018}
+{"genre":"Comedy, Drama, Family","movie":"House of Payne","rating":3.4,"year":2006}
+{"genre":"Action, Comedy, Drama","movie":"ReBoot: The Guardian Code","rating":3.4,"year":2018}
+{"genre":"Drama, Romance","movie":"Hello","rating":3.4,"year":2008}
+{"genre":"Drama, Reality-TV, Romance","movie":"Khloé & Lamar","rating":3.4,"year":2011}
+{"genre":"Action, Drama","movie":"Desafio Final","rating":3.4,"year":2004}
+{"genre":"Drama, Thriller","movie":"Bound","rating":3.5,"year":2015}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Absolute Zero","rating":3.5,"year":2006}
+{"genre":"Comedy, Drama, Reality-TV","movie":"Jersey Shore","rating":3.5,"year":20092012}
+{"genre":"Crime, Drama, Sport","movie":"Snowboarder","rating":3.5,"year":2003}
+{"genre":"Drama, Horror","movie":"Camp Hell","rating":3.5,"year":2010}
+{"genre":"Comedy, Crime, Drama","movie":"Rancid Aluminum","rating":3.5,"year":2000}
+{"genre":"Action, Comedy, Drama","movie":"Homo Erectus","rating":3.5,"year":2007}
+{"genre":"Action, Drama, Horror","movie":"Shark Swarm","rating":3.5,"year":2008}
+{"genre":"Action, Drama, Sci-Fi","movie":"O Último Comando","rating":3.6,"year":2000}
+{"genre":"Drama, Reality-TV","movie":"The Hills","rating":3.6,"year":20062010}
+{"genre":"Drama","movie":"The Room","rating":3.6,"year":2003}
+{"genre":"Action, Drama, Sci-Fi","movie":"Earthstorm","rating":3.6,"year":2006}
+{"genre":"Action, Drama, Romance","movie":"Hero","rating":3.6,"year":2015}
+{"genre":"Drama, Music","movie":"You Got Served","rating":3.6,"year":2004}
+{"genre":"Action, Drama, Fantasy","movie":"Dragon Wars: D-War","rating":3.6,"year":2007}
+{"genre":"Action, Drama, Sci-Fi","movie":"Máscara Negra 2","rating":3.6,"year":2002}
+{"genre":"Drama","movie":" Chicago Med","rating":3.6,"year":2015}
+{"genre":"Action, Drama, Thriller","movie":"Assassin's Bullet","rating":3.6,"year":2012}
+{"genre":"Comedy, Drama, Fantasy","movie":"God Tussi Great Ho","rating":3.6,"year":2008}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Pulse 2: Afterlife","rating":3.6,"year":2008}
+{"genre":"Drama, Horror, Mystery","movie":"Taboo","rating":3.6,"year":2002}
+{"genre":"Drama","movie":"Riding the Bus with My Sister","rating":3.6,"year":2005}
+{"genre":"Drama, Romance","movie":"Albela","rating":3.6,"year":2001}
+{"genre":"Adventure, Drama, Horror","movie":"Temple","rating":3.6,"year":2017}
+{"genre":"Thriller, Drama, Mystery","movie":"Na Sombra de um Assassino","rating":3.6,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Beast of Burden","rating":3.6,"year":2018}
+{"genre":"Romance, Drama","movie":"Afsana Dilwalon Ka","rating":3.6,"year":2001}
+{"genre":"Comedy, Drama, Romance","movie":"Main Aurr Mrs Khanna","rating":3.7,"year":2009}
+{"genre":"Adventure, Animation, Drama","movie":"Stargate: Infinity","rating":3.7,"year":20022003}
+{"genre":"Crime, Drama, Horror","movie":"Ed Gein: The Butcher of Plainfield","rating":3.7,"year":2007}
+{"genre":"Action, Adventure, Drama","movie":"Scorcher","rating":3.7,"year":2002}
+{"genre":"Comedy, Drama, Fantasy","movie":"Great Grand Masti","rating":3.7,"year":2016}
+{"genre":"Drama","movie":"All In","rating":3.7,"year":2006}
+{"genre":"Crime, Drama","movie":"First We Take Brooklyn","rating":3.7,"year":2018}
+{"genre":"Drama","movie":"Cyber Seduction: His Secret Life","rating":3.7,"year":2005}
+{"genre":"Drama","movie":"Perfume","rating":3.7,"year":2001}
+{"genre":"Comedy, Drama, Romance","movie":"Shaandaar","rating":3.7,"year":2015}
+{"genre":"Drama","movie":"Rich Kids","rating":3.7,"year":2007}
+{"genre":"Drama","movie":"God's Not Dead: A Light in Darkness","rating":3.7,"year":2018}
+{"genre":"Adventure, Drama, History","movie":"Nemanjici-radjanje kraljevine","rating":3.7,"year":2018}
+{"genre":"Drama, Thriller","movie":"The Letter","rating":3.7,"year":2012}
+{"genre":"Comedy, Drama","movie":"Rus gelin","rating":3.7,"year":2003}
+{"genre":"Drama","movie":"Cymbeline","rating":3.8,"year":2014}
+{"genre":"Action, Adventure, Drama","movie":"Merlin and the War of the Dragons","rating":3.8,"year":2008}
+{"genre":"Comedy, Drama, Romance","movie":"Befikre","rating":3.8,"year":2016}
+{"genre":"Drama","movie":"Balans ve manevra","rating":3.8,"year":2005}
+{"genre":"Adventure, Drama, Horror","movie":"Spring Break Shark Attack","rating":3.8,"year":2005}
+{"genre":"Comedy, Drama","movie":"Sex, Party and Lies","rating":3.8,"year":2009}
+{"genre":"Adventure, Comedy, Drama","movie":"Thomas and the Magic Railroad","rating":3.8,"year":2000}
+{"genre":"Action, Comedy, Drama","movie":"Kuruvi","rating":3.8,"year":2008}
+{"genre":"Comedy, Drama","movie":"American Crude","rating":3.8,"year":2008}
+{"genre":"Comedy, Crime, Drama","movie":"Double Dhamaal","rating":3.8,"year":2011}
+{"genre":"Drama, Romance","movie":"Dhaai Akshar Prem Ke","rating":3.8,"year":2000}
+{"genre":"Drama","movie":"Ask Sana Benzer","rating":3.8,"year":2015}
+{"genre":"Adventure, Comedy, Drama","movie":"Beverly Hills Chihuahua","rating":3.8,"year":2008}
+{"genre":"Drama, Romance","movie":"Love & Distrust","rating":3.8,"year":2010}
+{"genre":"Drama, Romance","movie":"Jhoom Barabar Jhoom","rating":3.8,"year":2007}
+{"genre":"Drama, Horror, Mystery","movie":"The Faith of Anna Waters","rating":3.8,"year":2016}
+{"genre":"Drama, Horror, Mystery","movie":"Soul Survivors","rating":3.9,"year":2001}
+{"genre":"Drama, Reality-TV","movie":"The Real Housewives of New Jersey","rating":3.9,"year":2009}
+{"genre":"Drama, Horror, Thriller","movie":"The Disappointments Room","rating":3.9,"year":2016}
+{"genre":"Action, Drama, Horror","movie":"Venomous","rating":3.9,"year":2001}
+{"genre":"Drama, Thriller","movie":"Baltic Storm","rating":3.9,"year":2003}
+{"genre":"Action, Drama, Thriller","movie":"Betrayal","rating":3.9,"year":2003}
+{"genre":"Comedy, Crime, Drama","movie":"Little Fish, Strange Pond","rating":3.9,"year":2009}
+{"genre":"Drama, Thriller","movie":"Jill Rips","rating":3.9,"year":2000}
+{"genre":"Drama, Horror","movie":"The Wicker Tree","rating":3.9,"year":2011}
+{"genre":"Action, Drama, Sci-Fi","movie":"Six: The Mark Unleashed","rating":3.9,"year":2004}
+{"genre":"Drama, Horror, Mystery","movie":"Phoonk","rating":3.9,"year":2008}
+{"genre":"Drama, Horror, Thriller","movie":"The Haunting of Molly Hartley","rating":3.9,"year":2008}
+{"genre":"Action, Crime, Drama","movie":"Tezz","rating":3.9,"year":2012}
+{"genre":"Drama, Thriller","movie":"The Canyons","rating":3.9,"year":2013}
+{"genre":"Action, Crime, Drama","movie":"Black Rose","rating":3.9,"year":2014}
+{"genre":"Action, Drama, Romance","movie":"Tashan","rating":3.9,"year":2008}
+{"genre":"Action, Drama, Sci-Fi","movie":"Atomic Twister","rating":3.9,"year":2002}
+{"genre":"Action, Drama","movie":"Icebreaker","rating":3.9,"year":2000}
+{"genre":"Drama, History, War","movie":"Het Bombardement","rating":3.9,"year":2012}
+{"genre":"Drama, Horror, Thriller","movie":"O Último Exorcismo - Parte 2","rating":4.0,"year":2013}
+{"genre":"Action, Comedy, Drama","movie":"Raabta","rating":4.0,"year":2017}
+{"genre":"Drama, Romance","movie":"Yeh Raaste Hain Pyaar Ke","rating":4.0,"year":2001}
+{"genre":"Action, Adventure, Drama","movie":"Code Red","rating":4.0,"year":2001}
+{"genre":"Drama, Talk-Show","movie":"Dr. Phil","rating":4.0,"year":2002}
+{"genre":"Comedy, Drama, History","movie":"Vezir Parmagi","rating":4.0,"year":2017}
+{"genre":"Comedy, Drama, Musical","movie":"Main Prem Ki Diwani Hoon","rating":4.0,"year":2003}
+{"genre":"Action, Drama, Music","movie":"Days of Power","rating":4.0,"year":2018}
+{"genre":"Drama, Sci-Fi","movie":"Contagion","rating":4.0,"year":2002}
+{"genre":"Drama","movie":"Festival","rating":4.0,"year":2001}
+{"genre":"Comedy, Drama, Musical","movie":"S Club Seeing Double","rating":4.0,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"Caçada Explosiva","rating":4.0,"year":2008}
+{"genre":"Action, Crime, Drama","movie":"Out of Reach","rating":4.0,"year":2004}
+{"genre":"Drama, Horror, Thriller","movie":"Maldição: Reze para Não Vê-La","rating":4.0,"year":2005}
+{"genre":"Drama, Thriller","movie":"Single White Female 2: The Psycho","rating":4.1,"year":2005}
+{"genre":"Adventure, Drama, Fantasy","movie":"Jem and the Holograms","rating":4.1,"year":2015}
+{"genre":"Drama, Fantasy, Horror","movie":"A Sereia Assassina","rating":4.1,"year":2014}
+{"genre":"Crime, Drama, Mystery","movie":"Dead Sexy","rating":4.1,"year":2001}
+{"genre":"Drama, Romance, Thriller","movie":"Fifty Shades of Grey","rating":4.1,"year":2015}
+{"genre":"Action, Drama, Romance","movie":"Pudhiya Geethai","rating":4.1,"year":2003}
+{"genre":"Drama, Horror, Thriller","movie":"Open Water 3: Cage Dive","rating":4.1,"year":2017}
+{"genre":"Drama, Musical, Romance","movie":"Pyaar Ishq Aur Mohabbat","rating":4.1,"year":2001}
+{"genre":"Drama, Romance","movie":"Half Girlfriend","rating":4.1,"year":2017}
+{"genre":"Action, Drama, Romance","movie":"Supercross","rating":4.1,"year":2005}
+{"genre":"Action, Drama, Romance","movie":"Tevar","rating":4.1,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Haan Maine Bhi Pyaar Kiya","rating":4.1,"year":2002}
+{"genre":"Drama, Short","movie":"Ready","rating":4.1,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Alien Agent","rating":4.1,"year":2007}
+{"genre":"Drama, War","movie":"Last Ounce of Courage","rating":4.1,"year":2012}
+{"genre":"Drama, Horror","movie":"The Howling: Reborn","rating":4.1,"year":2011}
+{"genre":"Drama, Mystery, Thriller","movie":"A Casa da Morte","rating":4.1,"year":2000}
+{"genre":"Comedy, Drama, Romance","movie":"And Then Came Lola","rating":4.1,"year":2009}
+{"genre":"Action, Comedy, Drama","movie":"Deportees","rating":4.1,"year":2007}
+{"genre":"Comedy, Crime, Drama","movie":"Krazzy 4","rating":4.1,"year":2008}
+{"genre":"Drama","movie":"Generation Um...","rating":4.1,"year":2012}
+{"genre":"Biography, Drama","movie":"Liz & Dick","rating":4.1,"year":2012}
+{"genre":"Drama, Romance","movie":"Milenge Milenge","rating":4.1,"year":2010}
+{"genre":"Comedy, Drama, Music","movie":"The Marc Pease Experience","rating":4.1,"year":2009}
+{"genre":"Drama, Fantasy, Horror","movie":"Faust","rating":4.1,"year":2000}
+{"genre":"Drama, Western","movie":"South of Heaven, West of Hell","rating":4.1,"year":2000}
+{"genre":"Drama, War","movie":"Burnt by the Sun 2","rating":4.1,"year":2010}
+{"genre":"Drama, Romance","movie":"Love, Money, Love","rating":4.1,"year":2000}
+{"genre":"Drama, War","movie":"Utomlennye solntsem 2","rating":4.1,"year":2011}
+{"genre":"Action, Drama, Adventure","movie":"Baywatch: Hawaiian Wedding","rating":4.2,"year":2003}
+{"genre":"Documentary, Drama","movie":"Finding Bigfoot","rating":4.2,"year":2011}
+{"genre":"Drama, History, Musical","movie":"Battle of Warsaw 1920","rating":4.2,"year":2011}
+{"genre":"Drama, Fantasy, Horror","movie":"House of Demons","rating":4.2,"year":2018}
+{"genre":"Drama, Romance, Thriller","movie":"Aashiq Banaya Aapne: Love Takes Over","rating":4.2,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Mal Intencionados","rating":4.2,"year":2015}
+{"genre":"Comedy, Drama, Romance","movie":"Wild Roomies","rating":4.2,"year":2004}
+{"genre":"Comedy, Drama, Romance","movie":"Ho voglia di te","rating":4.2,"year":2007}
+{"genre":"Drama, Romance","movie":"Alter Ego","rating":4.2,"year":2007}
+{"genre":"Action, Drama, War","movie":"War Pigs","rating":4.2,"year":2015}
+{"genre":"Drama, War","movie":"Tubelight","rating":4.2,"year":2017}
+{"genre":"Comedy, Drama, Romance","movie":"Yuvvraaj","rating":4.2,"year":2008}
+{"genre":"Drama, Horror, Mystery","movie":"Boogeyman","rating":4.2,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Reencarnação","rating":4.2,"year":2004}
+{"genre":"Action, Crime, Drama","movie":"The Wrecking Crew","rating":4.2,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"A Caça","rating":4.2,"year":2013}
+{"genre":"Comedy, Drama, Romance","movie":"Meet the Browns","rating":4.2,"year":2008}
+{"genre":"Action, Drama, Thriller","movie":"Mercenary for Justice","rating":4.2,"year":2006}
+{"genre":"Crime, Drama, Mystery","movie":"Border Run","rating":4.2,"year":2012}
+{"genre":"Drama","movie":"Manhã Sangrenta","rating":4.2,"year":2002}
+{"genre":"Action, Drama, Sci-Fi","movie":"Meteor","rating":4.2,"year":2009}
+{"genre":"Adventure, Drama, History","movie":"The Day of the Siege: September Eleven 1683","rating":4.2,"year":2012}
+{"genre":"Comedy, Drama, Musical","movie":"Action Replay","rating":4.2,"year":2010}
+{"genre":"Adventure, Comedy, Drama","movie":"Private Valentine: Blonde & Dangerous","rating":4.3,"year":2008}
+{"genre":"Drama, Romance, Sci-Fi","movie":"Parts Per Billion","rating":4.3,"year":2014}
+{"genre":"Action, Adventure, Drama","movie":"Treasure Raiders","rating":4.3,"year":2007}
+{"genre":"Crime, Drama, Fantasy","movie":"Exposed","rating":4.3,"year":2016}
+{"genre":"Drama, Music","movie":"Stomp the Yard 2: Homecoming","rating":4.3,"year":2010}
+{"genre":"Action, Adventure, Drama","movie":"Singularity","rating":4.3,"year":2017}
+{"genre":"Comedy, Drama, Romance","movie":"Kyun! Ho Gaya Na...","rating":4.3,"year":2004}
+{"genre":"Drama","movie":"The Life: What's Your Pleasure?","rating":4.3,"year":2004}
+{"genre":"Drama","movie":"The Night Buffalo","rating":4.3,"year":2007}
+{"genre":"Drama, Mystery, Romance","movie":"Yeh Lamhe Judaai Ke","rating":4.3,"year":2004}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Monsters: Dark Continent","rating":4.3,"year":2014}
+{"genre":"Comedy, Drama, Fantasy","movie":"Taarzan: The Wonder Car","rating":4.3,"year":2004}
+{"genre":"Drama, Horror, Mystery","movie":"Amnesiac","rating":4.3,"year":2014}
+{"genre":"Action, Drama, Horror","movie":"Remains","rating":4.3,"year":2011}
+{"genre":"Adventure, Comedy, Drama","movie":"College Road Trip","rating":4.3,"year":2008}
+{"genre":"Action, Drama","movie":"Moscow Heat","rating":4.3,"year":2004}
+{"genre":"Adventure, Drama, Thriller","movie":"Dark Tide","rating":4.3,"year":2012}
+{"genre":"Drama, Romance, Thriller","movie":"Briar Patch","rating":4.3,"year":2003}
+{"genre":"Drama, Mystery, Thriller","movie":"Basic Instinct 2","rating":4.3,"year":2006}
+{"genre":"Action, Drama, Horror","movie":"Cell","rating":4.3,"year":2016}
+{"genre":"Adventure, Action, Drama","movie":"The Poseidon Adventure","rating":4.3,"year":2005}
+{"genre":"Action, Drama, Thriller","movie":"Detention","rating":4.3,"year":2003}
+{"genre":"Drama","movie":"Cruel Intentions 2","rating":4.3,"year":2000}
+{"genre":"Drama, Horror","movie":"Vampire Clan","rating":4.3,"year":2002}
+{"genre":"Drama, Horror, Mystery","movie":"Kucch To Hai","rating":4.3,"year":2003}
+{"genre":"Drama, Comedy, Romance","movie":"Jailbait","rating":4.3,"year":2000}
+{"genre":"Thriller, Drama","movie":"Angel of Death","rating":4.3,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Hannah Montana: The Movie","rating":4.3,"year":2009}
+{"genre":"Comedy, Drama, Romance","movie":"Grand Masti","rating":4.3,"year":2013}
+{"genre":"Action, Drama, Romance","movie":"Double Down","rating":4.3,"year":2005}
+{"genre":"Thriller, Drama","movie":"The House Next Door","rating":4.4,"year":2002}
+{"genre":"Drama, Romance, War","movie":"In the Land of Blood and Honey","rating":4.4,"year":2011}
+{"genre":"Drama, Horror, Thriller","movie":"The Presence","rating":4.4,"year":2010}
+{"genre":"Drama, Horror","movie":"Satan's School for Girls","rating":4.4,"year":2000}
+{"genre":"Comedy, Drama","movie":"The Stig-Helmer Story","rating":4.4,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Streets of Blood","rating":4.4,"year":2009}
+{"genre":"Drama, Mystery, Thriller","movie":"The Fields","rating":4.4,"year":2011}
+{"genre":"Drama, Thriller","movie":"Vingança ao anoitecer","rating":4.4,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"Plan B","rating":4.4,"year":2001}
+{"genre":"Comedy, Drama, Romance","movie":"Sex and the City 2","rating":4.4,"year":2010}
+{"genre":"Action, Drama, Romance","movie":"Kill Dil","rating":4.4,"year":2014}
+{"genre":"Action, Adventure, Drama","movie":"Ironclad: Battle for Blood","rating":4.4,"year":2014}
+{"genre":"Drama, Crime, Action","movie":"State Property","rating":4.4,"year":2002}
+{"genre":"Action, Comedy, Drama","movie":"Hum Kisi Se Kum Nahin","rating":4.4,"year":2002}
+{"genre":"Drama, Thriller","movie":"Poison Ivy: The Secret Society","rating":4.4,"year":2008}
+{"genre":"Drama, Musical, Romance","movie":"Wuthering Heights","rating":4.4,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"House of the Rising Sun","rating":4.4,"year":2011}
+{"genre":"Drama, Fantasy, Horror","movie":"Inhabited","rating":4.4,"year":2003}
+{"genre":"Adventure, Drama, Fantasy","movie":"Fogo e Gelo","rating":4.4,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"Madea's Family Reunion","rating":4.4,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Setup","rating":4.4,"year":2011}
+{"genre":"Comedy, Drama, Romance","movie":"Dulha Mil Gaya","rating":4.4,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Open House","rating":4.4,"year":2010}
+{"genre":"Action, Drama","movie":"The Point Men","rating":4.4,"year":2001}
+{"genre":"Comedy, Crime, Drama","movie":"First Sunday","rating":4.4,"year":2008}
+{"genre":"Drama, Thriller","movie":"The Drowning","rating":4.4,"year":2016}
+{"genre":"Comedy, Drama","movie":"Paixão e Êxtase","rating":4.4,"year":2011}
+{"genre":"Drama, Action, Thriller","movie":"The President's Man: A Line in the Sand","rating":4.4,"year":2002}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Atlas Shrugged: Who Is John Galt?","rating":4.4,"year":2014}
+{"genre":"Drama","movie":"God's Not Dead 2","rating":4.4,"year":2016}
+{"genre":"Action, Drama, Musical","movie":"Lakeer - Forbidden Lines","rating":4.4,"year":2004}
+{"genre":"Drama, Romance, Thriller","movie":"Fifty Shades Freed","rating":4.4,"year":2018}
+{"genre":"Comedy, Drama, Romance","movie":"All About Anna","rating":4.4,"year":2005}
+{"genre":"Crime, Drama, Thriller","movie":"Played","rating":4.4,"year":2006}
+{"genre":"Comedy, Drama, Romance","movie":"LOL","rating":4.4,"year":2012}
+{"genre":"Drama, Music","movie":"The Gospel","rating":4.4,"year":2005}
+{"genre":"Crime, Drama, Action","movie":"Turn It Up","rating":4.4,"year":2000}
+{"genre":"Drama, Romance","movie":"Romantik","rating":4.4,"year":2007}
+{"genre":"Drama, Thriller","movie":"The Frozen","rating":4.4,"year":2012}
+{"genre":"Drama, Horror, Mystery","movie":"Silence Becomes You","rating":4.4,"year":2005}
+{"genre":"Drama, Thriller","movie":"Pleasure or Pain","rating":4.4,"year":2013}
+{"genre":"Drama, Thriller","movie":"Hate Story 2","rating":4.5,"year":2014}
+{"genre":"Drama","movie":"Anatomy of Hell","rating":4.5,"year":2004}
+{"genre":"Action, Crime, Drama","movie":"Road House 2: Last Call","rating":4.5,"year":2006}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"WarGames: The Dead Code","rating":4.5,"year":2008}
+{"genre":"Comedy, Drama","movie":"F.A.L.T.U","rating":4.5,"year":2011}
+{"genre":"Comedy, Drama, Romance","movie":"According to Spencer","rating":4.5,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Rape Me","rating":4.5,"year":2000}
+{"genre":"Drama, Family, Music","movie":"Black Nativity","rating":4.5,"year":2013}
+{"genre":"Comedy, Drama, Romance","movie":"After Sex","rating":4.5,"year":2000}
+{"genre":"Action, Drama, Sport","movie":"Driven","rating":4.5,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"Dragon Eyes","rating":4.5,"year":2012}
+{"genre":"Drama","movie":"Audacity","rating":4.5,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"The Courier","rating":4.5,"year":2012}
+{"genre":"Drama, Horror, Mystery","movie":"Tuno negro","rating":4.5,"year":2001}
+{"genre":"Drama, Thriller","movie":"Hate Story 3","rating":4.5,"year":2015}
+{"genre":"Crime, Drama","movie":"O Vulcão Ginostra","rating":4.5,"year":2002}
+{"genre":"Crime, Drama, Mystery","movie":"Distortion","rating":4.5,"year":2006}
+{"genre":"Drama, Family","movie":"Elle: A Modern Cinderella Tale","rating":4.5,"year":2010}
+{"genre":"Comedy, Drama, Thriller","movie":"Compulsão Assassina","rating":4.5,"year":2013}
+{"genre":"Comedy, Drama, Romance","movie":"Adam and Eve","rating":4.5,"year":2005}
+{"genre":"Drama, Horror","movie":"Anguish","rating":4.5,"year":2015}
+{"genre":"Drama, Fantasy, Thriller","movie":"Fateful Findings","rating":4.5,"year":2013}
+{"genre":"Drama, Sport","movie":"All You've Got","rating":4.5,"year":2006}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Last Templar","rating":4.5,"year":2009}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"4:44 Last Day on Earth","rating":4.5,"year":2011}
+{"genre":"Drama, Horror, Mystery","movie":"Bloody Murder 2: Closing Camp","rating":4.5,"year":2003}
+{"genre":"Drama, Horror, Romance","movie":"Jack & Diane","rating":4.5,"year":2012}
+{"genre":"Action, Drama","movie":"Rishtey","rating":4.5,"year":2002}
+{"genre":"Drama, Thriller","movie":"When Will I Be Loved","rating":4.5,"year":2004}
+{"genre":"Comedy, Drama","movie":"The Chosen One","rating":4.5,"year":2010}
+{"genre":"Crime, Drama","movie":"The Ministers","rating":4.5,"year":2009}
+{"genre":"Comedy, Drama, Romance","movie":"Juwanna Mann","rating":4.5,"year":2002}
+{"genre":"Drama, Western","movie":"Wyatt Earp's Revenge","rating":4.5,"year":2012}
+{"genre":"Action, Drama, Sci-Fi","movie":"10.5: Apocalypse","rating":4.5,"year":2006}
+{"genre":"Musical, Drama, Romance","movie":"Yaadein...","rating":4.5,"year":2001}
+{"genre":"Comedy, Drama, Romance","movie":"Why Did I Get Married Too?","rating":4.5,"year":2010}
+{"genre":"Drama","movie":"Sand","rating":4.5,"year":2000}
+{"genre":"Action, Drama, Fantasy","movie":"Darklight","rating":4.5,"year":2004}
+{"genre":"Drama, Romance, Comedy","movie":"Dish Dogs","rating":4.6,"year":2000}
+{"genre":"Comedy, Drama, Family","movie":"High School Musical 3: Senior Year","rating":4.6,"year":2008}
+{"genre":"Drama, Thriller","movie":"Josie","rating":4.6,"year":2018}
+{"genre":"Comedy, Drama, Sport","movie":"Dil Bole Hadippa!","rating":4.6,"year":2009}
+{"genre":"Drama, Mystery, Thriller","movie":"The In Crowd","rating":4.6,"year":2000}
+{"genre":"Comedy, Drama","movie":"Motherhood","rating":4.6,"year":2009}
+{"genre":"Drama, Romance","movie":"Fifty Shades Darker","rating":4.6,"year":2017}
+{"genre":"Biography, Drama, History","movie":"Killing Jesus","rating":4.6,"year":2015}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind: The Movie","rating":4.6,"year":2000}
+{"genre":"Action, Drama, History","movie":"Viking","rating":4.6,"year":2016}
+{"genre":"Drama, Romance","movie":"Bewafaa","rating":4.6,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Ratter","rating":4.6,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Kisna: The Warrior Poet","rating":4.6,"year":2005}
+{"genre":"Comedy, Drama, Family","movie":"Aamdani Atthanni Kharcha Rupaiya","rating":4.6,"year":2001}
+{"genre":"Action, Drama","movie":"Biker Boyz","rating":4.6,"year":2003}
+{"genre":"Comedy, Drama, Romance","movie":"Tiptoes","rating":4.6,"year":2003}
+{"genre":"Action, Drama, Family","movie":"Brahmotsavam","rating":4.6,"year":2016}
+{"genre":"Action, Crime, Drama","movie":"Catch .44","rating":4.6,"year":2011}
+{"genre":"Comedy, Drama","movie":"Some Girl(s)","rating":4.6,"year":2013}
+{"genre":"Crime, Drama","movie":"Inside Out","rating":4.6,"year":2011}
+{"genre":"Drama, Horror","movie":"Extinction: The G.M.O. Chronicles","rating":4.6,"year":2011}
+{"genre":"Action, Drama","movie":"The Substitute: Failure Is Not an Option","rating":4.6,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Sin","rating":4.6,"year":2003}
+{"genre":"Drama","movie":"Young Gods","rating":4.6,"year":2003}
+{"genre":"Comedy, Drama","movie":"Madea's Big Happy Family","rating":4.6,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Swelter","rating":4.6,"year":2014}
+{"genre":"Action, Comedy, Drama","movie":"Todos os Homens da Rainha","rating":4.6,"year":2001}
+{"genre":"Drama","movie":"Déficit","rating":4.6,"year":2007}
+{"genre":"Comedy, Drama, Romance","movie":"Dr. T & the Women","rating":4.6,"year":2000}
+{"genre":"Drama, Horror, Romance","movie":"Zombie Honeymoon","rating":4.6,"year":2004}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things: Diamonds in the Rough","rating":4.6,"year":2005}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things: Foursome","rating":4.6,"year":2010}
+{"genre":"Action, Drama, War","movie":"Seal Team Eight: Behind Enemy Lines","rating":4.6,"year":2014}
+{"genre":"Crime, Drama, Thriller","movie":"Dog Eat Dog","rating":4.6,"year":2016}
+{"genre":"Drama","movie":"A Hole in My Heart","rating":4.6,"year":2004}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things 2","rating":4.6,"year":2004}
+{"genre":"Crime, Drama","movie":"The Face of an Angel","rating":4.6,"year":2014}
+{"genre":"Comedy, Drama, Family","movie":"Bud 4: É Uma Jogada Perfeita","rating":4.6,"year":2002}
+{"genre":"Comedy, Drama","movie":"Hemso","rating":4.6,"year":2001}
+{"genre":"Drama, Music","movie":"You Got Served: Beat the World","rating":4.6,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"My Name Is Modesty: A Modesty Blaise Adventure","rating":4.6,"year":2004}
+{"genre":"Drama, Horror, Thriller","movie":"Red Riding Hood","rating":4.6,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"Freelancers","rating":4.6,"year":2012}
+{"genre":"Drama","movie":"Let There Be Light","rating":4.6,"year":2017}
+{"genre":"Action, Drama, Thriller","movie":"The Piano Player","rating":4.6,"year":2002}
+{"genre":"Comedy, Drama, Musical","movie":"I, Me aur Main","rating":4.6,"year":2013}
+{"genre":"Comedy, Drama","movie":"The Ape","rating":4.6,"year":2005}
+{"genre":"Drama","movie":"Destricted","rating":4.6,"year":2006}
+{"genre":"Action, Drama","movie":"Samson","rating":4.6,"year":2018}
+{"genre":"Drama, Mystery, Thriller","movie":"8MM 2","rating":4.6,"year":2005}
+{"genre":"Comedy, Drama, Musical","movie":"Chance Pe Dance","rating":4.7,"year":2010}
+{"genre":"Adventure, Drama, Sci-Fi","movie":"Battle Royale II","rating":4.7,"year":2003}
+{"genre":"Comedy, Drama, Romance","movie":"What's Your Raashee?","rating":4.7,"year":2009}
+{"genre":"Comedy, Crime, Drama","movie":" Bull","rating":4.7,"year":2016}
+{"genre":"Comedy, Drama, Romance","movie":"The Next Best Thing","rating":4.7,"year":2000}
+{"genre":"Drama","movie":"The Bridgeman","rating":4.7,"year":2002}
+{"genre":"Action, Drama","movie":"Caged Animal","rating":4.7,"year":2010}
+{"genre":"Crime, Drama, Horror","movie":"Captivity","rating":4.7,"year":2007}
+{"genre":"Drama","movie":"The Last Face","rating":4.7,"year":2016}
+{"genre":"Comedy, Drama, Musical","movie":"Silence... We're Rolling","rating":4.7,"year":2001}
+{"genre":"Drama, Fantasy, Mystery","movie":"The Summoning","rating":4.7,"year":2016}
+{"genre":"Action, Adventure, Drama","movie":"Veer","rating":4.7,"year":2010}
+{"genre":"Drama","movie":"90 Minutes in Heaven","rating":4.7,"year":2015}
+{"genre":"Comedy, Drama, Family","movie":"Kuch Khatti Kuch Meethi","rating":4.7,"year":2001}
+{"genre":"Drama","movie":"Main Street","rating":4.7,"year":2010}
+{"genre":"Drama, Horror, Thriller","movie":"The Thompsons","rating":4.7,"year":2012}
+{"genre":"Drama, Horror, Thriller","movie":"Deadline","rating":4.7,"year":2009}
+{"genre":"Action, Drama, Thriller","movie":"The Marine","rating":4.7,"year":2006}
+{"genre":"Adventure, Drama","movie":"Fast Sofa","rating":4.7,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"The Net 2.0","rating":4.7,"year":2006}
+{"genre":"Drama, Horror, Thriller","movie":"Refém do Medo","rating":4.7,"year":2016}
+{"genre":"Action, Drama, Fantasy","movie":"Baba","rating":4.7,"year":2002}
+{"genre":"Comedy, Drama","movie":"Diary of a Mad Black Woman","rating":4.7,"year":2002}
+{"genre":"Drama, Romance","movie":"Young Love","rating":4.7,"year":2001}
+{"genre":"Action, Drama, Fantasy","movie":"Jonah Hex","rating":4.7,"year":2010}
+{"genre":"Drama, Romance, Thriller","movie":"Watchtower","rating":4.7,"year":2001}
+{"genre":"Comedy, Drama","movie":"Smother","rating":4.7,"year":2008}
+{"genre":"Comedy, Drama, Romance","movie":"Not Cool","rating":4.7,"year":2014}
+{"genre":"Action, Crime, Drama","movie":"Loaded","rating":4.7,"year":2008}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind III: World at War","rating":4.7,"year":2005}
+{"genre":"Drama, Fantasy, Thriller","movie":"Branded","rating":4.7,"year":2012}
+{"genre":"Crime, Drama, Horror","movie":"Choose","rating":4.7,"year":2011}
+{"genre":"Crime, Drama, Romance","movie":"Tart","rating":4.7,"year":2001}
+{"genre":"Drama, Mystery, Action","movie":"Paradise","rating":4.7,"year":2003}
+{"genre":"Drama, History","movie":"DC 9\/11: Time of Crisis","rating":4.7,"year":2003}
+{"genre":"Action, Adventure, Drama","movie":"The Great Challenge","rating":4.7,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"Air Bud 3","rating":4.7,"year":2000}
+{"genre":"Comedy, Drama","movie":"Intimate Affairs","rating":4.7,"year":2001}
+{"genre":"Drama, Horror, Thriller","movie":"Cthulhu","rating":4.7,"year":2007}
+{"genre":"Drama, Thriller","movie":"Eden: Lutar ou Morrer","rating":4.7,"year":2014}
+{"genre":"Drama","movie":"100 Escovadas Antes De Dormir","rating":4.7,"year":2005}
+{"genre":"Drama, Thriller","movie":"The Neighbor","rating":4.7,"year":2018}
+{"genre":"Drama","movie":"Cruel Intentions 3","rating":4.7,"year":2004}
+{"genre":"Action, Drama, War","movie":"1968 Tunnel Rats","rating":4.7,"year":2008}
+{"genre":"Comedy, Drama, Fantasy","movie":"A Day Without a Mexican","rating":4.7,"year":2004}
+{"genre":"Drama, Horror, Mystery","movie":"First Born","rating":4.7,"year":2007}
+{"genre":"Action, Drama, Sci-Fi","movie":"10.5","rating":4.7,"year":2004}
+{"genre":"Drama, Crime, Mystery","movie":"Luckytown","rating":4.7,"year":2000}
+{"genre":"Drama","movie":"The Runner","rating":4.7,"year":2015}
+{"genre":"Action, Comedy, Drama","movie":"Entertainment","rating":4.7,"year":2014}
+{"genre":"Comedy, Drama","movie":"Marie and Bruce","rating":4.7,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"Dog with a Blog","rating":4.7,"year":20122015}
+{"genre":"Drama, Horror, Thriller","movie":"Mr. Jones","rating":4.7,"year":2013}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: New Moon","rating":4.7,"year":2009}
+{"genre":"Drama, Romance","movie":"Fjorton suger","rating":4.7,"year":2004}
+{"genre":"Crime, Thriller, Drama","movie":"The Keeper","rating":4.7,"year":2004}
+{"genre":"Biography, Crime, Drama","movie":"Gacy","rating":4.7,"year":2003}
+{"genre":"Drama, Family, Romance","movie":"Timboektoe","rating":4.7,"year":2007}
+{"genre":"Adventure, Comedy, Drama","movie":"Spy School","rating":4.7,"year":2008}
+{"genre":"Drama, Romance, War","movie":"Mausam","rating":4.7,"year":2011}
+{"genre":"Action, Drama, Musical","movie":"Prem Ratan Dhan Payo","rating":4.7,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Aetbaar","rating":4.7,"year":2004}
+{"genre":"Adventure, Drama, Horror","movie":"Prey","rating":4.7,"year":2007}
+{"genre":"Drama, Musical, Romance","movie":"Dil Ka Rishta","rating":4.7,"year":2003}
+{"genre":"Action, Drama, War","movie":"Ab Tumhare Hawale Watan Saathiyo","rating":4.8,"year":2004}
+{"genre":"Drama, Romance","movie":"The Wings of the Night","rating":4.8,"year":2009}
+{"genre":"Comedy, Drama, Musical","movie":"Madea Goes to Jail","rating":4.8,"year":2006}
+{"genre":"Drama, Thriller, War","movie":"The Haunted Airman","rating":4.8,"year":2006}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Approaching the Unknown","rating":4.8,"year":2016}
+{"genre":"Comedy, Drama, Music","movie":"Siren","rating":4.8,"year":2006}
+{"genre":"Adventure, Crime, Drama","movie":"O Ritual da Pedra","rating":4.8,"year":2006}
+{"genre":"Drama, Reality-TV","movie":"Laguna Beach: The Real Orange County","rating":4.8,"year":20042006}
+{"genre":"Drama, Horror","movie":"The Windmill","rating":4.8,"year":2016}
+{"genre":"Drama, Reality-TV","movie":"Bad Girls Club","rating":4.8,"year":2006}
+{"genre":"Action, Crime, Drama","movie":"Tekken","rating":4.8,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Three Way","rating":4.8,"year":2004}
+{"genre":"Drama, Horror, Mystery","movie":"Trauma","rating":4.8,"year":2004}
+{"genre":"Crime, Drama, Fantasy","movie":"Macbeth","rating":4.8,"year":2006}
+{"genre":"Drama, Horror, Sci-Fi","movie":"O Corredor","rating":4.8,"year":2010}
+{"genre":"Crime, Drama, Mystery","movie":"Chocolate: Deep Dark Secrets","rating":4.8,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Megan Is Missing","rating":4.8,"year":2011}
+{"genre":"Drama, Romance","movie":"Summer Lover","rating":4.8,"year":2008}
+{"genre":"Action, Drama, Thriller","movie":"Flood","rating":4.8,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"Sharpay's Fabulous Adventure","rating":4.8,"year":2011}
+{"genre":"Comedy, Drama, Family","movie":"A.N.T. Farm","rating":4.8,"year":20112014}
+{"genre":"Drama","movie":"1915","rating":4.8,"year":2015}
+{"genre":"Crime, Drama, Sport","movie":"Green Street Hooligans 2","rating":4.8,"year":2009}
+{"genre":"Drama, Horror, Mystery","movie":"The Unborn","rating":4.8,"year":2009}
+{"genre":"Comedy, Drama, Family","movie":"As Feras da Música","rating":4.8,"year":2003}
+{"genre":"Action, Drama, Fantasy","movie":"Attack on Titan: Part 2","rating":4.8,"year":2015}
+{"genre":"Adventure, Drama, Family","movie":"The Seeker: The Dark Is Rising","rating":4.8,"year":2007}
+{"genre":"Drama, Thriller","movie":"The Legend of Lucy Keyes","rating":4.8,"year":2005}
+{"genre":"Drama, Romance","movie":"A Teacher","rating":4.8,"year":2013}
+{"genre":"Comedy, Drama, Romance","movie":"Teri Meri Kahaani","rating":4.8,"year":2012}
+{"genre":"Crime, Drama, Western","movie":"Wild Horses","rating":4.8,"year":2015}
+{"genre":"Comedy, Drama, Romance","movie":"Did You Hear About the Morgans?","rating":4.8,"year":2009}
+{"genre":"Drama, Horror, Thriller","movie":"Girls Against Boys","rating":4.8,"year":2012}
+{"genre":"Action, Drama, Sci-Fi","movie":"Destruição Total: O Fim do Mundo","rating":4.8,"year":2005}
+{"genre":"Drama, Romance","movie":"Anatomy of a Love Seen","rating":4.8,"year":2014}
+{"genre":"Drama, Horror, Thriller","movie":"Repentance","rating":4.8,"year":2013}
+{"genre":"Action, Drama, Fantasy","movie":"O Enviado","rating":4.8,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"9 Songs","rating":4.8,"year":2004}
+{"genre":"Drama, Thriller","movie":"Descent","rating":4.8,"year":2007}
+{"genre":"Action, Crime, Drama","movie":"Justiça Implacável","rating":4.8,"year":20102012}
+{"genre":"Crime, Drama, Thriller","movie":"By the Gun","rating":4.8,"year":2014}
+{"genre":"Crime, Drama, Thriller","movie":"While She Was Out","rating":4.8,"year":2008}
+{"genre":"Comedy, Drama, Romance","movie":"Yeh Hai Jalwa","rating":4.8,"year":2002}
+{"genre":"Action, Adventure, Drama","movie":"Luck","rating":4.8,"year":2009}
+{"genre":"Comedy, Drama, Family","movie":"The Cheetah Girls: One World","rating":4.8,"year":2008}
+{"genre":"Musical, Drama, Romance","movie":"Lucky: No Time for Love","rating":4.8,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"Once Upon a Time in Mumbai Dobaara!","rating":4.8,"year":2013}
+{"genre":"Action, Drama, Sci-Fi","movie":"Momentum","rating":4.8,"year":2003}
+{"genre":"Comedy, Drama","movie":"Suing the Devil","rating":4.8,"year":2011}

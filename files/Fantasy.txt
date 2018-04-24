@@ -1,0 +1,500 @@
+{"genre":"Comedy, Fantasy","movie":"Badang","rating":1.0,"year":2018}
+{"genre":"Musical, Animation, Fantasy","movie":"Bratz: Passion 4 Fashion - Diamondz","rating":1.5,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"It's a Fairy!","rating":1.5,"year":2016}
+{"genre":"Adventure, Fantasy, Horror","movie":"2012 Doomsday","rating":1.7,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"Almighty Thor","rating":1.7,"year":2011}
+{"genre":"Comedy, Crime, Fantasy","movie":"Daniel the Wizard","rating":1.9,"year":2004}
+{"genre":"Animation, Family, Fantasy","movie":"Titanic: A Lenda Continua","rating":2.1,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Son of the Mask","rating":2.2,"year":2005}
+{"genre":"Action, Fantasy","movie":"Jack the Giant Killer","rating":2.2,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"King of the Lost World","rating":2.3,"year":2005}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Miss Castaway and the Island Girls","rating":2.4,"year":2004}
+{"genre":"Fantasy, Horror","movie":"Killjoy","rating":2.5,"year":2000}
+{"genre":"Action, Fantasy, Horror","movie":"Raptor","rating":2.6,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"Dragonball: Evolution","rating":2.6,"year":2009}
+{"genre":"Action, Fantasy, Western","movie":"BloodRayne: Deliverance","rating":2.7,"year":2007}
+{"genre":"Action, Fantasy, Horror","movie":"The Cloth","rating":2.7,"year":2013}
+{"genre":"Adventure, Fantasy, Horror","movie":"Sleeping Beauty","rating":2.7,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"Avengers Grimm","rating":2.8,"year":2015}
+{"genre":"Adventure, Drama, Fantasy","movie":"Cyclops","rating":2.9,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"BloodRayne","rating":2.9,"year":2005}
+{"genre":"Action, Fantasy, Thriller","movie":"Jaani Dushman: Ek Anokhi Kahani","rating":2.9,"year":2002}
+{"genre":"Action, Adventure, Fantasy","movie":"BloodRayne: The Third Reich","rating":3.0,"year":2011}
+{"genre":"Comedy, Fantasy, Horror","movie":"Creepshow 3","rating":3.0,"year":2006}
+{"genre":"Action, Adventure, Fantasy","movie":"Highlander: The Source","rating":3.1,"year":2007}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Haunted High","rating":3.1,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"In the Name of the King: Two Worlds","rating":3.1,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Sihirli Annem","rating":3.1,"year":2003}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind","rating":3.1,"year":2014}
+{"genre":"Action, Fantasy","movie":"Cross","rating":3.1,"year":2011}
+{"genre":"Horror, Fantasy, Mystery","movie":"13 Seconds","rating":3.2,"year":2003}
+{"genre":"Action, Fantasy, Horror","movie":"Fading of the Cries","rating":3.2,"year":2008}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"The Land That Time Forgot","rating":3.2,"year":2009}
+{"genre":"Fantasy, Horror","movie":"Flesh for the Beast","rating":3.2,"year":2003}
+{"genre":"Drama, Fantasy, Romance","movie":"A Bela e a Fera","rating":3.2,"year":2009}
+{"genre":"Fantasy, Horror","movie":"Killjoy 2: Deliverance from Evil","rating":3.2,"year":2002}
+{"genre":"Fantasy, Horror, Thriller","movie":"Alone in the Dark 2: O Retorno do Mal","rating":3.3,"year":2008}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"20 Years After","rating":3.3,"year":2008}
+{"genre":"Fantasy, Horror","movie":"Ghost Shark","rating":3.3,"year":2013}
+{"genre":"Action, Crime, Fantasy","movie":"Catwoman","rating":3.3,"year":2004}
+{"genre":"Fantasy, Horror","movie":"Leprechaun: Origins","rating":3.3,"year":2014}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Puppet Master: The Legacy","rating":3.3,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"Age of the Dragons","rating":3.4,"year":2011}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Monster Ark","rating":3.4,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"Dragonfyre","rating":3.4,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"Attack of the Gryphon","rating":3.4,"year":2007}
+{"genre":"Action, Adventure, Fantasy","movie":"Vikingdom: O Reino Viking","rating":3.4,"year":2013}
+{"genre":"Comedy, Fantasy, Horror","movie":"The Gingerdead Man","rating":3.5,"year":2005}
+{"genre":"Fantasy, Horror","movie":"Hellborn","rating":3.5,"year":2003}
+{"genre":"Fantasy, Horror, Thriller","movie":"O Mestre dos Desejos 3 - Além da Porta do Inferno","rating":3.6,"year":2001}
+{"genre":"Fantasy, Horror, Thriller","movie":"Metamorphosis","rating":3.6,"year":2007}
+{"genre":"Action, Adventure, Fantasy","movie":"Sands of Oblivion","rating":3.6,"year":2007}
+{"genre":"Action, Drama, Fantasy","movie":"Dragon Wars: D-War","rating":3.6,"year":2007}
+{"genre":"Adventure, Fantasy","movie":"The Hexer","rating":3.6,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"The Annoying Orange","rating":3.6,"year":2009}
+{"genre":"Comedy, Drama, Fantasy","movie":"God Tussi Great Ho","rating":3.6,"year":2008}
+{"genre":"Comedy, Fantasy, Sci-Fi","movie":"Smosh: The Movie","rating":3.6,"year":2015}
+{"genre":"Adventure, Fantasy, Horror","movie":"Minotaur","rating":3.6,"year":2006}
+{"genre":"Action, Fantasy, Horror","movie":"Gallowwalkers","rating":3.6,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons","rating":3.7,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Hansel & Gretel","rating":3.7,"year":2002}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King 3: Battle for Redemption","rating":3.7,"year":2012}
+{"genre":"Action, Fantasy, Horror","movie":"Manticore","rating":3.7,"year":2005}
+{"genre":"Comedy, Drama, Fantasy","movie":"Great Grand Masti","rating":3.7,"year":2016}
+{"genre":"Action, Comedy, Fantasy","movie":"Leprechaun in the Hood","rating":3.7,"year":2000}
+{"genre":"Action, Fantasy, Horror","movie":"The Book of Fate","rating":3.7,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King: Rise of a Warrior","rating":3.8,"year":2008}
+{"genre":"Comedy, Fantasy, Horror","movie":"Jack Frost 2: Revenge of the Mutant Killer Snowman","rating":3.8,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Em Nome do Rei","rating":3.8,"year":2007}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"O Ogro","rating":3.8,"year":2008}
+{"genre":"Fantasy, Horror","movie":"Cerberus","rating":3.8,"year":2005}
+{"genre":"Action, Fantasy, Adventure","movie":"The Lord of the G-Strings: The Femaleship of the String","rating":3.8,"year":2003}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Wicked","rating":3.8,"year":2013}
+{"genre":"Adventure, Fantasy","movie":"Witchville","rating":3.9,"year":2010}
+{"genre":"Horror, Fantasy, Thriller","movie":"Voodoo Academy","rating":3.9,"year":2000}
+{"genre":"Adventure, Family, Fantasy","movie":"Merlin: The Return","rating":3.9,"year":2000}
+{"genre":"Adventure, Fantasy, Horror","movie":"The Lost Treasure of the Grand Canyon","rating":3.9,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"Dr. Dolittle 3","rating":3.9,"year":2006}
+{"genre":"Fantasy, Horror, Romance","movie":"O Mestre dos Desejos 4","rating":4.0,"year":2002}
+{"genre":"Adventure, Fantasy, Horror","movie":"Book of Shadows: Blair Witch 2","rating":4.0,"year":2000}
+{"genre":"Comedy, Fantasy, Horror","movie":"Puppet Master vs Demonic Toys","rating":4.0,"year":2004}
+{"genre":"Horror, Action, Fantasy","movie":"Out for Blood","rating":4.0,"year":2004}
+{"genre":"Action, Comedy, Fantasy","movie":"Chandni Chowk to China","rating":4.0,"year":2009}
+{"genre":"Comedy, Fantasy, Horror","movie":"Leprechaun: Back 2 tha Hood","rating":4.0,"year":2003}
+{"genre":"Comedy, Fantasy","movie":"7 Dwarves: The Forest Is Not Enough","rating":4.0,"year":2006}
+{"genre":"Animation, Family, Fantasy","movie":"Pinocchio 3000","rating":4.0,"year":2004}
+{"genre":"Adventure, Drama, Fantasy","movie":"Jem and the Holograms","rating":4.1,"year":2015}
+{"genre":"Drama, Fantasy, Horror","movie":"A Sereia Assassina","rating":4.1,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"Megiddo: The Omega Code 2","rating":4.1,"year":2001}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"O Santo Pecador","rating":4.1,"year":2002}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"Dragon Storm","rating":4.1,"year":2004}
+{"genre":"Comedy, Family, Fantasy","movie":"Uma Casa de Pernas Pro Ar","rating":4.1,"year":2007}
+{"genre":"Drama, Fantasy, Horror","movie":"Faust","rating":4.1,"year":2000}
+{"genre":"Fantasy, Horror, Mystery","movie":"Lost Colony: The Legend of Roanoke","rating":4.2,"year":2007}
+{"genre":"Drama, Fantasy, Horror","movie":"House of Demons","rating":4.2,"year":2018}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King 4: Quest for Power","rating":4.2,"year":2015}
+{"genre":"Fantasy, Horror, Thriller","movie":"Urban Legends: Bloody Mary","rating":4.2,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"The Legend of Hercules","rating":4.2,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"Pinóquio","rating":4.2,"year":2002}
+{"genre":"Crime, Drama, Fantasy","movie":"Exposed","rating":4.3,"year":2016}
+{"genre":"Comedy, Fantasy, Horror","movie":"Yoga Hosers","rating":4.3,"year":2016}
+{"genre":"Action, Comedy, Fantasy","movie":"Alien vs. Ninja","rating":4.3,"year":2010}
+{"genre":"Fantasy, Horror, Mystery","movie":"The Curse of Sleeping Beauty","rating":4.3,"year":2016}
+{"genre":"Action, Adventure, Fantasy","movie":"Dawn of the Dragonslayer","rating":4.3,"year":2011}
+{"genre":"Comedy, Drama, Fantasy","movie":"Taarzan: The Wonder Car","rating":4.3,"year":2004}
+{"genre":"Comedy, Family, Fantasy","movie":"Fat Albert","rating":4.3,"year":2004}
+{"genre":"Comedy, Fantasy","movie":"An American Carol","rating":4.3,"year":2008}
+{"genre":"Action, Fantasy, Thriller","movie":"Ghost Rider: Spirit of Vengeance","rating":4.3,"year":2011}
+{"genre":"Action, Family, Fantasy","movie":"The Nutcracker in 3D","rating":4.4,"year":2010}
+{"genre":"Animation, Comedy, Fantasy","movie":"Uncle Grandpa","rating":4.4,"year":20102017}
+{"genre":"Fantasy, Horror","movie":"Red: Werewolf Hunter","rating":4.4,"year":2010}
+{"genre":"Drama, Fantasy, Horror","movie":"Inhabited","rating":4.4,"year":2003}
+{"genre":"Adventure, Drama, Fantasy","movie":"Fogo e Gelo","rating":4.4,"year":2008}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"The Avenging Fist","rating":4.4,"year":2001}
+{"genre":"Adventure, Fantasy, Horror","movie":"The Curse of King Tut's Tomb","rating":4.4,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"The Shaggy Dog","rating":4.4,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"The Perfect Holiday","rating":4.4,"year":2007}
+{"genre":"Mystery, Fantasy, Horror","movie":"Belphegor: Phantom of the Louvre","rating":4.4,"year":2001}
+{"genre":"Fantasy, Horror, Thriller","movie":"Alma Diabólica","rating":4.5,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons: The Book of Vile Darkness","rating":4.5,"year":2012}
+{"genre":"Adventure, Family, Fantasy","movie":"Space Buddies","rating":4.5,"year":2009}
+{"genre":"Fantasy, Mystery, Romance","movie":"Dead Awake","rating":4.5,"year":2010}
+{"genre":"Drama, Fantasy, Thriller","movie":"Fateful Findings","rating":4.5,"year":2013}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Last Templar","rating":4.5,"year":2009}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"4:44 Last Day on Earth","rating":4.5,"year":2011}
+{"genre":"Comedy, Fantasy, Romance","movie":"Bad Johnson","rating":4.5,"year":2014}
+{"genre":"Comedy, Fantasy","movie":"The Visitors: Bastille Day","rating":4.5,"year":2016}
+{"genre":"Action, Comedy, Fantasy","movie":"The Witches of Oz","rating":4.5,"year":2011}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Hollow","rating":4.5,"year":2004}
+{"genre":"Comedy, Fantasy","movie":"More Ants in the Pants","rating":4.5,"year":2002}
+{"genre":"Fantasy, Horror","movie":"Pumpkinhead: Ashes to Ashes","rating":4.5,"year":2006}
+{"genre":"Action, Drama, Fantasy","movie":"Darklight","rating":4.5,"year":2004}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Prophecy: Forsaken","rating":4.6,"year":2005}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind: The Movie","rating":4.6,"year":2000}
+{"genre":"Action, Fantasy, Horror","movie":"Skinwalkers - Amaldiçoados","rating":4.6,"year":2006}
+{"genre":"Action, Adventure, Fantasy","movie":"Highlander: Endgame","rating":4.6,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Além da Floresta de Sherwood","rating":4.6,"year":2009}
+{"genre":"Comedy, Fantasy","movie":"Beremennyy","rating":4.6,"year":2011}
+{"genre":"Drama, Fantasy, Mystery","movie":"The Summoning","rating":4.7,"year":2016}
+{"genre":"Comedy, Family, Fantasy","movie":"Dr. Dolittle 2","rating":4.7,"year":2001}
+{"genre":"Action, Drama, Fantasy","movie":"Baba","rating":4.7,"year":2002}
+{"genre":"Action, Drama, Fantasy","movie":"Jonah Hex","rating":4.7,"year":2010}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind III: World at War","rating":4.7,"year":2005}
+{"genre":"Drama, Fantasy, Thriller","movie":"Branded","rating":4.7,"year":2012}
+{"genre":"Fantasy, Horror, Thriller","movie":"A Vingança do Demônio","rating":4.7,"year":2007}
+{"genre":"Fantasy, Horror, Thriller","movie":"Venom","rating":4.7,"year":2005}
+{"genre":"Comedy, Drama, Fantasy","movie":"A Day Without a Mexican","rating":4.7,"year":2004}
+{"genre":"Animation, Comedy, Fantasy","movie":"Monkeybone","rating":4.7,"year":2001}
+{"genre":"Comedy, Fantasy","movie":"Picking Up the Pieces","rating":4.7,"year":2000}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: New Moon","rating":4.7,"year":2009}
+{"genre":"Comedy, Fantasy","movie":"A Haunted House 2","rating":4.7,"year":2014}
+{"genre":"Action, Crime, Fantasy","movie":"The Spirit","rating":4.8,"year":2008}
+{"genre":"Crime, Drama, Fantasy","movie":"Macbeth","rating":4.8,"year":2006}
+{"genre":"Comedy, Fantasy, Romance","movie":"Bewitched","rating":4.8,"year":2005}
+{"genre":"Fantasy, Horror","movie":"Pumpkinhead: Blood Feud","rating":4.8,"year":2007}
+{"genre":"Comedy, Family, Fantasy","movie":"Shorts","rating":4.8,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"Puli","rating":4.8,"year":2015}
+{"genre":"Comedy, Fantasy, Horror","movie":"Twixt","rating":4.8,"year":2011}
+{"genre":"Action, Drama, Fantasy","movie":"Attack on Titan: Part 2","rating":4.8,"year":2015}
+{"genre":"Action, Fantasy, Horror","movie":"Dead in Tombstone","rating":4.8,"year":2013}
+{"genre":"Action, Drama, Fantasy","movie":"O Enviado","rating":4.8,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons 2 - O Poder Maior","rating":4.8,"year":2005}
+{"genre":"Action, Fantasy, Horror","movie":"O Dragão do Gelo","rating":4.8,"year":2009}
+{"genre":"Drama, Fantasy, Romance","movie":"Passion Play","rating":4.8,"year":2010}
+{"genre":"Adventure, Drama, Fantasy","movie":"Revelation","rating":4.8,"year":2001}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Black Knight","rating":4.8,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"O Natal de Dennis, o Pimentinha","rating":4.9,"year":2007}
+{"genre":"Action, Fantasy, Mystery","movie":"Witchblade","rating":4.9,"year":2000}
+{"genre":"Drama, Fantasy, Horror","movie":"Relação Mortal","rating":4.9,"year":2011}
+{"genre":"Fantasy","movie":"Dark Moon Rising","rating":4.9,"year":2015}
+{"genre":"Comedy, Fantasy, Horror","movie":"O Filho de Chucky","rating":4.9,"year":2004}
+{"genre":"Adventure, Drama, Fantasy","movie":"As Pedras de Fogo","rating":4.9,"year":2009}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Breaking Dawn - Part 1","rating":4.9,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"The Haunted Mansion","rating":4.9,"year":2003}
+{"genre":"Action, Fantasy, Horror","movie":"Dracula 2000","rating":4.9,"year":2000}
+{"genre":"Action, Crime, Fantasy","movie":"O Corvo: Salvação","rating":5.0,"year":2000}
+{"genre":"Comedy, Fantasy","movie":"Hellphone","rating":5.0,"year":2007}
+{"genre":"Drama, Fantasy","movie":"Cosmópolis","rating":5.0,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"SAGA: Curse of the Shadow","rating":5.0,"year":2013}
+{"genre":"Adventure, Fantasy, Horror","movie":"They Found Hell","rating":5.0,"year":2015}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Eclipse","rating":5.0,"year":2010}
+{"genre":"Comedy, Fantasy, Horror","movie":"Kutsal Damacana","rating":5.0,"year":2007}
+{"genre":"Fantasy, Romance","movie":"Evim Sensin","rating":5.0,"year":2012}
+{"genre":"Adventure, Family, Fantasy","movie":"Peter Pan Live!","rating":5.0,"year":2014}
+{"genre":"Fantasy, Horror, Mystery","movie":"Darkness Falls","rating":5.0,"year":2003}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Freakdog","rating":5.0,"year":2008}
+{"genre":"Action, Comedy, Fantasy","movie":"Golmaal Again","rating":5.0,"year":2017}
+{"genre":"Drama, Fantasy, Horror","movie":"A Profecia dos Anjos","rating":5.0,"year":2004}
+{"genre":"Comedy, Fantasy, Romance","movie":"Ants in the Pants","rating":5.0,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Beyond the Edge","rating":5.0,"year":2018}
+{"genre":"Comedy, Fantasy, Horror","movie":"The Convent","rating":5.0,"year":2000}
+{"genre":"Animation, Family, Fantasy","movie":"Cinderella II: Dreams Come True","rating":5.0,"year":2002}
+{"genre":"Comedy, Family, Fantasy","movie":"Tooth Fairy","rating":5.0,"year":2010}
+{"genre":"Fantasy, Horror","movie":"Deep Dark","rating":5.0,"year":2015}
+{"genre":"Comedy, Fantasy, Horror","movie":"Boy Eats Girl","rating":5.1,"year":2005}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Stay Alive","rating":5.1,"year":2006}
+{"genre":"Drama, Fantasy, Horror","movie":"Wicked Little Things","rating":5.1,"year":2006}
+{"genre":"Comedy, Fantasy","movie":"A Haunted House","rating":5.1,"year":2013}
+{"genre":"Comedy, Fantasy","movie":"Mr. St. Nick","rating":5.1,"year":2002}
+{"genre":"Action, Fantasy, Horror","movie":"I, Frankenstein","rating":5.1,"year":2014}
+{"genre":"Fantasy, Horror","movie":"All Cheerleaders Die","rating":5.1,"year":2013}
+{"genre":"Fantasy, Horror, Thriller","movie":"Wish Upon","rating":5.1,"year":2017}
+{"genre":"Family, Fantasy, Horror","movie":"Mostly Ghostly","rating":5.1,"year":2008}
+{"genre":"Action, Crime, Fantasy","movie":"Elephant White","rating":5.1,"year":2011}
+{"genre":"Fantasy, Thriller","movie":"The Ashram","rating":5.1,"year":2018}
+{"genre":"Action, Fantasy, Horror","movie":"Phantasm: Ravager","rating":5.1,"year":2016}
+{"genre":"Action, Fantasy, Horror","movie":"Werewolf: The Beast Among Us","rating":5.1,"year":2012}
+{"genre":"Adventure, Fantasy","movie":"Dragonheart 3: The Sorcerer's Curse","rating":5.2,"year":2015}
+{"genre":"Fantasy, Sci-Fi","movie":"Riverworld","rating":5.2,"year":2003}
+{"genre":"Comedy, Family, Fantasy","movie":"Bibi Blocksberg","rating":5.2,"year":2002}
+{"genre":"Action, Comedy, Fantasy","movie":"O Medalhão","rating":5.2,"year":2003}
+{"genre":"Fantasy, Horror, Thriller","movie":"Midnight Movie","rating":5.2,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"The Mummy: Tomb of the Dragon Emperor","rating":5.2,"year":2008}
+{"genre":"Adventure, Fantasy","movie":"Voldemort: Origins of the Heir","rating":5.2,"year":2018}
+{"genre":"Comedy, Fantasy, Romance","movie":"Over Her Dead Body","rating":5.2,"year":2008}
+{"genre":"Drama, Fantasy, Romance","movie":"Twilight","rating":5.2,"year":2008}
+{"genre":"Action, Drama, Fantasy","movie":"Suspension","rating":5.2,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"Grandes Guerreiros","rating":5.2,"year":2009}
+{"genre":"Action, Fantasy, Horror","movie":"Legion","rating":5.2,"year":2010}
+{"genre":"Fantasy, Horror, Mystery","movie":"The Final Destination","rating":5.2,"year":2009}
+{"genre":"Action, Comedy, Fantasy","movie":"Vampire Killers","rating":5.2,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"Conan the Barbarian","rating":5.2,"year":2011}
+{"genre":"Drama, Fantasy, Horror","movie":"Tamara","rating":5.2,"year":2005}
+{"genre":"Fantasy, Animation","movie":"Boo, Zino & the Snurks","rating":5.2,"year":2004}
+{"genre":"Animation, Action, Fantasy","movie":"Lady Death","rating":5.2,"year":2004}
+{"genre":"Action, Fantasy, Horror","movie":"Ghost Rider","rating":5.2,"year":2007}
+{"genre":"Drama, Fantasy","movie":"Gaja Gamini","rating":5.2,"year":2000}
+{"genre":"Fantasy","movie":"Dragonheart: Battle for the Heartfire","rating":5.2,"year":2017}
+{"genre":"Drama, Fantasy, Horror","movie":"Escape from Tomorrow","rating":5.2,"year":2013}
+{"genre":"Comedy, Fantasy","movie":"Rapture-Palooza","rating":5.2,"year":2013}
+{"genre":"Family, Fantasy, Drama","movie":"Le petit poucet","rating":5.2,"year":2001}
+{"genre":"Drama, Fantasy, Horror","movie":"Children's Play","rating":5.2,"year":2001}
+{"genre":"Action, Drama, Fantasy","movie":"Left Behind II: Tribulation Force","rating":5.2,"year":2002}
+{"genre":"Action, Comedy, Fantasy","movie":"Don't Kill It","rating":5.2,"year":2016}
+{"genre":"Fantasy, Horror, Mystery","movie":"Incarnate","rating":5.2,"year":2016}
+{"genre":"Comedy, Family, Fantasy","movie":"Like Mike","rating":5.2,"year":2002}
+{"genre":"Comedy, Drama, Fantasy","movie":"Otto; or, Up with Dead People","rating":5.3,"year":2008}
+{"genre":"Action, Fantasy, Horror","movie":"Lobos","rating":5.3,"year":2014}
+{"genre":"Action, Fantasy","movie":"Zu Warriors","rating":5.3,"year":2001}
+{"genre":"Fantasy, Horror","movie":"Scarecrow","rating":5.3,"year":2001}
+{"genre":"Fantasy, Horror","movie":"SiREN","rating":5.3,"year":2016}
+{"genre":"Fantasy, Horror","movie":"Tears of Kali","rating":5.3,"year":2004}
+{"genre":"Comedy, Fantasy","movie":"Little Nicky","rating":5.3,"year":2000}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"The Man from Earth: Holocene","rating":5.3,"year":2017}
+{"genre":"Comedy, Fantasy","movie":"Because I Don't Lie","rating":5.3,"year":2001}
+{"genre":"Adventure, Fantasy, Mystery","movie":"Império Proibido","rating":5.3,"year":2014}
+{"genre":"Thriller, Action, Fantasy","movie":"The Prophecy: Uprising","rating":5.3,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Aquamarine","rating":5.3,"year":2006}
+{"genre":"Action, Fantasy, Horror","movie":"The Covenant","rating":5.3,"year":2006}
+{"genre":"Drama, Fantasy, Horror","movie":"Queen of the Damned","rating":5.3,"year":2002}
+{"genre":"Drama, Fantasy, Horror","movie":"Desperation","rating":5.3,"year":2006}
+{"genre":"Family, Comedy, Fantasy","movie":"A Carol Christmas","rating":5.3,"year":2003}
+{"genre":"Comedy, Fantasy, Romance","movie":"Woman on Top","rating":5.3,"year":2000}
+{"genre":"Action, Fantasy, Thriller","movie":"Drive Angry","rating":5.4,"year":2011}
+{"genre":"Action, Adventure, Fantasy","movie":"Season of the Witch","rating":5.4,"year":2011}
+{"genre":"Action, Adventure, Fantasy","movie":"The Monkey King 3","rating":5.4,"year":2018}
+{"genre":"Fantasy, Horror, Thriller","movie":"Intruders","rating":5.4,"year":2011}
+{"genre":"Comedy, Fantasy, Horror","movie":"Uma Noite de Fúria","rating":5.4,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Yours, Mine & Ours","rating":5.4,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Evan Almighty","rating":5.4,"year":2007}
+{"genre":"Comedy, Fantasy","movie":"O Céu Pode Esperar","rating":5.4,"year":2001}
+{"genre":"Adventure, Family, Fantasy","movie":"The Adventurer: The Curse of the Midas Box","rating":5.4,"year":2013}
+{"genre":"Comedy, Fantasy, Romance","movie":"Just My Luck","rating":5.4,"year":2006}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Journey to the West: The Demons Strike Back","rating":5.4,"year":2017}
+{"genre":"Adventure, Fantasy","movie":"Merlin's Apprentice","rating":5.4,"year":2006}
+{"genre":"Action, Fantasy, Horror","movie":"Daylight's End","rating":5.4,"year":2016}
+{"genre":"Comedy, Family, Fantasy","movie":"Zapped","rating":5.4,"year":2014}
+{"genre":"Drama, Fantasy, Horror","movie":"The Monster","rating":5.4,"year":2016}
+{"genre":"Biography, Fantasy, Horror","movie":"A Maldição da Casa Winchester","rating":5.4,"year":2018}
+{"genre":"Action, Adventure, Fantasy","movie":"Gods of Egypt","rating":5.4,"year":2016}
+{"genre":"Comedy, Drama, Fantasy","movie":"The Tempest","rating":5.4,"year":2010}
+{"genre":"Family, Fantasy","movie":"The Last Keepers","rating":5.5,"year":2013}
+{"genre":"Comedy, Fantasy, Romance","movie":"Promedio Rojo","rating":5.5,"year":2004}
+{"genre":"Drama, Fantasy, Horror","movie":"Blood and Chocolate","rating":5.5,"year":2007}
+{"genre":"Action, Adventure, Fantasy","movie":"Seventh Son","rating":5.5,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"Lara Croft Tomb Raider: The Cradle of Life","rating":5.5,"year":2003}
+{"genre":"Drama, Fantasy, Mystery","movie":"After","rating":5.5,"year":2012}
+{"genre":"Comedy, Fantasy, Romance","movie":"My Future Boyfriend","rating":5.5,"year":2011}
+{"genre":"Comedy, Fantasy","movie":"The Hot Chick","rating":5.5,"year":2002}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King","rating":5.5,"year":2002}
+{"genre":"Action, Comedy, Fantasy","movie":"Return of the Ghostbusters","rating":5.5,"year":2007}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Breaking Dawn - Part 2","rating":5.5,"year":2012}
+{"genre":"Action, Comedy, Fantasy","movie":"Bulletproof Monk","rating":5.5,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"A Múmia","rating":5.5,"year":2017}
+{"genre":"Drama, Fantasy, Romance","movie":"À Aventura","rating":5.5,"year":2008}
+{"genre":"Animation, Action, Fantasy","movie":"Saint Seiya: Legend of Sanctuary","rating":5.5,"year":2014}
+{"genre":"Action, Comedy, Fantasy","movie":"Vampire Academy","rating":5.5,"year":2014}
+{"genre":"Action, Fantasy, Horror","movie":"Avenged","rating":5.5,"year":2013}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Your Highness","rating":5.5,"year":2011}
+{"genre":"Drama, Fantasy","movie":"The Exterminating Angels","rating":5.5,"year":2006}
+{"genre":"Action, Drama, Fantasy","movie":"Criatura Perfeita","rating":5.5,"year":2006}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"Time Changer","rating":5.5,"year":2002}
+{"genre":"Drama, Family, Fantasy","movie":"16 Desejos","rating":5.5,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"Up, Up, and Away!","rating":5.6,"year":2000}
+{"genre":"Comedy, Fantasy, Romance","movie":"Good Luck Chuck","rating":5.6,"year":2007}
+{"genre":"Adventure, Family, Fantasy","movie":"5 Criaturas e a Coisa","rating":5.6,"year":2004}
+{"genre":"Comedy, Fantasy","movie":"Les rois mages","rating":5.6,"year":2001}
+{"genre":"Fantasy, Horror, Thriller","movie":"Don't Be Afraid of the Dark","rating":5.6,"year":2010}
+{"genre":"Comedy, Fantasy","movie":"Status Update","rating":5.6,"year":2018}
+{"genre":"Crime, Fantasy, Horror","movie":"Semum","rating":5.6,"year":2008}
+{"genre":"Animation, Comedy, Fantasy","movie":"Mr. Meaty","rating":5.6,"year":20052009}
+{"genre":"Action, Adventure, Fantasy","movie":"Fantastic 4: Rise of the Silver Surfer","rating":5.6,"year":2007}
+{"genre":"Drama, Fantasy, Mystery","movie":"Lady in the Water","rating":5.6,"year":2006}
+{"genre":"Action, Drama, Fantasy","movie":"A Promessa","rating":5.6,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Fred Claus","rating":5.6,"year":2007}
+{"genre":"Drama, Fantasy, Horror","movie":"El-Cin","rating":5.6,"year":2013}
+{"genre":"Drama, Fantasy, Horror","movie":"Thale","rating":5.6,"year":2012}
+{"genre":"Animation, Family, Fantasy","movie":"Gnomes & Trolls: The Secret Chamber","rating":5.6,"year":2009}
+{"genre":"Comedy, Fantasy","movie":"Les deux mondes","rating":5.6,"year":2007}
+{"genre":"Comedy, Fantasy","movie":"B.O.K.: Bi O Kalmisti","rating":5.6,"year":2016}
+{"genre":"Comedy, Drama, Fantasy","movie":"Teen Spirit","rating":5.6,"year":2011}
+{"genre":"Adventure, Fantasy","movie":"The Monkey King","rating":5.6,"year":2001}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Prophecy 3: The Ascent","rating":5.6,"year":2000}
+{"genre":"Drama, Fantasy, Mystery","movie":"The Box","rating":5.6,"year":2009}
+{"genre":"Comedy, Drama, Fantasy","movie":"Shortcut to Happiness","rating":5.6,"year":2003}
+{"genre":"Drama, Fantasy, Romance","movie":"Beastly","rating":5.6,"year":2011}
+{"genre":"Drama, Fantasy","movie":"The Young Messiah","rating":5.6,"year":2016}
+{"genre":"Comedy, Family, Fantasy","movie":"The Santa Clause 2","rating":5.6,"year":2002}
+{"genre":"Drama, Fantasy, Horror","movie":"The Eye 2","rating":5.7,"year":2004}
+{"genre":"Fantasy, Horror, Mystery","movie":"A Christmas Horror Story","rating":5.7,"year":2015}
+{"genre":"Comedy, Fantasy, Romance","movie":"Love the Coopers","rating":5.7,"year":2015}
+{"genre":"Comedy, Fantasy, Romance","movie":"Straight Story","rating":5.7,"year":2006}
+{"genre":"Adventure, Family, Fantasy","movie":"O Melhor Amigo do Papai Noel","rating":5.7,"year":2010}
+{"genre":"Action, Fantasy, Horror","movie":"Gabriel","rating":5.7,"year":2007}
+{"genre":"Action, Fantasy, Horror","movie":"Priest","rating":5.7,"year":2011}
+{"genre":"Fantasy, Horror","movie":"Baskin","rating":5.7,"year":2015}
+{"genre":"Drama, Fantasy, Horror","movie":"Clown","rating":5.7,"year":2014}
+{"genre":"Horror, Thriller, Fantasy","movie":"Truth About Demons","rating":5.7,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Christmas Cupid","rating":5.7,"year":2010}
+{"genre":"Fantasy, Horror, Thriller","movie":"Diary of the Dead","rating":5.7,"year":2007}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Knights of Badassdom","rating":5.7,"year":2013}
+{"genre":"Adventure, Drama, Fantasy","movie":"1612: Crônicas de Um Tempo de Dificuldades","rating":5.7,"year":2007}
+{"genre":"Action, Comedy, Fantasy","movie":"Bloodsucking Bastards","rating":5.7,"year":2015}
+{"genre":"Action, Adventure, Fantasy","movie":"The Dark Tower","rating":5.7,"year":2017}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"After the Dark","rating":5.7,"year":2013}
+{"genre":"Comedy, Family, Fantasy","movie":"The Slurb","rating":5.7,"year":2001}
+{"genre":"Drama, Fantasy, Horror","movie":"White Noise 2: The Light","rating":5.7,"year":2007}
+{"genre":"Family, Fantasy, Adventure","movie":"A Wrinkle in Time","rating":5.7,"year":2003}
+{"genre":"Animation, Action, Fantasy","movie":"Ultramarines: A Warhammer 40,000 Movie","rating":5.7,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"Pair of Kings","rating":5.7,"year":20102013}
+{"genre":"Action, Adventure, Fantasy","movie":"Clash of the Titans","rating":5.8,"year":2010}
+{"genre":"Comedy, Drama, Fantasy","movie":"The Cobbler","rating":5.8,"year":2014}
+{"genre":"Adventure, Family, Fantasy","movie":"Snow White: The Fairest of Them All","rating":5.8,"year":2001}
+{"genre":"Comedy, Fantasy, Romance","movie":"Ghosts of Girlfriends Past","rating":5.8,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"Underworld: Blood Wars","rating":5.8,"year":2016}
+{"genre":"Drama, Fantasy, Mystery","movie":"Lost River","rating":5.8,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"The League of Extraordinary Gentlemen","rating":5.8,"year":2003}
+{"genre":"Drama, Family, Fantasy","movie":"Twitches Too","rating":5.8,"year":2007}
+{"genre":"Comedy, Drama, Fantasy","movie":"Ricky","rating":5.8,"year":2009}
+{"genre":"Drama, Fantasy, Horror","movie":"The Wolfman","rating":5.8,"year":2010}
+{"genre":"Adventure, Drama, Fantasy","movie":"Hercules","rating":5.8,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"Lara Croft: Tomb Raider","rating":5.8,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"Return to Halloweentown","rating":5.8,"year":2006}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie: Fairytopia","rating":5.8,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"Wolfhound","rating":5.8,"year":2006}
+{"genre":"Animation, Comedy, Fantasy","movie":"Neo Yokio","rating":5.8,"year":2017}
+{"genre":"Comedy, Fantasy, Sci-Fi","movie":"Os Viajantes do Tempo","rating":5.8,"year":2001}
+{"genre":"Fantasy, Horror, Mystery","movie":"Premonição 3","rating":5.8,"year":2006}
+{"genre":"Comedy, Fantasy","movie":"Delivering Milo","rating":5.8,"year":2001}
+{"genre":"Drama, Fantasy, Mystery","movie":"Tempestade","rating":5.8,"year":2005}
+{"genre":"Comedy, Fantasy, Horror","movie":"Mutant Girls Squad","rating":5.8,"year":2010}
+{"genre":"Drama, Family, Fantasy","movie":"Avalon High","rating":5.8,"year":2010}
+{"genre":"Comedy, Fantasy","movie":"Santa Baby","rating":5.8,"year":2006}
+{"genre":"Comedy, Fantasy, Horror","movie":"Dead & Breakfast","rating":5.8,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"Sinbad: The Fifth Voyage","rating":5.8,"year":2014}
+{"genre":"Fantasy, Drama, Adventure","movie":"Earthsea","rating":5.8,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"Fúria de Titãs 2","rating":5.8,"year":2012}
+{"genre":"Comedy, Fantasy, Horror","movie":"Netherbeast Incorporated","rating":5.8,"year":2007}
+{"genre":"Comedy, Fantasy","movie":"Premature","rating":5.8,"year":2014}
+{"genre":"Biography, Drama, Fantasy","movie":"Digging Up the Marrow","rating":5.8,"year":2014}
+{"genre":"Fantasy, Horror","movie":"Wildling","rating":5.8,"year":2018}
+{"genre":"Adventure, Family, Fantasy","movie":"Pan","rating":5.8,"year":2015}
+{"genre":"Drama, Fantasy, Horror","movie":"Passengers","rating":5.9,"year":2008}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie Mariposa and Her Butterfly Fairy Friends","rating":5.9,"year":2008}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Deus é Brasileiro","rating":5.9,"year":2003}
+{"genre":"Adventure, Comedy, Fantasy","movie":"The Incredible Burt Wonderstone","rating":5.9,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"Cirque du Freak: The Vampire's Assistant","rating":5.9,"year":2009}
+{"genre":"Comedy, Fantasy, Horror","movie":"Living Among Us","rating":5.9,"year":2018}
+{"genre":"Action, Crime, Fantasy","movie":"Os Quatro","rating":5.9,"year":2012}
+{"genre":"Comedy, Drama, Fantasy","movie":"A vida glamurosa de sachiko hanai","rating":5.9,"year":2003}
+{"genre":"Fantasy, Horror, Thriller","movie":"Southbound","rating":5.9,"year":2015}
+{"genre":"Adventure, Family, Fantasy","movie":"Percy Jackson: Sea of Monsters","rating":5.9,"year":2013}
+{"genre":"Fantasy, Horror, Mystery","movie":"Come Back to Me","rating":5.9,"year":2014}
+{"genre":"Action, Fantasy, Horror","movie":"The Mortal Instruments: City of Bones","rating":5.9,"year":2013}
+{"genre":"Comedy, Fantasy, Horror","movie":"Sheitan Warrior","rating":5.9,"year":2006}
+{"genre":"Comedy, Drama, Fantasy","movie":"Doomsday Book","rating":5.9,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"Death Trance","rating":5.9,"year":2005}
+{"genre":"Drama, Fantasy","movie":"They Came Back","rating":5.9,"year":2004}
+{"genre":"Drama, Fantasy","movie":"Adeus à Linguagem","rating":5.9,"year":2014}
+{"genre":"Adventure, Family, Fantasy","movie":"Back to the Secret Garden","rating":5.9,"year":2001}
+{"genre":"Action, Drama, Fantasy","movie":"The Legend of Evil Lake","rating":5.9,"year":2003}
+{"genre":"Fantasy, Horror, Thriller","movie":"Mermaid Chronicles Part 1: She Creature","rating":5.9,"year":2001}
+{"genre":"Comedy, Fantasy, Horror","movie":"The Substitute","rating":5.9,"year":2007}
+{"genre":"Action, Comedy, Fantasy","movie":"The Specials","rating":5.9,"year":2000}
+{"genre":"Biography, Drama, Fantasy","movie":"Bathory: Countess of Blood","rating":5.9,"year":2008}
+{"genre":"Comedy, Drama, Fantasy","movie":"Shallow Hal","rating":5.9,"year":2001}
+{"genre":"Action, Fantasy, Romance","movie":"The Sorcerer and the White Snake","rating":5.9,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Mamãe Saiu Com Um Vampiro","rating":5.9,"year":2000}
+{"genre":"Action, Fantasy, Horror","movie":"Abraham Lincoln: Vampire Hunter","rating":5.9,"year":2012}
+{"genre":"Adventure, Comedy, Fantasy","movie":"The Brothers Grimm","rating":5.9,"year":2005}
+{"genre":"Comedy, Fantasy, Sci-Fi","movie":"Sorry to Bother You","rating":5.9,"year":2018}
+{"genre":"Comedy, Drama, Fantasy","movie":"The Good Night","rating":5.9,"year":2007}
+{"genre":"Adventure, Family, Fantasy","movie":"Percy Jackson & the Olympians: The Lightning Thief","rating":5.9,"year":2010}
+{"genre":"Fantasy, Horror, Mystery","movie":"Final Destination 5","rating":5.9,"year":2011}
+{"genre":"Fantasy, Horror, Mystery","movie":"A Arte do Demônio 2","rating":5.9,"year":2005}
+{"genre":"Adventure, Fantasy, Sci-Fi","movie":"The Northlander","rating":6.0,"year":2016}
+{"genre":"Action, Adventure, Fantasy","movie":"The Last Witch Hunter","rating":6.0,"year":2015}
+{"genre":"Drama, Fantasy, Horror","movie":"Heartless","rating":6.0,"year":2009}
+{"genre":"Drama, Fantasy, Horror","movie":"Wolf Girl","rating":6.0,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"Mythica: The Darkspore","rating":6.0,"year":2015}
+{"genre":"Animation, Adventure, Fantasy","movie":"Bionicle 3: Web of Shadows","rating":6.0,"year":2005}
+{"genre":"Comedy, Drama, Fantasy","movie":"Kocan Kadar Konus Dirilis","rating":6.0,"year":2016}
+{"genre":"Action, Drama, Fantasy","movie":"Immortals","rating":6.0,"year":2011}
+{"genre":"Drama, Fantasy, Mystery","movie":"Deeply: O Segredo","rating":6.0,"year":2000}
+{"genre":"Fantasy, Horror, Thriller","movie":"House of Last Things","rating":6.0,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"The Great Wall","rating":6.0,"year":2016}
+{"genre":"Sci-Fi, Action, Fantasy","movie":"Cleopatra 2525","rating":6.0,"year":20002001}
+{"genre":"Action, Comedy, Fantasy","movie":"Sars Wars","rating":6.0,"year":2004}
+{"genre":"Adventure, Drama, Fantasy","movie":"Labirinto","rating":6.0,"year":2012}
+{"genre":"Comedy, Fantasy","movie":"Hank and Mike","rating":6.0,"year":2008}
+{"genre":"Drama, Fantasy, Horror","movie":"Starry Eyes","rating":6.0,"year":2014}
+{"genre":"Comedy, Fantasy, Romance","movie":"No Love in the City","rating":6.0,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"King Solomon's Mines","rating":6.0,"year":2004}
+{"genre":"Drama, Family, Fantasy","movie":"Demons","rating":6.0,"year":2009}
+{"genre":"Comedy, Fantasy","movie":"Bedazzled","rating":6.0,"year":2000}
+{"genre":"Adventure, Drama, Fantasy","movie":"O Guerreiro Silencioso","rating":6.0,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"O Rei Macaco 2: A Lenda Continua","rating":6.0,"year":2016}
+{"genre":"Animation, Family, Fantasy","movie":"Cinderella 3: A Twist in Time","rating":6.0,"year":2007}
+{"genre":"Family, Fantasy, Musical","movie":"A Cinderella Story: If the Shoe Fits","rating":6.0,"year":2016}
+{"genre":"Comedy, Drama, Fantasy","movie":"Prevenge","rating":6.0,"year":2016}
+{"genre":"Adventure, Fantasy","movie":"Jason and the Argonauts","rating":6.0,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Mr. Popper's Penguins","rating":6.0,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Single Santa Seeks Mrs. Claus","rating":6.0,"year":2004}
+{"genre":"Adventure, Fantasy","movie":"A Herdeira","rating":6.0,"year":2015}
+{"genre":"Comedy, Family, Fantasy","movie":"The Kid","rating":6.1,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Solomon Kane - O Caçador de Demônios","rating":6.1,"year":2009}
+{"genre":"Comedy, Family, Fantasy","movie":"Snowglobe","rating":6.1,"year":2007}
+{"genre":"Adventure, Family, Fantasy","movie":"The Oogieloves in the Big Balloon Adventure","rating":6.1,"year":2012}
+{"genre":"Comedy, Drama, Fantasy","movie":"Coisas Secretas","rating":6.1,"year":2002}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Haunting Hour: Don't Think About It","rating":6.1,"year":2007}
+{"genre":"Adventure, Family, Fantasy","movie":"Coração de Tinta: O Livro Mágico","rating":6.1,"year":2008}
+{"genre":"Drama, Fantasy, Mystery","movie":"Dragonfly","rating":6.1,"year":2002}
+{"genre":"Adventure, Family, Fantasy","movie":"Cruzada: Uma Jornada Através dos Tempos","rating":6.1,"year":2006}
+{"genre":"Action, Fantasy, Horror","movie":"João e Maria: Caçadores de Bruxas","rating":6.1,"year":2013}
+{"genre":"Comedy, Family, Fantasy","movie":"Bedtime Stories","rating":6.1,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"How the Grinch Stole Christmas","rating":6.1,"year":2000}
+{"genre":"Fantasy, Horror, Mystery","movie":"Assombração","rating":6.1,"year":2006}
+{"genre":"Adventure, Drama, Fantasy","movie":"Malice in Wonderland","rating":6.1,"year":2009}
+{"genre":"Comedy, Fantasy, Music","movie":"Jean-Philippe","rating":6.1,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"Nanny McPhee Returns","rating":6.1,"year":2010}
+{"genre":"Comedy, Drama, Fantasy","movie":"Dead Like Me: Life After Death","rating":6.1,"year":2009}
+{"genre":"Drama, Family, Fantasy","movie":"Um Desejo para o Natal","rating":6.1,"year":2016}
+{"genre":"Drama, Fantasy, Thriller","movie":"Krabat and the Legend of the Satanic Mill","rating":6.1,"year":2008}
+{"genre":"Comedy, Drama, Fantasy","movie":"The Zero Theorem","rating":6.1,"year":2013}
+{"genre":"Fantasy, Horror","movie":"Ju-on: White Ghost","rating":6.1,"year":2009}
+{"genre":"Action, Adventure, Fantasy","movie":"Tigre Branco","rating":6.1,"year":2012}
+{"genre":"Adventure, Family, Fantasy","movie":"The Golden Compass","rating":6.1,"year":2007}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie Fairytopia: Magic of the Rainbow","rating":6.1,"year":2007}
+{"genre":"Fantasy, Horror","movie":"Halloween","rating":6.1,"year":2007}
+{"genre":"Fantasy, Reality-TV","movie":"Criss Angel Mindfreak","rating":6.1,"year":20052010}
+{"genre":"Comedy, Fantasy, Romance","movie":"13 Going on 30","rating":6.1,"year":2004}
+{"genre":"Comedy, Drama, Fantasy","movie":"Phillauri","rating":6.1,"year":2017}
+{"genre":"Action, Adventure, Fantasy","movie":"Van Helsing","rating":6.1,"year":2004}
+{"genre":"Drama, Thriller, Fantasy","movie":"Inugami","rating":6.1,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"Suicide Squad","rating":6.1,"year":2016}
+{"genre":"Drama, Fantasy, Romance","movie":"Bird People","rating":6.1,"year":2014}
+{"genre":"Action, Fantasy, Horror","movie":"Tag","rating":6.1,"year":2015}
+{"genre":"Action, Comedy, Fantasy","movie":"Hwasango","rating":6.1,"year":2001}
+{"genre":"Drama, Fantasy, Horror","movie":"Marebito","rating":6.1,"year":2004}
+{"genre":"Drama, Family, Fantasy","movie":"The Dust Factory","rating":6.1,"year":2004}
+{"genre":"Fantasy, Thriller","movie":"Refúgios","rating":6.2,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Mr. Magorium's Wonder Emporium","rating":6.2,"year":2007}
+{"genre":"Animation, Action, Fantasy","movie":"Firebreather","rating":6.2,"year":2010}
+{"genre":"Adventure, Family, Fantasy","movie":"O Segredo do Vale da Lua","rating":6.2,"year":2008}
+{"genre":"Fantasy, Horror, Thriller","movie":"Nightmare Detective","rating":6.2,"year":2006}
+{"genre":"Comedy, Fantasy, Horror","movie":"The League of Gentlemen's Apocalypse","rating":6.2,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Seventeen Again","rating":6.2,"year":2000}
+{"genre":"Drama, Action, Fantasy","movie":"Out Live","rating":6.2,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Sete Espadas","rating":6.2,"year":2005}
+{"genre":"Comedy, Fantasy, Horror","movie":"Krampus","rating":6.2,"year":2015}
+{"genre":"Drama, Fantasy, Romance","movie":"O Futuro","rating":6.2,"year":2011}
+{"genre":"Fantasy, Horror, Mystery","movie":"Dead Silence","rating":6.2,"year":2007}
+{"genre":"Fantasy, Horror, Mystery","movie":"Insensíveis","rating":6.2,"year":2012}
+{"genre":"Drama, Fantasy, Horror","movie":"Before I Wake","rating":6.2,"year":2016}
+{"genre":"Action, Fantasy","movie":"300: Rise of an Empire","rating":6.2,"year":2014}
+{"genre":"Comedy, Drama, Fantasy","movie":"Extended Play","rating":6.2,"year":2006}
+{"genre":"Fantasy, Horror, Mystery","movie":"Final Destination 2","rating":6.2,"year":2003}
+{"genre":"Comedy, Fantasy, Horror","movie":"Dark Shadows","rating":6.2,"year":2012}
+{"genre":"Comedy, Family, Fantasy","movie":"Freaky Friday","rating":6.2,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"Mythica: A Quest for Heroes","rating":6.2,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"O Sonho de Greta","rating":6.2,"year":2015}
+{"genre":"Action, Adventure, Fantasy","movie":"Indiana Jones and the Kingdom of the Crystal Skull","rating":6.2,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"The Boy Who Cried Werewolf","rating":6.2,"year":2010}
+{"genre":"Drama, Fantasy, Mystery","movie":"Donovan's Echo","rating":6.2,"year":2011}
+{"genre":"Drama, Fantasy, Romance","movie":"Bear's Kiss","rating":6.2,"year":2002}
+{"genre":"Drama, Fantasy, Mystery","movie":"Rubinrot","rating":6.2,"year":2013}
+{"genre":"Adventure, Family, Fantasy","movie":"Alice Through the Looking Glass","rating":6.2,"year":2016}
+{"genre":"Comedy, Drama, Fantasy","movie":"No Such Thing","rating":6.2,"year":2001}
+{"genre":"Comedy, Fantasy","movie":"Wu Yen","rating":6.2,"year":2001}
+{"genre":"Crime, Fantasy, Horror","movie":"Musallat","rating":6.2,"year":2007}
+{"genre":"Action, Drama, Fantasy","movie":"Bunraku","rating":6.2,"year":2010}

@@ -1,0 +1,500 @@
+{"genre":"Drama, Thriller","movie":"Smolensk","rating":1.3,"year":2016}
+{"genre":"Crime, Drama, Thriller","movie":"B.T.K. Killer","rating":1.6,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Transmorphers","rating":1.7,"year":2007}
+{"genre":"Thriller","movie":"Voyeur.com","rating":1.7,"year":2000}
+{"genre":"Horror, Romance, Thriller","movie":"Birdemic: Shock and Terror","rating":1.8,"year":2010}
+{"genre":"Action, Horror, Thriller","movie":"Way of the Vampire","rating":1.9,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Age of Tomorrow","rating":2.0,"year":2014}
+{"genre":"Action, Horror, Thriller","movie":"Skeleton Man","rating":2.0,"year":2004}
+{"genre":"Drama, Thriller","movie":"Sweetie Pie","rating":2.1,"year":2002}
+{"genre":"Drama, Romance, Thriller","movie":"Joy: The Real Love Story","rating":2.2,"year":2007}
+{"genre":"Drama, Romance, Thriller","movie":"Ben & Arthur","rating":2.2,"year":2002}
+{"genre":"Horror, Thriller","movie":"The Terrible Two","rating":2.2,"year":2018}
+{"genre":"Crime, Thriller","movie":"Boom","rating":2.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"S.I.C.K. Serial Insane Clown Killer","rating":2.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"Children of the Living Dead","rating":2.3,"year":2001}
+{"genre":"Thriller","movie":"Shark Attack in the Mediterranean","rating":2.3,"year":2004}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Plataforma em Perigo","rating":2.3,"year":2004}
+{"genre":"Horror, Thriller","movie":"Nine Lives","rating":2.3,"year":2002}
+{"genre":"Horror, Mystery, Thriller","movie":"Ghost Lake","rating":2.4,"year":2004}
+{"genre":"Horror, Thriller","movie":"Survival Island","rating":2.4,"year":2002}
+{"genre":"Action, Adventure, Thriller","movie":"2010: Moby Dick","rating":2.4,"year":2010}
+{"genre":"Horror, Thriller","movie":"Legion of the Dead","rating":2.5,"year":2005}
+{"genre":"Horror, Thriller","movie":"Intermedio","rating":2.5,"year":2005}
+{"genre":"Crime, Horror, Thriller","movie":"Sanctimony","rating":2.6,"year":2000}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Alien Abduction","rating":2.6,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Deep Core","rating":2.6,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Mega Shark vs. Mecha Shark","rating":2.6,"year":2014}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Leeches!","rating":2.6,"year":2003}
+{"genre":"Drama, Horror, Thriller","movie":"The Captives","rating":2.7,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":".com for Murder","rating":2.7,"year":2002}
+{"genre":"Action, Drama, Thriller","movie":"Never Surrender","rating":2.7,"year":2009}
+{"genre":"Horror, Thriller","movie":"Ilha dos Mortos","rating":2.7,"year":2000}
+{"genre":"Adventure, Horror, Thriller","movie":"Octopus 2: River of Fear","rating":2.8,"year":2001}
+{"genre":"Action, Sci-Fi, Thriller","movie":"American Warships","rating":2.8,"year":2012}
+{"genre":"Drama, Horror, Thriller","movie":"Death Valley: The Revenge of Bloody Bill","rating":2.8,"year":2004}
+{"genre":"Thriller","movie":"The Smokers","rating":2.8,"year":2000}
+{"genre":"Horror, Thriller","movie":"Dark Spells","rating":2.8,"year":2004}
+{"genre":"Comedy, Thriller","movie":"The Class of Chaos 3,5","rating":2.8,"year":2005}
+{"genre":"Action, Thriller","movie":"Força de Ataque","rating":2.8,"year":2006}
+{"genre":"Drama, Mystery, Thriller","movie":"Fuga na Escuridão","rating":2.8,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Cell 2","rating":2.9,"year":2009}
+{"genre":"Comedy, Horror, Thriller","movie":"The Greenskeeper","rating":2.9,"year":2002}
+{"genre":"Action, Fantasy, Thriller","movie":"Jaani Dushman: Ek Anokhi Kahani","rating":2.9,"year":2002}
+{"genre":"Drama, Thriller","movie":"Jism 2","rating":3.0,"year":2012}
+{"genre":"Horror, Mystery, Thriller","movie":"13th Child","rating":3.0,"year":2002}
+{"genre":"Horror, Thriller","movie":"Final Examination","rating":3.0,"year":2003}
+{"genre":"Drama, Horror, Thriller","movie":"Bloody Murder","rating":3.0,"year":2000}
+{"genre":"Action, Thriller, Sci-Fi","movie":"Falcon Down","rating":3.1,"year":2001}
+{"genre":"Drama, Romance, Thriller","movie":"The Last Sign","rating":3.1,"year":2005}
+{"genre":"Action, Thriller, Drama","movie":"Road Rage","rating":3.1,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"King of Fighters - A Batalha Final","rating":3.1,"year":2010}
+{"genre":"Sci-Fi, Thriller, War","movie":"Princess of Mars","rating":3.1,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Dinocroc","rating":3.1,"year":2004}
+{"genre":"Horror, Mystery, Thriller","movie":"Episode 50","rating":3.1,"year":2011}
+{"genre":"Horror, Thriller, Mystery","movie":"Do You Wanna Know a Secret?","rating":3.1,"year":2001}
+{"genre":"Horror, Mystery, Thriller","movie":"Incubus","rating":3.1,"year":2006}
+{"genre":"Thriller","movie":"Inhumane","rating":3.1,"year":2018}
+{"genre":"Sci-Fi, Thriller","movie":"The Black Hole","rating":3.2,"year":2006}
+{"genre":"Horror, Thriller","movie":"Fear of Clowns","rating":3.2,"year":2004}
+{"genre":"Horror, Thriller","movie":"Greystone Park","rating":3.2,"year":2012}
+{"genre":"Action, Thriller","movie":"Zanjeer","rating":3.2,"year":2013}
+{"genre":"Comedy, Horror, Thriller","movie":"Casa do Terror","rating":3.2,"year":2001}
+{"genre":"Action, Horror, Thriller","movie":"Beneath Loch Ness","rating":3.2,"year":2001}
+{"genre":"Horror, Thriller","movie":"Unspeakable","rating":3.2,"year":2002}
+{"genre":"Drama, Action, Thriller","movie":"Ablaze","rating":3.2,"year":2001}
+{"genre":"Sci-Fi, Thriller","movie":"Metal Tornado","rating":3.3,"year":2011}
+{"genre":"Action, Horror, Thriller","movie":"Vampires: The Turning","rating":3.3,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Dark Island","rating":3.3,"year":2010}
+{"genre":"Fantasy, Horror, Thriller","movie":"Alone in the Dark 2: O Retorno do Mal","rating":3.3,"year":2008}
+{"genre":"Action, Thriller","movie":"The Way of War","rating":3.3,"year":2009}
+{"genre":"Horror, Thriller","movie":"Filhos da Escuridao","rating":3.3,"year":2011}
+{"genre":"Crime, Horror, Thriller","movie":"Feardotcom","rating":3.3,"year":2002}
+{"genre":"Horror, Thriller","movie":"The Open House","rating":3.3,"year":2018}
+{"genre":"Action, Thriller","movie":"The Foreigner","rating":3.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"Ring Around the Rosie","rating":3.3,"year":2006}
+{"genre":"Sci-Fi, Thriller, Horror","movie":"Teenage Caveman","rating":3.3,"year":2002}
+{"genre":"Horror, Thriller","movie":"Brocéliande","rating":3.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"Cheerleader Massacre","rating":3.3,"year":2003}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Blackout","rating":3.4,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Spiders 3D","rating":3.4,"year":2013}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Dragon Fighter","rating":3.4,"year":2003}
+{"genre":"Action, Crime, Thriller","movie":"Determinado a Matar","rating":3.4,"year":2003}
+{"genre":"Crime, Horror, Thriller","movie":"Nightstalker","rating":3.4,"year":2002}
+{"genre":"Crime, Drama, Thriller","movie":"Hate Story IV","rating":3.4,"year":2018}
+{"genre":"Horror, Thriller","movie":"Vlad","rating":3.4,"year":2003}
+{"genre":"Mystery, Romance, Thriller","movie":"Fascination","rating":3.4,"year":2004}
+{"genre":"Action, Crime, Thriller","movie":"Cash","rating":3.4,"year":2007}
+{"genre":"Drama, Thriller","movie":"Bound","rating":3.5,"year":2015}
+{"genre":"Horror, Thriller","movie":"Don't Let Him In","rating":3.5,"year":2011}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Absolute Zero","rating":3.5,"year":2006}
+{"genre":"Horror, Thriller","movie":"Devil's Prey","rating":3.5,"year":2001}
+{"genre":"Horror, Thriller","movie":"The Attic","rating":3.5,"year":2007}
+{"genre":"Thriller","movie":"The Diver","rating":3.5,"year":2000}
+{"genre":"Horror, Thriller","movie":"Children of the Corn: Revelation","rating":3.5,"year":2001}
+{"genre":"Action, Thriller","movie":"Lies & Illusions","rating":3.5,"year":2009}
+{"genre":"Action, Horror, Thriller","movie":"The Last Heist","rating":3.5,"year":2016}
+{"genre":"Fantasy, Horror, Thriller","movie":"O Mestre dos Desejos 3 - Além da Porta do Inferno","rating":3.6,"year":2001}
+{"genre":"Fantasy, Horror, Thriller","movie":"Metamorphosis","rating":3.6,"year":2007}
+{"genre":"Action, Crime, Thriller","movie":"Ticker","rating":3.6,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"They Crawl","rating":3.6,"year":2001}
+{"genre":"Horror, Thriller","movie":"Trilha de Sangue","rating":3.6,"year":2006}
+{"genre":"Horror, Thriller","movie":"The Chosen","rating":3.6,"year":2015}
+{"genre":"Action, Thriller","movie":"Flight of Fury","rating":3.6,"year":2007}
+{"genre":"Crime, Thriller","movie":"24 Hours in London","rating":3.6,"year":2000}
+{"genre":"Crime, Mystery, Thriller","movie":"I Know Who Killed Me","rating":3.6,"year":2007}
+{"genre":"Horror, Romance, Thriller","movie":"Dracula 3D","rating":3.6,"year":2012}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Area 407","rating":3.6,"year":2012}
+{"genre":"Action, Drama, Thriller","movie":"Assassin's Bullet","rating":3.6,"year":2012}
+{"genre":"Horror, Thriller","movie":"Bloody Mary","rating":3.6,"year":2006}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"S. Darko","rating":3.6,"year":2009}
+{"genre":"Thriller, Drama, Mystery","movie":"Na Sombra de um Assassino","rating":3.6,"year":2000}
+{"genre":"Horror, Thriller","movie":"The Abortion","rating":3.6,"year":2006}
+{"genre":"Action, Horror, Thriller","movie":"A Última Tempestade","rating":3.6,"year":2010}
+{"genre":"Horror, Thriller","movie":"The Hatred","rating":3.7,"year":2017}
+{"genre":"Mystery, Thriller","movie":"Perigos da Mente","rating":3.7,"year":2013}
+{"genre":"Horror, Mystery, Thriller","movie":"The Telling","rating":3.7,"year":2009}
+{"genre":"Horror, Thriller","movie":"The Butcher","rating":3.7,"year":2006}
+{"genre":"Horror, Mystery, Thriller","movie":"The Wicker Man","rating":3.7,"year":2006}
+{"genre":"Adventure, Horror, Thriller","movie":"The Graves","rating":3.7,"year":2009}
+{"genre":"Horror, Thriller","movie":"The Remains","rating":3.7,"year":2016}
+{"genre":"Horror, Thriller","movie":"11:11 - A Nova Profecia","rating":3.7,"year":2004}
+{"genre":"Action, Music, Thriller","movie":"Turbulence 3: Heavy Metal","rating":3.7,"year":2001}
+{"genre":"Drama, Thriller","movie":"The Letter","rating":3.7,"year":2012}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Webs","rating":3.7,"year":2003}
+{"genre":"Horror, Mystery, Thriller","movie":"Asylum of Fear","rating":3.7,"year":2018}
+{"genre":"Adventure, Horror, Thriller","movie":"The Lost Tribe","rating":3.8,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"O Ataque dos Insetos","rating":3.8,"year":2003}
+{"genre":"Thriller","movie":"Tomorrow You're Gone","rating":3.8,"year":2012}
+{"genre":"Action, Crime, Thriller","movie":"Hijacked","rating":3.8,"year":2012}
+{"genre":"Horror, Thriller","movie":"Children of the Corn: Genesis","rating":3.8,"year":2011}
+{"genre":"Horror, Thriller","movie":"All Souls Day: Dia de los Muertos","rating":3.8,"year":2005}
+{"genre":"Horror, Mystery, Thriller","movie":"Crowsnest","rating":3.8,"year":2012}
+{"genre":"Sci-Fi, Thriller","movie":"The Void","rating":3.8,"year":2001}
+{"genre":"Thriller","movie":"Gen","rating":3.8,"year":2006}
+{"genre":"Horror, Thriller","movie":"The Tomb","rating":3.8,"year":2009}
+{"genre":"Horror, Thriller","movie":"The Executioners","rating":3.8,"year":2018}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Wicked","rating":3.8,"year":2013}
+{"genre":"Action, Horror, Thriller","movie":"Armed Response","rating":3.8,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"Komaram Puli","rating":3.8,"year":2010}
+{"genre":"Horror, Thriller","movie":"Road Kill","rating":3.8,"year":2010}
+{"genre":"Crime, Horror, Thriller","movie":"Paranoid","rating":3.9,"year":2000}
+{"genre":"Horror, Mystery, Thriller","movie":"Treehouse","rating":3.9,"year":2014}
+{"genre":"Horror, Thriller","movie":"Children of the Corn","rating":3.9,"year":2009}
+{"genre":"Action, Comedy, Thriller","movie":"Nude Nuns with Big Guns","rating":3.9,"year":2010}
+{"genre":"Drama, Horror, Thriller","movie":"The Disappointments Room","rating":3.9,"year":2016}
+{"genre":"Horror, Fantasy, Thriller","movie":"Voodoo Academy","rating":3.9,"year":2000}
+{"genre":"Drama, Thriller","movie":"Baltic Storm","rating":3.9,"year":2003}
+{"genre":"Action, Drama, Thriller","movie":"Betrayal","rating":3.9,"year":2003}
+{"genre":"Comedy, Horror, Thriller","movie":"Cruel World","rating":3.9,"year":2005}
+{"genre":"Action, Thriller","movie":"Escape Under Pressure","rating":3.9,"year":2000}
+{"genre":"Drama, Thriller","movie":"Jill Rips","rating":3.9,"year":2000}
+{"genre":"Horror, Thriller","movie":"American Psycho II: All American Girl","rating":3.9,"year":2002}
+{"genre":"Horror, Mystery, Thriller","movie":"The Last Seven","rating":3.9,"year":2010}
+{"genre":"Horror, Mystery, Thriller","movie":"Mistério no Lago","rating":3.9,"year":2005}
+{"genre":"Sci-Fi, Thriller","movie":"O Frio do Universo","rating":3.9,"year":2010}
+{"genre":"Action, Thriller","movie":"Paintball","rating":3.9,"year":2009}
+{"genre":"Drama, Horror, Thriller","movie":"The Haunting of Molly Hartley","rating":3.9,"year":2008}
+{"genre":"Drama, Thriller","movie":"The Canyons","rating":3.9,"year":2013}
+{"genre":"Action, Thriller","movie":"Derailed","rating":3.9,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Arsenal","rating":3.9,"year":2017}
+{"genre":"Romance, Thriller","movie":"Trois","rating":3.9,"year":2000}
+{"genre":"Drama, Horror, Thriller","movie":"O Último Exorcismo - Parte 2","rating":4.0,"year":2013}
+{"genre":"Comedy, Horror, Thriller","movie":"Nightmare Man","rating":4.0,"year":2006}
+{"genre":"Horror, Mystery, Thriller","movie":"11-11-11","rating":4.0,"year":2011}
+{"genre":"Horror, Thriller","movie":"Shark Night 3D","rating":4.0,"year":2011}
+{"genre":"Thriller","movie":"White Water Fury","rating":4.0,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Jurassic City","rating":4.0,"year":2015}
+{"genre":"Sci-Fi, Thriller","movie":"All Superheroes Must Die","rating":4.0,"year":2011}
+{"genre":"Thriller","movie":"Shelter Island","rating":4.0,"year":2003}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Silent Warnings","rating":4.0,"year":2003}
+{"genre":"Horror, Thriller","movie":"The Calling","rating":4.0,"year":2000}
+{"genre":"Action, Horror, Thriller","movie":"Black Ops","rating":4.0,"year":2008}
+{"genre":"Horror, Thriller","movie":"The Lodge","rating":4.0,"year":2008}
+{"genre":"Horror, Thriller","movie":"Teacher's Pet","rating":4.0,"year":2000}
+{"genre":"Thriller, Sci-Fi","movie":"The Source","rating":4.0,"year":2002}
+{"genre":"Mystery, Thriller","movie":"The Steam Experiment","rating":4.0,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Super Hybrid","rating":4.0,"year":2010}
+{"genre":"Drama, Horror, Thriller","movie":"Maldição: Reze para Não Vê-La","rating":4.0,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Kill Speed","rating":4.0,"year":2010}
+{"genre":"Horror, Thriller","movie":"Neighbor","rating":4.0,"year":2009}
+{"genre":"Action, Horror, Thriller","movie":"Rise of the Zombies","rating":4.0,"year":2012}
+{"genre":"Horror, Mystery, Thriller","movie":"Mortuary","rating":4.0,"year":2005}
+{"genre":"Drama, Thriller","movie":"Single White Female 2: The Psycho","rating":4.1,"year":2005}
+{"genre":"Action, Thriller","movie":"Shadow Man","rating":4.1,"year":2006}
+{"genre":"Thriller","movie":"Rites of Passage","rating":4.1,"year":2012}
+{"genre":"Drama, Romance, Thriller","movie":"Fifty Shades of Grey","rating":4.1,"year":2015}
+{"genre":"Mystery, Thriller","movie":"Riddle","rating":4.1,"year":2013}
+{"genre":"Drama, Horror, Thriller","movie":"Open Water 3: Cage Dive","rating":4.1,"year":2017}
+{"genre":"Crime, Horror, Thriller","movie":"Cold and Dark","rating":4.1,"year":2005}
+{"genre":"Horror, Thriller","movie":"Mockingbird","rating":4.1,"year":2014}
+{"genre":"Horror, Thriller","movie":"Evil Remains","rating":4.1,"year":2004}
+{"genre":"Action, Adventure, Thriller","movie":"The Marksman","rating":4.1,"year":2005}
+{"genre":"Thriller","movie":"Deserto em Fogo","rating":4.1,"year":2016}
+{"genre":"Horror, Mystery, Thriller","movie":"Devil's Due","rating":4.1,"year":2014}
+{"genre":"Horror, Mystery, Thriller","movie":"The Inn","rating":4.1,"year":2004}
+{"genre":"Comedy, Horror, Thriller","movie":"Halloween: Resurrection","rating":4.1,"year":2002}
+{"genre":"Drama, Mystery, Thriller","movie":"A Casa da Morte","rating":4.1,"year":2000}
+{"genre":"Crime, Horror, Thriller","movie":"Scar","rating":4.1,"year":2007}
+{"genre":"Horror, Thriller","movie":"The Apparition","rating":4.1,"year":2012}
+{"genre":"Thriller","movie":"The Institute","rating":4.1,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"Players","rating":4.1,"year":2012}
+{"genre":"Horror, Thriller","movie":"Devorador de Almas","rating":4.1,"year":2006}
+{"genre":"Horror, Thriller","movie":"The Cellar Door","rating":4.1,"year":2007}
+{"genre":"Sci-Fi, Thriller","movie":"Atomica","rating":4.1,"year":2017}
+{"genre":"Horror, Thriller","movie":"O Viajante","rating":4.1,"year":2010}
+{"genre":"Horror, Mystery, Thriller","movie":"Madison County","rating":4.1,"year":2011}
+{"genre":"Thriller","movie":"The List","rating":4.1,"year":2007}
+{"genre":"Horror, Mystery, Thriller","movie":"The St. Francisville Experiment","rating":4.1,"year":2000}
+{"genre":"Action, Crime, Thriller","movie":"Living & Dying","rating":4.1,"year":2007}
+{"genre":"Sci-Fi, Action, Thriller","movie":"Absolon","rating":4.2,"year":2003}
+{"genre":"Thriller","movie":"Jinn","rating":4.2,"year":2014}
+{"genre":"Horror, Mystery, Thriller","movie":"The Dead Outside","rating":4.2,"year":2008}
+{"genre":"Horror, Thriller","movie":"Chain Letter","rating":4.2,"year":2009}
+{"genre":"Drama, Romance, Thriller","movie":"Aashiq Banaya Aapne: Love Takes Over","rating":4.2,"year":2005}
+{"genre":"Drama, Horror, Thriller","movie":"Mal Intencionados","rating":4.2,"year":2015}
+{"genre":"Horror, Thriller","movie":"Dark Summer","rating":4.2,"year":2015}
+{"genre":"Horror, Thriller","movie":"V\/H\/S Viral","rating":4.2,"year":2014}
+{"genre":"Comedy, Thriller, Horror","movie":"Cut: Cenas de Horror","rating":4.2,"year":2000}
+{"genre":"Action, Crime, Thriller","movie":"Plan","rating":4.2,"year":2004}
+{"genre":"Drama, Horror, Thriller","movie":"Reencarnação","rating":4.2,"year":2004}
+{"genre":"Fantasy, Horror, Thriller","movie":"Urban Legends: Bloody Mary","rating":4.2,"year":2005}
+{"genre":"Crime, Horror, Thriller","movie":"The Hunters","rating":4.2,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Area 51","rating":4.2,"year":2015}
+{"genre":"Horror, Thriller","movie":"The Gallows","rating":4.2,"year":2015}
+{"genre":"Horror, Thriller","movie":"Pânico na Floresta","rating":4.2,"year":2000}
+{"genre":"Horror, Thriller","movie":"Lake Dead","rating":4.2,"year":2007}
+{"genre":"Horror, Thriller","movie":"Run! Bitch Run!","rating":4.2,"year":2009}
+{"genre":"Thriller","movie":"In the Cloud","rating":4.2,"year":2018}
+{"genre":"Horror, Mystery, Thriller","movie":"Room 6","rating":4.2,"year":2006}
+{"genre":"Action, Drama, Thriller","movie":"Mercenary for Justice","rating":4.2,"year":2006}
+{"genre":"Horror, Thriller","movie":"The Forgotten Ones","rating":4.2,"year":2009}
+{"genre":"Action, Crime, Thriller","movie":"Locked Down","rating":4.2,"year":2010}
+{"genre":"Action, Thriller","movie":"Rough Air: Danger on Flight 534","rating":4.2,"year":2001}
+{"genre":"Comedy, Horror, Thriller","movie":"Slash - Rock do Terror","rating":4.2,"year":2002}
+{"genre":"Sci-Fi, Thriller","movie":"Android Apocalypse","rating":4.2,"year":2006}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Prince","rating":4.2,"year":2010}
+{"genre":"Adventure, Comedy, Thriller","movie":"55 esaaf","rating":4.2,"year":2001}
+{"genre":"Horror, Mystery, Thriller","movie":"Evil Things","rating":4.2,"year":2009}
+{"genre":"Horror, Thriller","movie":"Rogue River","rating":4.3,"year":2012}
+{"genre":"Action, Thriller","movie":"A Arte da Guerra II","rating":4.3,"year":2008}
+{"genre":"Action, Thriller","movie":"The Condemned 2","rating":4.3,"year":2015}
+{"genre":"Horror, Mystery, Thriller","movie":"Jeepers Creepers III","rating":4.3,"year":2017}
+{"genre":"Horror, Thriller","movie":"O Senhor dos Sonhos","rating":4.3,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Code of Honor","rating":4.3,"year":2016}
+{"genre":"Horror, Thriller","movie":"Heilstätten","rating":4.3,"year":2018}
+{"genre":"Action, Crime, Thriller","movie":"Today You Die","rating":4.3,"year":2005}
+{"genre":"Thriller","movie":"Stealing Candy","rating":4.3,"year":2003}
+{"genre":"Comedy, Horror, Thriller","movie":"ThanksKilling","rating":4.3,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Earth vs. the Spider","rating":4.3,"year":2001}
+{"genre":"Horror, Thriller","movie":"The Remaining","rating":4.3,"year":2014}
+{"genre":"Sci-Fi, Thriller","movie":"Cloned: The Recreator Chronicles","rating":4.3,"year":2012}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Monsters: Dark Continent","rating":4.3,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"Art Heist","rating":4.3,"year":2004}
+{"genre":"Horror, Thriller","movie":"Simon Says","rating":4.3,"year":2006}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Kaw","rating":4.3,"year":2007}
+{"genre":"Horror, Thriller","movie":"The Pool","rating":4.3,"year":2001}
+{"genre":"Adventure, Drama, Thriller","movie":"Dark Tide","rating":4.3,"year":2012}
+{"genre":"Thriller","movie":"Impact Point","rating":4.3,"year":2008}
+{"genre":"Comedy, Horror, Thriller","movie":"Return to Cabin by the Lake","rating":4.3,"year":2001}
+{"genre":"Drama, Romance, Thriller","movie":"Briar Patch","rating":4.3,"year":2003}
+{"genre":"Drama, Mystery, Thriller","movie":"Basic Instinct 2","rating":4.3,"year":2006}
+{"genre":"Horror, Thriller","movie":"A Maldição da Libélula","rating":4.3,"year":2009}
+{"genre":"Action, Horror, Thriller","movie":"Red Sands","rating":4.3,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Vampire Bats","rating":4.3,"year":2005}
+{"genre":"Action, Drama, Thriller","movie":"Detention","rating":4.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"The Hitcher II: I've Been Waiting","rating":4.3,"year":2003}
+{"genre":"Horror, Mystery, Thriller","movie":"Pod","rating":4.3,"year":2015}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Ice Quake","rating":4.3,"year":2010}
+{"genre":"Action, Fantasy, Thriller","movie":"Ghost Rider: Spirit of Vengeance","rating":4.3,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Octane","rating":4.3,"year":2003}
+{"genre":"Thriller, Drama","movie":"Angel of Death","rating":4.3,"year":2002}
+{"genre":"Horror, Thriller","movie":"The Bye Bye Man","rating":4.3,"year":2017}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Jekyll + Hyde","rating":4.3,"year":2006}
+{"genre":"Action, Thriller","movie":"Ação Imediata","rating":4.3,"year":2009}
+{"genre":"Crime, Romance, Thriller","movie":"Spider's Web","rating":4.3,"year":2002}
+{"genre":"Horror, Thriller","movie":"Playback","rating":4.3,"year":2012}
+{"genre":"Thriller, Horror","movie":"Dark Asylum","rating":4.3,"year":2001}
+{"genre":"Crime, Thriller","movie":"3 Blind Mice","rating":4.3,"year":2003}
+{"genre":"Horror, Thriller","movie":"Fright Night 2","rating":4.3,"year":2013}
+{"genre":"Action, Thriller","movie":"Soldados da Fortuna","rating":4.3,"year":2012}
+{"genre":"Thriller, Drama","movie":"The House Next Door","rating":4.4,"year":2002}
+{"genre":"Horror, Thriller","movie":"Skew","rating":4.4,"year":2011}
+{"genre":"Horror, Thriller","movie":"Cabin Fever 3: Patient Zero","rating":4.4,"year":2014}
+{"genre":"Action, Horror, Thriller","movie":"Route 666","rating":4.4,"year":2001}
+{"genre":"Action, Horror, Thriller","movie":"Eternal Blood","rating":4.4,"year":2002}
+{"genre":"Drama, Horror, Thriller","movie":"The Presence","rating":4.4,"year":2010}
+{"genre":"Horror, Thriller","movie":"30 Days of Night: Dark Days","rating":4.4,"year":2010}
+{"genre":"Drama, Mystery, Thriller","movie":"The Fields","rating":4.4,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Alone","rating":4.4,"year":2002}
+{"genre":"Horror, Thriller","movie":"Giallo","rating":4.4,"year":2009}
+{"genre":"Drama, Thriller","movie":"Vingança ao anoitecer","rating":4.4,"year":2014}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Skyline","rating":4.4,"year":2010}
+{"genre":"Thriller","movie":"Sexual Predator","rating":4.4,"year":2001}
+{"genre":"Horror, Mystery, Thriller","movie":"Abattoir","rating":4.4,"year":2016}
+{"genre":"Horror, Thriller","movie":"Summer's Moon","rating":4.4,"year":2009}
+{"genre":"Action, Sci-Fi, Thriller","movie":"WEAPONiZED","rating":4.4,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"How to Make a Monster","rating":4.4,"year":2001}
+{"genre":"Drama, Thriller","movie":"Poison Ivy: The Secret Society","rating":4.4,"year":2008}
+{"genre":"Horror, Mystery, Thriller","movie":"Breathing Room","rating":4.4,"year":2008}
+{"genre":"Action, Horror, Thriller","movie":"Detour","rating":4.4,"year":2003}
+{"genre":"Crime, Drama, Thriller","movie":"Open House","rating":4.4,"year":2010}
+{"genre":"Action, Crime, Thriller","movie":"Kite","rating":4.4,"year":2014}
+{"genre":"Horror, Thriller","movie":"Paraíso do medo","rating":4.4,"year":2010}
+{"genre":"Thriller","movie":"The Victim","rating":4.4,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Mimic: Sentinel","rating":4.4,"year":2003}
+{"genre":"Drama, Thriller","movie":"The Drowning","rating":4.4,"year":2016}
+{"genre":"Horror, Mystery, Thriller","movie":"The Pact II","rating":4.4,"year":2014}
+{"genre":"Horror, Thriller","movie":"Bedeviled","rating":4.4,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Acima da Lei","rating":4.4,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Finders Keepers","rating":4.4,"year":2014}
+{"genre":"Drama, Action, Thriller","movie":"The President's Man: A Line in the Sand","rating":4.4,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Getaway","rating":4.4,"year":2013}
+{"genre":"Drama, Romance, Thriller","movie":"Fifty Shades Freed","rating":4.4,"year":2018}
+{"genre":"Horror, Thriller","movie":"Steel Trap","rating":4.4,"year":2007}
+{"genre":"Crime, Drama, Thriller","movie":"Played","rating":4.4,"year":2006}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Ultraviolet","rating":4.4,"year":2006}
+{"genre":"Horror, Thriller","movie":"Scrapbook","rating":4.4,"year":2000}
+{"genre":"Horror, Thriller","movie":"Lugares Escuros","rating":4.4,"year":2006}
+{"genre":"Action, Horror, Thriller","movie":"Mustang Sally","rating":4.4,"year":2006}
+{"genre":"Action, Crime, Thriller","movie":"S.W.A.T.: Under Siege","rating":4.4,"year":2017}
+{"genre":"Horror, Thriller","movie":"Keep Watching","rating":4.4,"year":2017}
+{"genre":"Drama, Thriller","movie":"The Frozen","rating":4.4,"year":2012}
+{"genre":"Drama, Thriller","movie":"Pleasure or Pain","rating":4.4,"year":2013}
+{"genre":"Drama, Thriller","movie":"Hate Story 2","rating":4.5,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"Free Fall","rating":4.5,"year":2014}
+{"genre":"Horror, Thriller","movie":"Wolves at the Door","rating":4.5,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Double Identity","rating":4.5,"year":2009}
+{"genre":"Action, Thriller","movie":"Behind Enemy Lines II: Axis of Evil","rating":4.5,"year":2006}
+{"genre":"Horror, Mystery, Thriller","movie":"Eloise","rating":4.5,"year":2017}
+{"genre":"Fantasy, Horror, Thriller","movie":"Alma Diabólica","rating":4.5,"year":2008}
+{"genre":"Horror, Thriller","movie":"The Monkey's Paw","rating":4.5,"year":2013}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"WarGames: The Dead Code","rating":4.5,"year":2008}
+{"genre":"Comedy, Horror, Thriller","movie":"Julia X","rating":4.5,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Psych:9","rating":4.5,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Rape Me","rating":4.5,"year":2000}
+{"genre":"Action, Adventure, Thriller","movie":"Into the Sun","rating":4.5,"year":2005}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Butterfly Effect 2","rating":4.5,"year":2006}
+{"genre":"Horror, Thriller","movie":"Truth or Dare","rating":4.5,"year":2018}
+{"genre":"Action, Adventure, Thriller","movie":"Diablo","rating":4.5,"year":2015}
+{"genre":"Horror, Thriller","movie":"Plague Town","rating":4.5,"year":2008}
+{"genre":"Comedy, Mystery, Thriller","movie":"Bad Kids Go to Hell","rating":4.5,"year":2012}
+{"genre":"Crime, Horror, Thriller","movie":"The Girl in the Photographs","rating":4.5,"year":2015}
+{"genre":"Drama, Thriller","movie":"Hate Story 3","rating":4.5,"year":2015}
+{"genre":"Horror, Thriller","movie":"Spirit Trap","rating":4.5,"year":2005}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"400 Days","rating":4.5,"year":2015}
+{"genre":"Horror, Thriller","movie":"Escape Room","rating":4.5,"year":2017}
+{"genre":"Horror, Mystery, Thriller","movie":"Bigfoot: The Lost Coast Tapes","rating":4.5,"year":2012}
+{"genre":"Horror, Thriller","movie":"Cup of My Blood","rating":4.5,"year":2005}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Antisocial","rating":4.5,"year":2013}
+{"genre":"Comedy, Drama, Thriller","movie":"Compulsão Assassina","rating":4.5,"year":2013}
+{"genre":"Drama, Fantasy, Thriller","movie":"Fateful Findings","rating":4.5,"year":2013}
+{"genre":"Horror, Thriller","movie":"Beneath the Darkness","rating":4.5,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Barricade","rating":4.5,"year":2012}
+{"genre":"Action, Comedy, Thriller","movie":"Postal","rating":4.5,"year":2007}
+{"genre":"Drama, Thriller","movie":"When Will I Be Loved","rating":4.5,"year":2004}
+{"genre":"Action, Crime, Thriller","movie":"Hard Cash","rating":4.5,"year":2002}
+{"genre":"Horror, Thriller","movie":"Hallowed Ground","rating":4.5,"year":2007}
+{"genre":"Thriller","movie":"Looking Glass","rating":4.5,"year":2018}
+{"genre":"Action, Adventure, Thriller","movie":"Extreme Ops","rating":4.5,"year":2002}
+{"genre":"Horror, Thriller","movie":"Ouija: O Jogo dos Espíritos","rating":4.5,"year":2014}
+{"genre":"Action, Horror, Thriller","movie":"Night Wolf","rating":4.5,"year":2010}
+{"genre":"Action, Crime, Thriller","movie":"Born to Raise Hell","rating":4.5,"year":2010}
+{"genre":"Action, Horror, Thriller","movie":"Day of the Dead","rating":4.5,"year":2008}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Hollow","rating":4.5,"year":2004}
+{"genre":"Horror, Thriller","movie":"Rites of Spring","rating":4.5,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Munger Road","rating":4.5,"year":2011}
+{"genre":"Crime, Thriller","movie":"American Crime","rating":4.5,"year":2004}
+{"genre":"Romance, Thriller","movie":"Method","rating":4.5,"year":2004}
+{"genre":"Horror, Thriller","movie":"The Devil's Ground","rating":4.5,"year":2009}
+{"genre":"Horror, Thriller","movie":"Demônios","rating":4.5,"year":2006}
+{"genre":"Crime, Thriller","movie":"Kidnap","rating":4.6,"year":2008}
+{"genre":"Drama, Thriller","movie":"Josie","rating":4.6,"year":2018}
+{"genre":"Horror, Thriller","movie":"Hit and Run","rating":4.6,"year":2009}
+{"genre":"Fantasy, Horror, Thriller","movie":"The Prophecy: Forsaken","rating":4.6,"year":2005}
+{"genre":"Drama, Mystery, Thriller","movie":"The In Crowd","rating":4.6,"year":2000}
+{"genre":"Action, Thriller","movie":"The Prince","rating":4.6,"year":2014}
+{"genre":"Mystery, Thriller","movie":"Iron Doors","rating":4.6,"year":2010}
+{"genre":"Thriller","movie":"You Get Me","rating":4.6,"year":2017}
+{"genre":"Horror, Thriller","movie":"Garden of Love","rating":4.6,"year":2003}
+{"genre":"Crime, Horror, Thriller","movie":"H6: Diario de un asesino","rating":4.6,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Half Past Dead","rating":4.6,"year":2002}
+{"genre":"Crime, Thriller, Action","movie":"Soul Assassin","rating":4.6,"year":2001}
+{"genre":"Horror, Mystery, Thriller","movie":"Exeter","rating":4.6,"year":2015}
+{"genre":"Drama, Horror, Thriller","movie":"Ratter","rating":4.6,"year":2015}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Mafiya: Igra na vyzhivanie","rating":4.6,"year":2016}
+{"genre":"Thriller","movie":"A Casa do Medo","rating":4.6,"year":2015}
+{"genre":"Horror, Thriller","movie":"Catacombs","rating":4.6,"year":2007}
+{"genre":"Thriller","movie":"Blowback","rating":4.6,"year":2000}
+{"genre":"Horror, Mystery, Thriller","movie":"Amber Alert","rating":4.6,"year":2012}
+{"genre":"Horror, Thriller, Sci-Fi","movie":"Mimic 2","rating":4.6,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Sin","rating":4.6,"year":2003}
+{"genre":"Horror, Mystery, Thriller","movie":"Hellraiser: Deader","rating":4.6,"year":2005}
+{"genre":"Horror, Romance, Thriller","movie":"Rest Stop","rating":4.6,"year":2006}
+{"genre":"Action, Crime, Thriller","movie":"The Assignment","rating":4.6,"year":2016}
+{"genre":"Horror, Thriller","movie":"The Tooth Fairy","rating":4.6,"year":2006}
+{"genre":"Horror, Thriller","movie":"Death of a Ghost Hunter","rating":4.6,"year":2007}
+{"genre":"Comedy, Horror, Thriller","movie":"Lost Boys: The Tribe","rating":4.6,"year":2008}
+{"genre":"Thriller, Action, Crime","movie":"Bichhoo","rating":4.6,"year":2000}
+{"genre":"Horror, Thriller","movie":"Dark Ride","rating":4.6,"year":2006}
+{"genre":"Crime, Drama, Thriller","movie":"Dog Eat Dog","rating":4.6,"year":2016}
+{"genre":"Horror, Thriller","movie":"O Último Capítulo","rating":4.6,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Blood Out","rating":4.6,"year":2011}
+{"genre":"Drama, Horror, Thriller","movie":"Red Riding Hood","rating":4.6,"year":2003}
+{"genre":"Action, Horror, Thriller","movie":"Vampires: Los Muertos","rating":4.6,"year":2002}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Slipstream","rating":4.6,"year":2005}
+{"genre":"Horror, Thriller","movie":"Nurse 3D","rating":4.6,"year":2013}
+{"genre":"Horror, Thriller","movie":"A Maldição do Lago","rating":4.6,"year":2004}
+{"genre":"Action, Drama, Thriller","movie":"The Piano Player","rating":4.6,"year":2002}
+{"genre":"Horror, Thriller","movie":"Ripper - Mensageiro do Inferno","rating":4.6,"year":2001}
+{"genre":"Horror, Thriller","movie":"Rosewood Lane","rating":4.6,"year":2011}
+{"genre":"Action, Thriller, War","movie":"I Am Soldier","rating":4.6,"year":2014}
+{"genre":"Drama, Mystery, Thriller","movie":"8MM 2","rating":4.6,"year":2005}
+{"genre":"Horror, Thriller","movie":"Slaughter","rating":4.6,"year":2009}
+{"genre":"Horror, Thriller","movie":"Entity","rating":4.7,"year":2012}
+{"genre":"Action, Thriller","movie":"Jane Doe","rating":4.7,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Let's Be Evil","rating":4.7,"year":2016}
+{"genre":"Horror, Thriller","movie":"YellowBrickRoad","rating":4.7,"year":2010}
+{"genre":"Horror, Mystery, Thriller","movie":"The Grudge 3","rating":4.7,"year":2009}
+{"genre":"Drama, Horror, Thriller","movie":"The Thompsons","rating":4.7,"year":2012}
+{"genre":"Drama, Horror, Thriller","movie":"Deadline","rating":4.7,"year":2009}
+{"genre":"Horror, Mystery, Thriller","movie":"The Reeds","rating":4.7,"year":2010}
+{"genre":"Horror, Thriller","movie":"A Maldição de Helena","rating":4.7,"year":2012}
+{"genre":"Action, Drama, Thriller","movie":"The Marine","rating":4.7,"year":2006}
+{"genre":"Action, Adventure, Thriller","movie":"Into the Blue 2: The Reef","rating":4.7,"year":2009}
+{"genre":"Horror, Thriller","movie":"F","rating":4.7,"year":2010}
+{"genre":"Thriller","movie":"The Skulls II","rating":4.7,"year":2002}
+{"genre":"Drama, Horror, Thriller","movie":"Refém do Medo","rating":4.7,"year":2016}
+{"genre":"Drama, Romance, Thriller","movie":"Watchtower","rating":4.7,"year":2001}
+{"genre":"Mystery, Thriller","movie":"Another Me","rating":4.7,"year":2013}
+{"genre":"Action, Thriller","movie":"Contract Killers","rating":4.7,"year":2008}
+{"genre":"Horror, Mystery, Thriller","movie":"St. John's Wort","rating":4.7,"year":2001}
+{"genre":"Horror, Thriller","movie":"Black Rock","rating":4.7,"year":2012}
+{"genre":"Horror, Thriller","movie":"Preservation","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"Seventh Moon","rating":4.7,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Be Afraid","rating":4.7,"year":2017}
+{"genre":"Horror, Thriller","movie":"Faces do Medo: Bem Vindo a Família","rating":4.7,"year":2013}
+{"genre":"Drama, Fantasy, Thriller","movie":"Branded","rating":4.7,"year":2012}
+{"genre":"Horror, Mystery, Thriller","movie":"Lost Voyage","rating":4.7,"year":2001}
+{"genre":"Horror, Thriller","movie":"Ghost House","rating":4.7,"year":2017}
+{"genre":"Fantasy, Horror, Thriller","movie":"A Vingança do Demônio","rating":4.7,"year":2007}
+{"genre":"Action, Thriller","movie":"Gun Woman","rating":4.7,"year":2014}
+{"genre":"Romance, Thriller","movie":"The Boy Next Door","rating":4.7,"year":2015}
+{"genre":"Drama, Horror, Thriller","movie":"Cthulhu","rating":4.7,"year":2007}
+{"genre":"Fantasy, Horror, Thriller","movie":"Venom","rating":4.7,"year":2005}
+{"genre":"Drama, Thriller","movie":"Eden: Lutar ou Morrer","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"Pernicious","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"Jackals","rating":4.7,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"A Good Man","rating":4.7,"year":2014}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Decoys 2: Sedução Alienígena","rating":4.7,"year":2007}
+{"genre":"Drama, Thriller","movie":"The Neighbor","rating":4.7,"year":2018}
+{"genre":"Action, Crime, Thriller","movie":"Bullet","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"ATM","rating":4.7,"year":2012}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Night Skies","rating":4.7,"year":2007}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Recall","rating":4.7,"year":2017}
+{"genre":"Horror, Mystery, Thriller","movie":"The Blood Lands","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"Rest Stop: Don't Look Back","rating":4.7,"year":2008}
+{"genre":"Action, Thriller","movie":"Death Watch","rating":4.7,"year":2013}
+{"genre":"Horror, Thriller","movie":"Dead Tone","rating":4.7,"year":2007}
+{"genre":"Crime, Horror, Thriller","movie":"Joy Ride 3: Road Kill","rating":4.7,"year":2014}
+{"genre":"Horror, Thriller","movie":"Deep in the Darkness","rating":4.7,"year":2014}
+{"genre":"Drama, Horror, Thriller","movie":"Mr. Jones","rating":4.7,"year":2013}
+{"genre":"Crime, Thriller, Drama","movie":"The Keeper","rating":4.7,"year":2004}
+{"genre":"Comedy, Horror, Thriller","movie":"The Eye 3","rating":4.7,"year":2005}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Infectados","rating":4.7,"year":2005}
+{"genre":"Action, Adventure, Thriller","movie":"Game of Death","rating":4.7,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"Valentine","rating":4.7,"year":2001}
+{"genre":"Action, Thriller","movie":"Final Girl","rating":4.7,"year":2015}
+{"genre":"Horror, Thriller","movie":"Out of the Dark","rating":4.8,"year":2014}
+{"genre":"Horror, Mystery, Thriller","movie":"Eterno","rating":4.8,"year":2004}
+{"genre":"Thriller","movie":"Occupant","rating":4.8,"year":2011}
+{"genre":"Horror, Mystery, Thriller","movie":"My Soul to Take","rating":4.8,"year":2010}
+{"genre":"Horror, Thriller","movie":"Stir of Echoes: The Homecoming","rating":4.8,"year":2007}
+{"genre":"Horror, Thriller","movie":"O Pântano","rating":4.8,"year":2006}
+{"genre":"Horror, Thriller","movie":"Dark Mirror","rating":4.8,"year":2007}
+{"genre":"Drama, Thriller, War","movie":"The Haunted Airman","rating":4.8,"year":2006}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Approaching the Unknown","rating":4.8,"year":2016}
+{"genre":"Horror, Thriller","movie":"The Veil","rating":4.8,"year":2016}
+{"genre":"Sci-Fi, Thriller","movie":"The Speed of Thought","rating":4.8,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Rupture: Superando o Medo","rating":4.8,"year":2016}
+{"genre":"Horror, Mystery, Thriller","movie":"They","rating":4.8,"year":2002}
+{"genre":"Comedy, Horror, Thriller","movie":"The Mad","rating":4.8,"year":2007}
+{"genre":"Action, Thriller","movie":"The Detonator","rating":4.8,"year":2006}
+{"genre":"Thriller","movie":"The Skulls III","rating":4.8,"year":2004}
+{"genre":"Mystery, Thriller","movie":"O Segredo de Charlie","rating":4.8,"year":2002}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Alien Outpost","rating":4.8,"year":2014}
+{"genre":"Action, Thriller","movie":"The Stranger","rating":4.8,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Three Way","rating":4.8,"year":2004}
+{"genre":"Action, Sci-Fi, Thriller","movie":"The Anomaly","rating":4.8,"year":2014}
+{"genre":"Action, Comedy, Thriller","movie":"Blast","rating":4.8,"year":2004}
+{"genre":"Horror, Mystery, Thriller","movie":"Don't Blink","rating":4.8,"year":2014}
+{"genre":"Drama, Horror, Thriller","movie":"Megan Is Missing","rating":4.8,"year":2011}
+{"genre":"Horror, Thriller","movie":"Walled In","rating":4.8,"year":2009}
+{"genre":"Horror, Thriller","movie":"Grotesque","rating":4.8,"year":2009}
+{"genre":"Action, Horror, Thriller","movie":"Backwoods","rating":4.8,"year":2008}
+{"genre":"Action, Thriller","movie":"Behind Enemy Lines: Colombia","rating":4.8,"year":2009}
+{"genre":"Action, Drama, Thriller","movie":"Flood","rating":4.8,"year":2007}
+{"genre":"Drama, Thriller","movie":"The Legend of Lucy Keyes","rating":4.8,"year":2005}
+{"genre":"Action, Thriller","movie":"Arena","rating":4.8,"year":2011}
+{"genre":"Horror, Thriller","movie":"The Dead Room","rating":4.8,"year":2015}
+{"genre":"Drama, Horror, Thriller","movie":"Girls Against Boys","rating":4.8,"year":2012}

@@ -1,0 +1,500 @@
+{"genre":"Comedy, Family, Romance","movie":"Xuxa Popstar","rating":1.4,"year":2000}
+{"genre":"Comedy, Family","movie":"Saving Christmas","rating":1.5,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"It's a Fairy!","rating":1.5,"year":2016}
+{"genre":"Comedy, Drama, Family","movie":"Kyunki... Saas Bhi Kabhi Bahu Thi...","rating":1.6,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Xuxa e os Duendes","rating":1.7,"year":2001}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Bebês Geniais 2: Super Bebês","rating":2.0,"year":2004}
+{"genre":"Adventure, Comedy, Family","movie":"Fred: The Movie","rating":2.1,"year":2010}
+{"genre":"Animation, Family, Fantasy","movie":"Titanic: A Lenda Continua","rating":2.1,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Son of the Mask","rating":2.2,"year":2005}
+{"genre":"Animation, Adventure, Family","movie":"A Fox's Tale","rating":2.2,"year":2008}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone 4","rating":2.5,"year":2002}
+{"genre":"Comedy, Family, Romance","movie":"Popstar","rating":2.6,"year":2005}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Joker","rating":2.6,"year":2012}
+{"genre":"Comedy, Family","movie":"Fred 3: Camp Fred","rating":2.8,"year":2012}
+{"genre":"Animation, Comedy, Family","movie":"Space Chimps 2: Zartog Strikes Back","rating":2.8,"year":2010}
+{"genre":"Animation, Comedy, Family","movie":"Breadwinners","rating":2.8,"year":20142016}
+{"genre":"Adventure, Comedy, Family","movie":"Just for Kicks","rating":2.8,"year":2003}
+{"genre":"Action, Adventure, Family","movie":"Battle for Skyark","rating":2.8,"year":2016}
+{"genre":"Comedy, Family, Music","movie":"Bratz","rating":2.9,"year":2007}
+{"genre":"Comedy, Family","movie":"Daddy Day Camp","rating":3.0,"year":2007}
+{"genre":"Comedy, Family, Fantasy","movie":"Sihirli Annem","rating":3.1,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"The Honeymooners","rating":3.1,"year":2005}
+{"genre":"Comedy, Family, Adventure","movie":"George of the Jungle 2","rating":3.3,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"The Master of Disguise","rating":3.3,"year":2002}
+{"genre":"Comedy, Family","movie":"Uma História de Natal 2","rating":3.3,"year":2012}
+{"genre":"Action, Comedy, Family","movie":"Inspector Gadget 2","rating":3.4,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"House of Payne","rating":3.4,"year":2006}
+{"genre":"Comedy, Family","movie":"The Brady Bunch in the White House","rating":3.4,"year":2002}
+{"genre":"Comedy, Family, Musical","movie":"The Naked Brothers Band","rating":3.4,"year":2007}
+{"genre":"Action, Adventure, Family","movie":"The Adventures of Sharkboy and Lavagirl 3-D","rating":3.5,"year":2005}
+{"genre":"Comedy, Family, Sport","movie":"MVP: Most Vertical Primate","rating":3.5,"year":2001}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Thunderpants","rating":3.6,"year":2002}
+{"genre":"Comedy, Family, Romance","movie":"The Flintstones in Viva Rock Vegas","rating":3.6,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"The Annoying Orange","rating":3.6,"year":2009}
+{"genre":"Comedy, Family","movie":"Marley & Me: The Puppy Years","rating":3.6,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Hansel & Gretel","rating":3.7,"year":2002}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone: The Holiday Heist","rating":3.7,"year":2012}
+{"genre":"Adventure, Comedy, Family","movie":"Horrid Henry: The Movie","rating":3.7,"year":2011}
+{"genre":"Comedy, Family","movie":"Furry Vengeance","rating":3.8,"year":2010}
+{"genre":"Adventure, Comedy, Family","movie":"The Cat in the Hat","rating":3.8,"year":2003}
+{"genre":"Comedy, Family","movie":"Legally Blondes","rating":3.8,"year":2009}
+{"genre":"Comedy, Family, Sport","movie":"Jogada de Mestre","rating":3.9,"year":2000}
+{"genre":"Comedy, Family","movie":"Tooth Fairy 2","rating":3.9,"year":2012}
+{"genre":"Adventure, Family, Fantasy","movie":"Merlin: The Return","rating":3.9,"year":2000}
+{"genre":"Comedy, Family, Romance","movie":"Material Girls","rating":3.9,"year":2006}
+{"genre":"Comedy, Family","movie":"Cennet mahallesi","rating":3.9,"year":20042007}
+{"genre":"Comedy, Family, Fantasy","movie":"Dr. Dolittle 3","rating":3.9,"year":2006}
+{"genre":"Comedy, Family","movie":"Dr. Dolittle: Million Dollar Mutts","rating":4.0,"year":2009}
+{"genre":"Comedy, Family, Music","movie":"The Country Bears","rating":4.0,"year":2002}
+{"genre":"Family, Comedy","movie":"Beethoven's 3rd","rating":4.0,"year":2000}
+{"genre":"Animation, Family, Fantasy","movie":"Pinocchio 3000","rating":4.0,"year":2004}
+{"genre":"Comedy, Family, Music","movie":"The Naked Brothers Band: The Movie","rating":4.1,"year":2005}
+{"genre":"Comedy, Family, Adventure","movie":"Beethoven's 5th","rating":4.1,"year":2003}
+{"genre":"Comedy, Family","movie":"Beethoven's 4th","rating":4.1,"year":2001}
+{"genre":"Comedy, Family, Romance","movie":"On the Line","rating":4.1,"year":2001}
+{"genre":"Family","movie":"Baby Geniuses and the Mystery of the Crown Jewels","rating":4.1,"year":2013}
+{"genre":"Comedy, Family","movie":"Família Andersson na Grécia","rating":4.1,"year":2012}
+{"genre":"Comedy, Family","movie":"Dr. Dolittle: Tail to the Chief","rating":4.1,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"Uma Casa de Pernas Pro Ar","rating":4.1,"year":2007}
+{"genre":"Comedy, Family, Sport","movie":"Bud 5: Arrasando no Vôlei","rating":4.2,"year":2003}
+{"genre":"Comedy, Family","movie":"Judy Moody and the Not Bummer Summer","rating":4.2,"year":2011}
+{"genre":"Comedy, Family, Romance","movie":"Anja After Victor","rating":4.2,"year":2003}
+{"genre":"Comedy, Family, Fantasy","movie":"Pinóquio","rating":4.2,"year":2002}
+{"genre":"Action, Adventure, Family","movie":"The Last Airbender","rating":4.2,"year":2010}
+{"genre":"Animation, Family","movie":"Shark Bait","rating":4.2,"year":2006}
+{"genre":"Comedy, Family","movie":"Marmaduke","rating":4.2,"year":2010}
+{"genre":"Animation, Comedy, Family","movie":"Woody Woodpecker","rating":4.2,"year":2017}
+{"genre":"Animation, Comedy, Family","movie":"Stuart Little 3: Call of the Wild","rating":4.3,"year":2005}
+{"genre":"Action, Comedy, Family","movie":"Cats & Dogs: The Revenge of Kitty Galore","rating":4.3,"year":2010}
+{"genre":"Comedy, Family","movie":"Diary of a Wimpy Kid: The Long Haul","rating":4.3,"year":2017}
+{"genre":"Comedy, Family, Fantasy","movie":"Fat Albert","rating":4.3,"year":2004}
+{"genre":"Comedy, Family, Romance","movie":"The Prince & Me II: The Royal Wedding","rating":4.3,"year":2006}
+{"genre":"Comedy, Family, Sport","movie":"Like Mike 2: Streetball","rating":4.3,"year":2006}
+{"genre":"Comedy, Family","movie":"I Saw Mommy Kissing Santa Claus","rating":4.3,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Hannah Montana: The Movie","rating":4.3,"year":2009}
+{"genre":"Comedy, Family, Romance","movie":"The Prince & Me 3: A Royal Honeymoon","rating":4.3,"year":2008}
+{"genre":"Comedy, Family, Musical","movie":"Vaah! Life Ho Toh Aisi!","rating":4.3,"year":2005}
+{"genre":"Action, Family, Fantasy","movie":"The Nutcracker in 3D","rating":4.4,"year":2010}
+{"genre":"Comedy, Family","movie":"Grand Champion","rating":4.4,"year":2002}
+{"genre":"Adventure, Comedy, Family","movie":"Beverly Hills Chihuahua 2","rating":4.4,"year":2011}
+{"genre":"Adventure, Comedy, Family","movie":"Knight Squad","rating":4.4,"year":2018}
+{"genre":"Comedy, Family, Fantasy","movie":"The Shaggy Dog","rating":4.4,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"The Perfect Holiday","rating":4.4,"year":2007}
+{"genre":"Comedy, Family, Sport","movie":"The Sandlot 2","rating":4.5,"year":2005}
+{"genre":"Family","movie":"Baby Geniuses and the Treasures of Egypt","rating":4.5,"year":2014}
+{"genre":"Animation, Comedy, Family","movie":"A Fairly Odd Movie: Grow Up, Timmy Turner!","rating":4.5,"year":2011}
+{"genre":"Adventure, Family, Fantasy","movie":"Space Buddies","rating":4.5,"year":2009}
+{"genre":"Drama, Family, Music","movie":"Black Nativity","rating":4.5,"year":2013}
+{"genre":"Animation, Comedy, Family","movie":"Alvin and the Chipmunks: The Squeakquel","rating":4.5,"year":2009}
+{"genre":"Drama, Family","movie":"Elle: A Modern Cinderella Tale","rating":4.5,"year":2010}
+{"genre":"Animation, Adventure, Family","movie":"Fly Me to the Moon 3D","rating":4.5,"year":2008}
+{"genre":"Comedy, Drama, Family","movie":"High School Musical 3: Senior Year","rating":4.6,"year":2008}
+{"genre":"Adventure, Comedy, Family","movie":"Are We There Yet?","rating":4.6,"year":2005}
+{"genre":"Animation, Comedy, Family","movie":"Monster Family","rating":4.6,"year":2017}
+{"genre":"Comedy, Family, Music","movie":"Jonas","rating":4.6,"year":20092010}
+{"genre":"Comedy, Drama, Family","movie":"Aamdani Atthanni Kharcha Rupaiya","rating":4.6,"year":2001}
+{"genre":"Action, Drama, Family","movie":"Brahmotsavam","rating":4.6,"year":2016}
+{"genre":"Comedy, Family, Music","movie":"Confissões de uma Adolescente em Crise","rating":4.6,"year":2004}
+{"genre":"Action, Adventure, Family","movie":"Max Steel","rating":4.6,"year":2016}
+{"genre":"Comedy, Family","movie":"Getting There","rating":4.6,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Bud 4: É Uma Jogada Perfeita","rating":4.6,"year":2002}
+{"genre":"Animation, Comedy, Family","movie":"Garfield Gets Real","rating":4.6,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"Kuch Khatti Kuch Meethi","rating":4.7,"year":2001}
+{"genre":"Family","movie":"Tsatsiki: Friends Forever","rating":4.7,"year":2001}
+{"genre":"Adventure, Comedy, Family","movie":"The Santa Clause 3: The Escape Clause","rating":4.7,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"Dr. Dolittle 2","rating":4.7,"year":2001}
+{"genre":"Animation, Comedy, Family","movie":"O Natal Assombrado do Gasparzinho","rating":4.7,"year":2000}
+{"genre":"Comedy, Drama, Family","movie":"Air Bud 3","rating":4.7,"year":2000}
+{"genre":"Animation, Family","movie":"Donkey Xote","rating":4.7,"year":2007}
+{"genre":"Comedy, Family","movie":"Seven Dwarfs","rating":4.7,"year":2004}
+{"genre":"Comedy, Family, Romance","movie":"Deliha","rating":4.7,"year":2014}
+{"genre":"Comedy, Family, Musical","movie":"So Random!","rating":4.7,"year":20112012}
+{"genre":"Comedy, Drama, Family","movie":"Dog with a Blog","rating":4.7,"year":20122015}
+{"genre":"Animation, Comedy, Family","movie":"Grandma Got Run Over by a Reindeer","rating":4.7,"year":2000}
+{"genre":"Drama, Family, Romance","movie":"Timboektoe","rating":4.7,"year":2007}
+{"genre":"Comedy, Family","movie":"Beethoven's Big Break","rating":4.7,"year":2008}
+{"genre":"Comedy, Family","movie":"Shake It Up","rating":4.8,"year":20102013}
+{"genre":"Animation, Adventure, Family","movie":"Bakugan Battle Brawlers","rating":4.8,"year":20072010}
+{"genre":"Comedy, Family","movie":"When in Rome","rating":4.8,"year":2002}
+{"genre":"Action, Adventure, Family","movie":"A Lenda do Rei Macaco: Tumulto no Reino Celestial","rating":4.8,"year":2014}
+{"genre":"Family, Game-Show, Music","movie":"Dancing with the Stars","rating":4.8,"year":2005}
+{"genre":"Adventure, Comedy, Family","movie":"Herbie Fully Loaded","rating":4.8,"year":2005}
+{"genre":"Adventure, Comedy, Family","movie":"Jack and the Beanstalk","rating":4.8,"year":2009}
+{"genre":"Comedy, Family, Fantasy","movie":"Shorts","rating":4.8,"year":2009}
+{"genre":"Family","movie":"Die Wilden Kerle: Alles ist gut, solange du wild bist!","rating":4.8,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Sharpay's Fabulous Adventure","rating":4.8,"year":2011}
+{"genre":"Comedy, Drama, Family","movie":"A.N.T. Farm","rating":4.8,"year":20112014}
+{"genre":"Comedy, Drama, Family","movie":"As Feras da Música","rating":4.8,"year":2003}
+{"genre":"Adventure, Drama, Family","movie":"The Seeker: The Dark Is Rising","rating":4.8,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"The Cheetah Girls: One World","rating":4.8,"year":2008}
+{"genre":"Drama, Family, Musical","movie":"Main Aisa Hi Hoon","rating":4.8,"year":2005}
+{"genre":"Comedy, Crime, Family","movie":"Um Natal Milionário","rating":4.9,"year":2007}
+{"genre":"Comedy, Family, Fantasy","movie":"O Natal de Dennis, o Pimentinha","rating":4.9,"year":2007}
+{"genre":"Family, Reality-TV","movie":"Jon & Kate Plus 8","rating":4.9,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"Thoda Pyaar Thoda Magic","rating":4.9,"year":2008}
+{"genre":"Action, Comedy, Family","movie":"Supah Ninjas","rating":4.9,"year":20112013}
+{"genre":"Adventure, Comedy, Family","movie":"Meet Dave","rating":4.9,"year":2008}
+{"genre":"Comedy, Crime, Family","movie":"New York Minute","rating":4.9,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"High School Musical 2","rating":4.9,"year":2007}
+{"genre":"Comedy, Family","movie":"Deck the Halls","rating":4.9,"year":2006}
+{"genre":"Comedy, Family, Music","movie":"Hannah Montana","rating":4.9,"year":20062011}
+{"genre":"Adventure, Comedy, Family","movie":"Aliens Ate My Homework","rating":4.9,"year":2018}
+{"genre":"Adventure, Comedy, Family","movie":"Gulliver's Travels","rating":4.9,"year":2010}
+{"genre":"Drama, Family","movie":"Get Educated: Paathshaala","rating":4.9,"year":2010}
+{"genre":"Comedy, Family","movie":"Harriet the Spy: Blog Wars","rating":4.9,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"The Haunted Mansion","rating":4.9,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"102 Dalmatians","rating":4.9,"year":2000}
+{"genre":"Adventure, Family","movie":"Santa Buddies","rating":4.9,"year":2009}
+{"genre":"Family, Game-Show","movie":"Are You Smarter Than a 5th Grader?","rating":5.0,"year":2007}
+{"genre":"Adventure, Comedy, Family","movie":"Snow Day","rating":5.0,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Scooby-Doo 2: Monsters Unleashed","rating":5.0,"year":2004}
+{"genre":"Family","movie":"Baby Geniuses and the Space Baby","rating":5.0,"year":2015}
+{"genre":"Comedy, Drama, Family","movie":"The Cheetah Girls 2","rating":5.0,"year":2006}
+{"genre":"Comedy, Family, Game-Show","movie":"Deal or No Deal","rating":5.0,"year":20052009}
+{"genre":"Drama, Family, History","movie":"The Cokeville Miracle","rating":5.0,"year":2015}
+{"genre":"Animation, Comedy, Family","movie":"Garfield 2","rating":5.0,"year":2006}
+{"genre":"Comedy, Family","movie":"Cory in the House","rating":5.0,"year":20072008}
+{"genre":"Animation, Comedy, Family","movie":"Garfield","rating":5.0,"year":2004}
+{"genre":"Adventure, Comedy, Family","movie":"Scooby-Doo","rating":5.0,"year":2002}
+{"genre":"Adventure, Family, Fantasy","movie":"Peter Pan Live!","rating":5.0,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Air Buddies","rating":5.0,"year":2006}
+{"genre":"Action, Family","movie":"Born to Fight","rating":5.0,"year":2011}
+{"genre":"Animation, Drama, Family","movie":"The Trumpet of the Swan","rating":5.0,"year":2001}
+{"genre":"Animation, Family, Fantasy","movie":"Cinderella II: Dreams Come True","rating":5.0,"year":2002}
+{"genre":"Comedy, Family, Fantasy","movie":"Tooth Fairy","rating":5.0,"year":2010}
+{"genre":"Drama, Family","movie":"Lover or Loser","rating":5.1,"year":2009}
+{"genre":"Comedy, Family, Sport","movie":"Rebound","rating":5.1,"year":2005}
+{"genre":"Action, Adventure, Family","movie":"Eragon","rating":5.1,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"Unaccompanied Minors","rating":5.1,"year":2006}
+{"genre":"Action, Adventure, Family","movie":"Alex Rider: Operation Stormbreaker","rating":5.1,"year":2006}
+{"genre":"Drama, Family, Music","movie":"Brave New Girl","rating":5.1,"year":2004}
+{"genre":"Comedy, Family","movie":"Life Is Ruff","rating":5.1,"year":2005}
+{"genre":"Action, Comedy, Family","movie":"Cats & Dogs","rating":5.1,"year":2001}
+{"genre":"Comedy, Crime, Family","movie":"Holiday in the Sun","rating":5.1,"year":2001}
+{"genre":"Comedy, Family, Music","movie":"Camp Rock","rating":5.1,"year":2008}
+{"genre":"Comedy, Drama, Family","movie":"The Secret Life of the American Teenager","rating":5.1,"year":20082013}
+{"genre":"Adventure, Comedy, Family","movie":"Asterix nos Jogos Olímpicos","rating":5.1,"year":2008}
+{"genre":"Family","movie":"Peter Bell II: The Hunt for the Czar Crown","rating":5.1,"year":2003}
+{"genre":"Action, Comedy, Family","movie":"The Chaperone","rating":5.1,"year":2011}
+{"genre":"Comedy, Crime, Family","movie":"Our Lips Are Sealed","rating":5.1,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Neve Pra Cachorro","rating":5.1,"year":2002}
+{"genre":"Family, Fantasy, Horror","movie":"Mostly Ghostly","rating":5.1,"year":2008}
+{"genre":"Comedy, Drama, Family","movie":"Good Boy!","rating":5.1,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Frenemies","rating":5.1,"year":2012}
+{"genre":"Drama, Family, Adventure","movie":"Tales from the Neverending Story","rating":5.1,"year":2001}
+{"genre":"Comedy, Crime, Family","movie":"Cool Cat Saves the Kids","rating":5.2,"year":2015}
+{"genre":"Comedy, Drama, Family","movie":"Hounded","rating":5.2,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"Bibi Blocksberg","rating":5.2,"year":2002}
+{"genre":"Family, Romance","movie":"Eva & Adam: Four Birthdays and a Fiasco","rating":5.2,"year":2001}
+{"genre":"Family, Sport","movie":"The Sandlot: Heading Home","rating":5.2,"year":2007}
+{"genre":"Adventure, Drama, Family","movie":"Free Willy: Escape from Pirate's Cove","rating":5.2,"year":2010}
+{"genre":"Comedy, Family, Music","movie":"Camp Rock 2: The Final Jam","rating":5.2,"year":2010}
+{"genre":"Comedy, Family, Romance","movie":"Zookeeper","rating":5.2,"year":2011}
+{"genre":"Family, Musical, Romance","movie":"Dil Maange More!!!","rating":5.2,"year":2004}
+{"genre":"Animation, Comedy, Family","movie":"Alvin and the Chipmunks","rating":5.2,"year":2007}
+{"genre":"Comedy, Family, Sport","movie":"Berlin Kaplani","rating":5.2,"year":2012}
+{"genre":"Animation, Adventure, Family","movie":"Walking with Dinosaurs 3D","rating":5.2,"year":2013}
+{"genre":"Family","movie":"XTC Just Don't Do It","rating":5.2,"year":2006}
+{"genre":"Drama, Family, Music","movie":"Violetta","rating":5.2,"year":2012}
+{"genre":"Family, Fantasy, Drama","movie":"Le petit poucet","rating":5.2,"year":2001}
+{"genre":"Adventure, Comedy, Family","movie":"Garoto-Formiga","rating":5.2,"year":2013}
+{"genre":"Comedy, Crime, Family","movie":"Get a Clue","rating":5.2,"year":2002}
+{"genre":"Comedy, Family","movie":"Çocuklar duymasin","rating":5.2,"year":2002}
+{"genre":"Adventure, Family","movie":"In Desert and Wilderness","rating":5.2,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"Like Mike","rating":5.2,"year":2002}
+{"genre":"Family, Horror","movie":"Espíritos","rating":5.3,"year":2000}
+{"genre":"Comedy, Drama, Family","movie":"Annie","rating":5.3,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Astérix and Obélix: God Save Britannia","rating":5.3,"year":2012}
+{"genre":"Comedy, Family","movie":"Christmas with the Kranks","rating":5.3,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"Virei um Gato","rating":5.3,"year":2016}
+{"genre":"Comedy, Family","movie":"Shredderman Rules","rating":5.3,"year":2007}
+{"genre":"Animation, Adventure, Family","movie":"Arthur and the Great Adventure","rating":5.3,"year":2009}
+{"genre":"Drama, Family","movie":"Mil e uma Noites","rating":5.3,"year":20062009}
+{"genre":"Comedy, Family, Fantasy","movie":"Aquamarine","rating":5.3,"year":2006}
+{"genre":"Comedy, Drama, Family","movie":"High School Musical","rating":5.3,"year":2006}
+{"genre":"Comedy, Drama, Family","movie":"Pistvakt","rating":5.3,"year":2005}
+{"genre":"Comedy, Family, Romance","movie":"Cow Belles","rating":5.3,"year":2006}
+{"genre":"Family","movie":"My Sister's Kids","rating":5.3,"year":2001}
+{"genre":"Drama, Family","movie":"We Can Be Heroes!","rating":5.3,"year":2002}
+{"genre":"Adventure, Comedy, Family","movie":"The Challenge","rating":5.3,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"The Muppets' Wizard of Oz","rating":5.3,"year":2005}
+{"genre":"Drama, Family, Romance","movie":"Armaan","rating":5.3,"year":2003}
+{"genre":"Family, Comedy, Fantasy","movie":"A Carol Christmas","rating":5.3,"year":2003}
+{"genre":"Adventure, Family","movie":"Snow Buddies","rating":5.4,"year":2008}
+{"genre":"Animation, Comedy, Family","movie":"The Mighty B!","rating":5.4,"year":20082011}
+{"genre":"Drama, Family, Romance","movie":"Doc","rating":5.4,"year":20012004}
+{"genre":"Comedy, Drama, Family","movie":"Prom","rating":5.4,"year":2011}
+{"genre":"Comedy, Family","movie":"Sone'a Fee Misr","rating":5.4,"year":2014}
+{"genre":"Comedy, Family","movie":"Old Dogs","rating":5.4,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"Big Fat Liar","rating":5.4,"year":2002}
+{"genre":"Comedy, Family","movie":"Um Hotel Bom pra Cachorro","rating":5.4,"year":2009}
+{"genre":"Animation, Adventure, Family","movie":"Mars Needs Moms","rating":5.4,"year":2011}
+{"genre":"Comedy, Drama, Family","movie":"The Clique","rating":5.4,"year":2008}
+{"genre":"Comedy, Crime, Family","movie":"Max Keeble's Big Move","rating":5.4,"year":2001}
+{"genre":"Adventure, Family, Sci-Fi","movie":"Beyond","rating":5.4,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"Yours, Mine & Ours","rating":5.4,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Evan Almighty","rating":5.4,"year":2007}
+{"genre":"Comedy, Family","movie":"How to Eat Fried Worms","rating":5.4,"year":2006}
+{"genre":"Adventure, Family, Fantasy","movie":"The Adventurer: The Curse of the Midas Box","rating":5.4,"year":2013}
+{"genre":"Drama, Family, Romance","movie":"Baabul","rating":5.4,"year":2006}
+{"genre":"Comedy, Family, Musical","movie":"How to Rock","rating":5.4,"year":2012}
+{"genre":"Comedy, Family, Romance","movie":"Sleepover","rating":5.4,"year":2004}
+{"genre":"Comedy, Family, Fantasy","movie":"Zapped","rating":5.4,"year":2014}
+{"genre":"Animation, Adventure, Family","movie":"Tarzan & Jane","rating":5.4,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Jump In!","rating":5.4,"year":2007}
+{"genre":"Drama, Family, Romance","movie":"Laaga Chunari Mein Daag: Journey of a Woman","rating":5.4,"year":2007}
+{"genre":"Animation, Adventure, Family","movie":"The Jungle Book 2","rating":5.4,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"An Invisible Sign","rating":5.4,"year":2010}
+{"genre":"Adventure, Comedy, Family","movie":"The Lizzie McGuire Movie","rating":5.4,"year":2003}
+{"genre":"Animation, Drama, Family","movie":"All Grown Up!","rating":5.4,"year":20032008}
+{"genre":"Action, Comedy, Family","movie":"The Spy Next Door","rating":5.4,"year":2010}
+{"genre":"Family, Fantasy","movie":"The Last Keepers","rating":5.5,"year":2013}
+{"genre":"Family, Romance, Sport","movie":"Ta Ra Rum Pum","rating":5.5,"year":2007}
+{"genre":"Adventure, Comedy, Family","movie":"Winning London","rating":5.5,"year":2001}
+{"genre":"Comedy, Family","movie":"Daddy Day Care","rating":5.5,"year":2003}
+{"genre":"Action, Comedy, Family","movie":"Firehouse Dog","rating":5.5,"year":2007}
+{"genre":"Comedy, Family, Romance","movie":"The Perfect Man","rating":5.5,"year":2005}
+{"genre":"Adventure, Comedy, Family","movie":"Cheaper by the Dozen 2","rating":5.5,"year":2005}
+{"genre":"Adventure, Comedy, Family","movie":"HOUBA! On the Trail of the Marsupilami","rating":5.5,"year":2012}
+{"genre":"Drama, Family","movie":"Race to Space","rating":5.5,"year":2001}
+{"genre":"Action, Drama, Family","movie":"A Warrior's Heart","rating":5.5,"year":2011}
+{"genre":"Adventure, Comedy, Family","movie":"Kermit's Swamp Years","rating":5.5,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Cadet Kelly","rating":5.5,"year":2002}
+{"genre":"Comedy, Family","movie":"Call Me Claus","rating":5.5,"year":2001}
+{"genre":"Animation, Comedy, Family","movie":"The Garfield Show","rating":5.5,"year":20082016}
+{"genre":"Action, Adventure, Family","movie":"Wendy Wu: Homecoming Warrior","rating":5.5,"year":2006}
+{"genre":"Drama, Family","movie":"Yaprak Dökümü","rating":5.5,"year":20062010}
+{"genre":"Adventure, Comedy, Family","movie":"RV","rating":5.5,"year":2006}
+{"genre":"Animation, Adventure, Family","movie":"Legends of Oz: Dorothy's Return","rating":5.5,"year":2013}
+{"genre":"Animation, Adventure, Family","movie":"Arthur: A Guerra dos Dois Mundos","rating":5.5,"year":2010}
+{"genre":"Drama, Family, Fantasy","movie":"16 Desejos","rating":5.5,"year":2010}
+{"genre":"Comedy, Family, Romance","movie":"Rüzgar","rating":5.5,"year":2018}
+{"genre":"Animation, Family","movie":"Barbie Diaries","rating":5.5,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"Up, Up, and Away!","rating":5.6,"year":2000}
+{"genre":"Animation, Comedy, Family","movie":"O Segredo dos Animais","rating":5.6,"year":2006}
+{"genre":"Family, Comedy, Drama","movie":"Hamara Dil Aapke Paas Hai","rating":5.6,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Hoot","rating":5.6,"year":2006}
+{"genre":"Adventure, Family, Fantasy","movie":"5 Criaturas e a Coisa","rating":5.6,"year":2004}
+{"genre":"Comedy, Family, Romance","movie":"Kicking & Screaming","rating":5.6,"year":2005}
+{"genre":"Animation, Drama, Family","movie":"The Little Mermaid 2: Return to the Sea","rating":5.6,"year":2000}
+{"genre":"Comedy, Family","movie":"'Twas the Night","rating":5.6,"year":2001}
+{"genre":"Action, Comedy, Family","movie":"Henry Danger","rating":5.6,"year":2014}
+{"genre":"Comedy, Family","movie":"Hatching Pete","rating":5.6,"year":2009}
+{"genre":"Comedy, Drama, Family","movie":"Twice Upon a Christmas","rating":5.6,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"Fred Claus","rating":5.6,"year":2007}
+{"genre":"Comedy, Family, Romance","movie":"Her Best Move","rating":5.6,"year":2007}
+{"genre":"Comedy, Family","movie":"The Bill Engvall Show","rating":5.6,"year":20072009}
+{"genre":"Drama, Family","movie":"We Are Family","rating":5.6,"year":2010}
+{"genre":"Animation, Family, Fantasy","movie":"Gnomes & Trolls: The Secret Chamber","rating":5.6,"year":2009}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time XIII: The Wisdom of Friends","rating":5.6,"year":2007}
+{"genre":"Adventure, Comedy, Family","movie":"Zenon: Z3","rating":5.6,"year":2004}
+{"genre":"Family","movie":"The 74th Annual Academy Awards","rating":5.6,"year":2002}
+{"genre":"Comedy, Family, Fantasy","movie":"The Santa Clause 2","rating":5.6,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Imagine That","rating":5.6,"year":2009}
+{"genre":"Family, Romance, Sport","movie":"Den Brother","rating":5.6,"year":2010}
+{"genre":"Animation, Family","movie":"A Christmas Carol","rating":5.6,"year":2001}
+{"genre":"Comedy, Family","movie":"Hope & Faith","rating":5.6,"year":20032006}
+{"genre":"Animation, Adventure, Family","movie":"A Turtle's Tale 2: Sammy's Escape from Paradise","rating":5.7,"year":2012}
+{"genre":"Action, Adventure, Family","movie":"Island of Lost Souls","rating":5.7,"year":2007}
+{"genre":"Adventure, Family, Fantasy","movie":"O Melhor Amigo do Papai Noel","rating":5.7,"year":2010}
+{"genre":"Comedy, Family","movie":"Dedemin Fisi","rating":5.7,"year":2016}
+{"genre":"Action, Adventure, Family","movie":"Race to Witch Mountain","rating":5.7,"year":2009}
+{"genre":"Comedy, Family, Romance","movie":"16-Love","rating":5.7,"year":2012}
+{"genre":"Comedy, Family","movie":"Um Mordomo Atrapalhado","rating":5.7,"year":2005}
+{"genre":"Comedy, Family, Fantasy","movie":"Christmas Cupid","rating":5.7,"year":2010}
+{"genre":"Comedy, Drama, Family","movie":"Twitches","rating":5.7,"year":2005}
+{"genre":"Action, Adventure, Family","movie":"Fantastic Four","rating":5.7,"year":2005}
+{"genre":"Comedy, Family, Music","movie":"Stuck in the Suburbs","rating":5.7,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"Princess Protection Program","rating":5.7,"year":2009}
+{"genre":"Comedy, Family, Musical","movie":"Espetacular!","rating":5.7,"year":2009}
+{"genre":"Animation, Adventure, Family","movie":"Khumba","rating":5.7,"year":2013}
+{"genre":"Comedy, Family, Sci-Fi","movie":"How to Build a Better Boy","rating":5.7,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"The Slurb","rating":5.7,"year":2001}
+{"genre":"Comedy, Family, Sport","movie":"Nacho Libre","rating":5.7,"year":2006}
+{"genre":"Comedy, Family","movie":"Blizzard","rating":5.7,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Sam & Cat","rating":5.7,"year":20132014}
+{"genre":"Animation, Comedy, Family","movie":"Back at the Barnyard","rating":5.7,"year":20072011}
+{"genre":"Comedy, Drama, Family","movie":"Kingdom Come","rating":5.7,"year":2001}
+{"genre":"Animation, Comedy, Family","movie":"¡Mucha Lucha!","rating":5.7,"year":20022005}
+{"genre":"Drama, Family, Sport","movie":"Hometown Legend","rating":5.7,"year":2002}
+{"genre":"Comedy, Drama, Family","movie":"Read It and Weep","rating":5.7,"year":2006}
+{"genre":"Family, Fantasy, Adventure","movie":"A Wrinkle in Time","rating":5.7,"year":2003}
+{"genre":"Family, Romance","movie":"Ishqbaaaz","rating":5.7,"year":2016}
+{"genre":"Comedy, Family, Fantasy","movie":"Pair of Kings","rating":5.7,"year":20102013}
+{"genre":"Family, Game-Show, Music","movie":"America's Got Talent","rating":5.7,"year":2006}
+{"genre":"Comedy, Drama, Family","movie":"Ice Angel","rating":5.7,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"LazyTown","rating":5.8,"year":20022016}
+{"genre":"Comedy, Drama, Family","movie":"Gotta Kick It Up!","rating":5.8,"year":2002}
+{"genre":"Adventure, Family, Sci-Fi","movie":"Earth to Echo","rating":5.8,"year":2014}
+{"genre":"Adventure, Family, Fantasy","movie":"Snow White: The Fairest of Them All","rating":5.8,"year":2001}
+{"genre":"Drama, Family, Sport","movie":"Pride","rating":5.8,"year":2007}
+{"genre":"Comedy, Family","movie":"Cheaper by the Dozen","rating":5.8,"year":2003}
+{"genre":"Biography, Drama, Family","movie":"Heaven Is for Real","rating":5.8,"year":2014}
+{"genre":"Drama, Family, Fantasy","movie":"Twitches Too","rating":5.8,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"Once Upon a Christmas","rating":5.8,"year":2000}
+{"genre":"Comedy, Family","movie":"Wedding Daze","rating":5.8,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"True Jackson, VP","rating":5.8,"year":20082011}
+{"genre":"Comedy, Family, Fantasy","movie":"Return to Halloweentown","rating":5.8,"year":2006}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie: Fairytopia","rating":5.8,"year":2005}
+{"genre":"Biography, Drama, Family","movie":"The Sound of Music Live!","rating":5.8,"year":2013}
+{"genre":"Family, Musical","movie":"Teen Beach Movie","rating":5.8,"year":2013}
+{"genre":"Family","movie":"Peter Bell","rating":5.8,"year":2002}
+{"genre":"Drama, Family, Romance","movie":"Gümüs","rating":5.8,"year":20052007}
+{"genre":"Adventure, Comedy, Family","movie":"O Pequeno Vampiro","rating":5.8,"year":2000}
+{"genre":"Comedy, Family, Romance","movie":"You Again","rating":5.8,"year":2010}
+{"genre":"Adventure, Comedy, Family","movie":"Monte Carlo","rating":5.8,"year":2011}
+{"genre":"Comedy, Family","movie":"St. Trinian's","rating":5.8,"year":2007}
+{"genre":"Drama, Family, Fantasy","movie":"Avalon High","rating":5.8,"year":2010}
+{"genre":"Action, Comedy, Family","movie":"The Thundermans","rating":5.8,"year":2013}
+{"genre":"Comedy, Drama, Family","movie":"Johnny Kapahala: Back on Board","rating":5.8,"year":2007}
+{"genre":"Animation, Comedy, Family","movie":"Stoked","rating":5.8,"year":20092013}
+{"genre":"Comedy, Drama, Family","movie":"When Zachary Beaver Came to Town","rating":5.8,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Quints","rating":5.8,"year":2000}
+{"genre":"Family, Sci-Fi, Comedy","movie":"Pixel Perfect","rating":5.8,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"What a Girl Wants","rating":5.8,"year":2003}
+{"genre":"Action, Adventure, Family","movie":"Journey to the Center of the Earth","rating":5.8,"year":2008}
+{"genre":"Drama, Family, Music","movie":"Jackie & Ryan","rating":5.8,"year":2014}
+{"genre":"Animation, Adventure, Family","movie":"Peter Pan II: Return to Neverland","rating":5.8,"year":2002}
+{"genre":"Comedy, Family, Romance","movie":"The Princess Diaries 2: Royal Engagement","rating":5.8,"year":2004}
+{"genre":"Adventure, Family, Fantasy","movie":"Pan","rating":5.8,"year":2015}
+{"genre":"Animation, Adventure, Family","movie":"Lady and the Tramp 2: Scamp's Adventure","rating":5.9,"year":2001}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie Mariposa and Her Butterfly Fairy Friends","rating":5.9,"year":2008}
+{"genre":"Adventure, Family, Fantasy","movie":"Percy Jackson: Sea of Monsters","rating":5.9,"year":2013}
+{"genre":"Comedy, Drama, Family","movie":"Angels Sing","rating":5.9,"year":2013}
+{"genre":"Animation, Comedy, Family","movie":"Sheep & Wolves","rating":5.9,"year":2016}
+{"genre":"Comedy, Drama, Family","movie":"Zoey 101","rating":5.9,"year":20052008}
+{"genre":"Animation, Comedy, Family","movie":"Kronk's New Groove","rating":5.9,"year":2005}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time VIII: The Big Freeze","rating":5.9,"year":2001}
+{"genre":"Adventure, Family, Fantasy","movie":"Back to the Secret Garden","rating":5.9,"year":2001}
+{"genre":"Adventure, Comedy, Family","movie":"Night at the Museum: Battle of the Smithsonian","rating":5.9,"year":2009}
+{"genre":"Comedy, Drama, Family","movie":"Go Figure","rating":5.9,"year":2005}
+{"genre":"Comedy, Family, Romance","movie":"A Cinderella Story","rating":5.9,"year":2004}
+{"genre":"Comedy, Family","movie":"Jessie","rating":5.9,"year":20112015}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time IX: Journey to Big Water","rating":5.9,"year":2002}
+{"genre":"Comedy, Crime, Family","movie":"Nancy Drew","rating":5.9,"year":2007}
+{"genre":"Comedy, Family, Fantasy","movie":"Mamãe Saiu Com Um Vampiro","rating":5.9,"year":2000}
+{"genre":"Family, Adventure, Comedy","movie":"Emil and the Detectives","rating":5.9,"year":2001}
+{"genre":"Animation, Comedy, Family","movie":"Mickey Mouse Clubhouse","rating":5.9,"year":2006}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time XI: Invasion of the Tinysauruses","rating":5.9,"year":2005}
+{"genre":"Comedy, Family, Music","movie":"Another Cinderella Story","rating":5.9,"year":2008}
+{"genre":"Comedy, Family, Romance","movie":"Mere Brother Ki Dulhan","rating":5.9,"year":2011}
+{"genre":"Drama, Family, Sport","movie":"Full-Court Miracle","rating":5.9,"year":2003}
+{"genre":"Comedy, Family, Romance","movie":"Confessions of a Shopaholic","rating":5.9,"year":2009}
+{"genre":"Adventure, Family, Fantasy","movie":"Percy Jackson & the Olympians: The Lightning Thief","rating":5.9,"year":2010}
+{"genre":"Comedy, Family, Romance","movie":"The Prince and Me","rating":5.9,"year":2004}
+{"genre":"Family, Music, Romance","movie":"Raise Your Voice","rating":5.9,"year":2004}
+{"genre":"Comedy, Drama, Family","movie":"True Confessions of a Hollywood Starlet","rating":5.9,"year":2008}
+{"genre":"Family","movie":"The Saddle Club","rating":6.0,"year":20012009}
+{"genre":"Family, Musical, Drama","movie":"Miracle","rating":6.0,"year":2000}
+{"genre":"Animation, Adventure, Family","movie":"Arthur and the Invisibles","rating":6.0,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"Minutemen","rating":6.0,"year":2008}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time VII: The Stone of Cold Fire","rating":6.0,"year":2000}
+{"genre":"Adventure, Drama, Family","movie":"O Senhor dos Ladrões","rating":6.0,"year":2006}
+{"genre":"Comedy, Family","movie":"Oobi","rating":6.0,"year":20002005}
+{"genre":"Comedy, Drama, Family","movie":"Ice Princess","rating":6.0,"year":2005}
+{"genre":"Animation, Comedy, Family","movie":"Gnomeo & Juliet","rating":6.0,"year":2011}
+{"genre":"Comedy, Crime, Family","movie":"The R.M.","rating":6.0,"year":2003}
+{"genre":"Comedy, Family, Music","movie":"Austin & Ally","rating":6.0,"year":20112016}
+{"genre":"Drama, Family, Fantasy","movie":"Demons","rating":6.0,"year":2009}
+{"genre":"Comedy, Family, Adventure","movie":"Zenon: The Zequel","rating":6.0,"year":2001}
+{"genre":"Animation, Family, Fantasy","movie":"Cinderella 3: A Twist in Time","rating":6.0,"year":2007}
+{"genre":"Family, Fantasy, Musical","movie":"A Cinderella Story: If the Shoe Fits","rating":6.0,"year":2016}
+{"genre":"Animation, Comedy, Family","movie":"Igor","rating":6.0,"year":2008}
+{"genre":"Family","movie":"The 73rd Annual Academy Awards","rating":6.0,"year":2001}
+{"genre":"Animation, Family","movie":"Barbie and the Three Musketeers","rating":6.0,"year":2009}
+{"genre":"Comedy, Drama, Family","movie":"Esse Rato É um Espanto","rating":6.0,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Nim's Island","rating":6.0,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"Mr. Popper's Penguins","rating":6.0,"year":2011}
+{"genre":"Action, Family, Sci-Fi","movie":"Speed Racer","rating":6.0,"year":2008}
+{"genre":"Comedy, Family, Fantasy","movie":"Single Santa Seeks Mrs. Claus","rating":6.0,"year":2004}
+{"genre":"Comedy, Family","movie":"Parental Guidance","rating":6.0,"year":2012}
+{"genre":"Comedy, Family, Fantasy","movie":"The Kid","rating":6.1,"year":2000}
+{"genre":"Animation, Adventure, Family","movie":"A Turtle's Tale: Sammy's Adventures","rating":6.1,"year":2010}
+{"genre":"Action, Adventure, Family","movie":"The Sorcerer's Apprentice","rating":6.1,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"Snowglobe","rating":6.1,"year":2007}
+{"genre":"Comedy, Family, Music","movie":"A Cinderella Story: Once Upon a Song","rating":6.1,"year":2011}
+{"genre":"Adventure, Family, Fantasy","movie":"The Oogieloves in the Big Balloon Adventure","rating":6.1,"year":2012}
+{"genre":"Adventure, Family, Fantasy","movie":"Coração de Tinta: O Livro Mágico","rating":6.1,"year":2008}
+{"genre":"Adventure, Family, Fantasy","movie":"Cruzada: Uma Jornada Através dos Tempos","rating":6.1,"year":2006}
+{"genre":"Family","movie":"The 72nd Annual Academy Awards","rating":6.1,"year":2000}
+{"genre":"Comedy, Family","movie":"O Presente de Natal Perfeito","rating":6.1,"year":2000}
+{"genre":"Action, Comedy, Family","movie":"Katamarayudu","rating":6.1,"year":2017}
+{"genre":"Comedy, Family, Fantasy","movie":"Bedtime Stories","rating":6.1,"year":2008}
+{"genre":"Animation, Adventure, Family","movie":"Barbie Fairytopia: Mermaidia","rating":6.1,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"How the Grinch Stole Christmas","rating":6.1,"year":2000}
+{"genre":"Adventure, Family","movie":"War of the Buttons","rating":6.1,"year":2011}
+{"genre":"Comedy, Family","movie":"Best Player","rating":6.1,"year":2011}
+{"genre":"Comedy, Family, Fantasy","movie":"Nanny McPhee Returns","rating":6.1,"year":2010}
+{"genre":"Animation, Comedy, Family","movie":"Middle School: The Worst Years of My Life","rating":6.1,"year":2016}
+{"genre":"Drama, Family, Fantasy","movie":"Um Desejo para o Natal","rating":6.1,"year":2016}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Stepsister from Planet Weird","rating":6.1,"year":2000}
+{"genre":"Adventure, Family, Fantasy","movie":"The Golden Compass","rating":6.1,"year":2007}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie Fairytopia: Magic of the Rainbow","rating":6.1,"year":2007}
+{"genre":"Animation, Drama, Family","movie":"Bambi II","rating":6.1,"year":2006}
+{"genre":"Animation, Comedy, Family","movie":"Big Pai, Big Filho","rating":6.1,"year":2017}
+{"genre":"Adventure, Comedy, Family","movie":"Adventures in Babysitting","rating":6.1,"year":2016}
+{"genre":"Adventure, Family","movie":"De schippers van de Kameleon","rating":6.1,"year":2003}
+{"genre":"Animation, Adventure, Family","movie":"Justin e a Espada da Coragem","rating":6.1,"year":2013}
+{"genre":"Comedy, Family, Sport","movie":"Eddie's Million Dollar Cook-Off","rating":6.1,"year":2003}
+{"genre":"Action, Comedy, Family","movie":"K.C. Undercover","rating":6.1,"year":20152018}
+{"genre":"Family, Adventure, Crime","movie":"Catch That Girl","rating":6.1,"year":2002}
+{"genre":"Animation, Comedy, Family","movie":"My Little Pony: Equestria Girls","rating":6.1,"year":2013}
+{"genre":"Comedy, Family","movie":"So Little Time","rating":6.1,"year":20012002}
+{"genre":"Animation, Family","movie":"Max e Ruby","rating":6.1,"year":20022017}
+{"genre":"Comedy, Drama, Family","movie":"I, Cesar","rating":6.1,"year":2003}
+{"genre":"Animation, Adventure, Family","movie":"Kaena: The Prophecy","rating":6.1,"year":2003}
+{"genre":"Comedy, Family","movie":"En son babalar duyar","rating":6.1,"year":2002}
+{"genre":"Drama, Family, Fantasy","movie":"The Dust Factory","rating":6.1,"year":2004}
+{"genre":"Adventure, Comedy, Family","movie":"Prince Charming","rating":6.1,"year":2001}
+{"genre":"Animation, Adventure, Family","movie":"Balto: Wolf Quest","rating":6.2,"year":2002}
+{"genre":"Comedy, Family","movie":"Hayat bilgisi","rating":6.2,"year":2003}
+{"genre":"Comedy, Family, Musical","movie":"Big Time Rush","rating":6.2,"year":20092013}
+{"genre":"Comedy, Family, Fantasy","movie":"Mr. Magorium's Wonder Emporium","rating":6.2,"year":2007}
+{"genre":"Comedy, Family, Romance","movie":"Sonny with a Chance","rating":6.2,"year":20092011}
+{"genre":"Biography, Drama, Family","movie":"Double Teamed","rating":6.2,"year":2002}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time X: The Great Longneck Migration","rating":6.2,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Miracle in Lane 2","rating":6.2,"year":2000}
+{"genre":"Adventure, Family, Fantasy","movie":"O Segredo do Vale da Lua","rating":6.2,"year":2008}
+{"genre":"Comedy, Family","movie":"Get Santa","rating":6.2,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Night at the Museum: Secret of the Tomb","rating":6.2,"year":2014}
+{"genre":"Family","movie":"Flicka 2","rating":6.2,"year":2010}
+{"genre":"Adventure, Drama, Family","movie":"Swallows and Amazons","rating":6.2,"year":2016}
+{"genre":"Animation, Comedy, Family","movie":"Baby Looney Tunes","rating":6.2,"year":20022006}
+{"genre":"Drama, Family","movie":"Secret Santa","rating":6.2,"year":2003}
+{"genre":"Comedy, Family, Fantasy","movie":"Seventeen Again","rating":6.2,"year":2000}
+{"genre":"Animation, Adventure, Family","movie":"The Land Before Time XII: The Great Day of the Flyers","rating":6.2,"year":2006}
+{"genre":"Animation, Family, Musical","movie":"Barbie and the Diamond Castle","rating":6.2,"year":2008}
+{"genre":"Comedy, Family, Sport","movie":"The Game Plan","rating":6.2,"year":2007}
+{"genre":"Comedy, Drama, Family","movie":"I Didn't Do It","rating":6.2,"year":20142015}
+{"genre":"Action, Comedy, Family","movie":"Kickin' It","rating":6.2,"year":20112015}
+{"genre":"Comedy, Family","movie":"As Férias do Pequeno Nicolau","rating":6.2,"year":2014}
+{"genre":"Animation, Adventure, Family","movie":"The Flight Before Christmas","rating":6.2,"year":2008}
+{"genre":"Comedy, Drama, Family","movie":"The Healer","rating":6.2,"year":2017}
+{"genre":"Action, Drama, Family","movie":"The Karate Kid","rating":6.2,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"Freaky Friday","rating":6.2,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"Bad Hair Day","rating":6.2,"year":2015}
+{"genre":"Comedy, Family, Fantasy","movie":"O Sonho de Greta","rating":6.2,"year":2015}
+{"genre":"Comedy, Drama, Family","movie":"Lloyd","rating":6.2,"year":2001}
+{"genre":"Comedy, Family","movie":"Eve's Christmas","rating":6.2,"year":2004}
+{"genre":"Drama, Family","movie":"Radio Rebel","rating":6.2,"year":2012}
+{"genre":"Comedy, Family, Fantasy","movie":"The Boy Who Cried Werewolf","rating":6.2,"year":2010}
+{"genre":"Comedy, Family, Music","movie":"StarStruck","rating":6.2,"year":2010}
+{"genre":"Adventure, Family, Fantasy","movie":"Alice Through the Looking Glass","rating":6.2,"year":2016}
+{"genre":"Family, Romance","movie":"Pizza My Heart","rating":6.2,"year":2005}
+{"genre":"Comedy, Family","movie":"Diary of a Wimpy Kid","rating":6.2,"year":2010}
+{"genre":"Animation, Family, Musical","movie":"Barbie in the Nutcracker","rating":6.2,"year":2001}
+{"genre":"Comedy, Drama, Family","movie":"Unfabulous","rating":6.2,"year":20042007}
+{"genre":"Animation, Family, Fantasy","movie":"Barbie in a Mermaid Tale","rating":6.2,"year":2010}
+{"genre":"Adventure, Drama, Family","movie":"Flicka","rating":6.2,"year":2006}
+{"genre":"Comedy, Family","movie":"Alexander and the Terrible, Horrible, No Good, Very Bad Day","rating":6.2,"year":2014}
+{"genre":"Comedy, Drama, Family","movie":"The Dangerous Book for Boys","rating":6.2,"year":2018}
+{"genre":"Crime, Drama, Family","movie":"Benji","rating":6.3,"year":2018}
+{"genre":"Comedy, Family, Fantasy","movie":"Halloweentown High","rating":6.3,"year":2004}
+{"genre":"Comedy, Family","movie":"Diary of a Wimpy Kid: Dog Days","rating":6.3,"year":2012}
+{"genre":"Family, Adventure, Comedy","movie":"Jumping Ship","rating":6.3,"year":2001}
+{"genre":"Animation, Family","movie":"Barbie as the Island Princess","rating":6.3,"year":2007}
+{"genre":"Comedy, Family, Sci-Fi","movie":"The Other Me","rating":6.3,"year":2000}
+{"genre":"Drama, Family","movie":"A Town Without Christmas","rating":6.3,"year":2001}
+{"genre":"Comedy, Family, Fantasy","movie":"Fishtales","rating":6.3,"year":2007}
+{"genre":"Animation, Family","movie":"Barbie as Rapunzel","rating":6.3,"year":2002}

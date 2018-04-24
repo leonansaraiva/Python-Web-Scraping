@@ -1,0 +1,500 @@
+{"genre":"Action, Adventure, Horror","movie":"Attack of the Jurassic Shark","rating":1.5,"year":2012}
+{"genre":"Action, Adventure","movie":"Titanic II","rating":1.6,"year":2010}
+{"genre":"Adventure, Fantasy, Horror","movie":"2012 Doomsday","rating":1.7,"year":2008}
+{"genre":"Adventure, Comedy, Family","movie":"Xuxa e os Duendes","rating":1.7,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"Almighty Thor","rating":1.7,"year":2011}
+{"genre":"Action, Adventure, Comedy","movie":"Da Hip Hop Witch","rating":1.7,"year":2000}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Age of Ice","rating":1.8,"year":2014}
+{"genre":"Action, Adventure, Comedy","movie":"Ram Gopal Varma's Indian Flames","rating":1.8,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Yes Sir","rating":1.8,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Mumya firarda","rating":1.9,"year":2002}
+{"genre":"Adventure, Comedy, Crime","movie":"Ace Ventura: Pet Detective Jr.","rating":2.0,"year":2009}
+{"genre":"Action, Adventure, Horror","movie":"House of the Dead: O Filme","rating":2.0,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"Fred: The Movie","rating":2.1,"year":2010}
+{"genre":"Action, Adventure, Sci-Fi","movie":"War of the Worlds 2: The Next Wave","rating":2.1,"year":2008}
+{"genre":"Action, Adventure, Drama","movie":"The Legend of Drona","rating":2.1,"year":2008}
+{"genre":"Action, Adventure, Drama","movie":"200 M.P.H.","rating":2.2,"year":2011}
+{"genre":"Animation, Adventure, Family","movie":"A Fox's Tale","rating":2.2,"year":2008}
+{"genre":"Animation, Adventure, Comedy","movie":"In Search of the Titanic","rating":2.2,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"King of the Lost World","rating":2.3,"year":2005}
+{"genre":"Action, Adventure, Crime","movie":"Switch","rating":2.3,"year":2013}
+{"genre":"Adventure, Comedy","movie":"Epic Movie","rating":2.3,"year":2007}
+{"genre":"Action, Adventure","movie":"Apocalypse Pompeii","rating":2.4,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"100 Million BC","rating":2.4,"year":2008}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Miss Castaway and the Island Girls","rating":2.4,"year":2004}
+{"genre":"Adventure, Comedy, Horror","movie":"The Crypt of Count Dracoola","rating":2.4,"year":2011}
+{"genre":"Action, Adventure, Drama","movie":"Seven Mummies","rating":2.4,"year":2006}
+{"genre":"Animation, Action, Adventure","movie":"The High Fructose Adventures of Annoying Orange","rating":2.4,"year":20122014}
+{"genre":"Action, Adventure, Thriller","movie":"2010: Moby Dick","rating":2.4,"year":2010}
+{"genre":"Action, Adventure, Sci-Fi","movie":"40 Days and Nights","rating":2.4,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Battlefield Earth","rating":2.4,"year":2000}
+{"genre":"Action, Adventure","movie":"Tomb Invader","rating":2.5,"year":2018}
+{"genre":"Action, Adventure, Horror","movie":"Grizzly Rage","rating":2.6,"year":2007}
+{"genre":"Action, Adventure, Romance","movie":"Allan Quatermain and the Temple of Skulls","rating":2.6,"year":2008}
+{"genre":"Action, Adventure, Horror","movie":"Hansel & Gretel: Warriors of Witchcraft","rating":2.6,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"Dragonball: Evolution","rating":2.6,"year":2009}
+{"genre":"Action, Adventure, Drama","movie":"Love Story 2050","rating":2.6,"year":2008}
+{"genre":"Adventure, Biography, Drama","movie":"The Gaul","rating":2.7,"year":2001}
+{"genre":"Adventure, Horror, Sci-Fi","movie":"Bigfoot","rating":2.7,"year":2012}
+{"genre":"Drama, Horror, Adventure","movie":"Shark Zone","rating":2.7,"year":2003}
+{"genre":"Adventure, Comedy, Horror","movie":"Fred 2: Night of the Living Fred","rating":2.7,"year":2011}
+{"genre":"Adventure, Fantasy, Horror","movie":"Sleeping Beauty","rating":2.7,"year":2014}
+{"genre":"Adventure, Horror, Thriller","movie":"Octopus 2: River of Fear","rating":2.8,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"Avengers Grimm","rating":2.8,"year":2015}
+{"genre":"Adventure, Comedy, Family","movie":"Just for Kicks","rating":2.8,"year":2003}
+{"genre":"Action, Adventure, Horror","movie":"Komodo vs. Cobra","rating":2.8,"year":2005}
+{"genre":"Action, Adventure, Drama","movie":"Killer Bees","rating":2.8,"year":2002}
+{"genre":"Action, Adventure, Family","movie":"Battle for Skyark","rating":2.8,"year":2016}
+{"genre":"Animation, Adventure, Comedy","movie":"Doogal","rating":2.8,"year":2006}
+{"genre":"Action, Adventure, Horror","movie":"Tubarões 3","rating":2.8,"year":2002}
+{"genre":"Action, Adventure, Horror","movie":"Anaconda: The Offspring","rating":2.8,"year":2008}
+{"genre":"Action, Adventure, Drama","movie":"Thor: Hammer of the Gods","rating":2.9,"year":2009}
+{"genre":"Adventure, Drama, Fantasy","movie":"Cyclops","rating":2.9,"year":2008}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Age of Dinosaurs","rating":2.9,"year":2013}
+{"genre":"Action, Adventure, Horror","movie":"Piranhaconda","rating":2.9,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"BloodRayne","rating":2.9,"year":2005}
+{"genre":"Action, Adventure, Horror","movie":"Shark Hunter","rating":2.9,"year":2001}
+{"genre":"Action, Adventure, Horror","movie":"Attack of the Sabertooth","rating":2.9,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"BloodRayne: The Third Reich","rating":3.0,"year":2011}
+{"genre":"Adventure, Sci-Fi","movie":"Stasis","rating":3.0,"year":2017}
+{"genre":"Action, Adventure, Horror","movie":"Anacondas: Trail of Blood","rating":3.0,"year":2009}
+{"genre":"Action, Adventure, Comedy","movie":"The Crow: Wicked Prayer","rating":3.0,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Gitler kaput!","rating":3.0,"year":2008}
+{"genre":"Action, Adventure, Horror","movie":"Tubarões 2","rating":3.0,"year":2000}
+{"genre":"Action, Adventure","movie":"Militia","rating":3.0,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Highlander: The Source","rating":3.1,"year":2007}
+{"genre":"Adventure, Comedy","movie":"Blanche","rating":3.1,"year":2002}
+{"genre":"Action, Adventure, Horror","movie":"Pterodactyl","rating":3.1,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"In the Name of the King: Two Worlds","rating":3.1,"year":2011}
+{"genre":"Drama, Action, Adventure","movie":"Amazons and Gladiators","rating":3.1,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"MegaFault","rating":3.1,"year":2009}
+{"genre":"Animation, Adventure, Comedy","movie":"The Emoji Movie","rating":3.1,"year":2017}
+{"genre":"Action, Adventure","movie":"Air Rage","rating":3.1,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Far Cry: Fugindo do Inferno","rating":3.1,"year":2008}
+{"genre":"Action, Adventure, Crime","movie":"Epicenter","rating":3.1,"year":2000}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Post Impact","rating":3.1,"year":2004}
+{"genre":"Action, Adventure, Horror","movie":"Elo Selvagem","rating":3.1,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Nazis at the Center of the Earth","rating":3.1,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"AE: Apocalypse Earth","rating":3.2,"year":2013}
+{"genre":"Adventure, Horror","movie":"Octopus","rating":3.2,"year":2000}
+{"genre":"Animation, Action, Adventure","movie":"Fanboy & Chum Chum","rating":3.2,"year":20092014}
+{"genre":"Action, Adventure, Horror","movie":"Zoombies","rating":3.3,"year":2016}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado","rating":3.3,"year":2013}
+{"genre":"Comedy, Family, Adventure","movie":"George of the Jungle 2","rating":3.3,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"The Master of Disguise","rating":3.3,"year":2002}
+{"genre":"Action, Adventure","movie":"Abelar: Tales of an Ancient Empire","rating":3.3,"year":2010}
+{"genre":"Action, Adventure, Horror","movie":"Sasquatch: O Abominável","rating":3.3,"year":2002}
+{"genre":"Action, Adventure, Fantasy","movie":"Age of the Dragons","rating":3.4,"year":2011}
+{"genre":"Adventure, Comedy, Romance","movie":"Apám beájulna","rating":3.4,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"Dragonfyre","rating":3.4,"year":2013}
+{"genre":"Action, Adventure, Drama","movie":"Hirokin: The Last Samurai","rating":3.4,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"Attack of the Gryphon","rating":3.4,"year":2007}
+{"genre":"Action, Adventure, Horror","movie":"Sabretooth","rating":3.4,"year":2002}
+{"genre":"Action, Adventure, Comedy","movie":"A Flying Jatt","rating":3.4,"year":2016}
+{"genre":"Action, Adventure, Fantasy","movie":"Vikingdom: O Reino Viking","rating":3.4,"year":2013}
+{"genre":"Action, Adventure, Horror","movie":"Yeti: Curse of the Snow Demon","rating":3.4,"year":2008}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids 4: All the Time in the World","rating":3.5,"year":2011}
+{"genre":"Adventure, Comedy, Horror","movie":"Monster Island","rating":3.5,"year":2004}
+{"genre":"Action, Adventure, Family","movie":"The Adventures of Sharkboy and Lavagirl 3-D","rating":3.5,"year":2005}
+{"genre":"Action, Adventure, Horror","movie":"Starship Troopers 2: Hero of the Federation","rating":3.5,"year":2004}
+{"genre":"Adventure, Comedy","movie":"The Ring Thing","rating":3.5,"year":2004}
+{"genre":"Action, Adventure, Comedy","movie":"Delta Farce","rating":3.5,"year":2007}
+{"genre":"Adventure, Comedy","movie":"Maskeli Besler: Irak","rating":3.6,"year":2007}
+{"genre":"Action, Adventure, Fantasy","movie":"Sands of Oblivion","rating":3.6,"year":2007}
+{"genre":"Adventure, Fantasy","movie":"The Hexer","rating":3.6,"year":2001}
+{"genre":"Animation, Adventure, Comedy","movie":"Norm of the North","rating":3.6,"year":2016}
+{"genre":"Adventure, Drama, Horror","movie":"Temple","rating":3.6,"year":2017}
+{"genre":"Adventure, Fantasy, Horror","movie":"Minotaur","rating":3.6,"year":2006}
+{"genre":"Adventure, Animation, Drama","movie":"Stargate: Infinity","rating":3.7,"year":20022003}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons","rating":3.7,"year":2000}
+{"genre":"Adventure, Comedy, Musical","movie":"The Harry Hill Movie","rating":3.7,"year":2013}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King 3: Battle for Redemption","rating":3.7,"year":2012}
+{"genre":"Action, Adventure, Drama","movie":"Scorcher","rating":3.7,"year":2002}
+{"genre":"Action, Adventure, Horror","movie":"Crocodile 2: Death Swamp","rating":3.7,"year":2002}
+{"genre":"Adventure, Horror, Thriller","movie":"The Graves","rating":3.7,"year":2009}
+{"genre":"Action, Adventure","movie":"Mercenaries","rating":3.7,"year":2014}
+{"genre":"Action, Adventure, Comedy","movie":"Maximum Ride","rating":3.7,"year":2016}
+{"genre":"Adventure, Comedy, Family","movie":"Horrid Henry: The Movie","rating":3.7,"year":2011}
+{"genre":"Action, Adventure, Horror","movie":"Final Stab","rating":3.7,"year":2001}
+{"genre":"Action, Adventure","movie":"Back Streets","rating":3.7,"year":2006}
+{"genre":"Adventure, Drama, History","movie":"Nemanjici-radjanje kraljevine","rating":3.7,"year":2018}
+{"genre":"Adventure, Horror, Thriller","movie":"The Lost Tribe","rating":3.8,"year":2009}
+{"genre":"Action, Adventure, Comedy","movie":"Mela","rating":3.8,"year":2000}
+{"genre":"Action, Adventure, Horror","movie":"Crocodile","rating":3.8,"year":2000}
+{"genre":"Action, Adventure, Drama","movie":"Merlin and the War of the Dragons","rating":3.8,"year":2008}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King: Rise of a Warrior","rating":3.8,"year":2008}
+{"genre":"Adventure, Drama, Horror","movie":"Spring Break Shark Attack","rating":3.8,"year":2005}
+{"genre":"Adventure, Comedy, Drama","movie":"Thomas and the Magic Railroad","rating":3.8,"year":2000}
+{"genre":"Action, Adventure, Fantasy","movie":"Em Nome do Rei","rating":3.8,"year":2007}
+{"genre":"Action, Fantasy, Adventure","movie":"The Lord of the G-Strings: The Femaleship of the String","rating":3.8,"year":2003}
+{"genre":"Action, Adventure, Crime","movie":"Blue","rating":3.8,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"The Cat in the Hat","rating":3.8,"year":2003}
+{"genre":"Action, Adventure, Horror","movie":"Croc","rating":3.8,"year":2007}
+{"genre":"Adventure, Comedy, Drama","movie":"Beverly Hills Chihuahua","rating":3.8,"year":2008}
+{"genre":"Adventure, Fantasy","movie":"Witchville","rating":3.9,"year":2010}
+{"genre":"Animation, Adventure, Comedy","movie":"Happily N'Ever After 2","rating":3.9,"year":2009}
+{"genre":"Animation, Adventure, Comedy","movie":"Go, Diego! Go!","rating":3.9,"year":20052011}
+{"genre":"Adventure, Family, Fantasy","movie":"Merlin: The Return","rating":3.9,"year":2000}
+{"genre":"Action, Adventure, Horror","movie":"Arachnid","rating":3.9,"year":2001}
+{"genre":"Adventure, Fantasy, Horror","movie":"The Lost Treasure of the Grand Canyon","rating":3.9,"year":2008}
+{"genre":"Animation, Adventure, Comedy","movie":"Dora, a Aventureira","rating":3.9,"year":20002015}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 4: The 4th Awakens","rating":4.0,"year":2016}
+{"genre":"Action, Adventure, Drama","movie":"Code Red","rating":4.0,"year":2001}
+{"genre":"Adventure, Fantasy, Horror","movie":"Book of Shadows: Blair Witch 2","rating":4.0,"year":2000}
+{"genre":"Action, Adventure, Comedy","movie":"French Spies","rating":4.0,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Stargate Origins","rating":4.0,"year":2018}
+{"genre":"Adventure, Comedy","movie":"Without a Paddle: Nature's Calling","rating":4.0,"year":2009}
+{"genre":"Action, Adventure, Horror","movie":"Man-Thing","rating":4.0,"year":2005}
+{"genre":"Adventure, Drama, Fantasy","movie":"Jem and the Holograms","rating":4.1,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 5: Global Swarming","rating":4.1,"year":2017}
+{"genre":"Action, Adventure, Crime","movie":"Red Water","rating":4.1,"year":2003}
+{"genre":"Comedy, Family, Adventure","movie":"Beethoven's 5th","rating":4.1,"year":2003}
+{"genre":"Action, Adventure, Thriller","movie":"The Marksman","rating":4.1,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 2: The Second One","rating":4.1,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"Megiddo: The Omega Code 2","rating":4.1,"year":2001}
+{"genre":"Adventure, Comedy","movie":"Erkan & Stefan gegen die Mächte der Finsternis","rating":4.1,"year":2002}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Os Invasores da Cidade Perdida","rating":4.1,"year":2008}
+{"genre":"Action, Adventure, Horror","movie":"War of the Dead","rating":4.1,"year":2011}
+{"genre":"Adventure, Mystery, Sci-Fi","movie":"The Philadelphia Experiment","rating":4.1,"year":2012}
+{"genre":"Action, Adventure, Horror","movie":"Ferocious Planet","rating":4.1,"year":2011}
+{"genre":"Action, Drama, Adventure","movie":"Baywatch: Hawaiian Wedding","rating":4.2,"year":2003}
+{"genre":"Adventure, Comedy","movie":"Gladiatress","rating":4.2,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King 4: Quest for Power","rating":4.2,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids 3: Game Over","rating":4.2,"year":2003}
+{"genre":"Adventure, Comedy","movie":"Ass Backwards","rating":4.2,"year":2013}
+{"genre":"Action, Adventure","movie":"Caçadores de Diamantes","rating":4.2,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Thunderbirds","rating":4.2,"year":2004}
+{"genre":"Action, Adventure, Horror","movie":"O Som do Trovão","rating":4.2,"year":2005}
+{"genre":"Action, Adventure","movie":"Hercules Reborn","rating":4.2,"year":2014}
+{"genre":"Action, Adventure, Fantasy","movie":"The Legend of Hercules","rating":4.2,"year":2014}
+{"genre":"Animation, Adventure, Comedy","movie":"The Adventures of Rocky & Bullwinkle","rating":4.2,"year":2000}
+{"genre":"Action, Adventure, Family","movie":"The Last Airbender","rating":4.2,"year":2010}
+{"genre":"Adventure, Drama, History","movie":"The Day of the Siege: September Eleven 1683","rating":4.2,"year":2012}
+{"genre":"Adventure, Comedy, Thriller","movie":"55 esaaf","rating":4.2,"year":2001}
+{"genre":"Adventure, Comedy, Drama","movie":"Private Valentine: Blonde & Dangerous","rating":4.3,"year":2008}
+{"genre":"Action, Adventure, Drama","movie":"Treasure Raiders","rating":4.3,"year":2007}
+{"genre":"Action, Adventure, Drama","movie":"Singularity","rating":4.3,"year":2017}
+{"genre":"Action, Adventure, Fantasy","movie":"Dawn of the Dragonslayer","rating":4.3,"year":2011}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Starship Troopers 3: Marauder","rating":4.3,"year":2008}
+{"genre":"Adventure, Comedy, Drama","movie":"College Road Trip","rating":4.3,"year":2008}
+{"genre":"Adventure, Drama, Thriller","movie":"Dark Tide","rating":4.3,"year":2012}
+{"genre":"Adventure, Action, Drama","movie":"The Poseidon Adventure","rating":4.3,"year":2005}
+{"genre":"Adventure, Comedy, Crime","movie":"Robbery Alla Turca","rating":4.3,"year":2005}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"SpiderBabe","rating":4.3,"year":2003}
+{"genre":"Action, Adventure, Comedy","movie":"Zoom","rating":4.3,"year":2006}
+{"genre":"Animation, Adventure, Comedy","movie":"Alvin and the Chipmunks: Chipwrecked","rating":4.4,"year":2011}
+{"genre":"Action, Adventure, Comedy","movie":"Kangaroo Jack","rating":4.4,"year":2003}
+{"genre":"Action, Adventure, Drama","movie":"Ironclad: Battle for Blood","rating":4.4,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Beverly Hills Chihuahua 2","rating":4.4,"year":2011}
+{"genre":"Adventure, Comedy","movie":"Wieners","rating":4.4,"year":2008}
+{"genre":"Animation, Adventure, Comedy","movie":"Delgo","rating":4.4,"year":2008}
+{"genre":"Adventure, Drama, Fantasy","movie":"Fogo e Gelo","rating":4.4,"year":2008}
+{"genre":"Adventure, Comedy, Family","movie":"Knight Squad","rating":4.4,"year":2018}
+{"genre":"Adventure, Fantasy, Horror","movie":"The Curse of King Tut's Tomb","rating":4.4,"year":2006}
+{"genre":"Action, Adventure, Crime","movie":"xXx: State of the Union","rating":4.4,"year":2005}
+{"genre":"Adventure, Horror, Mystery","movie":"Kaal","rating":4.5,"year":2005}
+{"genre":"Adventure, Sci-Fi","movie":"Alien Apocalypse","rating":4.5,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons: The Book of Vile Darkness","rating":4.5,"year":2012}
+{"genre":"Action, Adventure, Comedy","movie":"Agent Cody Banks 2: Destination London","rating":4.5,"year":2004}
+{"genre":"Animation, Adventure, Comedy","movie":"Happily N'Ever After","rating":4.5,"year":2006}
+{"genre":"Action, Adventure, Comedy","movie":"The Dukes of Hazzard: The Beginning","rating":4.5,"year":2007}
+{"genre":"Action, Adventure, Thriller","movie":"Into the Sun","rating":4.5,"year":2005}
+{"genre":"Adventure, Family, Fantasy","movie":"Space Buddies","rating":4.5,"year":2009}
+{"genre":"Action, Adventure, History","movie":"Hammer of the Gods","rating":4.5,"year":2013}
+{"genre":"Action, Adventure, Comedy","movie":"Coronado","rating":4.5,"year":2003}
+{"genre":"Sci-Fi, Action, Adventure","movie":"Mysterious Island","rating":4.5,"year":2005}
+{"genre":"Action, Adventure, Thriller","movie":"Diablo","rating":4.5,"year":2015}
+{"genre":"Action, Adventure, Crime","movie":"Mercenary: Absolution","rating":4.5,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Dragonheart: A New Beginning","rating":4.5,"year":2000}
+{"genre":"Animation, Adventure, Comedy","movie":"Space Chimps","rating":4.5,"year":2008}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Alien Arrival","rating":4.5,"year":2016}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Last Templar","rating":4.5,"year":2009}
+{"genre":"Action, Adventure, Horror","movie":"Battle of the Damned","rating":4.5,"year":2013}
+{"genre":"Animation, Adventure, Family","movie":"Fly Me to the Moon 3D","rating":4.5,"year":2008}
+{"genre":"Action, Adventure, Thriller","movie":"Extreme Ops","rating":4.5,"year":2002}
+{"genre":"Action, Adventure, Horror","movie":"The Pyramid","rating":4.6,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Are We There Yet?","rating":4.6,"year":2005}
+{"genre":"Action, Adventure, Crime","movie":"The Last Drop","rating":4.6,"year":2006}
+{"genre":"Action, Adventure, Horror","movie":"All Girls Weekend","rating":4.6,"year":2016}
+{"genre":"Animation, Adventure, Comedy","movie":"Yogi Bear","rating":4.6,"year":2010}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Nostradamus","rating":4.6,"year":2000}
+{"genre":"Action, Adventure, Horror","movie":"Anacondas: The Hunt for the Blood Orchid","rating":4.6,"year":2004}
+{"genre":"Animation, Adventure, Comedy","movie":"Sanjay and Craig","rating":4.6,"year":20132016}
+{"genre":"Action, Adventure, Fantasy","movie":"Highlander: Endgame","rating":4.6,"year":2000}
+{"genre":"Action, Adventure, Romance","movie":"The Touch","rating":4.6,"year":2002}
+{"genre":"Action, Adventure, Family","movie":"Max Steel","rating":4.6,"year":2016}
+{"genre":"Action, Adventure, Fantasy","movie":"Além da Floresta de Sherwood","rating":4.6,"year":2009}
+{"genre":"Action, Adventure, Horror","movie":"Sector 7","rating":4.6,"year":2011}
+{"genre":"Action, Adventure, Comedy","movie":"A Irmandade","rating":4.6,"year":2001}
+{"genre":"Action, Adventure","movie":"U.S. Seals II","rating":4.6,"year":2001}
+{"genre":"Animation, Adventure, Comedy","movie":"Hui Buh - Um Fantasma Atrapalhado","rating":4.6,"year":2006}
+{"genre":"Adventure, Comedy, Sport","movie":"Chilly Dogs","rating":4.6,"year":2001}
+{"genre":"Action, Adventure, Comedy","movie":"Aladin","rating":4.6,"year":2009}
+{"genre":"Adventure, Drama, Sci-Fi","movie":"Battle Royale II","rating":4.7,"year":2003}
+{"genre":"Adventure, Comedy","movie":"O Príncipe do Pacífico","rating":4.7,"year":2000}
+{"genre":"Adventure, Comedy","movie":"Vegas, Baby","rating":4.7,"year":2006}
+{"genre":"Action, Adventure, Drama","movie":"Veer","rating":4.7,"year":2010}
+{"genre":"Adventure, Comedy, Family","movie":"The Santa Clause 3: The Escape Clause","rating":4.7,"year":2006}
+{"genre":"Adventure, Drama","movie":"Fast Sofa","rating":4.7,"year":2001}
+{"genre":"Action, Adventure, Thriller","movie":"Into the Blue 2: The Reef","rating":4.7,"year":2009}
+{"genre":"Action, Adventure, Horror","movie":"The Breed","rating":4.7,"year":2001}
+{"genre":"Action, Adventure, Drama","movie":"The Great Challenge","rating":4.7,"year":2004}
+{"genre":"Action, Adventure, Comedy","movie":"Moscow Gold","rating":4.7,"year":2003}
+{"genre":"Action, Adventure, Romance","movie":"A Vingança do Mosqueteiro","rating":4.7,"year":2001}
+{"genre":"Animation, Action, Adventure","movie":"Yu-Gi-Oh!: The Movie","rating":4.7,"year":2004}
+{"genre":"Adventure, Sci-Fi","movie":"The Dinosaur Project","rating":4.7,"year":2012}
+{"genre":"Action, Adventure, Crime","movie":"Elektra","rating":4.7,"year":2005}
+{"genre":"Action, Adventure, Romance","movie":"Qayamat: City Under Threat","rating":4.7,"year":2003}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: New Moon","rating":4.7,"year":2009}
+{"genre":"Action, Adventure","movie":"Kod apokalipsisa","rating":4.7,"year":2007}
+{"genre":"Adventure, Comedy, Drama","movie":"Spy School","rating":4.7,"year":2008}
+{"genre":"Action, Adventure, Crime","movie":"Walking Tall: The Payback","rating":4.7,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Robot Overlords","rating":4.7,"year":2014}
+{"genre":"Adventure, Drama, Horror","movie":"Prey","rating":4.7,"year":2007}
+{"genre":"Action, Adventure, Thriller","movie":"Game of Death","rating":4.7,"year":2011}
+{"genre":"Action, Adventure, Horror","movie":"Frankenfish","rating":4.8,"year":2004}
+{"genre":"Animation, Adventure, Family","movie":"Bakugan Battle Brawlers","rating":4.8,"year":20072010}
+{"genre":"Adventure, Crime, Drama","movie":"O Ritual da Pedra","rating":4.8,"year":2006}
+{"genre":"Animation, Adventure, Comedy","movie":"The Hunchback of Notre Dame II","rating":4.8,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"Fish Hooks","rating":4.8,"year":20102014}
+{"genre":"Action, Adventure, Family","movie":"A Lenda do Rei Macaco: Tumulto no Reino Celestial","rating":4.8,"year":2014}
+{"genre":"Animation, Action, Adventure","movie":"Iron Man & Hulk: Heroes United","rating":4.8,"year":2013}
+{"genre":"Adventure, Comedy, Family","movie":"Herbie Fully Loaded","rating":4.8,"year":2005}
+{"genre":"Adventure, Comedy, Family","movie":"Jack and the Beanstalk","rating":4.8,"year":2009}
+{"genre":"Action, Adventure","movie":"DOA: Dead or Alive","rating":4.8,"year":2006}
+{"genre":"Adventure, Comedy, History","movie":"Virgin Territory","rating":4.8,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Charlie's Angels: Full Throttle","rating":4.8,"year":2003}
+{"genre":"Action, Adventure, Fantasy","movie":"Puli","rating":4.8,"year":2015}
+{"genre":"Adventure, Comedy, Western","movie":"Lucky Luke","rating":4.8,"year":2009}
+{"genre":"Action, Adventure, Comedy","movie":"Underdog","rating":4.8,"year":2007}
+{"genre":"Adventure, Drama, Family","movie":"The Seeker: The Dark Is Rising","rating":4.8,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Ra.One","rating":4.8,"year":2011}
+{"genre":"Action, Adventure, Fantasy","movie":"Dungeons & Dragons 2 - O Poder Maior","rating":4.8,"year":2005}
+{"genre":"Action, Adventure, Drama","movie":"Luck","rating":4.8,"year":2009}
+{"genre":"Action, Adventure, Drama","movie":"Flash Gordon","rating":4.8,"year":20072008}
+{"genre":"Animation, Adventure, Drama","movie":"Tarzan: A Evolução da Lenda","rating":4.8,"year":2013}
+{"genre":"Action, Adventure, Horror","movie":"Aftershock","rating":4.8,"year":2012}
+{"genre":"Adventure, Drama, Fantasy","movie":"Revelation","rating":4.8,"year":2001}
+{"genre":"Action, Adventure, Crime","movie":"The Saint","rating":4.8,"year":2017}
+{"genre":"Animation, Adventure, Comedy","movie":"Sherlock Gnomes","rating":4.8,"year":2018}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Black Knight","rating":4.8,"year":2001}
+{"genre":"Adventure, Comedy, Crime","movie":"Crocodilo Dundee em Hollywood","rating":4.8,"year":2001}
+{"genre":"Adventure, Drama, History","movie":" Nemanjici-radjanje kraljevine","rating":4.8,"year":2018}
+{"genre":"Action, Adventure, Thriller","movie":"Chain of Command","rating":4.8,"year":2000}
+{"genre":"Animation, Action, Adventure","movie":"Dragonlance: Dragons of Autumn Twilight","rating":4.9,"year":2008}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Star Trek: Renegades","rating":4.9,"year":2015}
+{"genre":"Action, Adventure, Thriller","movie":"Maximum Conviction","rating":4.9,"year":2012}
+{"genre":"Adventure, Comedy, Family","movie":"Meet Dave","rating":4.9,"year":2008}
+{"genre":"Action, Adventure, Comedy","movie":"Power Rangers Samurai","rating":4.9,"year":20112012}
+{"genre":"Adventure, Comedy, Romance","movie":"Lovewrecked","rating":4.9,"year":2005}
+{"genre":"Animation, Action, Adventure","movie":"Johnny Test","rating":4.9,"year":20052014}
+{"genre":"Adventure, Comedy, Horror","movie":"Dead Before Dawn 3D","rating":4.9,"year":2012}
+{"genre":"Action, Adventure, Crime","movie":"Vehicle 19","rating":4.9,"year":2013}
+{"genre":"Action, Adventure, Sci-Fi","movie":"After Earth","rating":4.9,"year":2013}
+{"genre":"Adventure, Drama","movie":"The Celestine Prophecy","rating":4.9,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"Aliens Ate My Homework","rating":4.9,"year":2018}
+{"genre":"Action, Adventure, Horror","movie":"The Darkest Hour","rating":4.9,"year":2011}
+{"genre":"Adventure, Drama, Fantasy","movie":"As Pedras de Fogo","rating":4.9,"year":2009}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Breaking Dawn - Part 1","rating":4.9,"year":2011}
+{"genre":"Adventure, Comedy, Family","movie":"Gulliver's Travels","rating":4.9,"year":2010}
+{"genre":"Animation, Adventure, Comedy","movie":"Animais Unidos Jamais Serão Vencidos","rating":4.9,"year":2010}
+{"genre":"Adventure, Comedy","movie":"Year One","rating":4.9,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"102 Dalmatians","rating":4.9,"year":2000}
+{"genre":"Adventure, Family","movie":"Santa Buddies","rating":4.9,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"Snow Day","rating":5.0,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Scooby-Doo 2: Monsters Unleashed","rating":5.0,"year":2004}
+{"genre":"Animation, Adventure, Comedy","movie":"Duck Duck Goose","rating":5.0,"year":2018}
+{"genre":"Adventure, Drama, Horror","movie":"Silent Hill: Revelação 3D","rating":5.0,"year":2012}
+{"genre":"Action, Adventure, Fantasy","movie":"SAGA: Curse of the Shadow","rating":5.0,"year":2013}
+{"genre":"Adventure, Fantasy, Horror","movie":"They Found Hell","rating":5.0,"year":2015}
+{"genre":"Adventure, Biography, Comedy","movie":"Army of One","rating":5.0,"year":2016}
+{"genre":"Action, Adventure, Comedy","movie":"Bem Vindo À Selva","rating":5.0,"year":2013}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Eclipse","rating":5.0,"year":2010}
+{"genre":"Adventure, Comedy, Family","movie":"Scooby-Doo","rating":5.0,"year":2002}
+{"genre":"Adventure, Family, Fantasy","movie":"Peter Pan Live!","rating":5.0,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Air Buddies","rating":5.0,"year":2006}
+{"genre":"Action, Adventure, Drama","movie":"Beyond the Mask","rating":5.0,"year":2015}
+{"genre":"Adventure, Sci-Fi","movie":"O Futuro Perdido","rating":5.0,"year":2010}
+{"genre":"Action, Adventure, Comedy","movie":"Blade of Kings","rating":5.0,"year":2004}
+{"genre":"Action, Adventure, Fantasy","movie":"Beyond the Edge","rating":5.0,"year":2018}
+{"genre":"Action, Adventure, Drama","movie":"Fugindo do Passado","rating":5.0,"year":2004}
+{"genre":"Action, Adventure","movie":"Guardians of the Tomb","rating":5.0,"year":2018}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Stealth","rating":5.0,"year":2005}
+{"genre":"Action, Adventure, Thriller","movie":"Baadshaho","rating":5.0,"year":2017}
+{"genre":"Action, Adventure, Family","movie":"Eragon","rating":5.1,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"Unaccompanied Minors","rating":5.1,"year":2006}
+{"genre":"Adventure, Drama, Horror","movie":"Open Water 2: Adrift","rating":5.1,"year":2006}
+{"genre":"Action, Adventure, Family","movie":"Alex Rider: Operation Stormbreaker","rating":5.1,"year":2006}
+{"genre":"Action, Adventure, Crime","movie":"Resgate de uma Família","rating":5.1,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Silver Hawk","rating":5.1,"year":2004}
+{"genre":"Adventure, Comedy","movie":"Grumpy Cat's Worst Christmas Ever","rating":5.1,"year":2014}
+{"genre":"Action, Adventure, Comedy","movie":"The Dukes of Hazzard","rating":5.1,"year":2005}
+{"genre":"Animation, Adventure, Comedy","movie":"Open Season: Scared Silly","rating":5.1,"year":2015}
+{"genre":"Action, Adventure, Horror","movie":"The Cave","rating":5.1,"year":2005}
+{"genre":"Action, Adventure, Drama","movie":"MacGyver","rating":5.1,"year":2016}
+{"genre":"Animation, Short, Adventure","movie":"Olaf's Frozen Adventure","rating":5.1,"year":2017}
+{"genre":"Action, Adventure, Drama","movie":"10,000 BC","rating":5.1,"year":2008}
+{"genre":"Adventure, Comedy, Family","movie":"Asterix nos Jogos Olímpicos","rating":5.1,"year":2008}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids 2: Island of Lost Dreams","rating":5.1,"year":2002}
+{"genre":"Animation, Action, Adventure","movie":"Atlantis: Milo's Return","rating":5.1,"year":2003}
+{"genre":"Animation, Action, Adventure","movie":"G-Force","rating":5.1,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"Neve Pra Cachorro","rating":5.1,"year":2002}
+{"genre":"Action, Adventure, Comedy","movie":"Agent Cody Banks","rating":5.1,"year":2003}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Alien Hunter","rating":5.1,"year":2003}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Dark Planet: Rebellion","rating":5.1,"year":2009}
+{"genre":"Drama, Family, Adventure","movie":"Tales from the Neverending Story","rating":5.1,"year":2001}
+{"genre":"Action, Adventure, Comedy","movie":"Dishoom","rating":5.1,"year":2016}
+{"genre":"Action, Adventure","movie":"Agent Vinod","rating":5.1,"year":2012}
+{"genre":"Action, Adventure, Drama","movie":"Ataque dos Titãs","rating":5.1,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Dadnapped","rating":5.1,"year":2009}
+{"genre":"Animation, Adventure, Comedy","movie":"Lissi no reino dos birutas","rating":5.1,"year":2007}
+{"genre":"Animation, Adventure, Comedy","movie":"Alvin and the Chipmunks: The Road Chip","rating":5.1,"year":2015}
+{"genre":"Action, Adventure, Crime","movie":"Carga Explosiva: O Legado","rating":5.2,"year":2015}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Transformers: The Last Knight","rating":5.2,"year":2017}
+{"genre":"Adventure, Fantasy","movie":"Dragonheart 3: The Sorcerer's Curse","rating":5.2,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Mortadelo E Salaminho - Agentes Quase Secretos","rating":5.2,"year":2003}
+{"genre":"Action, Adventure, Comedy","movie":"Soulkeeper","rating":5.2,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Independence Day: Resurgence","rating":5.2,"year":2016}
+{"genre":"Action, Adventure, Thriller","movie":"xXx: Return of Xander Cage","rating":5.2,"year":2017}
+{"genre":"Adventure, Crime, Reality-TV","movie":"Dog the Bounty Hunter","rating":5.2,"year":20032012}
+{"genre":"Adventure, Comedy, Crime","movie":"Catch That Kid","rating":5.2,"year":2004}
+{"genre":"Adventure, Western","movie":"Renegade","rating":5.2,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Inhumans","rating":5.2,"year":2017}
+{"genre":"Action, Adventure, Comedy","movie":"Kung Fu Yoga","rating":5.2,"year":2017}
+{"genre":"Action, Adventure, Fantasy","movie":"The Mummy: Tomb of the Dragon Emperor","rating":5.2,"year":2008}
+{"genre":"Adventure, Fantasy","movie":"Voldemort: Origins of the Heir","rating":5.2,"year":2018}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Mutant Chronicles","rating":5.2,"year":2008}
+{"genre":"Adventure, Drama, Family","movie":"Free Willy: Escape from Pirate's Cove","rating":5.2,"year":2010}
+{"genre":"Action, Adventure, Fantasy","movie":"Grandes Guerreiros","rating":5.2,"year":2009}
+{"genre":"Animation, Adventure, Comedy","movie":"Scooby-Doo! Curse of the Lake Monster","rating":5.2,"year":2010}
+{"genre":"Action, Adventure, Comedy","movie":"Garotos Perdidos: A Sede","rating":5.2,"year":2010}
+{"genre":"Animation, Adventure, Comedy","movie":"Open Season 3","rating":5.2,"year":2010}
+{"genre":"Action, Adventure, Fantasy","movie":"Conan the Barbarian","rating":5.2,"year":2011}
+{"genre":"Action, Adventure, Drama","movie":"Cloak & Dagger","rating":5.2,"year":2018}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Dark Planet","rating":5.2,"year":2009}
+{"genre":"Adventure, Comedy, Drama","movie":"Racing Stripes","rating":5.2,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Pootie Tang","rating":5.2,"year":2001}
+{"genre":"Animation, Adventure, Comedy","movie":"Sprung! The Magic Roundabout","rating":5.2,"year":2005}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Star Wars: Revelations","rating":5.2,"year":2005}
+{"genre":"Action, Adventure, Drama","movie":"Texas Rangers","rating":5.2,"year":2001}
+{"genre":"Action, Adventure, Horror","movie":"Doom","rating":5.2,"year":2005}
+{"genre":"Action, Adventure","movie":"Bushwick","rating":5.2,"year":2017}
+{"genre":"Action, Adventure, Horror","movie":"Exists","rating":5.2,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"The 5th Wave","rating":5.2,"year":2016}
+{"genre":"Animation, Adventure, Family","movie":"Walking with Dinosaurs 3D","rating":5.2,"year":2013}
+{"genre":"Action, Adventure, Crime","movie":"Commando 2","rating":5.2,"year":2017}
+{"genre":"Action, Adventure, Drama","movie":"Prince of Central Park","rating":5.2,"year":2000}
+{"genre":"Adventure, Comedy, Family","movie":"Garoto-Formiga","rating":5.2,"year":2013}
+{"genre":"Adventure, Family","movie":"In Desert and Wilderness","rating":5.2,"year":2001}
+{"genre":"Action, Adventure, Comedy","movie":"Clockstoppers","rating":5.2,"year":2002}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Monster Hunt 2","rating":5.3,"year":2018}
+{"genre":"Animation, Adventure, Comedy","movie":"The Wild Life","rating":5.3,"year":2016}
+{"genre":"Adventure, Comedy, Family","movie":"Astérix and Obélix: God Save Britannia","rating":5.3,"year":2012}
+{"genre":"Adventure, Comedy, Romance","movie":"Moving McAllister","rating":5.3,"year":2007}
+{"genre":"Animation, Adventure, Comedy","movie":"The Wild Thornberrys Movie","rating":5.3,"year":2002}
+{"genre":"Adventure, Comedy","movie":"Strange Wilderness","rating":5.3,"year":2008}
+{"genre":"Action, Adventure, Comedy","movie":"Enter The Warriors Gate","rating":5.3,"year":2016}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Jupiter Ascending","rating":5.3,"year":2015}
+{"genre":"Adventure, Fantasy, Mystery","movie":"Império Proibido","rating":5.3,"year":2014}
+{"genre":"Animation, Adventure, Family","movie":"Arthur and the Great Adventure","rating":5.3,"year":2009}
+{"genre":"Adventure, Drama, Mystery","movie":"Wrecked","rating":5.3,"year":2010}
+{"genre":"Animation, Adventure, Comedy","movie":"Alpha and Omega","rating":5.3,"year":2010}
+{"genre":"Action, Adventure, Drama","movie":"The Hero: Love Story of a Spy","rating":5.3,"year":2003}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Krrish 3","rating":5.3,"year":2013}
+{"genre":"Animation, Adventure, Comedy","movie":"Selvagem","rating":5.3,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"The Challenge","rating":5.3,"year":2003}
+{"genre":"Action, Adventure, Crime","movie":"Ek Ajnabee","rating":5.3,"year":2005}
+{"genre":"Adventure, Horror, Thriller","movie":"The Green Inferno","rating":5.3,"year":2013}
+{"genre":"Adventure, Comedy, Family","movie":"The Muppets' Wizard of Oz","rating":5.3,"year":2005}
+{"genre":"Animation, Action, Adventure","movie":"O Que Será de Nozes 2","rating":5.3,"year":2017}
+{"genre":"Animation, Adventure, Comedy","movie":"Squirrel Boy","rating":5.3,"year":20062007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Moontrap: Target Earth","rating":5.3,"year":2017}
+{"genre":"Adventure, Drama, History","movie":"The Final Inquiry","rating":5.3,"year":2006}
+{"genre":"Action, Adventure","movie":"Zameen","rating":5.3,"year":2003}
+{"genre":"Adventure, Comedy, Drama","movie":"The Mysteries of Pittsburgh","rating":5.4,"year":2008}
+{"genre":"Adventure, Family","movie":"Snow Buddies","rating":5.4,"year":2008}
+{"genre":"Action, Adventure, Comedy","movie":"I Spy","rating":5.4,"year":2002}
+{"genre":"Action, Adventure, Horror","movie":"Beyond Skyline","rating":5.4,"year":2017}
+{"genre":"Animation, Action, Adventure","movie":"Heavy Metal 2000","rating":5.4,"year":2000}
+{"genre":"Adventure, Drama, History","movie":"Army of Valhalla","rating":5.4,"year":2003}
+{"genre":"Action, Adventure, Comedy","movie":"Barely Lethal","rating":5.4,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Taxi 5","rating":5.4,"year":2018}
+{"genre":"Action, Adventure, Fantasy","movie":"Season of the Witch","rating":5.4,"year":2011}
+{"genre":"Action, Adventure, Fantasy","movie":"The Monkey King 3","rating":5.4,"year":2018}
+{"genre":"Adventure, Comedy, Family","movie":"Big Fat Liar","rating":5.4,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"Aliens in the Attic","rating":5.4,"year":2009}
+{"genre":"Adventure, Comedy, Horror","movie":"Deadheads","rating":5.4,"year":2011}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Land of the Lost","rating":5.4,"year":2009}
+{"genre":"Animation, Adventure, Family","movie":"Mars Needs Moms","rating":5.4,"year":2011}
+{"genre":"Adventure, Comedy","movie":"St Trinian's 2: The Legend of Fritton's Gold","rating":5.4,"year":2009}
+{"genre":"Action, Adventure, Biography","movie":"The Ten Commandments","rating":5.4,"year":2006}
+{"genre":"Action, Adventure, War","movie":"The Last Legion","rating":5.4,"year":2007}
+{"genre":"Action, Adventure, Drama","movie":"Pathfinder","rating":5.4,"year":2007}
+{"genre":"Adventure, Family, Sci-Fi","movie":"Beyond","rating":5.4,"year":2000}
+{"genre":"Action, Adventure, Thriller","movie":"Dhoom 3","rating":5.4,"year":2013}
+{"genre":"Animation, Adventure, Comedy","movie":"The Smurfs 2","rating":5.4,"year":2013}
+{"genre":"Action, Adventure, Thriller","movie":"12 Rounds 2: Reloaded","rating":5.4,"year":2013}
+{"genre":"Animation, Adventure, Comedy","movie":"The Proud Family Movie","rating":5.4,"year":2005}
+{"genre":"Adventure, Family, Fantasy","movie":"The Adventurer: The Curse of the Midas Box","rating":5.4,"year":2013}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Journey to the West: The Demons Strike Back","rating":5.4,"year":2017}
+{"genre":"Adventure, Fantasy","movie":"Merlin's Apprentice","rating":5.4,"year":2006}
+{"genre":"Animation, Adventure, Comedy","movie":"The Fox and the Hound 2","rating":5.4,"year":2006}
+{"genre":"Action, Adventure","movie":"Big Game","rating":5.4,"year":2014}
+{"genre":"Action, Adventure, Comedy","movie":"O Caçador de Crocodilos: Rota de Colisão","rating":5.4,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"Home on the Range","rating":5.4,"year":2004}
+{"genre":"Action, Adventure, Crime","movie":"No Limite","rating":5.4,"year":2017}
+{"genre":"Action, Adventure, Crime","movie":"Adventures of Arsene Lupin","rating":5.4,"year":2004}
+{"genre":"Adventure, Comedy","movie":"Fun Size","rating":5.4,"year":2012}
+{"genre":"Animation, Adventure, Family","movie":"Tarzan & Jane","rating":5.4,"year":2002}
+{"genre":"Action, Adventure, Crime","movie":"Renegades","rating":5.4,"year":2017}
+{"genre":"Adventure, Comedy, Horror","movie":"The Return of James Battle","rating":5.4,"year":2004}
+{"genre":"Action, Adventure","movie":"Northmen - A Viking Saga","rating":5.4,"year":2014}
+{"genre":"Animation, Adventure, Comedy","movie":"Hell and Back","rating":5.4,"year":2015}
+{"genre":"Animation, Adventure, Family","movie":"The Jungle Book 2","rating":5.4,"year":2003}
+{"genre":"Adventure, Comedy, Drama","movie":"Don Verdean","rating":5.4,"year":2015}
+{"genre":"Action, Adventure, Fantasy","movie":"Gods of Egypt","rating":5.4,"year":2016}
+{"genre":"Action, Adventure, Crime","movie":"Raavan","rating":5.4,"year":2010}
+{"genre":"Action, Adventure, Drama","movie":"Outlaws and Angels","rating":5.4,"year":2016}
+{"genre":"Adventure, Comedy, Family","movie":"The Lizzie McGuire Movie","rating":5.4,"year":2003}
+{"genre":"Adventure, Drama, Horror","movie":"A Casa","rating":5.4,"year":2010}
+{"genre":"Animation, Action, Adventure","movie":"T.U.F.F. Puppy","rating":5.5,"year":20102015}
+{"genre":"Action, Adventure, Sci-Fi","movie":"The Core","rating":5.5,"year":2003}
+{"genre":"Action, Adventure, Comedy","movie":"Bang Bang","rating":5.5,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Winning London","rating":5.5,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":" Stargate Origins","rating":5.5,"year":2018}
+{"genre":"Action, Adventure, Fantasy","movie":"Seventh Son","rating":5.5,"year":2014}
+{"genre":"Adventure, Comedy","movie":"A Bad Moms Christmas","rating":5.5,"year":2017}
+{"genre":"Animation, Adventure, Comedy","movie":"Hop","rating":5.5,"year":2011}
+{"genre":"Action, Adventure, Drama","movie":"Pompeia","rating":5.5,"year":2014}
+{"genre":"Adventure, Comedy, Family","movie":"Cheaper by the Dozen 2","rating":5.5,"year":2005}
+{"genre":"Action, Adventure, Fantasy","movie":"Lara Croft Tomb Raider: The Cradle of Life","rating":5.5,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"HOUBA! On the Trail of the Marsupilami","rating":5.5,"year":2012}
+{"genre":"Animation, Action, Adventure","movie":"Betty Atômica","rating":5.5,"year":20042010}
+{"genre":"Adventure, Comedy, Family","movie":"Kermit's Swamp Years","rating":5.5,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys","rating":5.5,"year":2001}
+{"genre":"Action, Adventure, Fantasy","movie":"The Scorpion King","rating":5.5,"year":2002}
+{"genre":"Adventure, Comedy, Crime","movie":"The Suite Life Movie","rating":5.5,"year":2011}
+{"genre":"Action, Adventure, Crime","movie":"Billionaire Ransom","rating":5.5,"year":2016}
+{"genre":"Adventure, Drama, Fantasy","movie":"The Twilight Saga: Breaking Dawn - Part 2","rating":5.5,"year":2012}
+{"genre":"Adventure, Comedy, Horror","movie":"The Last Lovecraft: Relic of Cthulhu","rating":5.5,"year":2009}
+{"genre":"Action, Adventure, Comedy","movie":"Duke Nukem Forever","rating":5.5,"year":2011}
+{"genre":"Action, Adventure, Fantasy","movie":"A Múmia","rating":5.5,"year":2017}
+{"genre":"Action, Adventure, Family","movie":"Wendy Wu: Homecoming Warrior","rating":5.5,"year":2006}
+{"genre":"Animation, Adventure, Comedy","movie":"Putz! A Coisa Tá Feia","rating":5.5,"year":2006}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Your Highness","rating":5.5,"year":2011}
+{"genre":"Adventure, Comedy, Family","movie":"RV","rating":5.5,"year":2006}
+{"genre":"Animation, Adventure, Family","movie":"Legends of Oz: Dorothy's Return","rating":5.5,"year":2013}
+{"genre":"Animation, Adventure, Family","movie":"Arthur: A Guerra dos Dois Mundos","rating":5.5,"year":2010}
+{"genre":"Action, Adventure, Crime","movie":"Serpentes a Bordo","rating":5.5,"year":2006}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids","rating":5.5,"year":2001}
+{"genre":"Animation, Adventure, Comedy","movie":"Stuart Little 2","rating":5.5,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"The Smurfs","rating":5.5,"year":2011}
+{"genre":"Action, Adventure, Comedy","movie":"The Master Plan","rating":5.5,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Charlie's Angels","rating":5.5,"year":2000}
+{"genre":"Animation, Action, Adventure","movie":"Pokémon 4Ever","rating":5.6,"year":2001}
+{"genre":"Animation, Adventure, Comedy","movie":"Tarzan 2","rating":5.6,"year":2005}
+{"genre":"Animation, Adventure, Comedy","movie":"Open Season 2","rating":5.6,"year":2008}
+{"genre":"Adventure, Comedy","movie":"Dumb and Dumber To","rating":5.6,"year":2014}
+{"genre":"Adventure, Comedy","movie":"Hungarian Vagabond","rating":5.6,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Missão Babilônia","rating":5.6,"year":2008}
+{"genre":"Adventure, Comedy, Family","movie":"Hoot","rating":5.6,"year":2006}

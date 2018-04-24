@@ -1,0 +1,500 @@
+{"genre":"Comedy, Crime","movie":"Gulczas, what do you think...","rating":1.2,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"B.T.K. Killer","rating":1.6,"year":2005}
+{"genre":"Action, Crime","movie":"Desh Drohi","rating":1.6,"year":2008}
+{"genre":"Crime, Mystery","movie":"Code Name: K.O.Z.","rating":1.6,"year":2015}
+{"genre":"Action, Crime","movie":"Alex l'ariete","rating":1.7,"year":2000}
+{"genre":"Crime, Horror","movie":"Green River Killer","rating":1.9,"year":2005}
+{"genre":"Comedy, Crime, Fantasy","movie":"Daniel the Wizard","rating":1.9,"year":2004}
+{"genre":"Adventure, Comedy, Crime","movie":"Ace Ventura: Pet Detective Jr.","rating":2.0,"year":2009}
+{"genre":"Crime, Thriller","movie":"Boom","rating":2.3,"year":2003}
+{"genre":"Action, Adventure, Crime","movie":"Switch","rating":2.3,"year":2013}
+{"genre":"Comedy, Crime, Romance","movie":"Gigli","rating":2.4,"year":2003}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone 4","rating":2.5,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Guilty by Association","rating":2.5,"year":2003}
+{"genre":"Comedy, Crime","movie":"Tees Maar Khan","rating":2.5,"year":2010}
+{"genre":"Crime, Horror, Thriller","movie":"Sanctimony","rating":2.6,"year":2000}
+{"genre":"Crime, Drama","movie":"The Hillz","rating":2.6,"year":2004}
+{"genre":"Comedy, Crime","movie":"Destere","rating":2.7,"year":2008}
+{"genre":"Comedy, Crime, Drama","movie":"In the Mix","rating":2.7,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"The Karate Dog","rating":2.8,"year":2005}
+{"genre":"Crime","movie":"Ulli Lommel's Zodiac Killer","rating":2.8,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"Rascals","rating":2.9,"year":2011}
+{"genre":"Action, Comedy, Crime","movie":"Longshot","rating":2.9,"year":2001}
+{"genre":"Comedy, Crime","movie":"National Lampoon's Gold Diggers","rating":2.9,"year":2003}
+{"genre":"Comedy, Crime","movie":"Ataque das Loiras","rating":2.9,"year":2007}
+{"genre":"Crime, Horror, Drama","movie":"Campfire Stories","rating":3.0,"year":2001}
+{"genre":"Crime, Reality-TV","movie":"Amish Mafia","rating":3.1,"year":2012}
+{"genre":"Action, Comedy, Crime","movie":"Strippers vs Werewolves","rating":3.1,"year":2012}
+{"genre":"Action, Adventure, Crime","movie":"Epicenter","rating":3.1,"year":2000}
+{"genre":"Comedy, Crime","movie":"Witless Protection","rating":3.2,"year":2008}
+{"genre":"Action, Crime, Fantasy","movie":"Catwoman","rating":3.3,"year":2004}
+{"genre":"Crime, Horror, Thriller","movie":"Feardotcom","rating":3.3,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Determinado a Matar","rating":3.4,"year":2003}
+{"genre":"Crime, Horror, Thriller","movie":"Nightstalker","rating":3.4,"year":2002}
+{"genre":"Crime, Drama, Thriller","movie":"Hate Story IV","rating":3.4,"year":2018}
+{"genre":"Action, Crime, Thriller","movie":"Cash","rating":3.4,"year":2007}
+{"genre":"Crime, Drama, Sport","movie":"Snowboarder","rating":3.5,"year":2003}
+{"genre":"Comedy, Crime, Drama","movie":"Rancid Aluminum","rating":3.5,"year":2000}
+{"genre":"Action, Crime, Thriller","movie":"Ticker","rating":3.6,"year":2001}
+{"genre":"Crime, Thriller","movie":"24 Hours in London","rating":3.6,"year":2000}
+{"genre":"Crime, Mystery, Thriller","movie":"I Know Who Killed Me","rating":3.6,"year":2007}
+{"genre":"Action, Crime, Sci-Fi","movie":"Ballistic: Ecks vs. Sever","rating":3.6,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Beast of Burden","rating":3.6,"year":2018}
+{"genre":"Crime, Horror, Mystery","movie":"Psychosis","rating":3.7,"year":2010}
+{"genre":"Crime, Drama, Horror","movie":"Ed Gein: The Butcher of Plainfield","rating":3.7,"year":2007}
+{"genre":"Crime, Drama","movie":"First We Take Brooklyn","rating":3.7,"year":2018}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone: The Holiday Heist","rating":3.7,"year":2012}
+{"genre":"Action, Crime, Sport","movie":"Street Fighter: A Lenda de Chun-Li","rating":3.7,"year":2009}
+{"genre":"Action, Crime, Thriller","movie":"Hijacked","rating":3.8,"year":2012}
+{"genre":"Comedy, Crime, Drama","movie":"Double Dhamaal","rating":3.8,"year":2011}
+{"genre":"Action, Adventure, Crime","movie":"Blue","rating":3.8,"year":2009}
+{"genre":"Action, Crime, Thriller","movie":"Komaram Puli","rating":3.8,"year":2010}
+{"genre":"Crime, Horror, Thriller","movie":"Paranoid","rating":3.9,"year":2000}
+{"genre":"Comedy, Crime, Romance","movie":"Life Without Dick","rating":3.9,"year":2002}
+{"genre":"Comedy, Crime, Horror","movie":"Airborne","rating":3.9,"year":2012}
+{"genre":"Comedy, Crime, Drama","movie":"Little Fish, Strange Pond","rating":3.9,"year":2009}
+{"genre":"Action, Crime","movie":"Wrong Side of Town","rating":3.9,"year":2010}
+{"genre":"Action, Crime, Drama","movie":"Tezz","rating":3.9,"year":2012}
+{"genre":"Action, Crime, Drama","movie":"Black Rose","rating":3.9,"year":2014}
+{"genre":"Crime","movie":"The Bathroom","rating":3.9,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Arsenal","rating":3.9,"year":2017}
+{"genre":"Comedy, Crime, Romance","movie":"Honest","rating":4.0,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Caçada Explosiva","rating":4.0,"year":2008}
+{"genre":"Action, Comedy, Crime","movie":"Torque","rating":4.0,"year":2004}
+{"genre":"Action, Crime, Drama","movie":"Out of Reach","rating":4.0,"year":2004}
+{"genre":"Action, Crime, Thriller","movie":"Kill Speed","rating":4.0,"year":2010}
+{"genre":"Crime, Horror","movie":"Bones","rating":4.1,"year":2001}
+{"genre":"Crime, Drama, Mystery","movie":"Dead Sexy","rating":4.1,"year":2001}
+{"genre":"Crime, Horror, Thriller","movie":"Cold and Dark","rating":4.1,"year":2005}
+{"genre":"Action, Adventure, Crime","movie":"Red Water","rating":4.1,"year":2003}
+{"genre":"Comedy, Crime","movie":"Maskeli Besler: Intikam Pesinde","rating":4.1,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"Underclassman","rating":4.1,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"Alien Agent","rating":4.1,"year":2007}
+{"genre":"Crime, Horror, Thriller","movie":"Scar","rating":4.1,"year":2007}
+{"genre":"Comedy, Crime, Drama","movie":"Krazzy 4","rating":4.1,"year":2008}
+{"genre":"Action, Comedy, Crime","movie":"No Problem","rating":4.1,"year":2010}
+{"genre":"Action, Crime, Thriller","movie":"Players","rating":4.1,"year":2012}
+{"genre":"Action, Comedy, Crime","movie":"Perfect Hideout","rating":4.1,"year":2008}
+{"genre":"Action, Crime, Thriller","movie":"Living & Dying","rating":4.1,"year":2007}
+{"genre":"Action, Comedy, Crime","movie":"Welcome Back","rating":4.2,"year":2015}
+{"genre":"Action, Crime, Thriller","movie":"Plan","rating":4.2,"year":2004}
+{"genre":"Crime, Horror, Thriller","movie":"The Hunters","rating":4.2,"year":2011}
+{"genre":"Comedy, Crime","movie":"King's Ransom","rating":4.2,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"The Wrecking Crew","rating":4.2,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"A Caça","rating":4.2,"year":2013}
+{"genre":"Crime, Drama, Mystery","movie":"Border Run","rating":4.2,"year":2012}
+{"genre":"Action, Crime, Thriller","movie":"Locked Down","rating":4.2,"year":2010}
+{"genre":"Action, Comedy, Crime","movie":"Chor Machaaye Shor","rating":4.2,"year":2002}
+{"genre":"Crime, Drama, Fantasy","movie":"Exposed","rating":4.3,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Code of Honor","rating":4.3,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Today You Die","rating":4.3,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Art Heist","rating":4.3,"year":2004}
+{"genre":"Action, Crime, Music","movie":"Ride or Die","rating":4.3,"year":2003}
+{"genre":"Action, Comedy, Crime","movie":"Condução Perigosa","rating":4.3,"year":2014}
+{"genre":"Action, Crime, Mystery","movie":"Kill'em All","rating":4.3,"year":2017}
+{"genre":"Comedy, Crime","movie":"Littleman","rating":4.3,"year":2006}
+{"genre":"Adventure, Comedy, Crime","movie":"Robbery Alla Turca","rating":4.3,"year":2005}
+{"genre":"Crime, Romance, Thriller","movie":"Spider's Web","rating":4.3,"year":2002}
+{"genre":"Crime, Thriller","movie":"3 Blind Mice","rating":4.3,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"Streets of Blood","rating":4.4,"year":2009}
+{"genre":"Comedy, Crime, Drama","movie":"Plan B","rating":4.4,"year":2001}
+{"genre":"Action, Comedy, Crime","movie":"Big Mommas: Like Father, Like Son","rating":4.4,"year":2011}
+{"genre":"Action, Comedy, Crime","movie":"Taxi","rating":4.4,"year":2004}
+{"genre":"Drama, Crime, Action","movie":"State Property","rating":4.4,"year":2002}
+{"genre":"Action, Comedy, Crime","movie":"Paul Blart: Mall Cop 2","rating":4.4,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"House of the Rising Sun","rating":4.4,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Setup","rating":4.4,"year":2011}
+{"genre":"Crime, Drama, Thriller","movie":"Open House","rating":4.4,"year":2010}
+{"genre":"Action, Crime, Thriller","movie":"Kite","rating":4.4,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"First Sunday","rating":4.4,"year":2008}
+{"genre":"Action, Crime, Thriller","movie":"Acima da Lei","rating":4.4,"year":2011}
+{"genre":"Action, Crime, Thriller","movie":"Getaway","rating":4.4,"year":2013}
+{"genre":"Crime, Drama, Thriller","movie":"Played","rating":4.4,"year":2006}
+{"genre":"Action, Adventure, Crime","movie":"xXx: State of the Union","rating":4.4,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"S.W.A.T.: Under Siege","rating":4.4,"year":2017}
+{"genre":"Crime, Drama, Action","movie":"Turn It Up","rating":4.4,"year":2000}
+{"genre":"Action, Crime, Thriller","movie":"Free Fall","rating":4.5,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"Double Identity","rating":4.5,"year":2009}
+{"genre":"Action, Crime, Drama","movie":"Road House 2: Last Call","rating":4.5,"year":2006}
+{"genre":"Crime, Drama, Thriller","movie":"Rape Me","rating":4.5,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Dragon Eyes","rating":4.5,"year":2012}
+{"genre":"Action, Comedy, Crime","movie":"Bitch Slap","rating":4.5,"year":2009}
+{"genre":"Action, Comedy, Crime","movie":"Code Name: The Cleaner","rating":4.5,"year":2007}
+{"genre":"Musical, Action, Crime","movie":"State Property: Blood on the Streets","rating":4.5,"year":2005}
+{"genre":"Action, Adventure, Crime","movie":"Mercenary: Absolution","rating":4.5,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"The Courier","rating":4.5,"year":2012}
+{"genre":"Crime, Horror, Thriller","movie":"The Girl in the Photographs","rating":4.5,"year":2015}
+{"genre":"Crime, Drama","movie":"O Vulcão Ginostra","rating":4.5,"year":2002}
+{"genre":"Crime, Drama, Mystery","movie":"Distortion","rating":4.5,"year":2006}
+{"genre":"Action, Crime","movie":"Force of Execution","rating":4.5,"year":2013}
+{"genre":"Action, Crime, Thriller","movie":"Hard Cash","rating":4.5,"year":2002}
+{"genre":"Crime, Drama","movie":"The Ministers","rating":4.5,"year":2009}
+{"genre":"Comedy, Crime","movie":"Jönssonligan spelar högt","rating":4.5,"year":2000}
+{"genre":"Action, Crime, Thriller","movie":"Born to Raise Hell","rating":4.5,"year":2010}
+{"genre":"Crime, Thriller","movie":"American Crime","rating":4.5,"year":2004}
+{"genre":"Crime, Thriller","movie":"Kidnap","rating":4.6,"year":2008}
+{"genre":"Comedy, Crime","movie":"Kommissarie Späck","rating":4.6,"year":2010}
+{"genre":"Action, Adventure, Crime","movie":"The Last Drop","rating":4.6,"year":2006}
+{"genre":"Crime, Horror, Mystery","movie":"Frankenstein","rating":4.6,"year":2004}
+{"genre":"Crime, Horror, Thriller","movie":"H6: Diario de un asesino","rating":4.6,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Half Past Dead","rating":4.6,"year":2002}
+{"genre":"Comedy, Crime, Mystery","movie":"Dorm Daze","rating":4.6,"year":2003}
+{"genre":"Crime, Thriller, Action","movie":"Soul Assassin","rating":4.6,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"Catch .44","rating":4.6,"year":2011}
+{"genre":"Crime, Drama","movie":"Inside Out","rating":4.6,"year":2011}
+{"genre":"Crime, Drama, Thriller","movie":"Sin","rating":4.6,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"Swelter","rating":4.6,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"The Assignment","rating":4.6,"year":2016}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things: Diamonds in the Rough","rating":4.6,"year":2005}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things: Foursome","rating":4.6,"year":2010}
+{"genre":"Action, Crime","movie":"Half Past Dead 2","rating":4.6,"year":2007}
+{"genre":"Thriller, Action, Crime","movie":"Bichhoo","rating":4.6,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Carga Preciosa","rating":4.6,"year":2016}
+{"genre":"Crime, Drama, Thriller","movie":"Dog Eat Dog","rating":4.6,"year":2016}
+{"genre":"Crime, Drama, Mystery","movie":"Wild Things 2","rating":4.6,"year":2004}
+{"genre":"Crime, Drama","movie":"The Face of an Angel","rating":4.6,"year":2014}
+{"genre":"Action, Crime, Drama","movie":"My Name Is Modesty: A Modesty Blaise Adventure","rating":4.6,"year":2004}
+{"genre":"Action, Crime, Thriller","movie":"Blood Out","rating":4.6,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Freelancers","rating":4.6,"year":2012}
+{"genre":"Comedy, Crime, Drama","movie":" Bull","rating":4.7,"year":2016}
+{"genre":"Crime, Drama, Horror","movie":"Captivity","rating":4.7,"year":2007}
+{"genre":"Crime, Horror","movie":"Amateur Porn Star Killer","rating":4.7,"year":2006}
+{"genre":"Comedy, Crime","movie":"Big Momma's House 2","rating":4.7,"year":2006}
+{"genre":"Action, Crime, Drama","movie":"The Net 2.0","rating":4.7,"year":2006}
+{"genre":"Action, Crime, Drama","movie":"Loaded","rating":4.7,"year":2008}
+{"genre":"Action, Crime, Sci-Fi","movie":"RoboCop: Prime Directives","rating":4.7,"year":2001}
+{"genre":"Action, Comedy, Crime","movie":"Badges of Fury","rating":4.7,"year":2013}
+{"genre":"Comedy, Crime","movie":"Corky Romano","rating":4.7,"year":2001}
+{"genre":"Crime, Drama, Horror","movie":"Choose","rating":4.7,"year":2011}
+{"genre":"Crime, Drama, Romance","movie":"Tart","rating":4.7,"year":2001}
+{"genre":"Action, Crime, Thriller","movie":"A Good Man","rating":4.7,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"Bullet","rating":4.7,"year":2014}
+{"genre":"Comedy, Crime, Horror","movie":"Scorned","rating":4.7,"year":2013}
+{"genre":"Crime, Horror, Thriller","movie":"Joy Ride 3: Road Kill","rating":4.7,"year":2014}
+{"genre":"Drama, Crime, Mystery","movie":"Luckytown","rating":4.7,"year":2000}
+{"genre":"Action, Crime, Comedy","movie":"Payoff","rating":4.7,"year":2003}
+{"genre":"Action, Adventure, Crime","movie":"Elektra","rating":4.7,"year":2005}
+{"genre":"Crime, Thriller, Drama","movie":"The Keeper","rating":4.7,"year":2004}
+{"genre":"Biography, Crime, Drama","movie":"Gacy","rating":4.7,"year":2003}
+{"genre":"Action, Adventure, Crime","movie":"Walking Tall: The Payback","rating":4.7,"year":2007}
+{"genre":"Action, Comedy, Crime","movie":"The Fifth Commandment","rating":4.7,"year":2008}
+{"genre":"Adventure, Crime, Drama","movie":"O Ritual da Pedra","rating":4.8,"year":2006}
+{"genre":"Action, Crime, Drama","movie":"Tekken","rating":4.8,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Three Way","rating":4.8,"year":2004}
+{"genre":"Action, Crime, Fantasy","movie":"The Spirit","rating":4.8,"year":2008}
+{"genre":"Crime, Drama, Fantasy","movie":"Macbeth","rating":4.8,"year":2006}
+{"genre":"Action, Comedy, Crime","movie":"7 Seconds","rating":4.8,"year":2005}
+{"genre":"Crime, Drama, Mystery","movie":"Chocolate: Deep Dark Secrets","rating":4.8,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"Força tática","rating":4.8,"year":2011}
+{"genre":"Crime, Drama, Sport","movie":"Green Street Hooligans 2","rating":4.8,"year":2009}
+{"genre":"Crime, Drama, Western","movie":"Wild Horses","rating":4.8,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"Justiça Implacável","rating":4.8,"year":20102012}
+{"genre":"Crime, Drama, Thriller","movie":"By the Gun","rating":4.8,"year":2014}
+{"genre":"Crime, Drama, Thriller","movie":"While She Was Out","rating":4.8,"year":2008}
+{"genre":"Action, Crime, Drama","movie":"Once Upon a Time in Mumbai Dobaara!","rating":4.8,"year":2013}
+{"genre":"Crime, Thriller","movie":"Dead in the Water","rating":4.8,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Den of Lions","rating":4.8,"year":2003}
+{"genre":"Action, Crime, Mystery","movie":"O Eliminador","rating":4.8,"year":2001}
+{"genre":"Action, Adventure, Crime","movie":"The Saint","rating":4.8,"year":2017}
+{"genre":"Action, Crime, Drama","movie":"Coin Heist","rating":4.8,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"Proud Mary","rating":4.8,"year":2018}
+{"genre":"Action, Crime, Drama","movie":"Valley of the Wolves: Homeland","rating":4.8,"year":2017}
+{"genre":"Adventure, Comedy, Crime","movie":"Crocodilo Dundee em Hollywood","rating":4.8,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Encontro Secreto","rating":4.8,"year":2001}
+{"genre":"Crime, Drama","movie":"Sarkar 3","rating":4.8,"year":2017}
+{"genre":"Comedy, Crime, Family","movie":"Um Natal Milionário","rating":4.9,"year":2007}
+{"genre":"Crime, Drama, Horror","movie":"When the Bough Breaks","rating":4.9,"year":2016}
+{"genre":"Action, Crime, Mystery","movie":"Proximity","rating":4.9,"year":2001}
+{"genre":"Comedy, Crime, Drama","movie":"Madea's Witness Protection","rating":4.9,"year":2012}
+{"genre":"Action, Crime, Thriller","movie":"Rampage: President Down","rating":4.9,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"At Point Blank","rating":4.9,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"The Cold Light of Day","rating":4.9,"year":2012}
+{"genre":"Action, Crime, Drama","movie":"Badal","rating":4.9,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Beer for My Horses","rating":4.9,"year":2008}
+{"genre":"Crime, Drama, Thriller","movie":"Street Kings 2: Motor City","rating":4.9,"year":2011}
+{"genre":"Crime","movie":"Sket","rating":4.9,"year":2011}
+{"genre":"Crime, Thriller","movie":"Splinter","rating":4.9,"year":2006}
+{"genre":"Comedy, Crime","movie":"The Big Bounce","rating":4.9,"year":2004}
+{"genre":"Comedy, Crime, Family","movie":"New York Minute","rating":4.9,"year":2004}
+{"genre":"Action, Crime, Drama","movie":"Kickboxer: Vengeance","rating":4.9,"year":2016}
+{"genre":"Crime, Romance","movie":"Me and Morrison","rating":4.9,"year":2001}
+{"genre":"Action, Crime, Thriller","movie":"First Kill","rating":4.9,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"Anjaan","rating":4.9,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"Harvard Man","rating":4.9,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"Starkweather","rating":4.9,"year":2004}
+{"genre":"Action, Crime, Mystery","movie":"The Girl from the Naked Eye","rating":4.9,"year":2012}
+{"genre":"Action, Adventure, Crime","movie":"Vehicle 19","rating":4.9,"year":2013}
+{"genre":"Documentary, Crime","movie":"Monster: The Josef Fritzl Story","rating":4.9,"year":2010}
+{"genre":"Action, Crime, Sci-Fi","movie":"Eyeborgs","rating":4.9,"year":2009}
+{"genre":"Crime, Drama","movie":"Stoic","rating":4.9,"year":2009}
+{"genre":"Action, Crime, Horror","movie":"Carnage Park","rating":4.9,"year":2016}
+{"genre":"Crime, Drama","movie":"Pickpockets","rating":4.9,"year":2018}
+{"genre":"Action, Crime, Drama","movie":"Before I Self Destruct","rating":4.9,"year":2009}
+{"genre":"Action, Crime, Drama","movie":"Women of Mafia","rating":4.9,"year":2018}
+{"genre":"Comedy, Crime","movie":"Drop Dead Sexy","rating":5.0,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"Crook: It's Good to Be Bad","rating":5.0,"year":2010}
+{"genre":"Crime, Drama, Thriller","movie":"Contrato de Risco","rating":5.0,"year":2005}
+{"genre":"Action, Crime, Fantasy","movie":"O Corvo: Salvação","rating":5.0,"year":2000}
+{"genre":"Comedy, Crime","movie":"Bilhete Premiado","rating":5.0,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Carlito's Way: Rise to Power","rating":5.0,"year":2005}
+{"genre":"Crime, Thriller, Action","movie":"After the Storm","rating":5.0,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"7 Minutes","rating":5.0,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"Fifty Pills","rating":5.0,"year":2006}
+{"genre":"Crime, Drama","movie":"The Great Ecstasy of Robert Carmichael","rating":5.0,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"Insan","rating":5.0,"year":2005}
+{"genre":"Action, Crime","movie":"Close Range","rating":5.0,"year":2015}
+{"genre":"Comedy, Crime","movie":"Golmaal Returns","rating":5.0,"year":2008}
+{"genre":"Action, Crime, Thriller","movie":"Rage","rating":5.0,"year":2014}
+{"genre":"Action, Crime, Sci-Fi","movie":"Yesterday","rating":5.0,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Carjacked","rating":5.0,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Stiletto","rating":5.0,"year":2008}
+{"genre":"Action, Comedy, Crime","movie":"Miss Congeniality 2: Armed and Fabulous","rating":5.0,"year":2005}
+{"genre":"Crime, Drama, Thriller","movie":"Informers - Geração Perdida","rating":5.0,"year":2008}
+{"genre":"Comedy, Crime, Mystery","movie":"Trixie","rating":5.0,"year":2000}
+{"genre":"Crime, Drama, Horror","movie":"The Pharmacist","rating":5.1,"year":2003}
+{"genre":"Crime, Horror, Thriller","movie":"Bereavement","rating":5.1,"year":2010}
+{"genre":"Crime, Horror, Mystery","movie":"When a Stranger Calls","rating":5.1,"year":2006}
+{"genre":"Action, Crime, Drama","movie":"Federal Protection","rating":5.1,"year":2002}
+{"genre":"Crime, Drama, Mystery","movie":"Freedomland","rating":5.1,"year":2006}
+{"genre":"Action, Adventure, Crime","movie":"Resgate de uma Família","rating":5.1,"year":2014}
+{"genre":"Action, Comedy, Crime","movie":"Big Momma's House","rating":5.1,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Smokin' Aces 2: Assassins' Ball","rating":5.1,"year":2010}
+{"genre":"Action, Crime, Drama","movie":"The Cutter","rating":5.1,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"Dylan Dog: Dead of Night","rating":5.1,"year":2010}
+{"genre":"Action, Crime, Thriller","movie":"The Package","rating":5.1,"year":2013}
+{"genre":"Action, Crime","movie":"Antikiller 2: Antiterror","rating":5.1,"year":2003}
+{"genre":"Action, Crime, Drama","movie":"'Detonando na Índia'","rating":5.1,"year":2013}
+{"genre":"Comedy, Crime, Family","movie":"Holiday in the Sun","rating":5.1,"year":2001}
+{"genre":"Crime, Drama, Horror","movie":"Bless the Child","rating":5.1,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"End Game: Crime Perfeito","rating":5.1,"year":2006}
+{"genre":"Action, Crime, Thriller","movie":"A Dangerous Man","rating":5.1,"year":2009}
+{"genre":"Crime, Mystery, Thriller","movie":"A Máscara Do Macaco","rating":5.1,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Game","rating":5.1,"year":2011}
+{"genre":"Crime, Horror, Mystery","movie":"Malevolence","rating":5.1,"year":2003}
+{"genre":"Crime, Drama, Mystery","movie":"The Snowman","rating":5.1,"year":2017}
+{"genre":"Action, Crime","movie":"Acts of Violence","rating":5.1,"year":2018}
+{"genre":"Action, Crime, Mystery","movie":"Alex Cross","rating":5.1,"year":2012}
+{"genre":"Action, Crime, Drama","movie":"Walking Tall: Lone Justice","rating":5.1,"year":2007}
+{"genre":"Crime, Drama, Mystery","movie":"Murder on the Orient Express","rating":5.1,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"Aiyaary","rating":5.1,"year":2018}
+{"genre":"Crime, Horror, Romance","movie":"Joy Ride 2: Dead Ahead","rating":5.1,"year":2008}
+{"genre":"Comedy, Crime, Family","movie":"Our Lips Are Sealed","rating":5.1,"year":2000}
+{"genre":"Comedy, Crime","movie":"One Two Three","rating":5.1,"year":2008}
+{"genre":"Action, Crime, Fantasy","movie":"Elephant White","rating":5.1,"year":2011}
+{"genre":"Crime, Drama, Thriller","movie":"The Son of No One","rating":5.1,"year":2011}
+{"genre":"Comedy, Crime","movie":"Malibu's Most Wanted","rating":5.1,"year":2003}
+{"genre":"Comedy, Crime","movie":"Stealing Harvard","rating":5.1,"year":2002}
+{"genre":"Crime, Drama, Thriller","movie":"The Prophet's Game","rating":5.1,"year":2000}
+{"genre":"Comedy, Crime","movie":"Bending the Rules","rating":5.1,"year":2012}
+{"genre":"Crime, Thriller","movie":"Breaking the Girls","rating":5.1,"year":2012}
+{"genre":"Thriller, Crime, Drama","movie":"Luck of the Draw","rating":5.1,"year":2000}
+{"genre":"Action, Crime, Drama","movie":"Get Carter","rating":5.1,"year":2000}
+{"genre":"Crime, Drama","movie":"Wild Seven","rating":5.1,"year":2006}
+{"genre":"Crime, Drama","movie":"Spanish Judges","rating":5.1,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Hot Pursuit","rating":5.1,"year":2015}
+{"genre":"Action, Crime, Thriller","movie":"St George's Day","rating":5.1,"year":2012}
+{"genre":"Comedy, Crime","movie":"Sen Kimsin?","rating":5.1,"year":2012}
+{"genre":"Crime, Drama, Thriller","movie":"The Adderall Diaries","rating":5.2,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"Tiger House","rating":5.2,"year":2015}
+{"genre":"Action, Adventure, Crime","movie":"Carga Explosiva: O Legado","rating":5.2,"year":2015}
+{"genre":"Crime, Thriller","movie":"House of Bodies","rating":5.2,"year":2014}
+{"genre":"Action, Crime, Drama","movie":"The Marine 4: Moving Target","rating":5.2,"year":2015}
+{"genre":"Action, Comedy, Crime","movie":"Ek Aur Ek Gyarah: By Hook or by Crook","rating":5.2,"year":2003}
+{"genre":"Comedy, Crime, Family","movie":"Cool Cat Saves the Kids","rating":5.2,"year":2015}
+{"genre":"Crime, Drama, Mystery","movie":"A Marca","rating":5.2,"year":2004}
+{"genre":"Adventure, Crime, Reality-TV","movie":"Dog the Bounty Hunter","rating":5.2,"year":20032012}
+{"genre":"Adventure, Comedy, Crime","movie":"Catch That Kid","rating":5.2,"year":2004}
+{"genre":"Crime, Mystery, Thriller","movie":"The River Murders","rating":5.2,"year":2011}
+{"genre":"Crime, Drama, Horror","movie":"Donkey Punch","rating":5.2,"year":2008}
+{"genre":"Crime, Horror","movie":"Sick Nurses","rating":5.2,"year":2007}
+{"genre":"Comedy, Crime","movie":"Poor White Trash","rating":5.2,"year":2000}
+{"genre":"Crime, Drama, Thriller","movie":"Sweet Karma","rating":5.2,"year":2009}
+{"genre":"Crime, Drama, Horror","movie":"A Nightmare on Elm Street","rating":5.2,"year":2010}
+{"genre":"Crime, Horror, Mystery","movie":"And Soon the Darkness","rating":5.2,"year":2010}
+{"genre":"Crime, Thriller","movie":"As Good as Dead","rating":5.2,"year":2010}
+{"genre":"Action, Comedy, Crime","movie":"Paul Blart: Mall Cop","rating":5.2,"year":2009}
+{"genre":"Comedy, Crime","movie":"De Dana Dan","rating":5.2,"year":2009}
+{"genre":"Action, Crime, Thriller","movie":"Driven to Kill","rating":5.2,"year":2009}
+{"genre":"Action, Crime, Drama","movie":"O Cartel","rating":5.2,"year":2009}
+{"genre":"Action, Crime, Drama","movie":"Java Heat","rating":5.2,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"Get Rich or Die Tryin'","rating":5.2,"year":2005}
+{"genre":"Crime, Drama, Mystery","movie":"November Criminals","rating":5.2,"year":2017}
+{"genre":"Crime, Thriller","movie":"Perseguição Virtual","rating":5.2,"year":2014}
+{"genre":"Action, Crime, Drama","movie":"O Último Golpe","rating":5.2,"year":2014}
+{"genre":"Action, Crime, Thriller","movie":"Vengeance: A Love Story","rating":5.2,"year":2017}
+{"genre":"Action, Crime, Thriller","movie":"Direct Action","rating":5.2,"year":2004}
+{"genre":"Crime, Drama, Thriller","movie":"Cannibal","rating":5.2,"year":2006}
+{"genre":"Action, Crime, Thriller","movie":"One in the Chamber","rating":5.2,"year":2012}
+{"genre":"Crime","movie":"The Rise & Fall of a White Collar Hooligan","rating":5.2,"year":2012}
+{"genre":"Crime, Drama, Romance","movie":"The Tenants","rating":5.2,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Race 2","rating":5.2,"year":2013}
+{"genre":"Action, Crime, Drama","movie":"Empire State","rating":5.2,"year":2013}
+{"genre":"Comedy, Crime","movie":"Grilled","rating":5.2,"year":2006}
+{"genre":"Action, Adventure, Crime","movie":"Commando 2","rating":5.2,"year":2017}
+{"genre":"Action, Crime, Drama","movie":"Correndo Contra o Tempo","rating":5.2,"year":2000}
+{"genre":"Comedy, Crime, Family","movie":"Get a Clue","rating":5.2,"year":2002}
+{"genre":"Action, Comedy, Crime","movie":"Avenging Angelo","rating":5.2,"year":2002}
+{"genre":"Action, Comedy, Crime","movie":"Love and a Bullet","rating":5.2,"year":2002}
+{"genre":"Comedy, Crime, Horror","movie":"R.S.V.P.","rating":5.2,"year":2002}
+{"genre":"Crime, Drama, Thriller","movie":"A Kind of Murder","rating":5.2,"year":2016}
+{"genre":"Crime, Thriller, Action","movie":"The Red Siren","rating":5.2,"year":2002}
+{"genre":"Comedy, Crime, Drama","movie":"Small Town Killers","rating":5.3,"year":2017}
+{"genre":"Crime, Horror, Thriller","movie":"Nightmare","rating":5.3,"year":2000}
+{"genre":"Comedy, Crime, Music","movie":"The Janky Promoters","rating":5.3,"year":2009}
+{"genre":"Crime, Drama, Mystery","movie":"Misconduct","rating":5.3,"year":2016}
+{"genre":"Action, Comedy, Crime","movie":"One for the Money","rating":5.3,"year":2012}
+{"genre":"Crime, Drama, Mystery","movie":"The Riddle","rating":5.3,"year":2007}
+{"genre":"Action, Crime, Thriller","movie":"Deadly Impact","rating":5.3,"year":2010}
+{"genre":"Crime, Drama, Mystery","movie":"Meeting Evil","rating":5.3,"year":2012}
+{"genre":"Crime, Horror, Mystery","movie":"Eye See You","rating":5.3,"year":2002}
+{"genre":"Action, Crime, Sci-Fi","movie":"Daredevil","rating":5.3,"year":2003}
+{"genre":"Crime, Drama, Thriller","movie":"2:22 - Contagem Regressiva","rating":5.3,"year":2008}
+{"genre":"Crime, Drama, Thriller","movie":"Bullet Head","rating":5.3,"year":2017}
+{"genre":"Crime, Drama, Thriller","movie":"The Bag Man","rating":5.3,"year":2014}
+{"genre":"Action, Crime, Sport","movie":"Caçadores de Emoção: Além do Limite","rating":5.3,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"Indian","rating":5.3,"year":2001}
+{"genre":"Biography, Crime, Drama","movie":"The Craigslist Killer","rating":5.3,"year":2011}
+{"genre":"Crime, Drama, Mystery","movie":"After Alice","rating":5.3,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"My Mom's New Boyfriend","rating":5.3,"year":2008}
+{"genre":"Action, Crime, Thriller","movie":"12 Rounds 3: Lockdown","rating":5.3,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"A Vingança dos Dragões Verdes","rating":5.3,"year":2014}
+{"genre":"Action, Comedy, Crime","movie":"The Bannen Way","rating":5.3,"year":2010}
+{"genre":"Action, Crime, Drama","movie":"Pistol Whipped","rating":5.3,"year":2008}
+{"genre":"Action, Crime, Drama","movie":"A Better Tomorrow 2018","rating":5.3,"year":2018}
+{"genre":"Crime, Mystery, Thriller","movie":"The Alphabet Killer","rating":5.3,"year":2008}
+{"genre":"Crime, Horror, Mystery","movie":"Sacrifício","rating":5.3,"year":2016}
+{"genre":"Crime, Drama","movie":"Spring Breakers","rating":5.3,"year":2012}
+{"genre":"Crime, Drama, Thriller","movie":"The Hillside Strangler","rating":5.3,"year":2004}
+{"genre":"Action, Comedy, Crime","movie":"Hollywood Homicide","rating":5.3,"year":2003}
+{"genre":"Crime, Drama, Horror","movie":"Subconscious Cruelty","rating":5.3,"year":2000}
+{"genre":"Crime, Horror, Mystery","movie":"The Watcher","rating":5.3,"year":2000}
+{"genre":"Crime, Drama","movie":"This Thing of Ours","rating":5.3,"year":2003}
+{"genre":"Action, Crime, Thriller","movie":"S.W.A.T.: Firefight","rating":5.3,"year":2011}
+{"genre":"Crime, Drama, Thriller","movie":"Hard Luck","rating":5.3,"year":2006}
+{"genre":"Crime, Drama, Horror","movie":"Grimm Love","rating":5.3,"year":2006}
+{"genre":"Action, Comedy, Crime","movie":"Cingöz Recai","rating":5.3,"year":2017}
+{"genre":"Action, Crime, Drama","movie":"The Power of Few","rating":5.3,"year":2013}
+{"genre":"Comedy, Crime, Sport","movie":"Balls of Fury","rating":5.3,"year":2007}
+{"genre":"Comedy, Crime","movie":"Uma Grande Jogada","rating":5.3,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Quicksand","rating":5.3,"year":2003}
+{"genre":"Crime, Drama, Thriller","movie":"Shooting Gallery","rating":5.3,"year":2005}
+{"genre":"Crime, Drama, Thriller","movie":"The Counsellor","rating":5.3,"year":2013}
+{"genre":"Action, Crime, Horror","movie":"Hunger","rating":5.3,"year":2009}
+{"genre":"Crime, Mystery, Thriller","movie":"Dark Country","rating":5.3,"year":2009}
+{"genre":"Crime, Drama, Thriller","movie":"The Perfect Teacher","rating":5.3,"year":2010}
+{"genre":"Action, Adventure, Crime","movie":"Ek Ajnabee","rating":5.3,"year":2005}
+{"genre":"Crime, Drama, Thriller","movie":"True Blue","rating":5.3,"year":2001}
+{"genre":"Crime, Drama","movie":"Once in the Life","rating":5.3,"year":2000}
+{"genre":"Crime, Drama, Thriller","movie":"Vulgar","rating":5.3,"year":2000}
+{"genre":"Crime, Drama","movie":"Underbelly Files: Chopper","rating":5.3,"year":2018}
+{"genre":"Action, Crime, Drama","movie":"Edison","rating":5.3,"year":2005}
+{"genre":"Crime, Thriller","movie":"Trespass","rating":5.3,"year":2011}
+{"genre":"Crime, Drama, Thriller","movie":"A Última Escolha","rating":5.3,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"I Am Wrath","rating":5.3,"year":2016}
+{"genre":"Thriller, Crime, Drama","movie":"Hide and Seek","rating":5.4,"year":2000}
+{"genre":"Crime, Thriller","movie":"Borderline","rating":5.4,"year":2002}
+{"genre":"Crime, Drama, Mystery","movie":"Blackhat","rating":5.4,"year":2015}
+{"genre":"Action, Crime","movie":"Firetrap","rating":5.4,"year":2001}
+{"genre":"Comedy, Crime, Thriller","movie":"Home Sweet Hell","rating":5.4,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"No Limite da Realidade","rating":5.4,"year":2003}
+{"genre":"Crime, Drama, Mystery","movie":"CSI: Cyber","rating":5.4,"year":20152016}
+{"genre":"Action, Crime, Drama","movie":"Footpath","rating":5.4,"year":2003}
+{"genre":"Action, Comedy, Crime","movie":"Torrente 4","rating":5.4,"year":2011}
+{"genre":"Action, Crime, Drama","movie":"Refém","rating":5.4,"year":2015}
+{"genre":"Action, Comedy, Crime","movie":"You May Not Kiss the Bride","rating":5.4,"year":2011}
+{"genre":"Comedy, Crime, Drama","movie":"Anuvahood","rating":5.4,"year":2011}
+{"genre":"Comedy, Crime, Romance","movie":"Serious Moonlight","rating":5.4,"year":2009}
+{"genre":"Comedy, Crime, Family","movie":"Max Keeble's Big Move","rating":5.4,"year":2001}
+{"genre":"Crime, Drama, Horror","movie":"The Zodiac","rating":5.4,"year":2005}
+{"genre":"Crime, Drama, Mystery","movie":"O Livro Das Revelações","rating":5.4,"year":2006}
+{"genre":"Action, Comedy, Crime","movie":"Double Take","rating":5.4,"year":2001}
+{"genre":"Crime, Drama","movie":"Red Letters","rating":5.4,"year":2000}
+{"genre":"Crime, Horror, Thriller","movie":"Feed - Fome Assassina","rating":5.4,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"See Spot Run","rating":5.4,"year":2001}
+{"genre":"Comedy, Crime","movie":"Man of the House","rating":5.4,"year":2005}
+{"genre":"Comedy, Crime","movie":"Absolutely Fabulous: The Movie","rating":5.4,"year":2016}
+{"genre":"Crime, Drama, Mystery","movie":"Zeher","rating":5.4,"year":2005}
+{"genre":"Crime, Romance, Thriller","movie":"Cold Heart","rating":5.4,"year":2001}
+{"genre":"Crime, Drama, Mystery","movie":"Skeletons in the Closet","rating":5.4,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"O Desvio","rating":5.4,"year":2011}
+{"genre":"Action, Crime, Thriller","movie":"Bangkok Dangerous","rating":5.4,"year":2008}
+{"genre":"Crime, Drama, Thriller","movie":"Murder","rating":5.4,"year":2004}
+{"genre":"Crime, Drama, Romance","movie":"Naqaab","rating":5.4,"year":2007}
+{"genre":"Crime, Drama, Thriller","movie":"The Trust","rating":5.4,"year":2016}
+{"genre":"Action, Crime, Drama","movie":"Wicked Blood","rating":5.4,"year":2014}
+{"genre":"Crime, Drama, Thriller","movie":"Catch Hell","rating":5.4,"year":2014}
+{"genre":"Action, Adventure, Crime","movie":"No Limite","rating":5.4,"year":2017}
+{"genre":"Action, Comedy, Crime","movie":"Dead Heat","rating":5.4,"year":2002}
+{"genre":"Action, Adventure, Crime","movie":"Adventures of Arsene Lupin","rating":5.4,"year":2004}
+{"genre":"Comedy, Crime","movie":"Let's Kill Ward's Wife","rating":5.4,"year":2014}
+{"genre":"Crime, Drama, Mystery","movie":"Invasão de Privacidade","rating":5.4,"year":2016}
+{"genre":"Crime, Drama, Thriller","movie":"The Hollow Point","rating":5.4,"year":2016}
+{"genre":"Action, Crime, Thriller","movie":"Urban Justice","rating":5.4,"year":2007}
+{"genre":"Action, Adventure, Crime","movie":"Renegades","rating":5.4,"year":2017}
+{"genre":"Action, Comedy, Crime","movie":"The Collector","rating":5.4,"year":2004}
+{"genre":"Action, Adventure, Crime","movie":"Raavan","rating":5.4,"year":2010}
+{"genre":"Crime, Horror, Mystery","movie":"A Clínica","rating":5.4,"year":2010}
+{"genre":"Crime, Drama, Mystery","movie":"Pavement","rating":5.4,"year":2002}
+{"genre":"Comedy, Crime, Drama","movie":"Baked in Brooklyn","rating":5.4,"year":2016}
+{"genre":"Drama, Thriller, Crime","movie":"Civil Brand","rating":5.4,"year":2002}
+{"genre":"Action, Crime, Thriller","movie":"Rancid: Escolhido para Morrer","rating":5.5,"year":2004}
+{"genre":"Action, Crime, Thriller","movie":"Good People","rating":5.5,"year":2014}
+{"genre":"Action, Comedy, Crime","movie":"One 2 Ka 4","rating":5.5,"year":2001}
+{"genre":"Crime, Horror, Thriller","movie":"Hostel: Part II","rating":5.5,"year":2007}
+{"genre":"Crime, Drama, Sci-Fi","movie":"Chrysalis","rating":5.5,"year":2007}
+{"genre":"Action, Crime, Thriller","movie":"Samurai Cop 2: Deadly Vengeance","rating":5.5,"year":2015}
+{"genre":"Crime, Thriller","movie":"Guns, Girls and Gambling","rating":5.5,"year":2012}
+{"genre":"Action, Crime, Horror","movie":"Whiteout","rating":5.5,"year":2009}
+{"genre":"Crime, Drama","movie":"Havoc","rating":5.5,"year":2005}
+{"genre":"Crime, Thriller","movie":"Pusher","rating":5.5,"year":2012}
+{"genre":"Crime, Drama, Mystery","movie":"Suburbicon","rating":5.5,"year":2017}
+{"genre":"Crime, Horror, Thriller","movie":"Anamorph","rating":5.5,"year":2007}
+{"genre":"Action, Crime, Drama","movie":"Khiladi 420","rating":5.5,"year":2000}
+{"genre":"Crime, Drama","movie":"People I Know","rating":5.5,"year":2002}
+{"genre":"Comedy, Crime","movie":"White Chicks","rating":5.5,"year":2004}
+{"genre":"Crime, Drama, Thriller","movie":"Columbus Day","rating":5.5,"year":2008}
+{"genre":"Action, Crime, Thriller","movie":"Lobo Guerreiro","rating":5.5,"year":2015}
+{"genre":"Comedy, Crime","movie":"Miss Nobody","rating":5.5,"year":2010}
+{"genre":"Adventure, Comedy, Crime","movie":"The Suite Life Movie","rating":5.5,"year":2011}
+{"genre":"Comedy, Crime, Thriller","movie":"The Whole Ten Yards","rating":5.5,"year":2004}
+{"genre":"Action, Adventure, Crime","movie":"Billionaire Ransom","rating":5.5,"year":2016}
+{"genre":"Crime, Drama, Thriller","movie":"Have Mercy on Us All","rating":5.5,"year":2007}
+{"genre":"Action, Crime, Drama","movie":"Fida","rating":5.5,"year":2004}
+{"genre":"Action, Crime, Drama","movie":"Bangkok Love Story","rating":5.5,"year":2007}
+{"genre":"Action, Crime, Thriller","movie":"Steal","rating":5.5,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Musafir","rating":5.5,"year":2004}
+{"genre":"Action, Crime, Mystery","movie":"Assalto ao Poder","rating":5.5,"year":2016}
+{"genre":"Crime, Action, Thriller","movie":"Agentes Secretos","rating":5.5,"year":2004}
+{"genre":"Action, Comedy, Crime","movie":"Mortdecai","rating":5.5,"year":2015}
+{"genre":"Action, Crime, Drama","movie":"Sem Risco Aparente","rating":5.5,"year":2002}
+{"genre":"Action, Crime, Drama","movie":"Garv: Pride and Honour","rating":5.5,"year":2004}
+{"genre":"Crime, Drama, Thriller","movie":"Tenderness","rating":5.5,"year":2009}
+{"genre":"Crime, Drama, Thriller","movie":"Ultimate Heist","rating":5.5,"year":2009}
+{"genre":"Action, Biography, Crime","movie":"Baader","rating":5.5,"year":2002}
+{"genre":"Action, Drama, Crime","movie":"Mercy Streets","rating":5.5,"year":2000}
+{"genre":"Crime, Drama, Thriller","movie":"Everybody Has a Plan","rating":5.5,"year":2012}
+{"genre":"Crime, Drama, Mystery","movie":"Mexico City","rating":5.5,"year":2000}
+{"genre":"Comedy, Crime","movie":"What's the Worst That Could Happen?","rating":5.5,"year":2001}
+{"genre":"Crime, Drama, Thriller","movie":"Term Life","rating":5.5,"year":2016}
+{"genre":"Action, Crime, Drama","movie":"Dus","rating":5.5,"year":2005}
+{"genre":"Action, Crime, Drama","movie":"Ninja","rating":5.5,"year":2009}
+{"genre":"Crime, Drama, Thriller","movie":"Child of God","rating":5.5,"year":2013}
+{"genre":"Thriller, Crime, Romance","movie":"Rx","rating":5.5,"year":2005}
+{"genre":"Action, Crime, Thriller","movie":"Swindle","rating":5.5,"year":2002}
+{"genre":"Crime, Drama, Romance","movie":"Simran","rating":5.5,"year":2017}
+{"genre":"Action, Adventure, Crime","movie":"Serpentes a Bordo","rating":5.5,"year":2006}
+{"genre":"Crime, Drama","movie":"Officer Down","rating":5.5,"year":2013}
+{"genre":"Crime, Drama, Horror","movie":"Nine Dead","rating":5.5,"year":2010}
+{"genre":"Crime, Mystery, Thriller","movie":"Domestic Disturbance","rating":5.5,"year":2001}
+{"genre":"Action, Crime, Drama","movie":"Agentes de Elite","rating":5.5,"year":2005}
+{"genre":"Action, Comedy, Crime","movie":"Showtime","rating":5.5,"year":2002}
+{"genre":"Action, Comedy, Crime","movie":"Exit Wounds","rating":5.5,"year":2001}
+{"genre":"Crime, Drama, Mystery","movie":"Chasing Ghosts","rating":5.5,"year":2005}
+{"genre":"Crime, Drama, Thriller","movie":"Karla","rating":5.5,"year":2006}
+{"genre":"Crime, Drama, Thriller","movie":"Linewatch","rating":5.5,"year":2008}
+{"genre":"Crime, Drama, Thriller","movie":"Bad Turn Worse","rating":5.5,"year":2013}
+{"genre":"Crime, Horror, Thriller","movie":"Coffin 2","rating":5.6,"year":2017}
+{"genre":"Crime, Mystery, Thriller","movie":"Ten 'til Noon","rating":5.6,"year":2006}
+{"genre":"Action, Comedy, Crime","movie":"O Cara","rating":5.6,"year":2005}
+{"genre":"Biography, Crime, Drama","movie":"Dahmer","rating":5.6,"year":2002}
+{"genre":"Crime, Drama, Thriller","movie":"7 Days in Entebbe","rating":5.6,"year":2018}

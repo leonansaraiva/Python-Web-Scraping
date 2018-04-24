@@ -1,0 +1,500 @@
+{"genre":"Comedy, Fantasy","movie":"Badang","rating":1.0,"year":2018}
+{"genre":"Comedy","movie":"Yyyreek!!! Kosmiczna nominacja","rating":1.1,"year":2002}
+{"genre":"Comedy, Crime","movie":"Gulczas, what do you think...","rating":1.2,"year":2001}
+{"genre":"Comedy, Horror","movie":"Potato Salad","rating":1.3,"year":2015}
+{"genre":"Comedy","movie":"Cumali Ceber: Allah Seni Alsin","rating":1.3,"year":2017}
+{"genre":"Comedy, Family, Romance","movie":"Xuxa Popstar","rating":1.4,"year":2000}
+{"genre":"Comedy, Family","movie":"Saving Christmas","rating":1.5,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"It's a Fairy!","rating":1.5,"year":2016}
+{"genre":"Comedy, Drama, Family","movie":"Kyunki... Saas Bhi Kabhi Bahu Thi...","rating":1.6,"year":2000}
+{"genre":"Action, Comedy, Horror","movie":"Birdemic 2: The Resurrection","rating":1.7,"year":2013}
+{"genre":"Animation, Action, Comedy","movie":"The Amazing Bulk","rating":1.7,"year":2012}
+{"genre":"Adventure, Comedy, Family","movie":"Xuxa e os Duendes","rating":1.7,"year":2001}
+{"genre":"Animation, Action, Comedy","movie":"Foodfight!","rating":1.7,"year":2012}
+{"genre":"Comedy","movie":"Kayhan","rating":1.7,"year":2018}
+{"genre":"Action, Adventure, Comedy","movie":"Da Hip Hop Witch","rating":1.7,"year":2000}
+{"genre":"Comedy","movie":"The Bogus Witch Project","rating":1.8,"year":2000}
+{"genre":"Comedy","movie":"Keloglan vs. the Black Prince","rating":1.8,"year":2006}
+{"genre":"Action, Adventure, Comedy","movie":"Ram Gopal Varma's Indian Flames","rating":1.8,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Yes Sir","rating":1.8,"year":2007}
+{"genre":"Comedy","movie":"Sósias Muito Loucos","rating":1.8,"year":2014}
+{"genre":"Comedy, Romance","movie":"The Hottie & the Nottie","rating":1.9,"year":2008}
+{"genre":"Comedy","movie":"Pledge This!","rating":1.9,"year":2006}
+{"genre":"Action, Adventure, Comedy","movie":"Mumya firarda","rating":1.9,"year":2002}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Turks in Space","rating":1.9,"year":2006}
+{"genre":"Comedy","movie":"Disaster Movie","rating":1.9,"year":2008}
+{"genre":"Comedy","movie":"Kyaa Kool Hain Hum 3","rating":1.9,"year":2016}
+{"genre":"Comedy, Crime, Fantasy","movie":"Daniel the Wizard","rating":1.9,"year":2004}
+{"genre":"Adventure, Comedy, Crime","movie":"Ace Ventura: Pet Detective Jr.","rating":2.0,"year":2009}
+{"genre":"Comedy","movie":"The Class: Camp Trip","rating":2.0,"year":2008}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Bebês Geniais 2: Super Bebês","rating":2.0,"year":2004}
+{"genre":"Comedy, Romance, Sport","movie":"Dream.net","rating":2.0,"year":2009}
+{"genre":"Comedy, Drama","movie":"From Vegas to Macau III","rating":2.0,"year":2016}
+{"genre":"Comedy, Romance","movie":"Bottoms Up","rating":2.1,"year":2006}
+{"genre":"Adventure, Comedy, Family","movie":"Fred: The Movie","rating":2.1,"year":2010}
+{"genre":"Comedy, Talk-Show","movie":" Top Gear","rating":2.1,"year":2002}
+{"genre":"Action, Comedy","movie":"Hot Dog","rating":2.1,"year":2018}
+{"genre":"Comedy, Musical, Romance","movie":"From Justin to Kelly","rating":2.1,"year":2003}
+{"genre":"Comedy, Sport","movie":"Who's Your Caddy?","rating":2.1,"year":2007}
+{"genre":"Comedy, Sport","movie":"Surf School","rating":2.1,"year":2006}
+{"genre":"Comedy, Family, Fantasy","movie":"Son of the Mask","rating":2.2,"year":2005}
+{"genre":"Comedy","movie":"Americans at the Black Sea","rating":2.2,"year":2007}
+{"genre":"Comedy","movie":"Wizard School","rating":2.2,"year":2015}
+{"genre":"Comedy","movie":"Akasya duragi","rating":2.2,"year":20082012}
+{"genre":"Comedy","movie":"Oglum bak git","rating":2.2,"year":2012}
+{"genre":"Action, Comedy, Sport","movie":"Backyard Dogs","rating":2.2,"year":2000}
+{"genre":"Animation, Adventure, Comedy","movie":"In Search of the Titanic","rating":2.2,"year":2004}
+{"genre":"Comedy","movie":"Death to the Supermodels","rating":2.3,"year":2005}
+{"genre":"Comedy","movie":"Fred","rating":2.3,"year":2008}
+{"genre":"Comedy","movie":"Fred: The Show","rating":2.3,"year":2012}
+{"genre":"Action, Comedy","movie":"Cheerleader Ninjas","rating":2.3,"year":2002}
+{"genre":"Comedy","movie":"The Tony Blair Witch Project","rating":2.3,"year":2000}
+{"genre":"Adventure, Comedy","movie":"Epic Movie","rating":2.3,"year":2007}
+{"genre":"Adventure, Comedy, Fantasy","movie":"Miss Castaway and the Island Girls","rating":2.4,"year":2004}
+{"genre":"Action, Comedy","movie":"Blubberella","rating":2.4,"year":2011}
+{"genre":"Comedy, Crime, Romance","movie":"Gigli","rating":2.4,"year":2003}
+{"genre":"Adventure, Comedy, Horror","movie":"The Crypt of Count Dracoola","rating":2.4,"year":2011}
+{"genre":"Comedy","movie":"Mastizaade","rating":2.4,"year":2016}
+{"genre":"Comedy","movie":"Breaking Wind","rating":2.4,"year":2012}
+{"genre":"Comedy","movie":"American High School","rating":2.5,"year":2009}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone 4","rating":2.5,"year":2002}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Super Shark","rating":2.5,"year":2011}
+{"genre":"Comedy","movie":"Fat Slags","rating":2.5,"year":2004}
+{"genre":"Comedy, Crime","movie":"Tees Maar Khan","rating":2.5,"year":2010}
+{"genre":"Comedy, Romance","movie":"Celal and Ceren","rating":2.6,"year":2013}
+{"genre":"Comedy, Romance","movie":"Anus Magillicutty","rating":2.6,"year":2003}
+{"genre":"Comedy","movie":"Turkish Tales","rating":2.6,"year":2003}
+{"genre":"Comedy, Drama","movie":"Hooking Up","rating":2.6,"year":2009}
+{"genre":"Action, Comedy, Drama","movie":"Deportees 2","rating":2.6,"year":2009}
+{"genre":"Comedy","movie":"The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It","rating":2.6,"year":2010}
+{"genre":"Comedy","movie":"Keith Lemon: The Film","rating":2.6,"year":2012}
+{"genre":"Comedy, Family, Romance","movie":"Popstar","rating":2.6,"year":2005}
+{"genre":"Comedy","movie":"30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo","rating":2.6,"year":2013}
+{"genre":"Action, Comedy, Horror","movie":"Sand Sharks","rating":2.6,"year":2012}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Joker","rating":2.6,"year":2012}
+{"genre":"Comedy","movie":"Christmas Vacation 2: Cousin Eddie's Island Adventure","rating":2.7,"year":2003}
+{"genre":"Comedy","movie":"Not Another Not Another Movie","rating":2.7,"year":2011}
+{"genre":"Adventure, Comedy, Horror","movie":"Fred 2: Night of the Living Fred","rating":2.7,"year":2011}
+{"genre":"Comedy, Crime","movie":"Destere","rating":2.7,"year":2008}
+{"genre":"Comedy, Crime, Drama","movie":"In the Mix","rating":2.7,"year":2005}
+{"genre":"Comedy","movie":"Meet the Spartans","rating":2.7,"year":2008}
+{"genre":"Comedy","movie":"House Party 4: Down to the Last Minute","rating":2.7,"year":2001}
+{"genre":"Action, Comedy, Horror","movie":"Kutsal Damacana 2: Itmen","rating":2.7,"year":2010}
+{"genre":"Comedy, Family","movie":"Fred 3: Camp Fred","rating":2.8,"year":2012}
+{"genre":"Comedy","movie":"OHA Diyorum","rating":2.8,"year":2017}
+{"genre":"Comedy, Horror","movie":"Dark Harvest","rating":2.8,"year":2004}
+{"genre":"Comedy, Music","movie":"Marci X - Uma Loira Muito Louca","rating":2.8,"year":2003}
+{"genre":"Comedy, Romance","movie":"Date Movie","rating":2.8,"year":2006}
+{"genre":"Comedy","movie":"Maskeli Besler: Kibris","rating":2.8,"year":2008}
+{"genre":"Animation, Comedy, Family","movie":"Space Chimps 2: Zartog Strikes Back","rating":2.8,"year":2010}
+{"genre":"Animation, Comedy, Family","movie":"Breadwinners","rating":2.8,"year":20142016}
+{"genre":"Action, Comedy, Crime","movie":"The Karate Dog","rating":2.8,"year":2005}
+{"genre":"Comedy","movie":"Frat Party","rating":2.8,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"Just for Kicks","rating":2.8,"year":2003}
+{"genre":"Comedy, Horror","movie":"The Human Centipede III (Final Sequence)","rating":2.8,"year":2015}
+{"genre":"Comedy, Music, Talk-Show","movie":"Last Call with Carson Daly","rating":2.8,"year":2002}
+{"genre":"Comedy","movie":"Plajda","rating":2.8,"year":2008}
+{"genre":"Comedy","movie":"Too Beautiful","rating":2.8,"year":2005}
+{"genre":"Animation, Adventure, Comedy","movie":"Doogal","rating":2.8,"year":2006}
+{"genre":"Comedy, Thriller","movie":"The Class of Chaos 3,5","rating":2.8,"year":2005}
+{"genre":"Comedy","movie":"Ponterosa","rating":2.8,"year":2001}
+{"genre":"Comedy","movie":"Amy Schumer: The Leather Special","rating":2.9,"year":2017}
+{"genre":"Comedy","movie":"Kamenák","rating":2.9,"year":2003}
+{"genre":"Action, Comedy, Crime","movie":"Rascals","rating":2.9,"year":2011}
+{"genre":"Action, Comedy, Crime","movie":"Longshot","rating":2.9,"year":2001}
+{"genre":"Comedy","movie":"Samyy luchshiy film 2","rating":2.9,"year":2009}
+{"genre":"Comedy, Crime","movie":"National Lampoon's Gold Diggers","rating":2.9,"year":2003}
+{"genre":"Comedy","movie":"Frostbite","rating":2.9,"year":2005}
+{"genre":"Comedy, Romance","movie":"No: 309","rating":2.9,"year":2016}
+{"genre":"Comedy, Crime","movie":"Ataque das Loiras","rating":2.9,"year":2007}
+{"genre":"Comedy","movie":"The Chaos Class in the Military","rating":2.9,"year":2005}
+{"genre":"Comedy, Family, Music","movie":"Bratz","rating":2.9,"year":2007}
+{"genre":"Comedy, Horror, Thriller","movie":"The Greenskeeper","rating":2.9,"year":2002}
+{"genre":"Comedy","movie":"Celebrity Sex Tape","rating":2.9,"year":2012}
+{"genre":"Comedy, Drama, Horror","movie":"Hisss","rating":2.9,"year":2010}
+{"genre":"Comedy","movie":"InAPPropriate Comedy","rating":2.9,"year":2013}
+{"genre":"Comedy","movie":"18-Year-Old Virgin","rating":2.9,"year":2009}
+{"genre":"Horror, Comedy","movie":"Terror Toons","rating":2.9,"year":2002}
+{"genre":"Comedy, Romance","movie":"Sex Pot","rating":3.0,"year":2009}
+{"genre":"Comedy, Family","movie":"Daddy Day Camp","rating":3.0,"year":2007}
+{"genre":"Comedy","movie":"Marvin Marvin","rating":3.0,"year":20122013}
+{"genre":"Comedy","movie":"Phat Girlz","rating":3.0,"year":2006}
+{"genre":"Action, Comedy, Horror","movie":"Mega Python vs. Gatoroid","rating":3.0,"year":2011}
+{"genre":"Comedy","movie":"Dirty Movie","rating":3.0,"year":2011}
+{"genre":"Comedy, Sport","movie":"Hole in One","rating":3.0,"year":2009}
+{"genre":"Action, Adventure, Comedy","movie":"The Crow: Wicked Prayer","rating":3.0,"year":2005}
+{"genre":"Comedy","movie":"The Best Movie","rating":3.0,"year":2008}
+{"genre":"Action, Comedy, Horror","movie":"Jersey Shore Shark Attack","rating":3.0,"year":2012}
+{"genre":"Comedy, Horror","movie":"Legião dos Mortos","rating":3.0,"year":2001}
+{"genre":"Comedy, Fantasy, Horror","movie":"Creepshow 3","rating":3.0,"year":2006}
+{"genre":"Action, Adventure, Comedy","movie":"Gitler kaput!","rating":3.0,"year":2008}
+{"genre":"Comedy, Horror","movie":"Scarecrow Gone Wild","rating":3.0,"year":2004}
+{"genre":"Comedy","movie":"The Class of Chaos Goes Abroad","rating":3.0,"year":2003}
+{"genre":"Comedy","movie":"Benyamin Biang Kerok","rating":3.0,"year":2018}
+{"genre":"Comedy","movie":"Mind of Mencia","rating":3.1,"year":2005}
+{"genre":"Adventure, Comedy","movie":"Blanche","rating":3.1,"year":2002}
+{"genre":"Action, Comedy, Horror","movie":"Abraham Lincoln vs. Zombies","rating":3.1,"year":2012}
+{"genre":"Comedy, Family, Fantasy","movie":"Sihirli Annem","rating":3.1,"year":2003}
+{"genre":"Animation, Adventure, Comedy","movie":"The Emoji Movie","rating":3.1,"year":2017}
+{"genre":"Comedy, Horror","movie":"The Bare Wench Project","rating":3.1,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Strippers vs Werewolves","rating":3.1,"year":2012}
+{"genre":"Comedy, Drama, Family","movie":"The Honeymooners","rating":3.1,"year":2005}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Alien Uprising","rating":3.1,"year":2012}
+{"genre":"Comedy","movie":"Göta kanal 2 - Kanalkampen","rating":3.1,"year":2006}
+{"genre":"Comedy","movie":"Bikini Spring Break","rating":3.1,"year":2012}
+{"genre":"Comedy","movie":"Without Men","rating":3.2,"year":2011}
+{"genre":"Comedy, Crime","movie":"Witless Protection","rating":3.2,"year":2008}
+{"genre":"Comedy, Romance","movie":"Larry the Cable Guy: Health Inspector","rating":3.2,"year":2006}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Return of the Living Dead: Necropolis","rating":3.2,"year":2005}
+{"genre":"Comedy","movie":"El asombroso mundo de Borjamari y Pocholo","rating":3.2,"year":2004}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Return of the Living Dead: Rave to the Grave","rating":3.2,"year":2005}
+{"genre":"Comedy, Western","movie":"Lucky Luke and the Daltons","rating":3.2,"year":2004}
+{"genre":"Comedy, Horror, Thriller","movie":"Casa do Terror","rating":3.2,"year":2001}
+{"genre":"Comedy","movie":"Osman Pazarlama","rating":3.2,"year":2016}
+{"genre":"Comedy, Romance","movie":"Follow Kadri, Not Your Heart","rating":3.2,"year":2009}
+{"genre":"Comedy","movie":"Natale in India","rating":3.2,"year":2003}
+{"genre":"Comedy, Horror","movie":"2001 Maniacs: Field of Screams","rating":3.2,"year":2010}
+{"genre":"Comedy, Musical, Romance","movie":"Neal 'N' Nikki","rating":3.3,"year":2005}
+{"genre":"Comedy","movie":"My Big Fat Independent Movie","rating":3.3,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado","rating":3.3,"year":2013}
+{"genre":"Comedy, Drama","movie":"Mais que o Máximo","rating":3.3,"year":2009}
+{"genre":"Comedy, Family, Adventure","movie":"George of the Jungle 2","rating":3.3,"year":2003}
+{"genre":"Adventure, Comedy, Family","movie":"The Master of Disguise","rating":3.3,"year":2002}
+{"genre":"Comedy","movie":"Bucky Larson: Born to Be a Star","rating":3.3,"year":2011}
+{"genre":"Comedy","movie":"The Starving Games","rating":3.3,"year":2013}
+{"genre":"Comedy, Horror","movie":"Evil Breed: The Legend of Samhain","rating":3.3,"year":2003}
+{"genre":"Comedy","movie":"Feuer, Eis & Dosenbier","rating":3.3,"year":2002}
+{"genre":"Comedy, Family","movie":"Uma História de Natal 2","rating":3.3,"year":2012}
+{"genre":"Comedy, Drama, Music","movie":"Morangos com Açúcar","rating":3.3,"year":2003}
+{"genre":"Action, Comedy, Horror","movie":"Sharktopus","rating":3.3,"year":2010}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Fangs","rating":3.3,"year":2002}
+{"genre":"Action, Comedy, Drama","movie":"Fool N Final","rating":3.3,"year":2007}
+{"genre":"Comedy","movie":"Bad Girls from Valley High","rating":3.4,"year":2005}
+{"genre":"Comedy, Sci-Fi","movie":"Hot Bot","rating":3.4,"year":2016}
+{"genre":"Action, Comedy, Drama","movie":"Villu","rating":3.4,"year":2009}
+{"genre":"Action, Comedy, Horror","movie":"Blood Surf","rating":3.4,"year":2000}
+{"genre":"Adventure, Comedy, Romance","movie":"Apám beájulna","rating":3.4,"year":2003}
+{"genre":"Comedy, Drama, Romance","movie":"Crossroads","rating":3.4,"year":2002}
+{"genre":"Comedy, Horror","movie":"The Black Room","rating":3.4,"year":2017}
+{"genre":"Action, Adventure, Comedy","movie":"A Flying Jatt","rating":3.4,"year":2016}
+{"genre":"Action, Comedy, Family","movie":"Inspector Gadget 2","rating":3.4,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"House of Payne","rating":3.4,"year":2006}
+{"genre":"Comedy","movie":"Thanksgiving Family Reunion","rating":3.4,"year":2003}
+{"genre":"Comedy","movie":"Dumb and Dumberer: When Harry Met Lloyd","rating":3.4,"year":2003}
+{"genre":"Comedy","movie":"Jack and Jill","rating":3.4,"year":2011}
+{"genre":"Comedy, Family","movie":"The Brady Bunch in the White House","rating":3.4,"year":2002}
+{"genre":"Action, Comedy, Drama","movie":"ReBoot: The Guardian Code","rating":3.4,"year":2018}
+{"genre":"Comedy, Horror, Reality-TV","movie":"Scare Pewdiepie","rating":3.4,"year":2016}
+{"genre":"Comedy, Sci-Fi","movie":"2000.1 - Um Maluco Perdido no Espaço","rating":3.4,"year":2000}
+{"genre":"Comedy, Romance, Sci-Fi","movie":"L'extraterrestre","rating":3.4,"year":2000}
+{"genre":"Comedy, Family, Musical","movie":"The Naked Brothers Band","rating":3.4,"year":2007}
+{"genre":"Comedy","movie":"Vampires Suck","rating":3.4,"year":2010}
+{"genre":"Action, Comedy, Horror","movie":"Zombie Hunter","rating":3.5,"year":2013}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids 4: All the Time in the World","rating":3.5,"year":2011}
+{"genre":"Adventure, Comedy, Horror","movie":"Monster Island","rating":3.5,"year":2004}
+{"genre":"Comedy, Horror","movie":"The Walking Deceased","rating":3.5,"year":2015}
+{"genre":"Action, Comedy, Music","movie":"Dance Flick","rating":3.5,"year":2009}
+{"genre":"Comedy, Fantasy, Horror","movie":"The Gingerdead Man","rating":3.5,"year":2005}
+{"genre":"Comedy, Horror","movie":"Girls Gone Dead","rating":3.5,"year":2012}
+{"genre":"Comedy, Drama, Reality-TV","movie":"Jersey Shore","rating":3.5,"year":20092012}
+{"genre":"Comedy, Family, Sport","movie":"MVP: Most Vertical Primate","rating":3.5,"year":2001}
+{"genre":"Comedy, Talk-Show","movie":"Bill Nye Saves the World","rating":3.5,"year":2017}
+{"genre":"Comedy, Horror","movie":"Smiley","rating":3.5,"year":2012}
+{"genre":"Comedy","movie":"TV: The Movie","rating":3.5,"year":2006}
+{"genre":"Comedy","movie":"Scary Movie 5","rating":3.5,"year":2013}
+{"genre":"Adventure, Comedy","movie":"The Ring Thing","rating":3.5,"year":2004}
+{"genre":"Comedy, News","movie":"TMZ on TV","rating":3.5,"year":2007}
+{"genre":"Action, Comedy, Horror","movie":"Butcher Boys","rating":3.5,"year":2012}
+{"genre":"Action, Comedy","movie":"Ninja Cheerleaders","rating":3.5,"year":2008}
+{"genre":"Comedy","movie":"Recep Ivedik 5","rating":3.5,"year":2017}
+{"genre":"Comedy, Romance","movie":"Dirty Love","rating":3.5,"year":2005}
+{"genre":"Comedy","movie":"Fifty Shades of Black","rating":3.5,"year":2016}
+{"genre":"Comedy, Crime, Drama","movie":"Rancid Aluminum","rating":3.5,"year":2000}
+{"genre":"Comedy, Horror","movie":"Boo 2! A Madea Halloween","rating":3.5,"year":2017}
+{"genre":"Action, Comedy, Drama","movie":"Homo Erectus","rating":3.5,"year":2007}
+{"genre":"Action, Adventure, Comedy","movie":"Delta Farce","rating":3.5,"year":2007}
+{"genre":"Adventure, Comedy","movie":"Maskeli Besler: Irak","rating":3.6,"year":2007}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Thunderpants","rating":3.6,"year":2002}
+{"genre":"Comedy","movie":"Natural Born Pranksters","rating":3.6,"year":2016}
+{"genre":"Comedy, Romance","movie":"Pretty Cool Too","rating":3.6,"year":2007}
+{"genre":"Comedy","movie":"Sabit Kanca","rating":3.6,"year":2013}
+{"genre":"Comedy, Family, Romance","movie":"The Flintstones in Viva Rock Vegas","rating":3.6,"year":2000}
+{"genre":"Comedy, Family, Fantasy","movie":"The Annoying Orange","rating":3.6,"year":2009}
+{"genre":"Action, Comedy, Romance","movie":"Besharam","rating":3.6,"year":2013}
+{"genre":"Comedy, Drama, Fantasy","movie":"God Tussi Great Ho","rating":3.6,"year":2008}
+{"genre":"Animation, Action, Comedy","movie":"The Powerpuff Girls","rating":3.6,"year":2016}
+{"genre":"Animation, Adventure, Comedy","movie":"Norm of the North","rating":3.6,"year":2016}
+{"genre":"Comedy","movie":"1½ Knights - In Search of the Ravishing Princess Herzelinde","rating":3.6,"year":2008}
+{"genre":"Comedy, Fantasy, Sci-Fi","movie":"Smosh: The Movie","rating":3.6,"year":2015}
+{"genre":"Comedy","movie":"Siegfried","rating":3.6,"year":2005}
+{"genre":"Comedy, Horror","movie":"Stan Helsing","rating":3.6,"year":2009}
+{"genre":"Comedy, Romance","movie":"Swept Away","rating":3.6,"year":2002}
+{"genre":"Action, Comedy, Romance","movie":"The Race","rating":3.6,"year":2002}
+{"genre":"Comedy, Family","movie":"Marley & Me: The Puppy Years","rating":3.6,"year":2011}
+{"genre":"Comedy","movie":"The Cookout","rating":3.6,"year":2004}
+{"genre":"Action, Comedy, Horror","movie":"Monster Brawl","rating":3.6,"year":2011}
+{"genre":"Comedy, Drama, Romance","movie":"Main Aurr Mrs Khanna","rating":3.7,"year":2009}
+{"genre":"Comedy","movie":"Iznogoud","rating":3.7,"year":2005}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Death Race 2050","rating":3.7,"year":2017}
+{"genre":"Comedy, Romance","movie":"10 Rules for Sleeping Around","rating":3.7,"year":2013}
+{"genre":"Comedy, Family, Fantasy","movie":"Hansel & Gretel","rating":3.7,"year":2002}
+{"genre":"Comedy","movie":"Christmas on the Nile","rating":3.7,"year":2002}
+{"genre":"Adventure, Comedy, Musical","movie":"The Harry Hill Movie","rating":3.7,"year":2013}
+{"genre":"Comedy, Talk-Show","movie":"The Jay Leno Show","rating":3.7,"year":20092010}
+{"genre":"Comedy, Drama, Fantasy","movie":"Great Grand Masti","rating":3.7,"year":2016}
+{"genre":"Comedy","movie":"Bizans oyunlari: Geym of Bizans","rating":3.7,"year":2016}
+{"genre":"Comedy, Crime, Family","movie":"Home Alone: The Holiday Heist","rating":3.7,"year":2012}
+{"genre":"Comedy, Drama, Romance","movie":"Shaandaar","rating":3.7,"year":2015}
+{"genre":"Action, Comedy, Horror","movie":"Python","rating":3.7,"year":2000}
+{"genre":"Action, Adventure, Comedy","movie":"Maximum Ride","rating":3.7,"year":2016}
+{"genre":"Adventure, Comedy, Family","movie":"Horrid Henry: The Movie","rating":3.7,"year":2011}
+{"genre":"Action, Comedy, Fantasy","movie":"Leprechaun in the Hood","rating":3.7,"year":2000}
+{"genre":"Comedy","movie":"The Penthouse","rating":3.7,"year":2010}
+{"genre":"Comedy","movie":"Extreme Movie","rating":3.7,"year":2008}
+{"genre":"Comedy, Romance","movie":"Luminarias","rating":3.7,"year":2000}
+{"genre":"Comedy","movie":"The Hungover Games","rating":3.7,"year":2014}
+{"genre":"Action, Comedy, Horror","movie":"Mammoth","rating":3.7,"year":2006}
+{"genre":"Comedy, Horror","movie":"Monsturd","rating":3.7,"year":2003}
+{"genre":"Comedy, Drama","movie":"Rus gelin","rating":3.7,"year":2003}
+{"genre":"Action, Adventure, Comedy","movie":"Mela","rating":3.8,"year":2000}
+{"genre":"Comedy, Drama, Romance","movie":"Befikre","rating":3.8,"year":2016}
+{"genre":"Comedy, Action, Sci-Fi","movie":"The Adventures of Pluto Nash","rating":3.8,"year":2002}
+{"genre":"Comedy, Drama","movie":"Sex, Party and Lies","rating":3.8,"year":2009}
+{"genre":"Comedy, Reality-TV","movie":"The Simple Life","rating":3.8,"year":20032007}
+{"genre":"Comedy, Fantasy, Horror","movie":"Jack Frost 2: Revenge of the Mutant Killer Snowman","rating":3.8,"year":2000}
+{"genre":"Comedy","movie":"Deliha 2","rating":3.8,"year":2018}
+{"genre":"Adventure, Comedy, Drama","movie":"Thomas and the Magic Railroad","rating":3.8,"year":2000}
+{"genre":"Action, Comedy, Drama","movie":"Kuruvi","rating":3.8,"year":2008}
+{"genre":"Comedy, Drama","movie":"American Crude","rating":3.8,"year":2008}
+{"genre":"Comedy","movie":"Natale a Miami","rating":3.8,"year":2005}
+{"genre":"Comedy, Romance","movie":"The Wedding Pact","rating":3.8,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"Double Dhamaal","rating":3.8,"year":2011}
+{"genre":"Comedy","movie":"Body Guards - Guardie del corpo","rating":3.8,"year":2000}
+{"genre":"Comedy","movie":"Cattle Call","rating":3.8,"year":2006}
+{"genre":"Comedy","movie":"Milf","rating":3.8,"year":2010}
+{"genre":"Comedy, Family","movie":"Furry Vengeance","rating":3.8,"year":2010}
+{"genre":"Comedy, Musical, Romance","movie":"Good Boy, Bad Boy","rating":3.8,"year":2007}
+{"genre":"Comedy","movie":"The Christmas Party","rating":3.8,"year":2009}
+{"genre":"Adventure, Comedy, Family","movie":"The Cat in the Hat","rating":3.8,"year":2003}
+{"genre":"Comedy, Family","movie":"Legally Blondes","rating":3.8,"year":2009}
+{"genre":"Comedy","movie":"#1 Cheerleader Camp","rating":3.8,"year":2010}
+{"genre":"Comedy, Romance, Sport","movie":"The Love Guru","rating":3.8,"year":2008}
+{"genre":"Adventure, Comedy, Drama","movie":"Beverly Hills Chihuahua","rating":3.8,"year":2008}
+{"genre":"Comedy","movie":"Sexy por Acidente","rating":3.8,"year":2018}
+{"genre":"Comedy, Horror","movie":"Piranha 3DD","rating":3.8,"year":2012}
+{"genre":"Comedy, Family, Sport","movie":"Jogada de Mestre","rating":3.9,"year":2000}
+{"genre":"Comedy","movie":"Muro: Nalet Olsun Içimdeki Insan Sevgisine","rating":3.9,"year":2008}
+{"genre":"Action, Comedy, Thriller","movie":"Nude Nuns with Big Guns","rating":3.9,"year":2010}
+{"genre":"Comedy, Crime, Romance","movie":"Life Without Dick","rating":3.9,"year":2002}
+{"genre":"Comedy","movie":"Nature Calls","rating":3.9,"year":2012}
+{"genre":"Comedy, Crime, Horror","movie":"Airborne","rating":3.9,"year":2012}
+{"genre":"Comedy","movie":" The Goldbergs","rating":3.9,"year":2013}
+{"genre":"Animation, Adventure, Comedy","movie":"Happily N'Ever After 2","rating":3.9,"year":2009}
+{"genre":"Animation, Adventure, Comedy","movie":"Go, Diego! Go!","rating":3.9,"year":20052011}
+{"genre":"Comedy, Family","movie":"Tooth Fairy 2","rating":3.9,"year":2012}
+{"genre":"Comedy","movie":"Natale a New York","rating":3.9,"year":2006}
+{"genre":"Comedy","movie":"Super Sweet 16: The Movie","rating":3.9,"year":2007}
+{"genre":"Comedy, Crime, Drama","movie":"Little Fish, Strange Pond","rating":3.9,"year":2009}
+{"genre":"Comedy, Horror, Thriller","movie":"Cruel World","rating":3.9,"year":2005}
+{"genre":"Action, Comedy, Romance","movie":"Incredible Love","rating":3.9,"year":2009}
+{"genre":"Comedy","movie":"Totally Blonde","rating":3.9,"year":2001}
+{"genre":"Comedy, Horror","movie":"Transylmania","rating":3.9,"year":2009}
+{"genre":"Comedy, Horror","movie":"Skinned Deep","rating":3.9,"year":2004}
+{"genre":"Comedy, Family, Romance","movie":"Material Girls","rating":3.9,"year":2006}
+{"genre":"Comedy, Family","movie":"Cennet mahallesi","rating":3.9,"year":20042007}
+{"genre":"Action, Comedy","movie":"Son of Sardaar","rating":3.9,"year":2012}
+{"genre":"Comedy, Romance","movie":"Polle Fiction","rating":3.9,"year":2002}
+{"genre":"Animation, Adventure, Comedy","movie":"Dora, a Aventureira","rating":3.9,"year":20002015}
+{"genre":"Comedy, Romance","movie":"Blonde Ambition","rating":3.9,"year":2007}
+{"genre":"Comedy","movie":"Sümela'nin Sifresi: Temel","rating":3.9,"year":2011}
+{"genre":"Comedy","movie":"Recep Ivedik 4","rating":3.9,"year":2014}
+{"genre":"Comedy, Family, Fantasy","movie":"Dr. Dolittle 3","rating":3.9,"year":2006}
+{"genre":"Comedy","movie":"Kolpaçino 3. Devre","rating":4.0,"year":2016}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 4: The 4th Awakens","rating":4.0,"year":2016}
+{"genre":"Comedy","movie":"French Fried Vacation 3: Friends Forever","rating":4.0,"year":2006}
+{"genre":"Action, Comedy, Drama","movie":"Raabta","rating":4.0,"year":2017}
+{"genre":"Comedy, Horror, Thriller","movie":"Nightmare Man","rating":4.0,"year":2006}
+{"genre":"Comedy, Family","movie":"Dr. Dolittle: Million Dollar Mutts","rating":4.0,"year":2009}
+{"genre":"Comedy, Drama, History","movie":"Vezir Parmagi","rating":4.0,"year":2017}
+{"genre":"Comedy, Crime, Romance","movie":"Honest","rating":4.0,"year":2000}
+{"genre":"Comedy, Family, Music","movie":"The Country Bears","rating":4.0,"year":2002}
+{"genre":"Comedy","movie":"Recep Ivedik 3","rating":4.0,"year":2010}
+{"genre":"Comedy, Horror","movie":"Hack!","rating":4.0,"year":2007}
+{"genre":"Comedy, Horror","movie":"Okul","rating":4.0,"year":2004}
+{"genre":"Action, Comedy","movie":"Judwaa 2","rating":4.0,"year":2017}
+{"genre":"Action, Adventure, Comedy","movie":"French Spies","rating":4.0,"year":2004}
+{"genre":"Comedy, Fantasy, Horror","movie":"Puppet Master vs Demonic Toys","rating":4.0,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"Main Prem Ki Diwani Hoon","rating":4.0,"year":2003}
+{"genre":"Family, Comedy","movie":"Beethoven's 3rd","rating":4.0,"year":2000}
+{"genre":"Action, Comedy, Fantasy","movie":"Chandni Chowk to China","rating":4.0,"year":2009}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Humans vs Zombies","rating":4.0,"year":2011}
+{"genre":"Comedy, Fantasy, Horror","movie":"Leprechaun: Back 2 tha Hood","rating":4.0,"year":2003}
+{"genre":"Comedy, Drama, Musical","movie":"S Club Seeing Double","rating":4.0,"year":2003}
+{"genre":"Comedy, Horror","movie":"Zombies! Zombies! Zombies!","rating":4.0,"year":2008}
+{"genre":"Comedy","movie":"Lower Learning","rating":4.0,"year":2008}
+{"genre":"Comedy, Romance","movie":"Another Gay Sequel: Gays Gone Wild!","rating":4.0,"year":2008}
+{"genre":"Comedy","movie":"Little Bitches","rating":4.0,"year":2018}
+{"genre":"Action, Comedy, Crime","movie":"Torque","rating":4.0,"year":2004}
+{"genre":"Action, Comedy, Horror","movie":"Vamp U","rating":4.0,"year":2011}
+{"genre":"Comedy, Fantasy","movie":"7 Dwarves: The Forest Is Not Enough","rating":4.0,"year":2006}
+{"genre":"Horror, Comedy","movie":"The Dead Hate the Living!","rating":4.0,"year":2000}
+{"genre":"Comedy","movie":"Best Night Ever","rating":4.0,"year":2013}
+{"genre":"Comedy, Romance","movie":"Norbit","rating":4.0,"year":2007}
+{"genre":"Comedy","movie":"Shriek If You Know What I Did Last Friday the Thirteenth","rating":4.0,"year":2000}
+{"genre":"Comedy","movie":"My Wife's Name Is Maurice","rating":4.0,"year":2002}
+{"genre":"Adventure, Comedy","movie":"Without a Paddle: Nature's Calling","rating":4.0,"year":2009}
+{"genre":"Comedy, Romance","movie":"Volle maan","rating":4.1,"year":2002}
+{"genre":"Comedy, Romance","movie":"Accidental Love","rating":4.1,"year":2015}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 5: Global Swarming","rating":4.1,"year":2017}
+{"genre":"Action, Comedy, Horror","movie":"Sharknado 3: Oh Hell No!","rating":4.1,"year":2015}
+{"genre":"Action, Comedy","movie":"Just Getting Started","rating":4.1,"year":2017}
+{"genre":"Comedy, Sci-Fi","movie":"Play-Mate of the Apes","rating":4.1,"year":2002}
+{"genre":"Comedy","movie":"Romy and Michele: In the Beginning","rating":4.1,"year":2005}
+{"genre":"Comedy, Family, Music","movie":"The Naked Brothers Band: The Movie","rating":4.1,"year":2005}
+{"genre":"Comedy","movie":"Superfast!","rating":4.1,"year":2015}
+{"genre":"Comedy, Family, Adventure","movie":"Beethoven's 5th","rating":4.1,"year":2003}
+{"genre":"Comedy, Family","movie":"Beethoven's 4th","rating":4.1,"year":2001}
+{"genre":"Comedy","movie":"Dorm Daze 2","rating":4.1,"year":2006}
+{"genre":"Comedy, Family, Romance","movie":"On the Line","rating":4.1,"year":2001}
+{"genre":"Comedy, Crime","movie":"Maskeli Besler: Intikam Pesinde","rating":4.1,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Sharknado 2: The Second One","rating":4.1,"year":2014}
+{"genre":"Action, Comedy, Crime","movie":"Underclassman","rating":4.1,"year":2005}
+{"genre":"Comedy","movie":"Merry Christmas","rating":4.1,"year":2001}
+{"genre":"Comedy, Horror, Thriller","movie":"Halloween: Resurrection","rating":4.1,"year":2002}
+{"genre":"Adventure, Comedy","movie":"Erkan & Stefan gegen die Mächte der Finsternis","rating":4.1,"year":2002}
+{"genre":"Comedy, Romance","movie":"Snowfever","rating":4.1,"year":2004}
+{"genre":"Comedy","movie":"Frank McKlusky, C.I.","rating":4.1,"year":2002}
+{"genre":"Comedy, Family","movie":"Família Andersson na Grécia","rating":4.1,"year":2012}
+{"genre":"Comedy, Horror","movie":"Grizzly Park","rating":4.1,"year":2008}
+{"genre":"Comedy, Drama, Romance","movie":"And Then Came Lola","rating":4.1,"year":2009}
+{"genre":"Comedy, Family","movie":"Dr. Dolittle: Tail to the Chief","rating":4.1,"year":2008}
+{"genre":"Action, Comedy, Drama","movie":"Deportees","rating":4.1,"year":2007}
+{"genre":"Comedy, Crime, Drama","movie":"Krazzy 4","rating":4.1,"year":2008}
+{"genre":"Action, Comedy, Crime","movie":"No Problem","rating":4.1,"year":2010}
+{"genre":"Comedy, Family, Fantasy","movie":"Uma Casa de Pernas Pro Ar","rating":4.1,"year":2007}
+{"genre":"Action, Comedy, Crime","movie":"Perfect Hideout","rating":4.1,"year":2008}
+{"genre":"Comedy, Horror","movie":"The Cook","rating":4.1,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"The Marc Pease Experience","rating":4.1,"year":2009}
+{"genre":"Comedy, Horror","movie":"Killer Pad","rating":4.1,"year":2008}
+{"genre":"Comedy, Horror","movie":"Evil Bong","rating":4.1,"year":2006}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Zombie Strippers","rating":4.1,"year":2008}
+{"genre":"Comedy, Horror","movie":"Hood of Horror","rating":4.1,"year":2006}
+{"genre":"Comedy","movie":"Foreign Exchange","rating":4.2,"year":2008}
+{"genre":"Action, Comedy, Crime","movie":"Welcome Back","rating":4.2,"year":2015}
+{"genre":"Comedy","movie":"Joe Dirt 2: Beautiful Loser","rating":4.2,"year":2015}
+{"genre":"Comedy, Romance","movie":"Christmas in Love","rating":4.2,"year":2004}
+{"genre":"Comedy","movie":"Nos Embalos da Disco","rating":4.2,"year":2008}
+{"genre":"Adventure, Comedy","movie":"Gladiatress","rating":4.2,"year":2004}
+{"genre":"Comedy","movie":"Vende-se Tudo","rating":4.2,"year":2000}
+{"genre":"Comedy","movie":"Sex and the Teenage Mind","rating":4.2,"year":2002}
+{"genre":"Action, Adventure, Comedy","movie":"Spy Kids 3: Game Over","rating":4.2,"year":2003}
+{"genre":"Comedy","movie":"Otto - Der Katastrofenfilm","rating":4.2,"year":2000}
+{"genre":"Comedy, Sport","movie":"The Comebacks","rating":4.2,"year":2007}
+{"genre":"Comedy, Drama, Romance","movie":"Wild Roomies","rating":4.2,"year":2004}
+{"genre":"Comedy, Drama, Romance","movie":"Ho voglia di te","rating":4.2,"year":2007}
+{"genre":"Comedy","movie":"Mean Girls 2","rating":4.2,"year":2011}
+{"genre":"Comedy, Family, Sport","movie":"Bud 5: Arrasando no Vôlei","rating":4.2,"year":2003}
+{"genre":"Comedy, Thriller, Horror","movie":"Cut: Cenas de Horror","rating":4.2,"year":2000}
+{"genre":"Comedy","movie":"Madea's Class Reunion","rating":4.2,"year":2003}
+{"genre":"Comedy, Drama, Romance","movie":"Yuvvraaj","rating":4.2,"year":2008}
+{"genre":"Action, Comedy","movie":"The Legend of Awesomest Maximus","rating":4.2,"year":2011}
+{"genre":"Comedy, Family","movie":"Judy Moody and the Not Bummer Summer","rating":4.2,"year":2011}
+{"genre":"Adventure, Comedy","movie":"Ass Backwards","rating":4.2,"year":2013}
+{"genre":"Action, Adventure, Comedy","movie":"Thunderbirds","rating":4.2,"year":2004}
+{"genre":"Comedy","movie":"Cougar Club","rating":4.2,"year":2007}
+{"genre":"Comedy, Romance","movie":"The Competition","rating":4.2,"year":2018}
+{"genre":"Comedy, Crime","movie":"King's Ransom","rating":4.2,"year":2005}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"One-Eyed Monster","rating":4.2,"year":2008}
+{"genre":"Comedy, Family, Romance","movie":"Anja After Victor","rating":4.2,"year":2003}
+{"genre":"Comedy, Horror","movie":"Penetration Angst","rating":4.2,"year":2003}
+{"genre":"Comedy, Drama, Romance","movie":"Meet the Browns","rating":4.2,"year":2008}
+{"genre":"Animation, Adventure, Comedy","movie":"The Adventures of Rocky & Bullwinkle","rating":4.2,"year":2000}
+{"genre":"Comedy, Reality-TV","movie":"The Anna Nicole Show","rating":4.2,"year":20022004}
+{"genre":"Comedy, Family, Fantasy","movie":"Pinóquio","rating":4.2,"year":2002}
+{"genre":"Comedy, Horror, Thriller","movie":"Slash - Rock do Terror","rating":4.2,"year":2002}
+{"genre":"Comedy, Romance","movie":"Baby on Board","rating":4.2,"year":2009}
+{"genre":"Action, Comedy, Crime","movie":"Chor Machaaye Shor","rating":4.2,"year":2002}
+{"genre":"Adventure, Comedy, Thriller","movie":"55 esaaf","rating":4.2,"year":2001}
+{"genre":"Comedy","movie":"Spanish Movie","rating":4.2,"year":2009}
+{"genre":"Comedy","movie":"Wild Cherry","rating":4.2,"year":2009}
+{"genre":"Comedy, Family","movie":"Marmaduke","rating":4.2,"year":2010}
+{"genre":"Animation, Comedy","movie":"Farce of the Penguins","rating":4.2,"year":2006}
+{"genre":"Comedy, Drama, Musical","movie":"Action Replay","rating":4.2,"year":2010}
+{"genre":"Comedy","movie":"Çok Filim Hareketler Bunlar","rating":4.2,"year":2010}
+{"genre":"Comedy","movie":"How to Make Love to a Woman","rating":4.2,"year":2010}
+{"genre":"Animation, Comedy, Family","movie":"Woody Woodpecker","rating":4.2,"year":2017}
+{"genre":"Comedy, Romance","movie":"Movie 43","rating":4.3,"year":2013}
+{"genre":"Adventure, Comedy, Drama","movie":"Private Valentine: Blonde & Dangerous","rating":4.3,"year":2008}
+{"genre":"Comedy","movie":"Authors Anonymous","rating":4.3,"year":2014}
+{"genre":"Animation, Comedy, Family","movie":"Stuart Little 3: Call of the Wild","rating":4.3,"year":2005}
+{"genre":"Comedy","movie":"The Year of Maria","rating":4.3,"year":2000}
+{"genre":"Comedy, Fantasy, Horror","movie":"Yoga Hosers","rating":4.3,"year":2016}
+{"genre":"Animation, Comedy","movie":"Allen Gregory","rating":4.3,"year":2011}
+{"genre":"Comedy, Horror, Mystery","movie":"Return to Sleepaway Camp","rating":4.3,"year":2008}
+{"genre":"Action, Comedy, Fantasy","movie":"Alien vs. Ninja","rating":4.3,"year":2010}
+{"genre":"Comedy, Horror, Thriller","movie":"ThanksKilling","rating":4.3,"year":2009}
+{"genre":"Comedy, Sport","movie":"Slap Shot 2: Breaking the Ice","rating":4.3,"year":2002}
+{"genre":"Comedy, Drama, Romance","movie":"Kyun! Ho Gaya Na...","rating":4.3,"year":2004}
+{"genre":"Action, Comedy, Family","movie":"Cats & Dogs: The Revenge of Kitty Galore","rating":4.3,"year":2010}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Anonymous Rex","rating":4.3,"year":2004}
+{"genre":"Comedy, Family","movie":"Diary of a Wimpy Kid: The Long Haul","rating":4.3,"year":2017}
+{"genre":"Comedy, Drama, Fantasy","movie":"Taarzan: The Wonder Car","rating":4.3,"year":2004}
+{"genre":"Comedy, Family, Fantasy","movie":"Fat Albert","rating":4.3,"year":2004}
+{"genre":"Comedy, Horror, Musical","movie":"The Rocky Horror Picture Show: Let's Do the Time Warp Again","rating":4.3,"year":2016}
+{"genre":"Comedy, Family, Romance","movie":"The Prince & Me II: The Royal Wedding","rating":4.3,"year":2006}
+{"genre":"Comedy, Fantasy","movie":"An American Carol","rating":4.3,"year":2008}
+{"genre":"Comedy","movie":"Mulaney","rating":4.3,"year":20142015}
+{"genre":"Action, Comedy, Crime","movie":"Condução Perigosa","rating":4.3,"year":2014}
+{"genre":"Adventure, Comedy, Drama","movie":"College Road Trip","rating":4.3,"year":2008}
+{"genre":"Comedy","movie":"D' Mrs. Brown's Boys Movie","rating":4.3,"year":2014}
+{"genre":"Comedy","movie":"Askim askim","rating":4.3,"year":2001}
+{"genre":"Comedy, Family, Sport","movie":"Like Mike 2: Streetball","rating":4.3,"year":2006}
+{"genre":"Comedy, Romance","movie":"To Fall in Love","rating":4.3,"year":2000}
+{"genre":"Comedy","movie":"Killing Hasselhoff","rating":4.3,"year":2017}
+{"genre":"Comedy, Horror, Thriller","movie":"Return to Cabin by the Lake","rating":4.3,"year":2001}
+{"genre":"Comedy, Family","movie":"I Saw Mommy Kissing Santa Claus","rating":4.3,"year":2002}
+{"genre":"Comedy, Crime","movie":"Littleman","rating":4.3,"year":2006}
+{"genre":"Comedy, Sport","movie":"Shooting Stars","rating":4.3,"year":2002}
+{"genre":"Comedy","movie":"Recep Ivedik 2","rating":4.3,"year":2009}
+{"genre":"Comedy","movie":"American Virgin","rating":4.3,"year":2009}
+{"genre":"Comedy","movie":"The Dope","rating":4.3,"year":2003}
+{"genre":"Comedy, Horror","movie":"Hansel & Gretel Get Baked","rating":4.3,"year":2013}
+{"genre":"Comedy, Sport","movie":"Cloud 9","rating":4.3,"year":2006}
+{"genre":"Drama, Comedy, Romance","movie":"Jailbait","rating":4.3,"year":2000}
+{"genre":"Adventure, Comedy, Crime","movie":"Robbery Alla Turca","rating":4.3,"year":2005}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"SpiderBabe","rating":4.3,"year":2003}
+{"genre":"Comedy, Drama, Family","movie":"Hannah Montana: The Movie","rating":4.3,"year":2009}
+{"genre":"Comedy, Family, Romance","movie":"The Prince & Me 3: A Royal Honeymoon","rating":4.3,"year":2008}
+{"genre":"Comedy, Music, Romance","movie":"Encontro com o Acaso","rating":4.3,"year":2005}
+{"genre":"Action, Adventure, Comedy","movie":"Zoom","rating":4.3,"year":2006}
+{"genre":"Comedy, Drama, Romance","movie":"Grand Masti","rating":4.3,"year":2013}
+{"genre":"Comedy, Family, Musical","movie":"Vaah! Life Ho Toh Aisi!","rating":4.3,"year":2005}
+{"genre":"Animation, Adventure, Comedy","movie":"Alvin and the Chipmunks: Chipwrecked","rating":4.4,"year":2011}
+{"genre":"Action, Adventure, Comedy","movie":"Kangaroo Jack","rating":4.4,"year":2003}
+{"genre":"Comedy, Family","movie":"Grand Champion","rating":4.4,"year":2002}
+{"genre":"Comedy, Drama","movie":"The Stig-Helmer Story","rating":4.4,"year":2011}
+{"genre":"Comedy, Music","movie":"Isi\/Disi - Amor a lo bestia","rating":4.4,"year":2004}
+{"genre":"Animation, Comedy, Fantasy","movie":"Uncle Grandpa","rating":4.4,"year":20102017}
+{"genre":"Comedy","movie":"Behaving Badly","rating":4.4,"year":2014}
+{"genre":"Comedy, Crime, Drama","movie":"Plan B","rating":4.4,"year":2001}
+{"genre":"Comedy, Drama, Romance","movie":"Sex and the City 2","rating":4.4,"year":2010}
+{"genre":"Comedy","movie":"Deep in the Valley","rating":4.4,"year":2009}
+{"genre":"Action, Comedy, Crime","movie":"Big Mommas: Like Father, Like Son","rating":4.4,"year":2011}
+{"genre":"Adventure, Comedy, Family","movie":"Beverly Hills Chihuahua 2","rating":4.4,"year":2011}
+{"genre":"Action, Comedy, Crime","movie":"Taxi","rating":4.4,"year":2004}
+{"genre":"Action, Comedy, Horror","movie":"Bloody Mallory","rating":4.4,"year":2002}
+{"genre":"Action, Comedy, Drama","movie":"Hum Kisi Se Kum Nahin","rating":4.4,"year":2002}
+{"genre":"Action, Comedy","movie":"Snatched","rating":4.4,"year":2017}
+{"genre":"Comedy","movie":"Soul Plane","rating":4.4,"year":2004}
+{"genre":"Adventure, Comedy","movie":"Wieners","rating":4.4,"year":2008}
+{"genre":"Comedy","movie":"3 Strikes","rating":4.4,"year":2000}
+{"genre":"Action, Comedy, Crime","movie":"Paul Blart: Mall Cop 2","rating":4.4,"year":2015}
+{"genre":"Animation, Adventure, Comedy","movie":"Delgo","rating":4.4,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"Madea's Family Reunion","rating":4.4,"year":2002}
+{"genre":"Comedy, Drama, Romance","movie":"Dulha Mil Gaya","rating":4.4,"year":2010}
+{"genre":"Comedy, Romance","movie":"Whipped","rating":4.4,"year":2000}
+{"genre":"Comedy","movie":"Kummeli Alivuokralainen","rating":4.4,"year":2008}
+{"genre":"Comedy, Crime, Drama","movie":"First Sunday","rating":4.4,"year":2008}
+{"genre":"Comedy","movie":"Johnson Family Vacation","rating":4.4,"year":2004}
+{"genre":"Comedy, Drama","movie":"Paixão e Êxtase","rating":4.4,"year":2011}
+{"genre":"Comedy","movie":"Hotel","rating":4.4,"year":2001}

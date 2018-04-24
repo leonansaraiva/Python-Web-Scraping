@@ -1,0 +1,500 @@
+{"genre":"Horror, Sci-Fi","movie":"Aliens vs. Avatars","rating":1.5,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"AVH: Alien vs. Hunter","rating":1.5,"year":2007}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Transmorphers","rating":1.7,"year":2007}
+{"genre":"Action, Sci-Fi","movie":"From the Sea","rating":1.7,"year":2013}
+{"genre":"Action, Sci-Fi","movie":"Universal Soldiers","rating":1.7,"year":2007}
+{"genre":"Action, Sci-Fi","movie":"Atlantic Rim: Resurrection","rating":1.7,"year":2018}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Age of Ice","rating":1.8,"year":2014}
+{"genre":"Action, Sci-Fi","movie":"Battle of Los Angeles","rating":1.9,"year":2011}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Turks in Space","rating":1.9,"year":2006}
+{"genre":"Action, Sci-Fi","movie":"Independents' Day","rating":1.9,"year":2016}
+{"genre":"Biography, Horror, Sci-Fi","movie":"Alien Origin","rating":1.9,"year":2012}
+{"genre":"Horror, Sci-Fi","movie":"Tail Sting","rating":2.0,"year":2001}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Age of Tomorrow","rating":2.0,"year":2014}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Bebês Geniais 2: Super Bebês","rating":2.0,"year":2004}
+{"genre":"Action, Sci-Fi","movie":"San Andreas Quake","rating":2.0,"year":2015}
+{"genre":"Action, Adventure, Sci-Fi","movie":"War of the Worlds 2: The Next Wave","rating":2.1,"year":2008}
+{"genre":"Horror, Sci-Fi","movie":"Drácula 3000 - Escuridão Infinita","rating":2.1,"year":2004}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Terminators","rating":2.1,"year":2009}
+{"genre":"Action, Sci-Fi","movie":"Transmorphers: Fall of Man","rating":2.2,"year":2009}
+{"genre":"Action, Sci-Fi","movie":"500 MPH Storm","rating":2.2,"year":2013}
+{"genre":"Horror, Sci-Fi","movie":"Pânico Virtual","rating":2.2,"year":2002}
+{"genre":"Action, Sci-Fi","movie":"2012: Supernova","rating":2.3,"year":2009}
+{"genre":"Action, Sci-Fi","movie":"2012: Ice Age","rating":2.3,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Avalanche de Tubarões","rating":2.3,"year":2014}
+{"genre":"Action, Horror, Sci-Fi","movie":"Alone in the Dark: O Despertar do Mal","rating":2.3,"year":2005}
+{"genre":"Horror, Sci-Fi","movie":"Groom Lake","rating":2.3,"year":2002}
+{"genre":"Sci-Fi","movie":"Battalion","rating":2.3,"year":2018}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Plataforma em Perigo","rating":2.3,"year":2004}
+{"genre":"Action, Horror, Sci-Fi","movie":"Apocalypse Z","rating":2.3,"year":2013}
+{"genre":"Action, Adventure, Sci-Fi","movie":"100 Million BC","rating":2.4,"year":2008}
+{"genre":"Horror, Sci-Fi","movie":"Camel Spiders","rating":2.4,"year":2011}
+{"genre":"Action, Sci-Fi","movie":"100 Degrees Below Zero","rating":2.4,"year":2013}
+{"genre":"Action, Horror, Sci-Fi","movie":"Mega Piranha","rating":2.4,"year":2010}
+{"genre":"Action, Adventure, Sci-Fi","movie":"40 Days and Nights","rating":2.4,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Battlefield Earth","rating":2.4,"year":2000}
+{"genre":"Action, Horror, Sci-Fi","movie":"Mega Shark vs. Giant Octopus","rating":2.5,"year":2009}
+{"genre":"Action, Horror, Sci-Fi","movie":"Raging Sharks","rating":2.5,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"S.S. Doomtrooper","rating":2.5,"year":2006}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Super Shark","rating":2.5,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Mega Shark vs. Crocosaurus","rating":2.5,"year":2010}
+{"genre":"Action, Horror, Sci-Fi","movie":"2-Headed Shark Attack","rating":2.5,"year":2012}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Alien Abduction","rating":2.6,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Deep Core","rating":2.6,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Mega Shark vs. Mecha Shark","rating":2.6,"year":2014}
+{"genre":"Action, Horror, Sci-Fi","movie":"3-Headed Shark Attack","rating":2.6,"year":2015}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Leeches!","rating":2.6,"year":2003}
+{"genre":"Action, Sci-Fi","movie":"Deep Shock - Terror na Escuridão","rating":2.6,"year":2003}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Joker","rating":2.6,"year":2012}
+{"genre":"Action, Horror, Sci-Fi","movie":"Deep Freeze","rating":2.7,"year":2002}
+{"genre":"Action, Sci-Fi","movie":"Andron","rating":2.7,"year":2015}
+{"genre":"Horror, Sci-Fi, Thriller","movie":".com for Murder","rating":2.7,"year":2002}
+{"genre":"Adventure, Horror, Sci-Fi","movie":"Bigfoot","rating":2.7,"year":2012}
+{"genre":"Action, Sci-Fi","movie":"Gangland","rating":2.7,"year":2001}
+{"genre":"Action, Sci-Fi, Thriller","movie":"American Warships","rating":2.8,"year":2012}
+{"genre":"Horror, Sci-Fi, Action","movie":"The Curse of the Komodo","rating":2.8,"year":2004}
+{"genre":"Sci-Fi, Horror","movie":"Megalodon","rating":2.8,"year":2002}
+{"genre":"Sci-Fi, Action, Drama","movie":"The War of the Worlds","rating":2.8,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Boa vs. Python","rating":2.8,"year":2004}
+{"genre":"Action, Sci-Fi","movie":"The Day the Earth Stopped","rating":2.8,"year":2008}
+{"genre":"Action, Horror, Sci-Fi","movie":"Python 2","rating":2.8,"year":2002}
+{"genre":"Horror, Sci-Fi","movie":"Arachnoquake","rating":2.8,"year":2012}
+{"genre":"Action, Sci-Fi","movie":"Battle Queen 2020","rating":2.9,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Age of Dinosaurs","rating":2.9,"year":2013}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Cell 2","rating":2.9,"year":2009}
+{"genre":"Horror, Sci-Fi","movie":"Infested","rating":2.9,"year":2002}
+{"genre":"Adventure, Sci-Fi","movie":"Stasis","rating":3.0,"year":2017}
+{"genre":"Action, Horror, Sci-Fi","movie":"Spiders II: Breeding Ground","rating":3.0,"year":2001}
+{"genre":"Action, Sci-Fi, Sport","movie":"Rollerball","rating":3.0,"year":2002}
+{"genre":"Action, Horror, Sci-Fi","movie":"Sharkman","rating":3.0,"year":2005}
+{"genre":"Sci-Fi","movie":"Quantum Apocalypse","rating":3.0,"year":2010}
+{"genre":"Horror, Sci-Fi","movie":"Candy Stripers","rating":3.0,"year":2006}
+{"genre":"Horror, Sci-Fi","movie":"The Mangler Reborn","rating":3.0,"year":2005}
+{"genre":"Action, Sci-Fi","movie":"30,000 Leagues Under the Sea","rating":3.0,"year":2007}
+{"genre":"Action, Thriller, Sci-Fi","movie":"Falcon Down","rating":3.1,"year":2001}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Haunted High","rating":3.1,"year":2012}
+{"genre":"Horror, Sci-Fi","movie":"Dinocroc vs. Supergator","rating":3.1,"year":2010}
+{"genre":"Action, Adventure, Sci-Fi","movie":"MegaFault","rating":3.1,"year":2009}
+{"genre":"Action, Sci-Fi, Thriller","movie":"King of Fighters - A Batalha Final","rating":3.1,"year":2010}
+{"genre":"Sci-Fi, Thriller, War","movie":"Princess of Mars","rating":3.1,"year":2009}
+{"genre":"Action, Horror, Sci-Fi","movie":"Horrors of War","rating":3.1,"year":2006}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Far Cry: Fugindo do Inferno","rating":3.1,"year":2008}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Post Impact","rating":3.1,"year":2004}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Dinocroc","rating":3.1,"year":2004}
+{"genre":"Action, Horror, Sci-Fi","movie":"Rottweiler","rating":3.1,"year":2004}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Alien Uprising","rating":3.1,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Nazis at the Center of the Earth","rating":3.1,"year":2012}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Return of the Living Dead: Necropolis","rating":3.2,"year":2005}
+{"genre":"Sci-Fi, Thriller","movie":"The Black Hole","rating":3.2,"year":2006}
+{"genre":"Action, Sci-Fi","movie":"Retrograde","rating":3.2,"year":2004}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Return of the Living Dead: Rave to the Grave","rating":3.2,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Lake Placid 2","rating":3.2,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"AE: Apocalypse Earth","rating":3.2,"year":2013}
+{"genre":"Action, Horror, Sci-Fi","movie":"Against the Dark","rating":3.2,"year":2009}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"The Land That Time Forgot","rating":3.2,"year":2009}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Rig","rating":3.2,"year":2010}
+{"genre":"Action, Horror, Sci-Fi","movie":"Dinoshark","rating":3.2,"year":2010}
+{"genre":"Sci-Fi, Thriller","movie":"Metal Tornado","rating":3.3,"year":2011}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Dark Island","rating":3.3,"year":2010}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Vanguard","rating":3.3,"year":2008}
+{"genre":"Action, Horror, Sci-Fi","movie":"Mongolian Death Worm","rating":3.3,"year":2010}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"20 Years After","rating":3.3,"year":2008}
+{"genre":"Action, Horror, Sci-Fi","movie":"Deep Blue Sea 2","rating":3.3,"year":2018}
+{"genre":"Sci-Fi, Horror","movie":"Mansquito","rating":3.3,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Lake Placid 3","rating":3.3,"year":2010}
+{"genre":"Action, Horror, Sci-Fi","movie":"I Am Omega","rating":3.3,"year":2007}
+{"genre":"Action, Horror, Sci-Fi","movie":"Tubarão de Malibu","rating":3.3,"year":2009}
+{"genre":"Sci-Fi, Thriller, Horror","movie":"Teenage Caveman","rating":3.3,"year":2002}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Puppet Master: The Legacy","rating":3.3,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"New Alcatraz","rating":3.3,"year":2001}
+{"genre":"Action, Horror, Sci-Fi","movie":"Dark Waters","rating":3.3,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"Flying Virus","rating":3.3,"year":2001}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Fangs","rating":3.3,"year":2002}
+{"genre":"Action, Horror, Sci-Fi","movie":"Lake Placid vs. Anaconda","rating":3.3,"year":2015}
+{"genre":"Comedy, Sci-Fi","movie":"Hot Bot","rating":3.4,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Blackout","rating":3.4,"year":2009}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Monster Ark","rating":3.4,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Spiders 3D","rating":3.4,"year":2013}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Dragon Fighter","rating":3.4,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Hive","rating":3.4,"year":2008}
+{"genre":"Comedy, Sci-Fi","movie":"2000.1 - Um Maluco Perdido no Espaço","rating":3.4,"year":2000}
+{"genre":"Comedy, Romance, Sci-Fi","movie":"L'extraterrestre","rating":3.4,"year":2000}
+{"genre":"Action, Horror, Sci-Fi","movie":"Antibody","rating":3.4,"year":2002}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Dark Lurking","rating":3.4,"year":2009}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Absolute Zero","rating":3.5,"year":2006}
+{"genre":"Horror, Sci-Fi","movie":"51","rating":3.5,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Cobras","rating":3.5,"year":2002}
+{"genre":"Action, Horror, Sci-Fi","movie":"Mega Snake","rating":3.5,"year":2007}
+{"genre":"Horror, Sci-Fi","movie":"It's Alive","rating":3.5,"year":2008}
+{"genre":"Sci-Fi","movie":"For the Cause","rating":3.5,"year":2000}
+{"genre":"Action, Drama, Sci-Fi","movie":"O Último Comando","rating":3.6,"year":2000}
+{"genre":"Comedy, Family, Sci-Fi","movie":"Thunderpants","rating":3.6,"year":2002}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"I'll Always Know What You Did Last Summer","rating":3.6,"year":2006}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"They Crawl","rating":3.6,"year":2001}
+{"genre":"Action, Drama, Sci-Fi","movie":"Earthstorm","rating":3.6,"year":2006}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Area 407","rating":3.6,"year":2012}
+{"genre":"Action, Drama, Sci-Fi","movie":"Máscara Negra 2","rating":3.6,"year":2002}
+{"genre":"Horror, Sci-Fi","movie":"Arachnia","rating":3.6,"year":2003}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Pulse 2: Afterlife","rating":3.6,"year":2008}
+{"genre":"Comedy, Fantasy, Sci-Fi","movie":"Smosh: The Movie","rating":3.6,"year":2015}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"S. Darko","rating":3.6,"year":2009}
+{"genre":"Action, Crime, Sci-Fi","movie":"Ballistic: Ecks vs. Sever","rating":3.6,"year":2002}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Death Race 2050","rating":3.7,"year":2017}
+{"genre":"Action, Horror, Sci-Fi","movie":"Lake Placid: The Final Chapter","rating":3.7,"year":2012}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Devil's Tomb","rating":3.7,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Webs","rating":3.7,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"Zombie Diaries 2","rating":3.8,"year":2011}
+{"genre":"Comedy, Action, Sci-Fi","movie":"The Adventures of Pluto Nash","rating":3.8,"year":2002}
+{"genre":"Action, Sci-Fi","movie":"Polar Storm","rating":3.8,"year":2009}
+{"genre":"Action, Horror, Sci-Fi","movie":"Swamp Shark","rating":3.8,"year":2011}
+{"genre":"Horror, Sci-Fi","movie":"Pulse 3","rating":3.8,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"O Ataque dos Insetos","rating":3.8,"year":2003}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"O Ogro","rating":3.8,"year":2008}
+{"genre":"Sci-Fi, Thriller","movie":"The Void","rating":3.8,"year":2001}
+{"genre":"Action, Sci-Fi","movie":"The Last Sentinel","rating":3.8,"year":2007}
+{"genre":"Horror, Sci-Fi","movie":"The Sand","rating":3.8,"year":2015}
+{"genre":"Action, Horror, Sci-Fi","movie":"Snakehead Terror","rating":3.8,"year":2004}
+{"genre":"Action, Horror, Sci-Fi","movie":"House of the Dead 2","rating":3.8,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Bermuda Tentacles","rating":3.9,"year":2014}
+{"genre":"Horror, Sci-Fi","movie":"Spiders","rating":3.9,"year":2000}
+{"genre":"Action, Drama, Sci-Fi","movie":"Six: The Mark Unleashed","rating":3.9,"year":2004}
+{"genre":"Sci-Fi, Thriller","movie":"O Frio do Universo","rating":3.9,"year":2010}
+{"genre":"Action, Drama, Sci-Fi","movie":"Atomic Twister","rating":3.9,"year":2002}
+{"genre":"Sci-Fi","movie":"Ice Planet","rating":4.0,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Stargate Origins","rating":4.0,"year":2018}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Humans vs Zombies","rating":4.0,"year":2011}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Jurassic City","rating":4.0,"year":2015}
+{"genre":"Drama, Sci-Fi","movie":"Contagion","rating":4.0,"year":2002}
+{"genre":"Sci-Fi, Thriller","movie":"All Superheroes Must Die","rating":4.0,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Zombie Apocalypse","rating":4.0,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Silent Warnings","rating":4.0,"year":2003}
+{"genre":"Action, Sci-Fi","movie":"The Guardians","rating":4.0,"year":2017}
+{"genre":"Thriller, Sci-Fi","movie":"The Source","rating":4.0,"year":2002}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Unearthed","rating":4.0,"year":2007}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Super Hybrid","rating":4.0,"year":2010}
+{"genre":"Action, Sci-Fi, Horror","movie":"Locusts","rating":4.0,"year":2005}
+{"genre":"Horror, Sci-Fi","movie":"O Ataque das Vespas Mutantes","rating":4.0,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Alien Lockdown","rating":4.1,"year":2004}
+{"genre":"Comedy, Sci-Fi","movie":"Play-Mate of the Apes","rating":4.1,"year":2002}
+{"genre":"Horror, Sci-Fi","movie":"The Zombie Diaries","rating":4.1,"year":2006}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"O Santo Pecador","rating":4.1,"year":2002}
+{"genre":"Horror, Sci-Fi","movie":"Experiência Mortal","rating":4.1,"year":2004}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"Dragon Storm","rating":4.1,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Os Invasores da Cidade Perdida","rating":4.1,"year":2008}
+{"genre":"Action, Sci-Fi","movie":"Earth's Final Hours","rating":4.1,"year":2011}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Além do Lago Ness","rating":4.1,"year":2008}
+{"genre":"Adventure, Mystery, Sci-Fi","movie":"The Philadelphia Experiment","rating":4.1,"year":2012}
+{"genre":"Sci-Fi, Thriller","movie":"Atomica","rating":4.1,"year":2017}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Zombie Strippers","rating":4.1,"year":2008}
+{"genre":"Action, Horror, Sci-Fi","movie":"True Bloodthirst","rating":4.1,"year":2012}
+{"genre":"Sci-Fi, Action, Thriller","movie":"Absolon","rating":4.2,"year":2003}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"GhostWatcher","rating":4.2,"year":2002}
+{"genre":"Horror, Sci-Fi","movie":"Species III","rating":4.2,"year":2004}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Area 51","rating":4.2,"year":2015}
+{"genre":"Horror, Sci-Fi","movie":"Species: The Awakening","rating":4.2,"year":2007}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"One-Eyed Monster","rating":4.2,"year":2008}
+{"genre":"Horror, Sci-Fi","movie":"The Frankenstein Theory","rating":4.2,"year":2013}
+{"genre":"Horror, Sci-Fi","movie":"Subterano","rating":4.2,"year":2003}
+{"genre":"Action, Sci-Fi","movie":"Soldados do Gelo","rating":4.2,"year":2013}
+{"genre":"Sci-Fi","movie":"Ice Twisters","rating":4.2,"year":2009}
+{"genre":"Action, Drama, Sci-Fi","movie":"Meteor","rating":4.2,"year":2009}
+{"genre":"Sci-Fi, Thriller","movie":"Android Apocalypse","rating":4.2,"year":2006}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Prince","rating":4.2,"year":2010}
+{"genre":"Sci-Fi","movie":"A Descoberta em Stonehenge","rating":4.2,"year":2010}
+{"genre":"Horror, Sci-Fi","movie":"Debug - O Mal Não Pode Ser Deletado","rating":4.3,"year":2014}
+{"genre":"Drama, Romance, Sci-Fi","movie":"Parts Per Billion","rating":4.3,"year":2014}
+{"genre":"Action, Sci-Fi","movie":"The Gene Generation","rating":4.3,"year":2007}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Earth vs. the Spider","rating":4.3,"year":2001}
+{"genre":"Sci-Fi, Thriller","movie":"Cloned: The Recreator Chronicles","rating":4.3,"year":2012}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Monsters: Dark Continent","rating":4.3,"year":2014}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Anonymous Rex","rating":4.3,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Starship Troopers 3: Marauder","rating":4.3,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Kaw","rating":4.3,"year":2007}
+{"genre":"Horror, Sci-Fi","movie":"The Bone Snatcher","rating":4.3,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Sea Beast","rating":4.3,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Vampire Bats","rating":4.3,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Ice Quake","rating":4.3,"year":2010}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Jekyll + Hyde","rating":4.3,"year":2006}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"SpiderBabe","rating":4.3,"year":2003}
+{"genre":"Horror, Sci-Fi","movie":"Larva","rating":4.3,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Skyline","rating":4.4,"year":2010}
+{"genre":"Action, Sci-Fi, Thriller","movie":"WEAPONiZED","rating":4.4,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"How to Make a Monster","rating":4.4,"year":2001}
+{"genre":"Sci-Fi, Horror","movie":"The Day the World Ended","rating":4.4,"year":2001}
+{"genre":"Action, Mystery, Sci-Fi","movie":"Epoch: Evolution","rating":4.4,"year":2003}
+{"genre":"Action, Fantasy, Sci-Fi","movie":"The Avenging Fist","rating":4.4,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Mimic: Sentinel","rating":4.4,"year":2003}
+{"genre":"Comedy, Romance, Sci-Fi","movie":"Nutty Professor II: The Klumps","rating":4.4,"year":2000}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Atlas Shrugged: Who Is John Galt?","rating":4.4,"year":2014}
+{"genre":"Horror, Sci-Fi","movie":"Storage 24","rating":4.4,"year":2012}
+{"genre":"Action, Horror, Sci-Fi","movie":"Jason X","rating":4.4,"year":2001}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Ultraviolet","rating":4.4,"year":2006}
+{"genre":"Action, Horror, Sci-Fi","movie":"Hollow Man II","rating":4.4,"year":2006}
+{"genre":"Action, Sci-Fi","movie":"Ben 10: Race Against Time","rating":4.4,"year":2007}
+{"genre":"Adventure, Sci-Fi","movie":"Alien Apocalypse","rating":4.5,"year":2005}
+{"genre":"Horror, Sci-Fi","movie":"13 Eerie","rating":4.5,"year":2013}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"WarGames: The Dead Code","rating":4.5,"year":2008}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Butterfly Effect 2","rating":4.5,"year":2006}
+{"genre":"Action, Sci-Fi","movie":"A Fortaleza 2","rating":4.5,"year":2000}
+{"genre":"Sci-Fi, Action, Adventure","movie":"Mysterious Island","rating":4.5,"year":2005}
+{"genre":"Horror, Sci-Fi","movie":"Harbinger Down","rating":4.5,"year":2015}
+{"genre":"Action, Horror, Sci-Fi","movie":"A guerra dos vampiros","rating":4.5,"year":2005}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"400 Days","rating":4.5,"year":2015}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Antisocial","rating":4.5,"year":2013}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Alien Arrival","rating":4.5,"year":2016}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"4:44 Last Day on Earth","rating":4.5,"year":2011}
+{"genre":"Action, Drama, Sci-Fi","movie":"10.5: Apocalypse","rating":4.5,"year":2006}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Mafiya: Igra na vyzhivanie","rating":4.6,"year":2016}
+{"genre":"Horror, Thriller, Sci-Fi","movie":"Mimic 2","rating":4.6,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Nostradamus","rating":4.6,"year":2000}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Decoys","rating":4.6,"year":2004}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Slipstream","rating":4.6,"year":2005}
+{"genre":"Adventure, Drama, Sci-Fi","movie":"Battle Royale II","rating":4.7,"year":2003}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Let's Be Evil","rating":4.7,"year":2016}
+{"genre":"Action, Horror, Sci-Fi","movie":"Screamers: A Caçada","rating":4.7,"year":2009}
+{"genre":"Action, Sci-Fi","movie":"Hardwired","rating":4.7,"year":2009}
+{"genre":"Horror, Sci-Fi","movie":"Growth","rating":4.7,"year":2010}
+{"genre":"Action, Horror, Sci-Fi","movie":"Aliens vs. Predator: Requiem","rating":4.7,"year":2007}
+{"genre":"Sci-Fi","movie":"The Beyond","rating":4.7,"year":2017}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Last of the Living","rating":4.7,"year":2009}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Boltneck","rating":4.7,"year":2000}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Be Afraid","rating":4.7,"year":2017}
+{"genre":"Action, Crime, Sci-Fi","movie":"RoboCop: Prime Directives","rating":4.7,"year":2001}
+{"genre":"Horror, Sci-Fi","movie":"The Hybrid","rating":4.7,"year":2014}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Decoys 2: Sedução Alienígena","rating":4.7,"year":2007}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Night Skies","rating":4.7,"year":2007}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Recall","rating":4.7,"year":2017}
+{"genre":"Action, Drama, Sci-Fi","movie":"10.5","rating":4.7,"year":2004}
+{"genre":"Adventure, Sci-Fi","movie":"The Dinosaur Project","rating":4.7,"year":2012}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Headspace","rating":4.7,"year":2005}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Robot Overlords","rating":4.7,"year":2014}
+{"genre":"Horror, Sci-Fi","movie":"The Diabolical","rating":4.7,"year":2015}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Infectados","rating":4.7,"year":2005}
+{"genre":"Sci-Fi","movie":"Mermaids: The Body Found","rating":4.8,"year":2011}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Voo 7500","rating":4.8,"year":2014}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Approaching the Unknown","rating":4.8,"year":2016}
+{"genre":"Sci-Fi, Thriller","movie":"The Speed of Thought","rating":4.8,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Rupture: Superando o Medo","rating":4.8,"year":2016}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Alien Outpost","rating":4.8,"year":2014}
+{"genre":"Action, Horror, Sci-Fi","movie":"High Plains Invaders","rating":4.8,"year":2009}
+{"genre":"Action, Sci-Fi, Thriller","movie":"The Anomaly","rating":4.8,"year":2014}
+{"genre":"Drama, Horror, Sci-Fi","movie":"O Corredor","rating":4.8,"year":2010}
+{"genre":"Horror, Sci-Fi","movie":"Dead Season","rating":4.8,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Ra.One","rating":4.8,"year":2011}
+{"genre":"Action, Drama, Sci-Fi","movie":"Destruição Total: O Fim do Mundo","rating":4.8,"year":2005}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Ghost Machine","rating":4.8,"year":2009}
+{"genre":"Action, Drama, Sci-Fi","movie":"Momentum","rating":4.8,"year":2003}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Supernova","rating":4.8,"year":2000}
+{"genre":"Comedy, Sci-Fi","movie":"The Animal","rating":4.8,"year":2001}
+{"genre":"Action, Horror, Sci-Fi","movie":"Dead Rising: Endgame","rating":4.8,"year":2016}
+{"genre":"Sci-Fi, Thriller","movie":"The Titan","rating":4.9,"year":2018}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Chemical Wedding","rating":4.9,"year":2008}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Star Trek: Renegades","rating":4.9,"year":2015}
+{"genre":"Action, Sci-Fi","movie":"Timecop: The Berlin Decision","rating":4.9,"year":2003}
+{"genre":"Sci-Fi, Thriller","movie":"Dante 01","rating":4.9,"year":2008}
+{"genre":"Action, Sci-Fi","movie":"The Call Up","rating":4.9,"year":2016}
+{"genre":"Sci-Fi, Thriller","movie":"Epoch","rating":4.9,"year":2001}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Kill Switch","rating":4.9,"year":2017}
+{"genre":"Comedy, Drama, Sci-Fi","movie":"Space Station 76","rating":4.9,"year":2014}
+{"genre":"Drama, Sci-Fi","movie":"Bokeh","rating":4.9,"year":2017}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Ghostmaker","rating":4.9,"year":2012}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Fortaleza Secreta","rating":4.9,"year":2012}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Fim dos Tempos","rating":4.9,"year":2012}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Rats","rating":4.9,"year":2002}
+{"genre":"Action, Horror, Sci-Fi","movie":"Ghosts of Mars","rating":4.9,"year":2001}
+{"genre":"Action, Adventure, Sci-Fi","movie":"After Earth","rating":4.9,"year":2013}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Lotus","rating":4.9,"year":2018}
+{"genre":"Action, Crime, Sci-Fi","movie":"Eyeborgs","rating":4.9,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Containment","rating":4.9,"year":2015}
+{"genre":"Action, Sci-Fi","movie":"Storm Watch","rating":4.9,"year":2002}
+{"genre":"Action, Sci-Fi","movie":"Ben 10: Alien Swarm","rating":4.9,"year":2009}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Altitude","rating":4.9,"year":2010}
+{"genre":"Action, Sci-Fi","movie":"Rogue Warrior: Robot Fighter","rating":5.0,"year":2017}
+{"genre":"Sci-Fi, Thriller","movie":"Firestarter 2: Rekindled","rating":5.0,"year":2002}
+{"genre":"Action, Sci-Fi","movie":"Gen-X Cops 2: Metal Mayhem","rating":5.0,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Paragraph 78","rating":5.0,"year":2007}
+{"genre":"Animation, Comedy, Sci-Fi","movie":"Disaster!","rating":5.0,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"Outpost: Black Sun","rating":5.0,"year":2012}
+{"genre":"Action, Mystery, Sci-Fi","movie":"Terminal Invasion","rating":5.0,"year":2002}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"The Dark Tapes","rating":5.0,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Lake Eerie","rating":5.0,"year":2016}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Freakdog","rating":5.0,"year":2008}
+{"genre":"Adventure, Sci-Fi","movie":"O Futuro Perdido","rating":5.0,"year":2010}
+{"genre":"Action, Crime, Sci-Fi","movie":"Yesterday","rating":5.0,"year":2002}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Stealth","rating":5.0,"year":2005}
+{"genre":"Sci-Fi, Thriller","movie":"The Happening","rating":5.0,"year":2008}
+{"genre":"Action, Sci-Fi","movie":"Scorched Earth","rating":5.0,"year":2018}
+{"genre":"Fantasy, Horror, Sci-Fi","movie":"Stay Alive","rating":5.1,"year":2006}
+{"genre":"Action, Horror, Sci-Fi","movie":"Outpost: Rise of the Spetsnaz","rating":5.1,"year":2013}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Silver Hawk","rating":5.1,"year":2004}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Skinwalker Ranch","rating":5.1,"year":2013}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Ever Since the World Ended","rating":5.1,"year":2001}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"ZMD: Zombies of Mass Destruction","rating":5.1,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Anatomia 2","rating":5.1,"year":2003}
+{"genre":"Sci-Fi, Horror","movie":"They Nest","rating":5.1,"year":2000}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Alien Hunter","rating":5.1,"year":2003}
+{"genre":"Sci-Fi","movie":"Red Faction: Origins","rating":5.1,"year":2011}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Dark Planet: Rebellion","rating":5.1,"year":2009}
+{"genre":"Comedy, Sci-Fi","movie":"Hot Tub Time Machine 2","rating":5.1,"year":2015}
+{"genre":"Comedy, Romance, Sci-Fi","movie":"My Super Ex-Girlfriend","rating":5.1,"year":2006}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Forças Diabólicas","rating":5.1,"year":2000}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Devil's Gate","rating":5.1,"year":2017}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Evidence","rating":5.1,"year":2012}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"The Lazarus Effect","rating":5.2,"year":2015}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Transformers: The Last Knight","rating":5.2,"year":2017}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Flatliners","rating":5.2,"year":2017}
+{"genre":"Fantasy, Sci-Fi","movie":"Riverworld","rating":5.2,"year":2003}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Independence Day: Resurgence","rating":5.2,"year":2016}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Control Factor","rating":5.2,"year":2003}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"The Stepford Wives","rating":5.2,"year":2004}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Inhumans","rating":5.2,"year":2017}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Mutant Chronicles","rating":5.2,"year":2008}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Quarantine 2: Terminal","rating":5.2,"year":2011}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Universal Soldier: Regeneration","rating":5.2,"year":2009}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Contaminação","rating":5.2,"year":2009}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Dark Planet","rating":5.2,"year":2009}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Apollo 18","rating":5.2,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Bait","rating":5.2,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Star Wars: Revelations","rating":5.2,"year":2005}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Phoenix Forgotten","rating":5.2,"year":2017}
+{"genre":"Action, Sci-Fi, War","movie":"Revolt","rating":5.2,"year":2017}
+{"genre":"Action, Drama, Sci-Fi","movie":"Painkiller Jane","rating":5.2,"year":2005}
+{"genre":"Sci-Fi","movie":"The Last Scout","rating":5.2,"year":2017}
+{"genre":"Action, Horror, Sci-Fi","movie":"Flight of the Living Dead","rating":5.2,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":"The 5th Wave","rating":5.2,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Bloodwork","rating":5.2,"year":2012}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Space Cop","rating":5.2,"year":2016}
+{"genre":"Sci-Fi","movie":"Lies Inc.","rating":5.3,"year":2004}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Monster Hunt 2","rating":5.3,"year":2018}
+{"genre":"Action, Crime, Sci-Fi","movie":"Daredevil","rating":5.3,"year":2003}
+{"genre":"Action, Comedy, Sci-Fi","movie":"The Tuxedo","rating":5.3,"year":2002}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Eden Log","rating":5.3,"year":2007}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"The Man from Earth: Holocene","rating":5.3,"year":2017}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Dead Air","rating":5.3,"year":2009}
+{"genre":"Action, Mystery, Sci-Fi","movie":"Ticking Clock","rating":5.3,"year":2011}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"State of Emergency","rating":5.3,"year":2011}
+{"genre":"Action, Horror, Sci-Fi","movie":"Another World","rating":5.3,"year":2014}
+{"genre":"Action, Comedy, Sci-Fi","movie":"RoboGeisha","rating":5.3,"year":2009}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Jupiter Ascending","rating":5.3,"year":2015}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Rezort","rating":5.3,"year":2015}
+{"genre":"Animation, Action, Sci-Fi","movie":"Homem de Ferro: A Batalha Contra Ezekiel Stane","rating":5.3,"year":2013}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Krrish 3","rating":5.3,"year":2013}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Big Ass Spider!","rating":5.3,"year":2013}
+{"genre":"Action, Comedy, Sci-Fi","movie":"The Girl from Monday","rating":5.3,"year":2005}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Human Race","rating":5.3,"year":2013}
+{"genre":"Action, Horror, Sci-Fi","movie":"O Ataque dos Vermes Malditos 5: Linhas de Sangue","rating":5.3,"year":2015}
+{"genre":"Action, Horror, Sci-Fi","movie":"A Colônia","rating":5.3,"year":2013}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Bleeding Steel","rating":5.3,"year":2017}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Um Pouco Zombie","rating":5.3,"year":2012}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Moontrap: Target Earth","rating":5.3,"year":2017}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Errors of the Human Body","rating":5.3,"year":2012}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Second Nature","rating":5.4,"year":2003}
+{"genre":"Horror, Sci-Fi","movie":"Helldriver","rating":5.4,"year":2010}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Infini","rating":5.4,"year":2015}
+{"genre":"Drama, Sci-Fi","movie":"Terminus","rating":5.4,"year":2015}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Land of the Lost","rating":5.4,"year":2009}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Evil Aliens","rating":5.4,"year":2005}
+{"genre":"Sci-Fi","movie":"Timequest","rating":5.4,"year":2000}
+{"genre":"Comedy, Sci-Fi","movie":"A Ticket to Space","rating":5.4,"year":2006}
+{"genre":"Adventure, Family, Sci-Fi","movie":"Beyond","rating":5.4,"year":2000}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Replicant","rating":5.4,"year":2001}
+{"genre":"Drama, Sci-Fi","movie":"Astronaut: The Last Push","rating":5.4,"year":2012}
+{"genre":"Drama, Sci-Fi","movie":"Stranded","rating":5.4,"year":2001}
+{"genre":"Action, Drama, Sci-Fi","movie":"Category 6: Day of Destruction","rating":5.4,"year":2004}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"The Scribbler","rating":5.4,"year":2014}
+{"genre":"Comedy, Sci-Fi","movie":"(T)Raumschiff Surprise - Periode 1","rating":5.4,"year":2004}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"The Unknown","rating":5.4,"year":2000}
+{"genre":"Action, Horror, Sci-Fi","movie":"Resident Evil: Retribution","rating":5.4,"year":2012}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Atlas Shrugged II: The Strike","rating":5.4,"year":2012}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Red Dawn","rating":5.4,"year":2012}
+{"genre":"Mystery, Sci-Fi, Thriller","movie":"Mute","rating":5.4,"year":2018}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Geostorm","rating":5.4,"year":2017}
+{"genre":"Drama, Sci-Fi","movie":"Creative Control","rating":5.4,"year":2015}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Dreamcatcher","rating":5.5,"year":2003}
+{"genre":"Action, Adventure, Sci-Fi","movie":"The Core","rating":5.5,"year":2003}
+{"genre":"Crime, Drama, Sci-Fi","movie":"Chrysalis","rating":5.5,"year":2007}
+{"genre":"Action, Adventure, Sci-Fi","movie":" Stargate Origins","rating":5.5,"year":2018}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Æon Flux","rating":5.5,"year":2005}
+{"genre":"Drama, Sci-Fi","movie":"The Spring","rating":5.5,"year":2000}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Objective","rating":5.5,"year":2008}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Carrie","rating":5.5,"year":2002}
+{"genre":"Drama, Romance, Sci-Fi","movie":"Judas Kiss","rating":5.5,"year":2011}
+{"genre":"Animation, Horror, Sci-Fi","movie":"Dead Space: Aftermath","rating":5.5,"year":2011}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"The Day the Earth Stood Still","rating":5.5,"year":2008}
+{"genre":"Animation, Action, Sci-Fi","movie":"Starship Troopers: Traitor of Mars","rating":5.5,"year":2017}
+{"genre":"Drama, Sci-Fi","movie":"Teleios","rating":5.5,"year":2017}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Nine Miles Down","rating":5.5,"year":2009}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"Time Changer","rating":5.5,"year":2002}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Banshee Chapter","rating":5.5,"year":2013}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Bounty Killer","rating":5.5,"year":2013}
+{"genre":"Sci-Fi, Thriller","movie":"+1","rating":5.5,"year":2013}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Death Race: Inferno","rating":5.5,"year":2013}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Last Days on Mars","rating":5.5,"year":2013}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Tell Tale","rating":5.5,"year":2009}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Viral","rating":5.5,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Man Vs.","rating":5.5,"year":2015}
+{"genre":"Comedy, Mystery, Sci-Fi","movie":"Dude, Where's My Car?","rating":5.5,"year":2000}
+{"genre":"Sci-Fi, Thriller","movie":"App","rating":5.5,"year":2013}
+{"genre":"Drama, Sci-Fi, Thriller","movie":"Ladrões de Mentes","rating":5.6,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Missão Babilônia","rating":5.6,"year":2008}
+{"genre":"Crime, Drama, Sci-Fi","movie":"Hunters","rating":5.6,"year":2016}
+{"genre":"Action, Horror, Sci-Fi","movie":"AVP: Alien vs. Predator","rating":5.6,"year":2004}
+{"genre":"Action, Crime, Sci-Fi","movie":"Machete Mata","rating":5.6,"year":2013}
+{"genre":"Action, Horror, Sci-Fi","movie":"Alien Raiders","rating":5.6,"year":2008}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Return to Nuke 'Em High Volume 1","rating":5.6,"year":2013}
+{"genre":"Adventure, Sci-Fi, Thriller","movie":"Mission to Mars","rating":5.6,"year":2000}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Man with the Screaming Brain","rating":5.6,"year":2005}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Timeline","rating":5.6,"year":2003}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"The Cloverfield Paradox","rating":5.6,"year":2018}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"The Bay","rating":5.6,"year":2012}
+{"genre":"Animation, Action, Sci-Fi","movie":"Halo: The Fall of Reach","rating":5.6,"year":2015}
+{"genre":"Action, Horror, Sci-Fi","movie":"Resident Evil: The Final Chapter","rating":5.6,"year":2016}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Isolation","rating":5.6,"year":2005}
+{"genre":"Sci-Fi, Thriller","movie":"Xchange - 48 Horas Para Morrer","rating":5.6,"year":2001}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Mulberry St","rating":5.6,"year":2006}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Corrida Mortal 2","rating":5.6,"year":2010}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Here Alone","rating":5.6,"year":2016}
+{"genre":"Sci-Fi, Thriller","movie":"Cube²: Hypercube","rating":5.6,"year":2002}
+{"genre":"Crime, Sci-Fi, Thriller","movie":"The Butterfly Effect 3: Revelations","rating":5.6,"year":2009}
+{"genre":"Comedy, Sci-Fi","movie":"What Planet Are You From?","rating":5.6,"year":2000}
+{"genre":"Action, Comedy, Sci-Fi","movie":"Lazer Team","rating":5.6,"year":2015}
+{"genre":"Drama, Music, Sci-Fi","movie":"Love","rating":5.6,"year":2011}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Green Lantern","rating":5.6,"year":2011}
+{"genre":"Drama, Horror, Sci-Fi","movie":"Mutações","rating":5.6,"year":2009}
+{"genre":"Action, Sci-Fi","movie":"Hulk","rating":5.7,"year":2003}
+{"genre":"Action, Comedy, Sci-Fi","movie":"The Watch","rating":5.7,"year":2012}
+{"genre":"Action, Horror, Sci-Fi","movie":"Tetsuo: O Homem Bala","rating":5.7,"year":2009}
+{"genre":"Drama, Sci-Fi","movie":"Blueprint","rating":5.7,"year":2003}
+{"genre":"Action, Horror, Sci-Fi","movie":"Kill Command","rating":5.7,"year":2016}
+{"genre":"Action, Sci-Fi, Thriller","movie":"24 Hours to Live","rating":5.7,"year":2017}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Bionic Woman","rating":5.7,"year":2007}
+{"genre":"Sci-Fi","movie":"The Gateway","rating":5.7,"year":2018}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Transformers: Age of Extinction","rating":5.7,"year":2014}
+{"genre":"Action, Crime, Sci-Fi","movie":"13° Distrito","rating":5.7,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Halo: Nightfall","rating":5.7,"year":2014}
+{"genre":"Adventure, Comedy, Sci-Fi","movie":"Angry Video Game Nerd: The Movie","rating":5.7,"year":2014}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Dragon Head","rating":5.7,"year":2003}
+{"genre":"Animation, Short, Sci-Fi","movie":"Elephants Dream","rating":5.7,"year":2006}
+{"genre":"Adventure, Drama, Sci-Fi","movie":"Nihon chinbotsu","rating":5.7,"year":2006}
+{"genre":"Action, Horror, Sci-Fi","movie":"Hollow Man","rating":5.7,"year":2000}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Antiviral","rating":5.7,"year":2012}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Cubeº: Cube Zero","rating":5.7,"year":2004}
+{"genre":"Comedy, Family, Sci-Fi","movie":"How to Build a Better Boy","rating":5.7,"year":2014}
+{"genre":"Horror, Mystery, Sci-Fi","movie":"Devil's Pass","rating":5.7,"year":2013}
+{"genre":"Drama, Fantasy, Sci-Fi","movie":"After the Dark","rating":5.7,"year":2013}
+{"genre":"Comedy, Horror, Sci-Fi","movie":"Alien Trespass","rating":5.7,"year":2009}
+{"genre":"Comedy, Sci-Fi","movie":"Repli-Kate","rating":5.7,"year":2002}
+{"genre":"Comedy, Drama, Sci-Fi","movie":"Downsizing","rating":5.7,"year":2017}
+{"genre":"Action, Horror, Sci-Fi","movie":"The Day of the Triffids","rating":5.7,"year":2009}
+{"genre":"Drama, Sci-Fi","movie":"Radio Free Albemuth","rating":5.7,"year":2010}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Uma Noite de Crime","rating":5.7,"year":2013}
+{"genre":"Horror, Sci-Fi, Thriller","movie":"Altered","rating":5.7,"year":2006}
+{"genre":"Action, Adventure, Sci-Fi","movie":"Planet of the Apes","rating":5.7,"year":2001}
+{"genre":"Drama, Mystery, Sci-Fi","movie":"Atlas Shrugged: Part I","rating":5.7,"year":2011}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Red Planet","rating":5.7,"year":2000}
+{"genre":"Action, Horror, Sci-Fi","movie":"Meatball Machine","rating":5.7,"year":2005}
+{"genre":"Adventure, Family, Sci-Fi","movie":"Earth to Echo","rating":5.8,"year":2014}
+{"genre":"Action, Adventure, Sci-Fi","movie":"G.I. Joe: The Rise of Cobra","rating":5.8,"year":2009}
+{"genre":"Action, Adventure, Sci-Fi","movie":"2012","rating":5.8,"year":2009}
+{"genre":"Action, Sci-Fi, Thriller","movie":"Gamer","rating":5.8,"year":2009}
+{"genre":"Action, Drama, Sci-Fi","movie":"Natural City","rating":5.8,"year":2003}

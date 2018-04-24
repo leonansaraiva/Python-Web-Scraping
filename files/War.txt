@@ -1,0 +1,406 @@
+{"genre":"Sci-Fi, Thriller, War","movie":"Princess of Mars","rating":3.1,"year":2009}
+{"genre":"Action, Drama, War","movie":"Sniper: Special Ops","rating":3.3,"year":2016}
+{"genre":"Action, History, War","movie":"Operation Dunkirk","rating":3.5,"year":2017}
+{"genre":"Action, War","movie":"Troy: Fall of a City","rating":3.6,"year":2018}
+{"genre":"Action, War","movie":"The Hunt for Eagle One","rating":3.8,"year":2006}
+{"genre":"Drama, History, War","movie":"Het Bombardement","rating":3.9,"year":2012}
+{"genre":"Drama, War","movie":"Last Ounce of Courage","rating":4.1,"year":2012}
+{"genre":"Drama, War","movie":"Burnt by the Sun 2","rating":4.1,"year":2010}
+{"genre":"Drama, War","movie":"Utomlennye solntsem 2","rating":4.1,"year":2011}
+{"genre":"Action, Drama, War","movie":"War Pigs","rating":4.2,"year":2015}
+{"genre":"Drama, War","movie":"Tubelight","rating":4.2,"year":2017}
+{"genre":"Documentary, War","movie":"Celsius 41.11: The Temperature at Which the Brain... Begins to Die","rating":4.3,"year":2004}
+{"genre":"Drama, Romance, War","movie":"In the Land of Blood and Honey","rating":4.4,"year":2011}
+{"genre":"Action, Drama, War","movie":"Seal Team Eight: Behind Enemy Lines","rating":4.6,"year":2014}
+{"genre":"Action, Thriller, War","movie":"I Am Soldier","rating":4.6,"year":2014}
+{"genre":"Action, Drama, War","movie":"1968 Tunnel Rats","rating":4.7,"year":2008}
+{"genre":"Drama, Romance, War","movie":"Mausam","rating":4.7,"year":2011}
+{"genre":"Action, Drama, War","movie":"Ab Tumhare Hawale Watan Saathiyo","rating":4.8,"year":2004}
+{"genre":"Drama, Thriller, War","movie":"The Haunted Airman","rating":4.8,"year":2006}
+{"genre":"Action, Drama, War","movie":"Battle Ground","rating":4.9,"year":2013}
+{"genre":"Drama, History, War","movie":"A Fundação de uma República","rating":4.9,"year":2009}
+{"genre":"Action, Drama, War","movie":"Fortress","rating":5.0,"year":2012}
+{"genre":"Comedy, War","movie":"Churchill: The Hollywood Years","rating":5.0,"year":2004}
+{"genre":"Drama, Thriller, War","movie":"Resistance","rating":5.0,"year":2011}
+{"genre":"Action, Thriller, War","movie":"Second in Command","rating":5.1,"year":2006}
+{"genre":"Comedy, War","movie":"No Topo do Mundo","rating":5.1,"year":2005}
+{"genre":"Action, War","movie":"Company of Heroes","rating":5.1,"year":2013}
+{"genre":"Biography, Drama, War","movie":"Everyman's War","rating":5.1,"year":2009}
+{"genre":"Drama, History, War","movie":"LOC: Kargil","rating":5.1,"year":2003}
+{"genre":"Action, War","movie":" Troy: Fall of a City","rating":5.1,"year":2018}
+{"genre":"Action, Drama, War","movie":"Saints and Soldiers: The Void","rating":5.2,"year":2014}
+{"genre":"Action, Sci-Fi, War","movie":"Revolt","rating":5.2,"year":2017}
+{"genre":"Action, Drama, War","movie":"The Fallen","rating":5.2,"year":2004}
+{"genre":"Action, Drama, War","movie":"Jarhead 3: The Siege","rating":5.2,"year":2016}
+{"genre":"Action, War","movie":"Sniper 2","rating":5.2,"year":2002}
+{"genre":"Comedy, War","movie":"Dad's Army","rating":5.2,"year":2016}
+{"genre":"Drama, Romance, War","movie":"Lover's Prayer","rating":5.2,"year":2001}
+{"genre":"Drama, Thriller, War","movie":"Boys of Abu Ghraib","rating":5.4,"year":2014}
+{"genre":"Action, Adventure, War","movie":"The Last Legion","rating":5.4,"year":2007}
+{"genre":"Action, Thriller, War","movie":"Sniper: Legacy","rating":5.4,"year":2014}
+{"genre":"Comedy, Drama, War","movie":"My Führer","rating":5.4,"year":2007}
+{"genre":"Drama, War","movie":"Deserter","rating":5.4,"year":2002}
+{"genre":"Drama, War","movie":"Ithaca","rating":5.5,"year":2015}
+{"genre":"Action, Drama, War","movie":"De Volta ao Inferno","rating":5.5,"year":2001}
+{"genre":"Action, War","movie":"Can Feda","rating":5.5,"year":2018}
+{"genre":"Action, Drama, War","movie":"Jarhead 2: Field of Fire","rating":5.5,"year":2014}
+{"genre":"Comedy, Music, War","movie":"Rock the Kasbah","rating":5.5,"year":2015}
+{"genre":"Action, Drama, War","movie":"Home of the Brave","rating":5.6,"year":2006}
+{"genre":"Action, Drama, War","movie":"5 Days of War","rating":5.6,"year":2011}
+{"genre":"Documentary, History, War","movie":"Armenian Genocide","rating":5.7,"year":2006}
+{"genre":"Action, Drama, War","movie":"Saints and Soldiers: Airborne Creed","rating":5.7,"year":2012}
+{"genre":"Drama, Romance, War","movie":"Love and Honor","rating":5.7,"year":2013}
+{"genre":"Drama, Thriller, War","movie":"Septem8er Tapes","rating":5.8,"year":2004}
+{"genre":"Drama, History, War","movie":"Tali-Ihantala 1944","rating":5.8,"year":2007}
+{"genre":"Drama, Romance, War","movie":"In Tranzit","rating":5.8,"year":2008}
+{"genre":"Biography, Drama, War","movie":"Segredos da Paixão","rating":5.8,"year":2011}
+{"genre":"Action, Comedy, War","movie":"Railroad Tigers","rating":5.9,"year":2016}
+{"genre":"Drama, War","movie":"Attack on Darfur","rating":5.9,"year":2009}
+{"genre":"Drama, Romance, War","movie":"Pavilhão De Mulheres","rating":5.9,"year":2001}
+{"genre":"Thriller, War","movie":"Mine","rating":5.9,"year":2016}
+{"genre":"Action, War","movie":"1971: Beyond Borders","rating":6.0,"year":2017}
+{"genre":"Drama, Horror, War","movie":"Deathwatch","rating":6.0,"year":2002}
+{"genre":"Drama, History, War","movie":"The Alamo","rating":6.0,"year":2004}
+{"genre":"Drama, History, War","movie":"Purple Butterfly","rating":6.0,"year":2003}
+{"genre":"Action, Drama, War","movie":"Windtalkers","rating":6.0,"year":2002}
+{"genre":"Drama, History, War","movie":"Nomad: The Warrior","rating":6.0,"year":2005}
+{"genre":"Drama, Thriller, War","movie":"In Enemy Hands","rating":6.0,"year":2004}
+{"genre":"Comedy, Drama, War","movie":"War Machine","rating":6.0,"year":2017}
+{"genre":"Thriller, War","movie":"Matança Necessária","rating":6.1,"year":2010}
+{"genre":"Drama, War","movie":"Leningrad","rating":6.1,"year":2009}
+{"genre":"Drama, War","movie":"In the Name of the Father","rating":6.1,"year":2006}
+{"genre":"Action, Drama, War","movie":"Bastards","rating":6.1,"year":2006}
+{"genre":"Crime, Thriller, War","movie":"Redacted","rating":6.1,"year":2007}
+{"genre":"Drama, Romance, War","movie":"Colheita Amarga","rating":6.1,"year":2017}
+{"genre":"Drama, War","movie":"Kedma","rating":6.1,"year":2002}
+{"genre":"Drama, History, War","movie":"The Monuments Men","rating":6.1,"year":2014}
+{"genre":"Action, Drama, War","movie":"Kokoda: 39th Battalion","rating":6.2,"year":2006}
+{"genre":"Drama, Romance, War","movie":"Good","rating":6.2,"year":2008}
+{"genre":"Drama, Thriller, War","movie":"Lions for Lambs","rating":6.2,"year":2007}
+{"genre":"Drama, Thriller, War","movie":"The Wall","rating":6.2,"year":2017}
+{"genre":"Drama, Thriller, War","movie":"Coriolanus","rating":6.2,"year":2011}
+{"genre":"Comedy, War","movie":"The Men Who Stare at Goats","rating":6.2,"year":2009}
+{"genre":"Drama, War","movie":"The Aryan Couple","rating":6.3,"year":2004}
+{"genre":"Drama, War","movie":"Billy Lynn's Long Halftime Walk","rating":6.3,"year":2016}
+{"genre":"Drama, War","movie":"Sand Castle","rating":6.3,"year":2017}
+{"genre":"Comedy, History, War","movie":"N (Io e Napoleone)","rating":6.3,"year":2006}
+{"genre":"Drama, War","movie":"Adam Resurrected","rating":6.3,"year":2008}
+{"genre":"Action, Drama, War","movie":"The Border","rating":6.3,"year":2011}
+{"genre":"Drama, War","movie":"Hart's War","rating":6.3,"year":2002}
+{"genre":"Drama, Romance, War","movie":"Dear John","rating":6.3,"year":2010}
+{"genre":"Drama, Thriller, War","movie":"Rules of Engagement","rating":6.4,"year":2000}
+{"genre":"Drama, War","movie":"Varian's War: The Forgotten Hero","rating":6.4,"year":2001}
+{"genre":"Comedy, War","movie":"The Robbery of the Third Reich","rating":6.4,"year":2004}
+{"genre":"Action, Drama, War","movie":"Forças Especiais","rating":6.4,"year":2011}
+{"genre":"Drama, Romance, War","movie":"Sonny Boy","rating":6.4,"year":2011}
+{"genre":"Drama, Romance, War","movie":"Pornography","rating":6.4,"year":2003}
+{"genre":"Drama, Romance, War","movie":"Tears of April","rating":6.4,"year":2008}
+{"genre":"Drama, War","movie":"O Dia Do Perdão","rating":6.4,"year":2000}
+{"genre":"Comedy, Drama, War","movie":"C.S.A.: The Confederate States of America","rating":6.4,"year":2004}
+{"genre":"Action, Horror, War","movie":"R-Point","rating":6.4,"year":2004}
+{"genre":"Drama, War","movie":"Laços de Família","rating":6.4,"year":2014}
+{"genre":"Drama, Thriller, War","movie":"Good Kill","rating":6.4,"year":2014}
+{"genre":"Drama, Family, War","movie":"I'll Remember April","rating":6.4,"year":2000}
+{"genre":"Action, Drama, War","movie":"The Coast Guard","rating":6.5,"year":2002}
+{"genre":"Drama, War","movie":"Sword of Honour","rating":6.5,"year":2001}
+{"genre":"Adventure, War, Drama","movie":"Os Guerreiros","rating":6.5,"year":2002}
+{"genre":"Documentary, Comedy, War","movie":"Where in the World Is Osama Bin Laden?","rating":6.5,"year":2008}
+{"genre":"Drama, History, War","movie":"April 9th","rating":6.5,"year":2015}
+{"genre":"Drama, History, War","movie":"1898. Los últimos de Filipinas","rating":6.5,"year":2016}
+{"genre":"Drama, Mystery, War","movie":"Triage","rating":6.5,"year":2009}
+{"genre":"Drama, War","movie":"Relatos de Guerra","rating":6.5,"year":2015}
+{"genre":"Drama, War","movie":"Invincible","rating":6.5,"year":2001}
+{"genre":"Biography, Drama, War","movie":"Thank You for Your Service","rating":6.5,"year":2017}
+{"genre":"Drama, War","movie":"El mar","rating":6.5,"year":2000}
+{"genre":"Drama, War","movie":"Stop-Loss","rating":6.5,"year":2008}
+{"genre":"Drama, War","movie":"The Mark of Cain","rating":6.5,"year":2007}
+{"genre":"Drama, History, War","movie":"Imperador","rating":6.5,"year":2012}
+{"genre":"Action, Drama, War","movie":"Duel","rating":6.5,"year":2004}
+{"genre":"Drama, War","movie":"Land of Plenty","rating":6.5,"year":2004}
+{"genre":"Crime, Drama, War","movie":"Fora da Lei","rating":6.6,"year":2010}
+{"genre":"Drama, War","movie":"This Life","rating":6.6,"year":2012}
+{"genre":"Drama, Romance, War","movie":"Divine Intervention","rating":6.6,"year":2002}
+{"genre":"Drama, War","movie":"Zozo","rating":6.6,"year":2005}
+{"genre":"Action, War","movie":"U-571: A Batalha do Atlântico","rating":6.6,"year":2000}
+{"genre":"Drama, Romance, War","movie":"Dresden - O Inferno","rating":6.6,"year":2006}
+{"genre":"Drama, War","movie":"Max","rating":6.6,"year":2002}
+{"genre":"Drama, Romance, War","movie":"Flanders","rating":6.6,"year":2006}
+{"genre":"Drama, Romance, War","movie":"Head in the Clouds","rating":6.6,"year":2004}
+{"genre":"War","movie":"Yamato","rating":6.6,"year":2005}
+{"genre":"Documentary, War","movie":"Gunner Palace","rating":6.6,"year":2004}
+{"genre":"Comedy, Drama, War","movie":"Bright Young Things","rating":6.6,"year":2003}
+{"genre":"Drama, War","movie":"Ararat","rating":6.6,"year":2002}
+{"genre":"Drama, Romance, War","movie":"Anjo da Guerra","rating":6.6,"year":2003}
+{"genre":"Drama, War","movie":"Missing in America","rating":6.6,"year":2005}
+{"genre":"Drama, History, War","movie":"Cristiada","rating":6.6,"year":2012}
+{"genre":"Action, Drama, War","movie":"Battle of the Warriors","rating":6.7,"year":2006}
+{"genre":"Drama, History, War","movie":"Army of Crime","rating":6.7,"year":2009}
+{"genre":"Action, Drama, War","movie":"The Great Raid","rating":6.7,"year":2005}
+{"genre":"Comedy, War, Drama","movie":"Two Men Went to War","rating":6.7,"year":2002}
+{"genre":"Drama, History, War","movie":"Beyond Enemy Lines","rating":6.7,"year":2004}
+{"genre":"Drama, War","movie":"A Secret","rating":6.8,"year":2007}
+{"genre":"Action, Drama, War","movie":"Saints and Soldiers","rating":6.8,"year":2003}
+{"genre":"Drama, Romance, War","movie":"The Exception","rating":6.8,"year":2016}
+{"genre":"Biography, Drama, War","movie":"A Caminho de Kandahar","rating":6.8,"year":2001}
+{"genre":"Comedy, Drama, War","movie":"Um Dia Perfeito","rating":6.8,"year":2015}
+{"genre":"Drama, War","movie":"Female Agents","rating":6.8,"year":2008}
+{"genre":"Drama, History, War","movie":"In the Fog","rating":6.8,"year":2012}
+{"genre":"Drama, War","movie":"The Search","rating":6.8,"year":2014}
+{"genre":"Drama, War","movie":"Johnny Mad Dog","rating":6.8,"year":2008}
+{"genre":"Drama, War","movie":"Colditz","rating":6.8,"year":2005}
+{"genre":"Action, Drama, War","movie":"SEAL Team","rating":6.8,"year":2017}
+{"genre":"Comedy, Drama, War","movie":"War Live","rating":6.8,"year":2000}
+{"genre":"Action, Drama, War","movie":"Beaufort","rating":6.8,"year":2007}
+{"genre":"Drama, War","movie":"Rosenstrasse","rating":6.8,"year":2003}
+{"genre":"Comedy, Drama, War","movie":"My Best Enemy","rating":6.8,"year":2011}
+{"genre":"Drama, War","movie":"Camp X-Ray","rating":6.9,"year":2014}
+{"genre":"Drama, Romance, War","movie":"Suite Française","rating":6.9,"year":2014}
+{"genre":"Action, Drama, War","movie":"Kandagar","rating":6.9,"year":2010}
+{"genre":"Drama, Thriller, War","movie":"Chakravyuh","rating":6.9,"year":2012}
+{"genre":"Comedy, Drama, War","movie":"Last Flag Flying","rating":6.9,"year":2017}
+{"genre":"Adventure, Drama, War","movie":"Iluminados pelo Fogo","rating":6.9,"year":2005}
+{"genre":"Drama, War","movie":"Concorrência Desleal","rating":6.9,"year":2001}
+{"genre":"Action, Sci-Fi, War","movie":"Halo Wars","rating":6.9,"year":2009}
+{"genre":"Drama, War","movie":"Lebanon","rating":6.9,"year":2009}
+{"genre":"History, War","movie":"Ghetto","rating":6.9,"year":2005}
+{"genre":"Drama, History, War","movie":"Na Mira do inimigo","rating":6.9,"year":2007}
+{"genre":"Drama, War","movie":"Blackboards","rating":6.9,"year":2000}
+{"genre":"Drama, War","movie":"A Bear Named Winnie","rating":7.0,"year":2004}
+{"genre":"Drama, War","movie":"Long Dark Night","rating":7.0,"year":2004}
+{"genre":"Drama, War","movie":"The Hamburg Cell","rating":7.0,"year":2004}
+{"genre":"Drama, War","movie":"Minha Terra, África","rating":7.0,"year":2009}
+{"genre":"Drama, History, War","movie":"Battle for Haditha","rating":7.0,"year":2007}
+{"genre":"Biography, Drama, War","movie":"Jarhead","rating":7.0,"year":2005}
+{"genre":"Drama, Romance, War","movie":"Fateless","rating":7.0,"year":2005}
+{"genre":"Drama, History, War","movie":"O Objetivo das Armas","rating":7.0,"year":2001}
+{"genre":"Drama, War","movie":"O Diário da Esperança","rating":7.0,"year":2013}
+{"genre":"Drama, History, War","movie":"La Rafle","rating":7.0,"year":2010}
+{"genre":"Comedy, Drama, War","movie":"Monsieur Batignole","rating":7.0,"year":2002}
+{"genre":"Drama, War","movie":"Witnesses","rating":7.0,"year":2003}
+{"genre":"Action, Thriller, War","movie":"Rambo IV","rating":7.0,"year":2008}
+{"genre":"Drama, War","movie":"Tigerland","rating":7.0,"year":2000}
+{"genre":"Drama, War","movie":"Strange Gardens","rating":7.0,"year":2003}
+{"genre":"Biography, Drama, War","movie":"13 Minutes","rating":7.0,"year":2015}
+{"genre":"Drama, War","movie":"Alexandra","rating":7.0,"year":2007}
+{"genre":"Comedy, Drama, War","movie":"The Lucky Ones","rating":7.0,"year":2008}
+{"genre":"Drama, History, War","movie":"Oorlogswinter","rating":7.0,"year":2008}
+{"genre":"Drama, War","movie":"Órfãos da guerra","rating":7.1,"year":2008}
+{"genre":"Action, Drama, War","movie":"To End All Wars","rating":7.1,"year":2001}
+{"genre":"Drama, War","movie":"A Feiticeira da Guerra","rating":7.1,"year":2012}
+{"genre":"Adventure, Drama, War","movie":"Fugitive Pieces","rating":7.1,"year":2007}
+{"genre":"Drama, History, War","movie":"Katyn","rating":7.1,"year":2007}
+{"genre":"Drama, War","movie":"A Pedra de Paciência","rating":7.1,"year":2012}
+{"genre":"Drama, History, War","movie":"The Grey Zone","rating":7.1,"year":2001}
+{"genre":"Drama, Romance, War","movie":"Ali and Nino","rating":7.1,"year":2016}
+{"genre":"Drama, War","movie":"Diplomacia","rating":7.1,"year":2014}
+{"genre":"Drama, Thriller, War","movie":"O 9º Dia","rating":7.1,"year":2004}
+{"genre":"Crime, Drama, War","movie":"Guerra","rating":7.1,"year":2015}
+{"genre":"Drama, History, War","movie":"1944","rating":7.1,"year":2015}
+{"genre":"Drama, Romance, War","movie":"Names Engraved in Marble","rating":7.1,"year":2002}
+{"genre":"Drama, War","movie":"1,000 Times Good Night","rating":7.1,"year":2013}
+{"genre":"Drama, History, War","movie":"Flags of our Fathers","rating":7.1,"year":2006}
+{"genre":"Biography, Drama, War","movie":"Megan Leavey","rating":7.1,"year":2017}
+{"genre":"Action, Drama, War","movie":"The Lost Battalion","rating":7.1,"year":2001}
+{"genre":"Drama, War","movie":"Days of Glory","rating":7.1,"year":2006}
+{"genre":"Drama, War","movie":"The Great Water","rating":7.1,"year":2004}
+{"genre":"War, Action, Adventure","movie":"Turetskiy gambit","rating":7.1,"year":2005}
+{"genre":"Drama, History, War","movie":"Promessas de Guerra","rating":7.1,"year":2014}
+{"genre":"Drama, History, War","movie":"Beneath Hill 60","rating":7.1,"year":2010}
+{"genre":"Drama, War","movie":"Psyhi vathia","rating":7.1,"year":2009}
+{"genre":"Drama, Romance, War","movie":"O Resgate de Harrison","rating":7.1,"year":2000}
+{"genre":"Drama, War","movie":"Bankier van het Verzet","rating":7.1,"year":2018}
+{"genre":"Documentary, History, War","movie":"The Age of Stupid","rating":7.1,"year":2009}
+{"genre":"Drama, History, War","movie":"April Captains","rating":7.1,"year":2000}
+{"genre":"Drama, War","movie":"Mister Pip","rating":7.2,"year":2012}
+{"genre":"Drama, War","movie":"El Alamein - The Line of Fire","rating":7.2,"year":2002}
+{"genre":"Drama, Romance, War","movie":"The High Sun","rating":7.2,"year":2015}
+{"genre":"Drama, History, War","movie":"Naked Among Wolves","rating":7.2,"year":2015}
+{"genre":"Drama, Music, War","movie":"Taking Sides","rating":7.2,"year":2001}
+{"genre":"Drama, History, War","movie":"Ike: Countdown to D-Day","rating":7.2,"year":2004}
+{"genre":"Drama, War","movie":"Riphagen","rating":7.2,"year":2016}
+{"genre":"Drama, Romance, War","movie":"Delicada Relação","rating":7.2,"year":2002}
+{"genre":"Drama, War, Western","movie":"Longe dos Homens","rating":7.2,"year":2014}
+{"genre":"Drama, War","movie":"War Horse","rating":7.2,"year":2011}
+{"genre":"Action, History, War","movie":"The Admiral","rating":7.2,"year":2014}
+{"genre":"Documentary, History, War","movie":"Loose Change 9\/11: An American Coup","rating":7.2,"year":2009}
+{"genre":"Drama, Romance, War","movie":"Under the Bombs","rating":7.2,"year":2007}
+{"genre":"Drama, Romance, War","movie":"Remembrance","rating":7.2,"year":2011}
+{"genre":"Action, Drama, War","movie":"Söz","rating":7.2,"year":2017}
+{"genre":"Drama, War","movie":"Uprising","rating":7.3,"year":2001}
+{"genre":"War, Drama, Action","movie":"Dark Blue World","rating":7.3,"year":2001}
+{"genre":"Drama, War","movie":"Na Escuridão","rating":7.3,"year":2011}
+{"genre":"Action, Adventure, War","movie":"Call of Duty 3","rating":7.3,"year":2006}
+{"genre":"Drama, War","movie":"E Buda Desabou de Vergonha","rating":7.3,"year":2007}
+{"genre":"Documentary, Biography, War","movie":"Eu Fui a Secretária de Hitler","rating":7.3,"year":2002}
+{"genre":"Drama, War","movie":"Endereço Desconhecido","rating":7.3,"year":2001}
+{"genre":"Drama, History, War","movie":"120","rating":7.3,"year":2008}
+{"genre":"Drama, War","movie":"A Voz Adormecida","rating":7.3,"year":2011}
+{"genre":"Biography, Drama, War","movie":"The Courageous Heart of Irena Sendler","rating":7.3,"year":2009}
+{"genre":"Drama, Romance, War","movie":"Army Wives","rating":7.3,"year":20072013}
+{"genre":"Documentary, War","movie":"Noam Chomsky: Rebel Without a Pause","rating":7.3,"year":2003}
+{"genre":"Documentary, War","movie":"Iraq in Fragments","rating":7.3,"year":2006}
+{"genre":"Drama, War","movie":"Live from Baghdad","rating":7.4,"year":2002}
+{"genre":"Drama, History, War","movie":"O Julgamento de Nuremberg","rating":7.4,"year":2000}
+{"genre":"Action, Drama, War","movie":"The Penal Battalion","rating":7.4,"year":2004}
+{"genre":"Documentary, War","movie":"Paper Clips","rating":7.4,"year":2004}
+{"genre":"Documentary, War","movie":"The War Tapes","rating":7.4,"year":2006}
+{"genre":"Action, War","movie":"Medal of Honor","rating":7.4,"year":2010}
+{"genre":"Short, Drama, War","movie":"10 Minutes","rating":7.4,"year":2002}
+{"genre":"Biography, Drama, War","movie":"Path to War","rating":7.4,"year":2002}
+{"genre":"Action, Drama, War","movie":"71: Into the Fire","rating":7.4,"year":2010}
+{"genre":"Documentary, War","movie":"Últimos Homens em Aleppo","rating":7.4,"year":2017}
+{"genre":"Drama, History, War","movie":"Little Boy - Além do Impossível","rating":7.4,"year":2015}
+{"genre":"Drama, Romance, War","movie":"Twice Born","rating":7.4,"year":2012}
+{"genre":"Drama, War","movie":"The Halcyon","rating":7.4,"year":2017}
+{"genre":"Drama, War","movie":"Exílio no Iraque","rating":7.4,"year":2002}
+{"genre":"Drama, Romance, War","movie":"Irmãs Gêmeas","rating":7.5,"year":2002}
+{"genre":"Biography, Drama, War","movie":"The Diary of Anne Frank","rating":7.5,"year":2009}
+{"genre":"Drama, History, War","movie":"Kya Dilli Kya Lahore","rating":7.5,"year":2014}
+{"genre":"Drama, Mystery, War","movie":"My Mother's Wound","rating":7.5,"year":2016}
+{"genre":"Documentary, Drama, War","movie":"Fahrenheit 9\/11","rating":7.5,"year":2004}
+{"genre":"Documentary, Crime, War","movie":"Standard Operating Procedure","rating":7.5,"year":2008}
+{"genre":"Documentary, War","movie":"Gallipoli","rating":7.5,"year":2005}
+{"genre":"Documentary, War","movie":"Restrepo","rating":7.5,"year":2010}
+{"genre":"Documentary, Drama, War","movie":"The Road to Guantanamo","rating":7.5,"year":2006}
+{"genre":"Drama, History, War","movie":"Copenhagen","rating":7.5,"year":2002}
+{"genre":"Drama, Romance, War","movie":"The Officer's Ward","rating":7.5,"year":2001}
+{"genre":"Drama, War","movie":"O Filho de Saul","rating":7.5,"year":2015}
+{"genre":"Drama, War","movie":"Combat Hospital","rating":7.5,"year":2011}
+{"genre":"Drama, Romance, War","movie":"...Yahaan","rating":7.5,"year":2005}
+{"genre":"Drama, War","movie":"The Man Who Will Come","rating":7.5,"year":2009}
+{"genre":"Drama, War","movie":"Ventos da Liberdade","rating":7.5,"year":2006}
+{"genre":"Drama, War","movie":"The Long Road Home","rating":7.5,"year":2017}
+{"genre":"Drama, War","movie":"X Company","rating":7.5,"year":20152017}
+{"genre":"Drama, War","movie":"Taking Chance","rating":7.5,"year":2009}
+{"genre":"Drama, War","movie":"A Chave de Sarah","rating":7.5,"year":2010}
+{"genre":"Drama, War","movie":"Mudbound","rating":7.5,"year":2017}
+{"genre":"Documentary, History, War","movie":"Last Days in Vietnam","rating":7.6,"year":2014}
+{"genre":"Drama, War","movie":"Rose","rating":7.6,"year":2011}
+{"genre":"Drama, War","movie":"Brothers","rating":7.6,"year":2004}
+{"genre":"Drama, War","movie":"The Book Thief","rating":7.6,"year":2013}
+{"genre":"Drama, War","movie":"The Zookeeper","rating":7.6,"year":2001}
+{"genre":"Crime, Drama, War","movie":"The Counterfeiters","rating":7.6,"year":2007}
+{"genre":"Drama, History, War","movie":"Enemy at the Gates","rating":7.6,"year":2001}
+{"genre":"Documentary, History, War","movie":"Os Guardiões","rating":7.6,"year":2012}
+{"genre":"Documentary, Crime, War","movie":"Taxi to the Dark Side","rating":7.6,"year":2007}
+{"genre":"Documentary, History, War","movie":"The Weather Underground","rating":7.6,"year":2002}
+{"genre":"Action, Drama, War","movie":"Fury","rating":7.6,"year":2014}
+{"genre":"Documentary, War","movie":"Armadillo","rating":7.6,"year":2010}
+{"genre":"Drama, History, War","movie":"Remake","rating":7.6,"year":2003}
+{"genre":"Documentary, War","movie":"The End of Suburbia: Oil Depletion and the Collapse of the American Dream","rating":7.6,"year":2004}
+{"genre":"Action, Adventure, War","movie":"Medal of Honor: Pacific Assault","rating":7.6,"year":2004}
+{"genre":"Action, Drama, War","movie":"War","rating":7.7,"year":2002}
+{"genre":"History, War","movie":"Fatih","rating":7.7,"year":2018}
+{"genre":"Drama, War","movie":"God on Trial","rating":7.7,"year":2008}
+{"genre":"Drama, History, War","movie":"História de um Massacre","rating":7.7,"year":2007}
+{"genre":"Drama, History, War","movie":"Black Hawk Down","rating":7.7,"year":2001}
+{"genre":"Biography, Drama, War","movie":"Silent Night","rating":7.7,"year":2002}
+{"genre":"Documentary, War","movie":"Iraq for Sale: The War Profiteers","rating":7.7,"year":2006}
+{"genre":"Documentary, Music, War","movie":"Heavy Metal in Baghdad","rating":7.7,"year":2007}
+{"genre":"Drama, War","movie":"Island at War","rating":7.7,"year":2004}
+{"genre":"Action, Drama, War","movie":" SEAL Team","rating":7.7,"year":2017}
+{"genre":"Action, Drama, War","movie":"Our Own","rating":7.7,"year":2004}
+{"genre":"Drama, History, War","movie":"Bloody Sunday","rating":7.7,"year":2002}
+{"genre":"Drama, History, War","movie":"Hatred","rating":7.7,"year":2016}
+{"genre":"Documentary, Comedy, War","movie":"Religulous","rating":7.7,"year":2008}
+{"genre":"Drama, War","movie":"Tempo de Cavalos Bêbados","rating":7.7,"year":2000}
+{"genre":"Drama, War","movie":"A Ilha do Milharal","rating":7.7,"year":2014}
+{"genre":"Drama, History, War","movie":"Mokhtarnameh","rating":7.7,"year":20102011}
+{"genre":"Drama, War","movie":"Mother of Mine","rating":7.7,"year":2005}
+{"genre":"Drama, History, War","movie":"Beyond the Gates","rating":7.7,"year":2005}
+{"genre":"Action, War","movie":"Ultimate Force","rating":7.7,"year":20022006}
+{"genre":"Drama, History, War","movie":"O Massacre de Nanquim","rating":7.7,"year":2009}
+{"genre":"Comedy, Drama, War","movie":"Battle Ground 625","rating":7.8,"year":2005}
+{"genre":"Biography, History, War","movie":"Nanking","rating":7.8,"year":2007}
+{"genre":"Comedy, Drama, War","movie":"Herói Acidental","rating":7.8,"year":2000}
+{"genre":"Documentary, War","movie":"A Crude Awakening: The Oil Crash","rating":7.8,"year":2006}
+{"genre":"Action, Drama, War","movie":"My Way","rating":7.8,"year":2011}
+{"genre":"Documentary, History, War","movie":"The Rape of Europa","rating":7.8,"year":2006}
+{"genre":"Drama, Thriller, War","movie":"Black Book","rating":7.8,"year":2006}
+{"genre":"Drama, War","movie":"The Boy in the Striped Pajamas","rating":7.8,"year":2008}
+{"genre":"Short, Romance, War","movie":"Hua yang de nian hua","rating":7.8,"year":2000}
+{"genre":"Drama, History, War","movie":"Terra de Minas","rating":7.8,"year":2015}
+{"genre":"Drama, War","movie":"Beasts of No Nation","rating":7.8,"year":2015}
+{"genre":"Action, Adventure, War","movie":"Medal of Honor: Allied Assault - Spearhead","rating":7.8,"year":2003}
+{"genre":"Documentary, History, War","movie":"Into the Arms of Strangers: Stories of the Kindertransport","rating":7.8,"year":2000}
+{"genre":"Short, Drama, War","movie":"Toyland","rating":7.8,"year":2007}
+{"genre":"Drama, History, War","movie":"Manhattan","rating":7.8,"year":20142015}
+{"genre":"War","movie":"12th Man","rating":7.9,"year":2017}
+{"genre":"Drama, War","movie":"Bomb Girls","rating":7.9,"year":2012}
+{"genre":"Comedy, Drama, War","movie":"California Dreamin'","rating":7.9,"year":2007}
+{"genre":"Documentary, History, War","movie":"Hellstorm","rating":7.9,"year":2015}
+{"genre":"Documentary, Music, War","movie":"War Dance","rating":7.9,"year":2007}
+{"genre":"Drama, War, Comedy","movie":"The Cuckoo","rating":7.9,"year":2002}
+{"genre":"Drama, Thriller, War","movie":"Innocent Voices","rating":7.9,"year":2004}
+{"genre":"Drama, War","movie":"Our Girl","rating":7.9,"year":2014}
+{"genre":"Drama, War","movie":"The Crimson Field","rating":7.9,"year":2014}
+{"genre":"Action, War","movie":"Battlefield 4","rating":7.9,"year":2013}
+{"genre":"Drama, History, War","movie":"Letters from Iwo Jima","rating":7.9,"year":2006}
+{"genre":"Action, Drama, War","movie":"Over There","rating":7.9,"year":2005}
+{"genre":"Drama, History, War","movie":"Abril Sangrento","rating":7.9,"year":2005}
+{"genre":"Action, Adventure, War","movie":"Age of Empires III","rating":7.9,"year":2005}
+{"genre":"Biography, Drama, War","movie":"Forest of the Gods","rating":7.9,"year":2005}
+{"genre":"Biography, Drama, War","movie":"Anne Frank","rating":8.0,"year":2001}
+{"genre":"Documentary, War","movie":"Fotógrafo de Guerra","rating":8.0,"year":2001}
+{"genre":"Drama, History, War","movie":"La Commune (Paris, 1871)","rating":8.0,"year":2000}
+{"genre":"Drama, War","movie":"Terra de Ninguém","rating":8.0,"year":2001}
+{"genre":"Drama, War","movie":"Sky Hook","rating":8.0,"year":2000}
+{"genre":"Documentary, War","movie":"Cinco Câmeras Quebradas","rating":8.0,"year":2011}
+{"genre":"Drama, History, War","movie":"The Saboteurs","rating":8.0,"year":2015}
+{"genre":"Documentary, History, War","movie":"Night Will Fall","rating":8.0,"year":2014}
+{"genre":"Documentary, History, War","movie":"The World Wars","rating":8.0,"year":2014}
+{"genre":"Comedy, War","movie":"Bluestone 42","rating":8.0,"year":2013}
+{"genre":"Documentary, History, War","movie":"Adolf Hitler: The Greatest Story Never Told","rating":8.0,"year":2013}
+{"genre":"Documentary, History, War","movie":"The Soviet Story","rating":8.1,"year":2008}
+{"genre":"Drama, War","movie":"Turtles Can Fly","rating":8.1,"year":2004}
+{"genre":"Action, Drama, War","movie":"Tae Guk Gi: The Brotherhood of War","rating":8.1,"year":2004}
+{"genre":"Action, Adventure, War","movie":"Call of Duty: Modern Warfare 3","rating":8.1,"year":2011}
+{"genre":"War","movie":"Amar Bondhu Rashed","rating":8.1,"year":2011}
+{"genre":"Documentary, History, War","movie":"Why We Fight","rating":8.1,"year":2005}
+{"genre":"Drama, War","movie":"TURN: Washington's Spies","rating":8.1,"year":20142017}
+{"genre":"Adventure, Drama, War","movie":"Hornblower: Duty","rating":8.1,"year":2003}
+{"genre":"Action, Adventure, War","movie":"Battlefield: 1942","rating":8.1,"year":2002}
+{"genre":"Action, War","movie":"Command & Conquer: Generals Zero Hour","rating":8.2,"year":2003}
+{"genre":"Drama, War","movie":"Unknown Soldier","rating":8.2,"year":2017}
+{"genre":"Action, Adventure, War","movie":"Battlefield 2","rating":8.2,"year":2005}
+{"genre":"Drama, War","movie":"Home Fires","rating":8.2,"year":20152016}
+{"genre":"Drama, Romance, War","movie":"Amor em Tempos de Guerra","rating":8.2,"year":2005}
+{"genre":"Drama, History, War","movie":"Guerrilla","rating":8.2,"year":2011}
+{"genre":"Drama, Fantasy, War","movie":"Pan's Labyrinth","rating":8.2,"year":2006}
+{"genre":"Adventure, Drama, War","movie":"Hornblower: Mutiny","rating":8.2,"year":2001}
+{"genre":"Drama, Mystery, War","movie":"Incendies","rating":8.2,"year":2010}
+{"genre":"Action, War","movie":"Battlefield 3","rating":8.2,"year":2011}
+{"genre":"Adventure, Drama, War","movie":"Horatio Hornblower 3","rating":8.2,"year":2003}
+{"genre":"Drama, War","movie":"Tangerines","rating":8.3,"year":2013}
+{"genre":"Adventure, Drama, War","movie":"Horatio Hornblower: Retribution","rating":8.3,"year":2001}
+{"genre":"Documentary, War","movie":"No End in Sight","rating":8.3,"year":2007}
+{"genre":"Documentary, History, War","movie":"Zeitgeist: Addendum","rating":8.3,"year":2008}
+{"genre":"Documentary, History, War","movie":"Stalingrad","rating":8.3,"year":2003}
+{"genre":"Comedy, Drama, War","movie":"Devils on the Doorstep","rating":8.3,"year":2000}
+{"genre":"Adventure, Drama, War","movie":"Bastardos Inglórios","rating":8.3,"year":2009}
+{"genre":"Documentary, War","movie":"Virunga","rating":8.3,"year":2014}
+{"genre":"Action, Thriller, War","movie":"Battlefield: Bad Company 2","rating":8.3,"year":2010}
+{"genre":"Action, Adventure, War","movie":"Call of Duty: United Offensive","rating":8.3,"year":2004}
+{"genre":"Action, War","movie":"Call of Duty: WWII","rating":8.4,"year":2017}
+{"genre":"Drama, Mystery, War","movie":"The Promise","rating":8.4,"year":2011}
+{"genre":"Action, Adventure, War","movie":"Medal of Honor: Allied Assault","rating":8.5,"year":2002}
+{"genre":"Drama, War","movie":"A Peck on the Cheek","rating":8.5,"year":2002}
+{"genre":"Documentary, History, War","movie":"Auschwitz: The Nazis and the 'Final Solution'","rating":8.6,"year":2005}
+{"genre":"Action, War","movie":"Call of Duty 2","rating":8.6,"year":2005}
+{"genre":"Drama, War","movie":"Generation Kill","rating":8.6,"year":2008}
+{"genre":"Action, Sci-Fi, War","movie":"Metal Gear Solid: Peace Walker","rating":8.7,"year":2010}
+{"genre":"Action, War","movie":"Call of Duty","rating":8.7,"year":2003}
+{"genre":"Documentary, History, War","movie":"The Untold History of the United States","rating":8.7,"year":2012}
+{"genre":"Documentary, History, War","movie":"WWII in HD","rating":8.7,"year":2009}
+{"genre":"Documentary, History, War","movie":"The First World War","rating":8.7,"year":2003}
+{"genre":"War","movie":"Sajjan Singh Rangroot","rating":8.7,"year":2018}
+{"genre":"Drama, History, War","movie":"Mahabharat","rating":8.8,"year":20132014}
+{"genre":"Action, Adventure, War","movie":"Call of Duty: Modern Warfare 2","rating":8.8,"year":2009}
+{"genre":"Documentary, War","movie":"World War II in Colour","rating":8.8,"year":2009}
+{"genre":"War","movie":"Kiborgy","rating":8.9,"year":2017}
+{"genre":"Drama, History, War","movie":"Ayla: The Daughter of War","rating":9.0,"year":2017}
+{"genre":"Documentary, History, War","movie":"The War","rating":9.1,"year":2007}
+{"genre":"Documentary, History, War","movie":"Redescobrindo a Segunda Guerra","rating":9.2,"year":2009}
+{"genre":"Documentary, History, War","movie":"The Vietnam War","rating":9.2,"year":2017}
+{"genre":"Drama, War","movie":"The Mountain II","rating":9.6,"year":2016}
+{"genre":"Action, Thriller, War","movie":" Wolf","rating":9.9,"year":2018}

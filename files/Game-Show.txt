@@ -1,0 +1,67 @@
+{"genre":"Game-Show, Reality-TV","movie":"Paris Hilton's My New BFF","rating":2.2,"year":2008}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"The Bachelor","rating":3.1,"year":2002}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"The Bachelorette","rating":3.2,"year":2003}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"A Shot at Love with Tila Tequila","rating":3.4,"year":2007}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Big Brother: Australia","rating":3.5,"year":20012014}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Four: Battle for Stardom","rating":3.8,"year":2018}
+{"genre":"Game-Show, Music, Reality-TV","movie":"American Idol","rating":4.2,"year":2002}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"Flavor of Love","rating":4.6,"year":2006}
+{"genre":"Family, Game-Show, Music","movie":"Dancing with the Stars","rating":4.8,"year":2005}
+{"genre":"Family, Game-Show","movie":"Are You Smarter Than a 5th Grader?","rating":5.0,"year":2007}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Rock of Love with Bret Michaels","rating":5.0,"year":2007}
+{"genre":"Comedy, Family, Game-Show","movie":"Deal or No Deal","rating":5.0,"year":20052009}
+{"genre":"Game-Show, Reality-TV","movie":"The Moment of Truth","rating":5.1,"year":2008}
+{"genre":"Game-Show, Reality-TV","movie":"The Apprentice","rating":5.2,"year":2004}
+{"genre":"Game-Show","movie":"Child Support","rating":5.3,"year":2018}
+{"genre":"Game-Show, Reality-TV","movie":"Big Brother","rating":5.4,"year":2000}
+{"genre":"Game-Show, Reality-TV","movie":"The Biggest Loser","rating":5.5,"year":2004}
+{"genre":"Game-Show","movie":"Weakest Link","rating":5.5,"year":20012003}
+{"genre":"Game-Show, Reality-TV","movie":"America's Next Top Model","rating":5.6,"year":2003}
+{"genre":"Game-Show, Reality-TV, Thriller","movie":"Fear Factor","rating":5.6,"year":2001}
+{"genre":"Game-Show","movie":"The Weakest Link","rating":5.6,"year":20002017}
+{"genre":"Family, Game-Show, Music","movie":"America's Got Talent","rating":5.7,"year":2006}
+{"genre":"Action, Game-Show, Reality-TV","movie":"American Gladiators","rating":5.8,"year":2008}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Strictly Come Dancing","rating":5.9,"year":2004}
+{"genre":"Game-Show","movie":"Who Wants to Be a Millionaire","rating":6.0,"year":2002}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Last Comic Standing","rating":6.1,"year":2003}
+{"genre":"Game-Show, Reality-TV","movie":"Food Network Star","rating":6.3,"year":2005}
+{"genre":"Comedy, Game-Show","movie":"Ant & Dec's Saturday Night Takeaway","rating":6.4,"year":2002}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Voice","rating":6.6,"year":2011}
+{"genre":"Comedy, Family, Game-Show","movie":"Wipeout","rating":6.6,"year":20082014}
+{"genre":"Game-Show, Reality-TV","movie":"Come Dine with Me","rating":6.7,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"MasterChef Junior","rating":6.7,"year":2013}
+{"genre":"Game-Show, Music, Reality-TV","movie":"So You Think You Can Dance","rating":6.8,"year":2005}
+{"genre":"Action, Game-Show, Sport","movie":"American Ninja Warrior","rating":6.9,"year":2009}
+{"genre":"Adventure, Game-Show, Reality-TV","movie":"Survivor","rating":7.0,"year":2000}
+{"genre":"Game-Show, Reality-TV","movie":"Iron Chef America: The Series","rating":7.2,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"Ca$h Cab","rating":7.2,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"The Apprentice UK","rating":7.3,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"Project Runway","rating":7.3,"year":2004}
+{"genre":"Game-Show, Reality-TV","movie":"Ultimate Beastmaster","rating":7.3,"year":2017}
+{"genre":"Game-Show, Reality-TV","movie":"Masterchef","rating":7.3,"year":2010}
+{"genre":"Adventure, Game-Show, Mystery","movie":"The Mole","rating":7.4,"year":2001}
+{"genre":"Comedy, Game-Show","movie":"Celebrity Juice","rating":7.4,"year":2008}
+{"genre":"Game-Show","movie":"Pointless","rating":7.5,"year":2009}
+{"genre":"Comedy, Game-Show","movie":"@midnight","rating":7.5,"year":2013}
+{"genre":"Game-Show, Reality-TV","movie":"Top Chef","rating":7.6,"year":2006}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Billy on the Street with Billy Eichner","rating":7.6,"year":2011}
+{"genre":"Comedy, Game-Show, News","movie":" The Big Breakfast","rating":7.6,"year":19922002}
+{"genre":"Comedy, Game-Show, Music","movie":"Never Mind the Buzzcocks","rating":7.7,"year":2002}
+{"genre":"Action, Game-Show, History","movie":"Deadliest Warrior","rating":7.7,"year":2009}
+{"genre":"Comedy, Game-Show","movie":"8 Out of 10 Cats","rating":7.8,"year":2005}
+{"genre":"Comedy, Game-Show","movie":"Mock the Week","rating":7.9,"year":2005}
+{"genre":"Comedy, Game-Show","movie":"De lama's","rating":7.9,"year":20042008}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Kenny vs. Spenny","rating":7.9,"year":2002}
+{"genre":"Comedy, Game-Show","movie":"Would I Lie to You?","rating":8.0,"year":2007}
+{"genre":"Game-Show","movie":"Penn & Teller: Fool Us","rating":8.1,"year":2011}
+{"genre":"Game-Show","movie":"De slimste mens ter wereld","rating":8.1,"year":2003}
+{"genre":"Comedy, Game-Show","movie":"8 Out of 10 Cats Does Countdown","rating":8.1,"year":2012}
+{"genre":"Comedy, Family, Game-Show","movie":"Takeshi's Castle","rating":8.2,"year":20022004}
+{"genre":"Game-Show, Reality-TV","movie":"Face Off","rating":8.2,"year":2011}
+{"genre":"Game-Show, Reality-TV","movie":"RuPaul's Drag Race","rating":8.3,"year":2009}
+{"genre":"Comedy, Game-Show","movie":"Whose Line Is It Anyway?","rating":8.4,"year":2013}
+{"genre":"Game-Show","movie":"Kaun Banega Crorepati?","rating":8.5,"year":2000}
+{"genre":"Comedy, Game-Show","movie":"QI","rating":8.6,"year":2003}
+{"genre":"Game-Show","movie":" Kaun Banega Crorepati?","rating":8.8,"year":2000}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Running Man","rating":8.9,"year":2010}
+{"genre":"Game-Show, Reality-TV, Sport","movie":"High Stakes Poker","rating":9.0,"year":2006}

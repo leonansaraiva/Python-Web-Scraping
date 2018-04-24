@@ -1,0 +1,500 @@
+{"genre":"Documentary, Music","movie":"Biebermania!","rating":1.0,"year":2011}
+{"genre":"Musical, Animation, Fantasy","movie":"Bratz: Passion 4 Fashion - Diamondz","rating":1.5,"year":2006}
+{"genre":"Documentary, Music","movie":"Justin Bieber: Never Say Never","rating":1.6,"year":2011}
+{"genre":"Documentary, Music","movie":"Justin Bieber: All Around the World","rating":1.6,"year":2012}
+{"genre":"Documentary, Music","movie":"Justin Bieber's Believe","rating":1.7,"year":2013}
+{"genre":"Comedy, Musical, Romance","movie":"From Justin to Kelly","rating":2.1,"year":2003}
+{"genre":"Documentary, Music","movie":"Jonas Brothers: The 3D Concert Experience","rating":2.1,"year":2009}
+{"genre":"Drama, Music, Romance","movie":"Glitter","rating":2.2,"year":2001}
+{"genre":"Documentary, Music","movie":"Hannah Montana and Miley Cyrus: Best of Both Worlds Concert","rating":2.4,"year":2008}
+{"genre":"Drama, Musical","movie":"Battlefield America","rating":2.6,"year":2012}
+{"genre":"Comedy, Music","movie":"Marci X - Uma Loira Muito Louca","rating":2.8,"year":2003}
+{"genre":"Drama, Music","movie":"Feel the Noise","rating":2.8,"year":2007}
+{"genre":"Biography, Drama, Music","movie":"Time You Change","rating":2.8,"year":2010}
+{"genre":"Comedy, Music, Talk-Show","movie":"Last Call with Carson Daly","rating":2.8,"year":2002}
+{"genre":"Comedy, Family, Music","movie":"Bratz","rating":2.9,"year":2007}
+{"genre":"Musical, Romance","movie":"Tera Jadoo Chal Gayaa","rating":3.1,"year":2000}
+{"genre":"Drama, Musical, Romance","movie":"Dirty Dancing","rating":3.2,"year":2017}
+{"genre":"Comedy, Musical, Romance","movie":"Neal 'N' Nikki","rating":3.3,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Morangos com Açúcar","rating":3.3,"year":2003}
+{"genre":"Action, Drama, Musical","movie":"Munna Michael","rating":3.4,"year":2017}
+{"genre":"Comedy, Family, Musical","movie":"The Naked Brothers Band","rating":3.4,"year":2007}
+{"genre":"Action, Comedy, Music","movie":"Dance Flick","rating":3.5,"year":2009}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Big Brother: Australia","rating":3.5,"year":20012014}
+{"genre":"Drama, Music","movie":"You Got Served","rating":3.6,"year":2004}
+{"genre":"Adventure, Comedy, Musical","movie":"The Harry Hill Movie","rating":3.7,"year":2013}
+{"genre":"Action, Music, Thriller","movie":"Turbulence 3: Heavy Metal","rating":3.7,"year":2001}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Four: Battle for Stardom","rating":3.8,"year":2018}
+{"genre":"Comedy, Musical, Romance","movie":"Good Boy, Bad Boy","rating":3.8,"year":2007}
+{"genre":"Comedy, Family, Music","movie":"The Country Bears","rating":4.0,"year":2002}
+{"genre":"Comedy, Drama, Musical","movie":"Main Prem Ki Diwani Hoon","rating":4.0,"year":2003}
+{"genre":"Action, Drama, Music","movie":"Days of Power","rating":4.0,"year":2018}
+{"genre":"Comedy, Drama, Musical","movie":"S Club Seeing Double","rating":4.0,"year":2003}
+{"genre":"Comedy, Family, Music","movie":"The Naked Brothers Band: The Movie","rating":4.1,"year":2005}
+{"genre":"Drama, Musical, Romance","movie":"Pyaar Ishq Aur Mohabbat","rating":4.1,"year":2001}
+{"genre":"Drama, Musical, Romance","movie":"Haan Maine Bhi Pyaar Kiya","rating":4.1,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"The Marc Pease Experience","rating":4.1,"year":2009}
+{"genre":"Drama, History, Musical","movie":"Battle of Warsaw 1920","rating":4.2,"year":2011}
+{"genre":"Documentary, Music","movie":"One Direction: This Is Us","rating":4.2,"year":2013}
+{"genre":"Comedy, Drama, Musical","movie":"Action Replay","rating":4.2,"year":2010}
+{"genre":"Game-Show, Music, Reality-TV","movie":"American Idol","rating":4.2,"year":2002}
+{"genre":"Drama, Music","movie":"Stomp the Yard 2: Homecoming","rating":4.3,"year":2010}
+{"genre":"Comedy, Horror, Musical","movie":"The Rocky Horror Picture Show: Let's Do the Time Warp Again","rating":4.3,"year":2016}
+{"genre":"Action, Crime, Music","movie":"Ride or Die","rating":4.3,"year":2003}
+{"genre":"Comedy, Music, Romance","movie":"Encontro com o Acaso","rating":4.3,"year":2005}
+{"genre":"Comedy, Family, Musical","movie":"Vaah! Life Ho Toh Aisi!","rating":4.3,"year":2005}
+{"genre":"Comedy, Music","movie":"Isi\/Disi - Amor a lo bestia","rating":4.4,"year":2004}
+{"genre":"Drama, Musical, Romance","movie":"Wuthering Heights","rating":4.4,"year":2003}
+{"genre":"Comedy, Drama, Music","movie":"Madea's Family Reunion","rating":4.4,"year":2002}
+{"genre":"Action, Drama, Musical","movie":"Lakeer - Forbidden Lines","rating":4.4,"year":2004}
+{"genre":"Drama, Music","movie":"The Gospel","rating":4.4,"year":2005}
+{"genre":"Action, Comedy, Musical","movie":"Khiladi 786","rating":4.4,"year":2012}
+{"genre":"Music, Reality-TV","movie":"The X Factor","rating":4.5,"year":2004}
+{"genre":"Drama, Family, Music","movie":"Black Nativity","rating":4.5,"year":2013}
+{"genre":"Musical, Action, Crime","movie":"State Property: Blood on the Streets","rating":4.5,"year":2005}
+{"genre":"Musical, Drama, Romance","movie":"Yaadein...","rating":4.5,"year":2001}
+{"genre":"Comedy, Family, Music","movie":"Jonas","rating":4.6,"year":20092010}
+{"genre":"Drama, Musical, Romance","movie":"Kisna: The Warrior Poet","rating":4.6,"year":2005}
+{"genre":"Comedy, Family, Music","movie":"Confissões de uma Adolescente em Crise","rating":4.6,"year":2004}
+{"genre":"Drama, Music","movie":"You Got Served: Beat the World","rating":4.6,"year":2011}
+{"genre":"Comedy, Drama, Musical","movie":"I, Me aur Main","rating":4.6,"year":2013}
+{"genre":"Comedy, Drama, Musical","movie":"Chance Pe Dance","rating":4.7,"year":2010}
+{"genre":"Comedy, Drama, Musical","movie":"Silence... We're Rolling","rating":4.7,"year":2001}
+{"genre":"Comedy, Family, Musical","movie":"So Random!","rating":4.7,"year":20112012}
+{"genre":"Comedy, Music, Romance","movie":"Pappa pia","rating":4.7,"year":2017}
+{"genre":"Action, Drama, Musical","movie":"Prem Ratan Dhan Payo","rating":4.7,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Aetbaar","rating":4.7,"year":2004}
+{"genre":"Drama, Musical, Romance","movie":"Dil Ka Rishta","rating":4.7,"year":2003}
+{"genre":"Comedy, Drama, Musical","movie":"Madea Goes to Jail","rating":4.8,"year":2006}
+{"genre":"Comedy, Drama, Music","movie":"Siren","rating":4.8,"year":2006}
+{"genre":"Family, Game-Show, Music","movie":"Dancing with the Stars","rating":4.8,"year":2005}
+{"genre":"Drama, Music, Romance","movie":"9 Songs","rating":4.8,"year":2004}
+{"genre":"Musical, Drama, Romance","movie":"Lucky: No Time for Love","rating":4.8,"year":2005}
+{"genre":"Drama, Family, Musical","movie":"Main Aisa Hi Hoon","rating":4.8,"year":2005}
+{"genre":"Musical, Drama","movie":"Carmen: A Hip Hopera","rating":4.8,"year":2001}
+{"genre":"Drama, Music, Mystery","movie":"Abandon","rating":4.9,"year":2002}
+{"genre":"Comedy, Romance, Musical","movie":"Chori Chori","rating":4.9,"year":2003}
+{"genre":"Comedy, Drama, Musical","movie":"The American Mall","rating":4.9,"year":2008}
+{"genre":"Comedy, Family, Music","movie":"Hannah Montana","rating":4.9,"year":20062011}
+{"genre":"Action, Drama, Musical","movie":"Talaash: The Hunt Begins...","rating":5.0,"year":2003}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Rock of Love with Bret Michaels","rating":5.0,"year":2007}
+{"genre":"Drama, Music","movie":"Rock On 2","rating":5.0,"year":2016}
+{"genre":"Comedy, Drama, Musical","movie":"Fame","rating":5.0,"year":2009}
+{"genre":"Drama, Music","movie":"The Identical","rating":5.1,"year":2014}
+{"genre":"Drama, Music","movie":"Battle of the Year","rating":5.1,"year":2013}
+{"genre":"Drama, Family, Music","movie":"Brave New Girl","rating":5.1,"year":2004}
+{"genre":"Comedy, Music","movie":"American Pie Presents: Band Camp","rating":5.1,"year":2005}
+{"genre":"Drama, Music","movie":"Honey: Rise Up and Dance","rating":5.1,"year":2018}
+{"genre":"Music, Reality-TV","movie":"Cribs","rating":5.1,"year":2000}
+{"genre":"Comedy, Family, Music","movie":"Camp Rock","rating":5.1,"year":2008}
+{"genre":"Comedy, Drama, Musical","movie":"Na Tum Jaano Na Hum","rating":5.1,"year":2002}
+{"genre":"Musical, Romance, Drama","movie":"Mujhse Dosti Karoge!","rating":5.1,"year":2002}
+{"genre":"Musical, Drama, Comedy","movie":"Abuzer Kadayif","rating":5.2,"year":2000}
+{"genre":"Comedy, Drama, Music","movie":"Once in a Lifetime","rating":5.2,"year":2000}
+{"genre":"Comedy, Family, Music","movie":"Camp Rock 2: The Final Jam","rating":5.2,"year":2010}
+{"genre":"Comedy, Drama, Musical","movie":"Har Dil Jo Pyar Karega...","rating":5.2,"year":2000}
+{"genre":"Comedy, Horror, Musical","movie":"Stage Fright","rating":5.2,"year":2014}
+{"genre":"Comedy, Drama, Music","movie":"Daltry Calhoun","rating":5.2,"year":2005}
+{"genre":"Family, Musical, Romance","movie":"Dil Maange More!!!","rating":5.2,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"Salaam-E-Ishq","rating":5.2,"year":2007}
+{"genre":"Comedy, Musical, Romance","movie":"Apna Sapna Money Money","rating":5.2,"year":2006}
+{"genre":"Drama, Family, Music","movie":"Violetta","rating":5.2,"year":2012}
+{"genre":"Comedy, Crime, Music","movie":"The Janky Promoters","rating":5.3,"year":2009}
+{"genre":"Drama, Music, Romance","movie":"Stomp the Yard","rating":5.3,"year":2007}
+{"genre":"Animation, Comedy, Musical","movie":"Eight Crazy Nights","rating":5.3,"year":2002}
+{"genre":"Drama, Music, Romance","movie":"Honey","rating":5.3,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"Veljeni vartija","rating":5.3,"year":2018}
+{"genre":"Comedy, Drama, Music","movie":"One More Time","rating":5.3,"year":2015}
+{"genre":"Drama, Music","movie":"XOXO","rating":5.3,"year":2016}
+{"genre":"Drama, Music, Romance","movie":"Between Love & Goodbye","rating":5.3,"year":2008}
+{"genre":"Drama, Music","movie":"London Dreams","rating":5.4,"year":2009}
+{"genre":"Documentary, Music","movie":"Glee: The 3D Concert Movie","rating":5.4,"year":2011}
+{"genre":"Comedy, Music, Romance","movie":"The Guru","rating":5.4,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Honey 2","rating":5.4,"year":2011}
+{"genre":"Comedy, Music","movie":"Josie e as Gatinhas","rating":5.4,"year":2001}
+{"genre":"Drama, Music, Romance","movie":"Save the Last Dance 2","rating":5.4,"year":2006}
+{"genre":"Drama, Music, Thriller","movie":"Plush","rating":5.4,"year":2013}
+{"genre":"Comedy, Family, Musical","movie":"How to Rock","rating":5.4,"year":2012}
+{"genre":"Musical, Romance","movie":"Walking on Sunshine","rating":5.4,"year":2014}
+{"genre":"Action, Comedy, Musical","movie":"Housefull 2","rating":5.4,"year":2012}
+{"genre":"Drama, Musical, Romance","movie":"Saawariya","rating":5.4,"year":2007}
+{"genre":"Drama, Musical, Romance","movie":"Chori Chori Chupke Chupke","rating":5.4,"year":2001}
+{"genre":"Comedy, Drama, Music","movie":"Ordinary World","rating":5.5,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"Hendrix","rating":5.5,"year":2000}
+{"genre":"Comedy, Drama, Music","movie":"Masked and Anonymous","rating":5.5,"year":2003}
+{"genre":"Comedy, Music, Musical","movie":"A Very Murray Christmas","rating":5.5,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Refugee","rating":5.5,"year":2000}
+{"genre":"Comedy, Drama, Music","movie":"The Fighting Temptations","rating":5.5,"year":2003}
+{"genre":"Comedy, Music","movie":"Kevin & Perry Go Large","rating":5.5,"year":2000}
+{"genre":"Drama, Music","movie":"Weekender","rating":5.5,"year":2011}
+{"genre":"Biography, Drama, Music","movie":"El cantante","rating":5.5,"year":2006}
+{"genre":"Comedy, Music","movie":"American Dreamz","rating":5.5,"year":2006}
+{"genre":"Drama, Music, Thriller","movie":"American Satan","rating":5.5,"year":2017}
+{"genre":"Comedy, Music, War","movie":"Rock the Kasbah","rating":5.5,"year":2015}
+{"genre":"Comedy, Drama, Music","movie":"Coyote Ugly","rating":5.6,"year":2000}
+{"genre":"Comedy, Crime, Musical","movie":"The Singing Detective","rating":5.6,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"Jimi: All Is by My Side","rating":5.6,"year":2013}
+{"genre":"Comedy, Music, Reality-TV","movie":"The Osbournes","rating":5.6,"year":20022005}
+{"genre":"Drama, Musical","movie":"Om Jai Jagadish","rating":5.6,"year":2002}
+{"genre":"Comedy, Music, Romance","movie":"The Jerk Theory","rating":5.6,"year":2009}
+{"genre":"Comedy, Drama, Music","movie":"Magic Mike XXL","rating":5.6,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Andaaz","rating":5.6,"year":2003}
+{"genre":"Drama, Music, Sci-Fi","movie":"Love","rating":5.6,"year":2011}
+{"genre":"Comedy, Drama, Music","movie":"Filth and Wisdom","rating":5.6,"year":2008}
+{"genre":"Biography, Drama, Musical","movie":"Any Body Can Dance 2","rating":5.6,"year":2015}
+{"genre":"Comedy, Crime, Music","movie":"Be Cool","rating":5.7,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Joyful Noise","rating":5.7,"year":2012}
+{"genre":"Drama, Music","movie":"Sparkle","rating":5.7,"year":2012}
+{"genre":"Drama, Music, Romance","movie":"Food of Love","rating":5.7,"year":2002}
+{"genre":"Drama, Music, Romance","movie":"Song to Song","rating":5.7,"year":2017}
+{"genre":"Comedy, Family, Music","movie":"Stuck in the Suburbs","rating":5.7,"year":2004}
+{"genre":"Biography, Drama, Music","movie":"Bride of the Wind","rating":5.7,"year":2001}
+{"genre":"Comedy, Family, Musical","movie":"Espetacular!","rating":5.7,"year":2009}
+{"genre":"Comedy, Musical, Romance","movie":"The 2 Sides of the Bed","rating":5.7,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"About the Looking for and the Finding of Love","rating":5.7,"year":2005}
+{"genre":"Drama, Music, Romance","movie":"StreetDance 2","rating":5.7,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"I Saw the Light","rating":5.7,"year":2015}
+{"genre":"Drama, Musical, Romance","movie":"Make Your Move","rating":5.7,"year":2013}
+{"genre":"Family, Game-Show, Music","movie":"America's Got Talent","rating":5.7,"year":2006}
+{"genre":"Comedy, Drama, Musical","movie":"South Pacific","rating":5.8,"year":2001}
+{"genre":"Comedy, Music, Romance","movie":"Confetti","rating":5.8,"year":2006}
+{"genre":"Comedy, Drama, Musical","movie":"Anjaana Anjaani","rating":5.8,"year":2010}
+{"genre":"Family, Musical","movie":"Teen Beach Movie","rating":5.8,"year":2013}
+{"genre":"Drama, Music","movie":"Last Days","rating":5.8,"year":2005}
+{"genre":"Drama, Musical, Romance","movie":"Nine","rating":5.8,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Stoned","rating":5.8,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Marlene - O Mito, A Vida, O Filme","rating":5.8,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"All Eyez on Me","rating":5.8,"year":2017}
+{"genre":"Drama, Music, Musical","movie":"Ae Dil Hai Mushkil","rating":5.8,"year":2016}
+{"genre":"Comedy, Music","movie":"Fatal","rating":5.8,"year":2010}
+{"genre":"Drama, Music","movie":"Song One","rating":5.8,"year":2014}
+{"genre":"Drama, Family, Music","movie":"Jackie & Ryan","rating":5.8,"year":2014}
+{"genre":"Comedy, Music","movie":"Valami Amerika 3","rating":5.9,"year":2018}
+{"genre":"Drama, Music, Romance","movie":"The Last Song","rating":5.9,"year":2010}
+{"genre":"Crime, Drama, Music","movie":"The Caveman's Valentine","rating":5.9,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"England Is Mine","rating":5.9,"year":2017}
+{"genre":"Drama, Music, Romance","movie":"StreetDance 3D","rating":5.9,"year":2010}
+{"genre":"Comedy, Drama, Music","movie":"Peace, Love & Misunderstanding","rating":5.9,"year":2011}
+{"genre":"Comedy, Drama, Music","movie":"Footloose","rating":5.9,"year":2011}
+{"genre":"Drama, Music, Romance","movie":"A Prisioneira","rating":5.9,"year":2000}
+{"genre":"Short, Musical, Comedy","movie":"Pecan Pie","rating":5.9,"year":2003}
+{"genre":"Comedy, Drama, Music","movie":"Ricki and the Flash","rating":5.9,"year":2015}
+{"genre":"Documentary, Music","movie":"Katy Perry: Part of Me","rating":5.9,"year":2012}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Strictly Come Dancing","rating":5.9,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"The Last Five Years","rating":5.9,"year":2014}
+{"genre":"Drama, Music, Romance","movie":"Captain Corelli's Mandolin","rating":5.9,"year":2001}
+{"genre":"Music, Mystery, Thriller","movie":"Toque de Mestre","rating":5.9,"year":2013}
+{"genre":"Comedy, Music, Drama","movie":"Dias de Ensaio","rating":5.9,"year":2002}
+{"genre":"Comedy, Family, Music","movie":"Another Cinderella Story","rating":5.9,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"10,000 Saints","rating":5.9,"year":2015}
+{"genre":"Family, Music, Romance","movie":"Raise Your Voice","rating":5.9,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"Rock of Ages","rating":5.9,"year":2012}
+{"genre":"Comedy, Drama, Music","movie":"From Zero to Ten","rating":6.0,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Adam & Steve","rating":6.0,"year":2005}
+{"genre":"Family, Musical, Drama","movie":"Miracle","rating":6.0,"year":2000}
+{"genre":"Drama, Music, Romance","movie":"Dirty Dancing: Havana Nights","rating":6.0,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"The Song","rating":6.0,"year":2014}
+{"genre":"Comedy, Drama, Music","movie":"The Big Gay Musical","rating":6.0,"year":2009}
+{"genre":"Comedy, Family, Music","movie":"Austin & Ally","rating":6.0,"year":20112016}
+{"genre":"Drama, Music, Romance","movie":"Perfeitos no Amor","rating":6.0,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"Step Up All In","rating":6.0,"year":2014}
+{"genre":"Family, Fantasy, Musical","movie":"A Cinderella Story: If the Shoe Fits","rating":6.0,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"In His Life: The John Lennon Story","rating":6.0,"year":2000}
+{"genre":"Comedy, Drama, Music","movie":"Duets","rating":6.0,"year":2000}
+{"genre":"Documentary, Music","movie":"Screamers","rating":6.0,"year":2006}
+{"genre":"Biography, Drama, Music","movie":"Daydream Believers: The Monkees' Story","rating":6.0,"year":2000}
+{"genre":"Comedy, Music","movie":"Pitch Perfect 3","rating":6.0,"year":2017}
+{"genre":"Comedy, Music, Reality-TV","movie":"Britain's Got Talent","rating":6.0,"year":2007}
+{"genre":"Comedy, Family, Music","movie":"A Cinderella Story: Once Upon a Song","rating":6.1,"year":2011}
+{"genre":"Comedy, Horror, Music","movie":"Suck","rating":6.1,"year":2009}
+{"genre":"Comedy, Music","movie":"Blutzbrüdaz","rating":6.1,"year":2011}
+{"genre":"Comedy, Drama, Music","movie":"The Importance of Tying Your Own Shoes","rating":6.1,"year":2011}
+{"genre":"Biography, Drama, Music","movie":"A História de Linda McCartney","rating":6.1,"year":2000}
+{"genre":"Comedy, Fantasy, Music","movie":"Jean-Philippe","rating":6.1,"year":2006}
+{"genre":"Comedy, Musical","movie":"Ó Pai, Ó - Look at This","rating":6.1,"year":2007}
+{"genre":"Romance, Comedy, Musical","movie":"Love's Labour's Lost","rating":6.1,"year":2000}
+{"genre":"Biography, Drama, Musical","movie":"The Devil's Violinist","rating":6.1,"year":2013}
+{"genre":"Drama, Music","movie":"A Time for Dancing","rating":6.1,"year":2002}
+{"genre":"Music","movie":"The 77th Annual Academy Awards","rating":6.1,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"God Save the King","rating":6.1,"year":2005}
+{"genre":"Comedy, Crime, Music","movie":"Kill Your Friends","rating":6.1,"year":2015}
+{"genre":"Comedy, Drama, Music","movie":"Shall We Dance","rating":6.1,"year":2004}
+{"genre":"Comedy, Drama, Music","movie":"Roll Bounce","rating":6.1,"year":2005}
+{"genre":"Comedy, Drama, Musical","movie":"Un paso adelante","rating":6.1,"year":20022005}
+{"genre":"Drama, Music","movie":"Grace Unplugged","rating":6.2,"year":2013}
+{"genre":"Action, Drama, Musical","movie":"Josh","rating":6.2,"year":2000}
+{"genre":"Comedy, Family, Musical","movie":"Big Time Rush","rating":6.2,"year":20092013}
+{"genre":"Comedy, Drama, Music","movie":"The Groomsmen","rating":6.2,"year":2006}
+{"genre":"Comedy, Drama, Musical","movie":"Billu","rating":6.2,"year":2009}
+{"genre":"Drama, Music, Romance","movie":"Center Stage: Turn It Up","rating":6.2,"year":2008}
+{"genre":"Comedy, Music, Romance","movie":"Tumbledown","rating":6.2,"year":2015}
+{"genre":"Comedy, Drama, Musical","movie":"Bride & Prejudice","rating":6.2,"year":2004}
+{"genre":"Drama, Musical, Romance","movie":"Beloved","rating":6.2,"year":2011}
+{"genre":"Drama, Music","movie":"Prey for Rock & Roll","rating":6.2,"year":2003}
+{"genre":"Drama, Music, Romance","movie":"We Are Your Friends","rating":6.2,"year":2015}
+{"genre":"Drama, Music","movie":"Broken Bridges","rating":6.2,"year":2006}
+{"genre":"Documentary, Music","movie":"Reincarnated","rating":6.2,"year":2012}
+{"genre":"Animation, Family, Musical","movie":"Barbie and the Diamond Castle","rating":6.2,"year":2008}
+{"genre":"Drama, Music, Romance","movie":"The Hottest State","rating":6.2,"year":2006}
+{"genre":"Documentary, Music","movie":"The Concert for New York City","rating":6.2,"year":2001}
+{"genre":"Short, Music, Musical","movie":"Britney Spears: Oops!...I Did It Again","rating":6.2,"year":2000}
+{"genre":"Drama, Music","movie":"Rock Star","rating":6.2,"year":2001}
+{"genre":"Drama, Music, Romance","movie":"Step Up 3D","rating":6.2,"year":2010}
+{"genre":"Animation, Comedy, Musical","movie":"A Pequena Loja de Suicídios","rating":6.2,"year":2012}
+{"genre":"Drama, History, Music","movie":"A Questão Humana","rating":6.2,"year":2007}
+{"genre":"Comedy, Family, Music","movie":"StarStruck","rating":6.2,"year":2010}
+{"genre":"Comedy, Drama, Music","movie":"Rock My World","rating":6.2,"year":2002}
+{"genre":"Drama, Music, Romance","movie":"Save the Last Dance","rating":6.2,"year":2001}
+{"genre":"Action, Comedy, Musical","movie":"Tongan Ninja","rating":6.2,"year":2002}
+{"genre":"Animation, Family, Musical","movie":"Barbie in the Nutcracker","rating":6.2,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"Ganes","rating":6.2,"year":2007}
+{"genre":"Comedy, Drama, Music","movie":"I'm Still Here","rating":6.2,"year":2010}
+{"genre":"Drama, Music, Romance","movie":"The Man Who Cried","rating":6.2,"year":2000}
+{"genre":"Comedy, Horror, Musical","movie":"Poultrygeist: Night of the Chicken Dead","rating":6.2,"year":2006}
+{"genre":"Comedy, Music","movie":"The Rocker","rating":6.2,"year":2008}
+{"genre":"Crime, Drama, Musical","movie":"Idlewild","rating":6.2,"year":2006}
+{"genre":"Music","movie":"The 76th Annual Academy Awards","rating":6.3,"year":2004}
+{"genre":"Comedy, Crime, Music","movie":"Connie and Carla","rating":6.3,"year":2004}
+{"genre":"Comedy, Musical, Romance","movie":"Romance & Cigarettes","rating":6.3,"year":2005}
+{"genre":"Drama, Music, Romance","movie":"Step Up 2: The Streets","rating":6.3,"year":2008}
+{"genre":"Comedy, Music","movie":"David Brent: Life on the Road","rating":6.3,"year":2016}
+{"genre":"Drama, Music","movie":"Hounddog","rating":6.3,"year":2007}
+{"genre":"Drama, Fantasy, Musical","movie":"Imaginaerum","rating":6.3,"year":2012}
+{"genre":"Comedy, Drama, Music","movie":"Thunderstruck","rating":6.3,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"Phir Bhi Dil Hai Hindustani","rating":6.3,"year":2000}
+{"genre":"Comedy, Family, Musical","movie":"The Music Man","rating":6.3,"year":2003}
+{"genre":"Comedy, Drama, Music","movie":"(Untitled)","rating":6.3,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Cornelis","rating":6.3,"year":2010}
+{"genre":"Drama, Music","movie":"Bravetown","rating":6.3,"year":2015}
+{"genre":"Family, Musical","movie":"Teen Beach 2","rating":6.3,"year":2015}
+{"genre":"Comedy, Drama, Musical","movie":"Bran Nue Dae","rating":6.3,"year":2009}
+{"genre":"Family, Fantasy, Music","movie":"Rollo and the Woods Sprite","rating":6.3,"year":2001}
+{"genre":"Drama, Music, Romance","movie":"Arada","rating":6.3,"year":2018}
+{"genre":"Drama, Music, Romance","movie":"Forty Shades of Blue","rating":6.3,"year":2005}
+{"genre":"Comedy, Musical, Drama","movie":"Camp","rating":6.3,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"Phil Spector","rating":6.3,"year":2013}
+{"genre":"Documentary, Music","movie":"Beyoncé: Life Is But a Dream","rating":6.3,"year":2013}
+{"genre":"Drama, Music","movie":"Country Strong","rating":6.3,"year":2010}
+{"genre":"Comedy, Musical, Fantasy","movie":"A Diva's Christmas Carol","rating":6.4,"year":2000}
+{"genre":"Adventure, Comedy, Music","movie":"Get Him to the Greek","rating":6.4,"year":2010}
+{"genre":"Drama, Music, Musical","movie":"Burlesque","rating":6.4,"year":2010}
+{"genre":"Drama, Musical, Romance","movie":"God Help the Girl","rating":6.4,"year":2014}
+{"genre":"Documentary, Music","movie":"America: A Tribute to Heroes","rating":6.4,"year":2001}
+{"genre":"Comedy, Musical, Romance","movie":"Not on the Lips","rating":6.4,"year":2003}
+{"genre":"Comedy, Music","movie":"Pitch Perfect 2","rating":6.4,"year":2015}
+{"genre":"Comedy, Music","movie":"Adventures of Power","rating":6.4,"year":2008}
+{"genre":"Comedy, Musical","movie":"Opening Night","rating":6.4,"year":2016}
+{"genre":"Comedy, Music","movie":"Killing Bono","rating":6.4,"year":2011}
+{"genre":"Drama, Music, Romance","movie":"De Corpo E Alma","rating":6.4,"year":2003}
+{"genre":"Drama, Music","movie":"Northern Soul","rating":6.4,"year":2014}
+{"genre":"Comedy, Music","movie":"Hamlet 2","rating":6.4,"year":2008}
+{"genre":"Comedy, Musical, Romance","movie":"Mamma Mia!","rating":6.4,"year":2008}
+{"genre":"Comedy, Music","movie":"Podium","rating":6.4,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"Coco Chanel & Igor Stravinsky","rating":6.4,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Mozart's Sister","rating":6.4,"year":2010}
+{"genre":"Drama, Musical, Romance","movie":"Jaan-E-Mann: Let's Fall in Love... Again","rating":6.4,"year":2006}
+{"genre":"Drama, Music","movie":"Brothers of the Head","rating":6.4,"year":2005}
+{"genre":"Action, Musical, Romance","movie":"Humraaz","rating":6.4,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Spike Island","rating":6.4,"year":2012}
+{"genre":"Comedy, Musical","movie":"The Producers","rating":6.4,"year":2005}
+{"genre":"Comedy, Fantasy, Musical","movie":"Lovestruck: The Musical","rating":6.4,"year":2013}
+{"genre":"Comedy, Drama, Music","movie":"Happy Endings","rating":6.4,"year":2005}
+{"genre":"Drama, Family, Music","movie":"Aaja Nachle","rating":6.4,"year":2007}
+{"genre":"Drama, Musical, Romance","movie":"Goliyon Ki Rasleela Ram-Leela","rating":6.4,"year":2013}
+{"genre":"Drama, Musical","movie":"ABCD (Any Body Can Dance)","rating":6.4,"year":2013}
+{"genre":"Drama, Fantasy, Music","movie":"The Piano Tuner of EarthQuakes","rating":6.4,"year":2005}
+{"genre":"Comedy, Music, Romance","movie":"Salsa","rating":6.5,"year":2000}
+{"genre":"Crime, Drama, Music","movie":"Step Up","rating":6.5,"year":2006}
+{"genre":"Horror, Musical","movie":"The Devil's Carnival","rating":6.5,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"Somos Tão Jovens","rating":6.5,"year":2013}
+{"genre":"Action, Comedy, Musical","movie":"Tokyo Tribe","rating":6.5,"year":2014}
+{"genre":"Biography, Drama, Music","movie":"Telstar: The Joe Meek Story","rating":6.5,"year":2008}
+{"genre":"Documentary, Comedy, Music","movie":"Sarah Silverman: Jesus Is Magic","rating":6.5,"year":2005}
+{"genre":"Drama, Music, Musical","movie":"Dreamgirls","rating":6.5,"year":2006}
+{"genre":"Comedy, Drama, Music","movie":"Soul Men","rating":6.5,"year":2008}
+{"genre":"Documentary, Music","movie":"One Direction: Where We Are - The Concert Film","rating":6.5,"year":2014}
+{"genre":"Drama, Music, Romance","movie":"High Strung","rating":6.5,"year":2016}
+{"genre":"Comedy, Music, Romance","movie":"Music and Lyrics","rating":6.5,"year":2007}
+{"genre":"Drama, Horror, Musical","movie":"Raaz","rating":6.5,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Brad's Status","rating":6.5,"year":2017}
+{"genre":"Documentary, Music","movie":"Rock School","rating":6.5,"year":2005}
+{"genre":"Drama, Family, Music","movie":"Let It Shine","rating":6.5,"year":2012}
+{"genre":"Drama, Music, Romance","movie":"The Guitar","rating":6.5,"year":2008}
+{"genre":"Musical","movie":"Holy Camp!","rating":6.5,"year":2017}
+{"genre":"Comedy, Drama, Music","movie":"Bamboozled","rating":6.5,"year":2000}
+{"genre":"Comedy, Musical","movie":"20 Centímetros","rating":6.5,"year":2005}
+{"genre":"Drama, Music, Romance","movie":"The Singer (Quand j'étais chanteur)","rating":6.5,"year":2006}
+{"genre":"Drama, Music","movie":"Groove","rating":6.5,"year":2000}
+{"genre":"Drama, Music, Romance","movie":"Beauty and the Bastard","rating":6.5,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"What We Do Is Secret","rating":6.5,"year":2007}
+{"genre":"Drama, Music, Romance","movie":"Step Up Revolution","rating":6.5,"year":2012}
+{"genre":"Comedy, Musical, Family","movie":"Flinderella","rating":6.5,"year":20042005}
+{"genre":"Drama, Fantasy, Musical","movie":"A Christmas Carol: The Musical","rating":6.5,"year":2004}
+{"genre":"Adventure, Musical, Romance","movie":"Rok Sako To Rok Lo","rating":6.5,"year":2004}
+{"genre":"Comedy, Drama, Music","movie":"...And They Lived Happily Ever After","rating":6.5,"year":2004}
+{"genre":"Drama, Family, Music","movie":"In Orange","rating":6.5,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"Forever My Girl","rating":6.5,"year":2018}
+{"genre":"Drama, Music","movie":"Patti Cake$","rating":6.6,"year":2017}
+{"genre":"Comedy, Family, Music","movie":"I'm in the Band","rating":6.6,"year":20092011}
+{"genre":"Comedy, Drama, Musical","movie":"Marilyn Hotchkiss' Ballroom Dancing & Charm School","rating":6.6,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"The Runaways","rating":6.6,"year":2010}
+{"genre":"Comedy, Drama, Musical","movie":"Sunshine on Leith","rating":6.6,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"The Rose of the Rascal","rating":6.6,"year":2001}
+{"genre":"Comedy, Drama, Music","movie":"Band Aid","rating":6.6,"year":2017}
+{"genre":"Documentary, Music","movie":"Whitney: Can I Be Me","rating":6.6,"year":2017}
+{"genre":"Comedy, Music, Romance","movie":"The Boys & Girl from County Clare","rating":6.6,"year":2003}
+{"genre":"Comedy, Musical, Romance","movie":"I'll Be There","rating":6.6,"year":2003}
+{"genre":"Comedy, Drama, Musical","movie":"O Sabor da Melancia","rating":6.6,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Hysteria: The Def Leppard Story","rating":6.6,"year":2001}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Voice","rating":6.6,"year":2011}
+{"genre":"Comedy, Horror, Musical","movie":"Lo","rating":6.6,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Callas Forever","rating":6.6,"year":2002}
+{"genre":"Musical, Romance","movie":"Z-O-M-B-I-E-S","rating":6.6,"year":2018}
+{"genre":"Comedy, Musical, Romance","movie":"Côte d'Azur","rating":6.6,"year":2005}
+{"genre":"Comedy, Drama, Musical","movie":"The Other Side of the Bed","rating":6.6,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"20:30:40","rating":6.6,"year":2004}
+{"genre":"Drama, Music","movie":"CBGB","rating":6.6,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Bessie","rating":6.6,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"To Write Love on Her Arms","rating":6.6,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"Sex & Drugs & Rock & Roll","rating":6.6,"year":2010}
+{"genre":"Drama, Family, Musical","movie":"Vivah","rating":6.6,"year":2006}
+{"genre":"Drama, Music, Musical","movie":"Paris 36","rating":6.6,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"De-Lovely","rating":6.6,"year":2004}
+{"genre":"Documentary, Music","movie":"Super 8 Stories","rating":6.7,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"You Are God","rating":6.7,"year":2012}
+{"genre":"Drama, Music","movie":"Boychoir","rating":6.7,"year":2014}
+{"genre":"Drama, Music","movie":"A Teta Assustada","rating":6.7,"year":2009}
+{"genre":"Drama, Music, Romance","movie":"Center Stage","rating":6.7,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"Janie Jones","rating":6.7,"year":2010}
+{"genre":"Drama, Music, Romance","movie":"The Duchess of Langeais","rating":6.7,"year":2007}
+{"genre":"Comedy, Musical","movie":"Basilicata Coast to Coast","rating":6.7,"year":2010}
+{"genre":"Comedy, Music","movie":"Popstar: Never Stop Never Stopping","rating":6.7,"year":2016}
+{"genre":"Drama, Music","movie":"I Am Not a Hipster","rating":6.7,"year":2012}
+{"genre":"Comedy, Drama, Music","movie":"Tonight You're Mine","rating":6.7,"year":2011}
+{"genre":"Horror, Musical, Sci-Fi","movie":"Repo! The Genetic Opera","rating":6.7,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"Little Richard","rating":6.7,"year":2000}
+{"genre":"Comedy, Musical, Mystery","movie":"Style","rating":6.7,"year":2001}
+{"genre":"Comedy, Drama, Music","movie":"Hairspray","rating":6.7,"year":2007}
+{"genre":"Musical, Drama","movie":"Red Satin","rating":6.7,"year":2002}
+{"genre":"Biography, Drama, Music","movie":"Beyond the Sea","rating":6.7,"year":2004}
+{"genre":"Comedy, Music, Musical","movie":"Michael Bolton's Big, Sexy Valentine's Day Special","rating":6.7,"year":2017}
+{"genre":"Documentary, Music","movie":"Naqoyqatsi","rating":6.7,"year":2002}
+{"genre":"Comedy, Family, Music","movie":"The Mistle-Tones","rating":6.7,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"The Soloist","rating":6.7,"year":2009}
+{"genre":"Drama, Music","movie":"Take the Lead","rating":6.7,"year":2006}
+{"genre":"Drama, Music","movie":"Don't Come Knocking","rating":6.7,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Glee","rating":6.7,"year":20092015}
+{"genre":"Comedy, Family, Music","movie":"A Muppets Christmas: Letters to Santa","rating":6.7,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"Nick and Norah's Infinite Playlist","rating":6.7,"year":2008}
+{"genre":"Horror, Musical","movie":"Jekyll & Hyde: The Musical","rating":6.8,"year":2001}
+{"genre":"Comedy, Drama, Music","movie":"A Prairie Home Companion","rating":6.8,"year":2006}
+{"genre":"Comedy, Drama, Music","movie":"Uma Família Bem Diferente","rating":6.8,"year":2007}
+{"genre":"Biography, Drama, Music","movie":"Copying Beethoven","rating":6.8,"year":2006}
+{"genre":"Comedy, Music, Talk-Show","movie":"Jimmy Kimmel Live!","rating":6.8,"year":2003}
+{"genre":"Adventure, Comedy, Music","movie":"Tenacious D in The Pick of Destiny","rating":6.8,"year":2006}
+{"genre":"Drama, Comedy, Music","movie":"2gether","rating":6.8,"year":2000}
+{"genre":"Comedy, Drama, Music","movie":"Yozgat Blues","rating":6.8,"year":2013}
+{"genre":"Comedy, Music","movie":"The 80th Annual Academy Awards","rating":6.8,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"Jersey Boys","rating":6.8,"year":2014}
+{"genre":"Game-Show, Music, Reality-TV","movie":"So You Think You Can Dance","rating":6.8,"year":2005}
+{"genre":"Musical, Comedy, Romance","movie":"Rebels","rating":6.8,"year":2001}
+{"genre":"Adventure, Drama, Music","movie":"Exílios","rating":6.8,"year":2004}
+{"genre":"Biography, Drama, Music","movie":"Falco - Verdammt, wir leben noch!","rating":6.8,"year":2008}
+{"genre":"Drama, Music, Musical","movie":"Ten Minutes Older: The Cello","rating":6.8,"year":2002}
+{"genre":"Drama, Fantasy, Music","movie":"If I Stay","rating":6.8,"year":2014}
+{"genre":"Drama, History, Music","movie":"The King Is Dancing","rating":6.8,"year":2000}
+{"genre":"Drama, Music","movie":"Detroit Metal City","rating":6.8,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"Cape No. 7","rating":6.8,"year":2008}
+{"genre":"Comedy, Music","movie":"Walk Hard: The Dewey Cox Story","rating":6.8,"year":2007}
+{"genre":"Drama, Music","movie":"Esperando a Felicidade","rating":6.8,"year":2002}
+{"genre":"Short, Drama, Music","movie":"Trapped in the Closet: Chapters 1-12","rating":6.8,"year":2005}
+{"genre":"Comedy, Musical","movie":"Yes Nurse! No Nurse!","rating":6.8,"year":2002}
+{"genre":"Comedy, Musical","movie":"Very Annie Mary","rating":6.8,"year":2001}
+{"genre":"Drama, Music","movie":"Like Sunday, Like Rain","rating":6.9,"year":2014}
+{"genre":"Drama, Music, Romance","movie":"Beyond the Lights","rating":6.9,"year":2014}
+{"genre":"Biography, Drama, Music","movie":"Beijar e Chorar","rating":6.9,"year":2017}
+{"genre":"Biography, Drama, Music","movie":"Get on Up","rating":6.9,"year":2014}
+{"genre":"Biography, Drama, Music","movie":"Monica Z","rating":6.9,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Chet Baker: A Lenda do Jazz","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"My Way - O Mito Além da Música","rating":6.9,"year":2012}
+{"genre":"Comedy, Music","movie":"Jazzclub - Der frühe Vogel fängt den Wurm.","rating":6.9,"year":2004}
+{"genre":"Drama, Musical, Romance","movie":"Perhaps Love","rating":6.9,"year":2005}
+{"genre":"Documentary, Biography, Music","movie":"Leonard Cohen: I'm Your Man","rating":6.9,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Tudo que Eu Amo","rating":6.9,"year":2009}
+{"genre":"Comedy, Drama, Music","movie":"Innocent Steps","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Skazany na bluesa","rating":6.9,"year":2005}
+{"genre":"Biography, Comedy, Music","movie":"Made in Hungaria","rating":6.9,"year":2009}
+{"genre":"Action, Drama, Musical","movie":"Ravanaprabhu","rating":6.9,"year":2001}
+{"genre":"Comedy, Drama, Music","movie":"Look at Me","rating":6.9,"year":2004}
+{"genre":"Drama, Music, Romance","movie":"Clean","rating":6.9,"year":2004}
+{"genre":"Comedy, Drama, Musical","movie":"Unconditional Love","rating":6.9,"year":2002}
+{"genre":"Biography, Drama, Music","movie":"Gainsbourg: A Heroic Life","rating":6.9,"year":2010}
+{"genre":"Music, Reality-TV","movie":"America's Best Dance Crew","rating":6.9,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"200 Pounds Beauty","rating":6.9,"year":2006}
+{"genre":"Comedy, Drama, Music","movie":"Durval Discos","rating":6.9,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Mrs Henderson Presents","rating":7.0,"year":2005}
+{"genre":"Comedy, Drama, Musical","movie":"Waqt: The Race Against Time","rating":7.0,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Unfinished Song","rating":7.0,"year":2012}
+{"genre":"Drama, Music, Musical","movie":"Love Never Dies","rating":7.0,"year":2012}
+{"genre":"Comedy, Drama, Music","movie":"Frank","rating":7.0,"year":2014}
+{"genre":"Music, Romance","movie":"Our Beloved Month of August","rating":7.0,"year":2008}
+{"genre":"Documentary, Music","movie":"Cool and Crazy","rating":7.0,"year":2001}
+{"genre":"Drama, Music","movie":"The Last Elvis","rating":7.0,"year":2012}
+{"genre":"Animation, Short, Music","movie":"Pearl","rating":7.0,"year":2016}
+{"genre":"Drama, Musical, Romance","movie":"Rent","rating":7.0,"year":2005}
+{"genre":"Drama, Music, Musical","movie":"Aashiqui 2","rating":7.0,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Não Estou Lá","rating":7.0,"year":2007}
+{"genre":"Documentary, Comedy, Music","movie":"Conan O'Brien Can't Stop","rating":7.0,"year":2011}
+{"genre":"Drama, Music","movie":"Black Snake Moan","rating":7.0,"year":2006}
+{"genre":"Documentary, Music, Reality-TV","movie":"Run's House","rating":7.0,"year":2005}
+{"genre":"Drama, Music, Romance","movie":"A Song for Martin","rating":7.0,"year":2001}
+{"genre":"Comedy, Music","movie":"Attila Marcel","rating":7.0,"year":2013}
+{"genre":"Comedy, Drama, Musical","movie":"Yeh Jawaani Hai Deewani","rating":7.0,"year":2013}
+{"genre":"Comedy, Drama, Music","movie":"Everybody's Famous!","rating":7.0,"year":2000}
+{"genre":"Comedy, Music, Talk-Show","movie":"Late Night with Jimmy Fallon","rating":7.0,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Cadillac Records","rating":7.0,"year":2008}
+{"genre":"Comedy, Drama, Music","movie":"Danny Collins","rating":7.0,"year":2015}
+{"genre":"Comedy, Drama, Musical","movie":"The Real O'Neals","rating":7.0,"year":20162017}
+{"genre":"Comedy, Drama, Music","movie":"Marguerite","rating":7.0,"year":2015}
+{"genre":"Horror, Musical","movie":"Dracula: Pages from a Virgin's Diary","rating":7.0,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Schultze Gets the Blues","rating":7.0,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"Two of Us","rating":7.0,"year":2000}
+{"genre":"Documentary, Biography, Music","movie":"Mayor of the Sunset Strip","rating":7.0,"year":2003}
+{"genre":"Comedy, Drama, Music","movie":"The Man Who Loved Yngve","rating":7.0,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"Cazuza: O Tempo Não Pára","rating":7.0,"year":2004}
+{"genre":"Comedy, Music, Romance","movie":"Vaya con Dios","rating":7.0,"year":2002}
+{"genre":"Drama, Music, Romance","movie":"Ladies in Lavender","rating":7.0,"year":2004}
+{"genre":"Drama, Music","movie":"A Late Quartet","rating":7.1,"year":2012}
+{"genre":"Drama, Music, Romance","movie":"Edge of Night","rating":7.1,"year":2000}
+{"genre":"Comedy, Music","movie":"Fubar","rating":7.1,"year":2002}
+{"genre":"Drama, Music","movie":"8 Mile","rating":7.1,"year":2002}
+{"genre":"Documentary, Biography, Music","movie":"Nas: Time Is Illmatic","rating":7.1,"year":2014}
+{"genre":"Animation, Comedy, Musical","movie":"Terkel in Trouble","rating":7.1,"year":2004}
+{"genre":"Comedy, Crime, Musical","movie":"8 Mulheres","rating":7.1,"year":2002}
+{"genre":"Comedy, Drama, Music","movie":"Coffee and Cigarettes","rating":7.1,"year":2003}
+{"genre":"Comedy, Music","movie":"School of Rock","rating":7.1,"year":2003}
+{"genre":"Comedy, Musical, Romance","movie":"Pammal K. Sambandam","rating":7.1,"year":2002}
+{"genre":"Drama, Music","movie":"Things Behind the Sun","rating":7.1,"year":2001}
+{"genre":"Drama, Music, Romance","movie":"Shed No Tears","rating":7.1,"year":2013}
+{"genre":"Documentary, Biography, Music","movie":"Gaga: Five Foot Two","rating":7.1,"year":2017}
+{"genre":"Drama, Music, Thriller","movie":"Ao Lado da Pianista","rating":7.1,"year":2006}
+{"genre":"Comedy, Drama, Musical","movie":"Hairspray Live!","rating":7.1,"year":2016}
+{"genre":"Documentary, Music","movie":"Britney Spears Live from Las Vegas","rating":7.1,"year":2001}
+{"genre":"Drama, Family, Music","movie":"Um Grito de Socorro","rating":7.1,"year":2013}
+{"genre":"Documentary, Music","movie":"Rize","rating":7.1,"year":2005}
+{"genre":"Comedy, Drama, Music","movie":"Kinky Boots","rating":7.1,"year":2005}
+{"genre":"Documentary, Music","movie":"Until the Light Takes Us","rating":7.1,"year":2008}
+{"genre":"Musical, Drama, Romance","movie":"Mohabbatein","rating":7.1,"year":2000}
+{"genre":"Documentary, Music","movie":"Beautiful Losers","rating":7.1,"year":2008}
+{"genre":"Drama, Musical, Romance","movie":"Ice","rating":7.1,"year":2018}
+{"genre":"Documentary, Music","movie":"Something from Nothing: The Art of Rap","rating":7.2,"year":2012}
+{"genre":"Drama, Music","movie":"Nós Somos as Melhores!","rating":7.2,"year":2013}
+{"genre":"Drama, Musical, Romance","movie":"Love Songs","rating":7.2,"year":2007}
+{"genre":"Drama, Music","movie":"Songcatcher","rating":7.2,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"Nowhere Boy","rating":7.2,"year":2009}
+{"genre":"Biography, Drama, Music","movie":"Good Vibrations","rating":7.2,"year":2012}
+{"genre":"Comedy, Musical","movie":"A Música Mais Triste do Mundo","rating":7.2,"year":2003}
+{"genre":"Documentary, Music","movie":"loudQUIETloud: A Film About the Pixies","rating":7.2,"year":2006}
+{"genre":"Short, Fantasy, Music","movie":"Taylor Swift: Bad Blood","rating":7.2,"year":2015}
+{"genre":"Action, Drama, Musical","movie":"Varalaaru","rating":7.2,"year":2006}
+{"genre":"Documentary, Biography, Music","movie":"Air Guitar Nation","rating":7.2,"year":2006}

@@ -1,0 +1,202 @@
+{"genre":"Reality-TV","movie":"Toddlers and Tiaras","rating":1.8,"year":2009}
+{"genre":"Documentary, Reality-TV","movie":"My Super Sweet 16","rating":1.9,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"Paris Hilton's My New BFF","rating":2.2,"year":2008}
+{"genre":"Reality-TV","movie":"Here Comes Honey Boo Boo","rating":2.6,"year":20122017}
+{"genre":"Drama, Reality-TV","movie":"Keeping Up with the Kardashians","rating":2.8,"year":2007}
+{"genre":"Reality-TV","movie":"16 and Pregnant","rating":3.1,"year":2009}
+{"genre":"Crime, Reality-TV","movie":"Amish Mafia","rating":3.1,"year":2012}
+{"genre":"Reality-TV","movie":"Operation Repo","rating":3.1,"year":2007}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"The Bachelor","rating":3.1,"year":2002}
+{"genre":"Reality-TV","movie":"The Only Way Is Essex","rating":3.1,"year":2010}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"The Bachelorette","rating":3.2,"year":2003}
+{"genre":"Drama, Reality-TV","movie":"Kourtney & Kim Take New York","rating":3.3,"year":2011}
+{"genre":"Reality-TV","movie":"Kourtney & Kim Take Miami","rating":3.3,"year":2009}
+{"genre":"Reality-TV","movie":"Snooki & JWOWW","rating":3.3,"year":2012}
+{"genre":"Documentary, Reality-TV","movie":"17 Kids and Counting","rating":3.4,"year":20082015}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"A Shot at Love with Tila Tequila","rating":3.4,"year":2007}
+{"genre":"Comedy, Horror, Reality-TV","movie":"Scare Pewdiepie","rating":3.4,"year":2016}
+{"genre":"Drama, Reality-TV, Romance","movie":"Khloé & Lamar","rating":3.4,"year":2011}
+{"genre":"Comedy, Drama, Reality-TV","movie":"Jersey Shore","rating":3.5,"year":20092012}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Big Brother: Australia","rating":3.5,"year":20012014}
+{"genre":"Reality-TV","movie":"Teen Mom","rating":3.6,"year":2009}
+{"genre":"Drama, Reality-TV","movie":"The Hills","rating":3.6,"year":20062010}
+{"genre":"Reality-TV, Romance","movie":"Kendra","rating":3.6,"year":20092011}
+{"genre":"Comedy, Reality-TV","movie":"The Simple Life","rating":3.8,"year":20032007}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Four: Battle for Stardom","rating":3.8,"year":2018}
+{"genre":"Reality-TV, Romance","movie":"Newlyweds: Nick & Jessica","rating":3.8,"year":20032005}
+{"genre":"Drama, Reality-TV","movie":"The Real Housewives of New Jersey","rating":3.9,"year":2009}
+{"genre":"Reality-TV","movie":"The Real Housewives of New York City","rating":4.0,"year":2008}
+{"genre":"Reality-TV","movie":"The Real Housewives of Orange County","rating":4.0,"year":20062017}
+{"genre":"Reality-TV","movie":"The Real Housewives of Atlanta","rating":4.2,"year":2008}
+{"genre":"Comedy, Reality-TV","movie":"The Anna Nicole Show","rating":4.2,"year":20022004}
+{"genre":"Game-Show, Music, Reality-TV","movie":"American Idol","rating":4.2,"year":2002}
+{"genre":"Reality-TV, Romance","movie":"Wife Swap","rating":4.3,"year":20042013}
+{"genre":"Documentary, Reality-TV","movie":"Cause for Concern","rating":4.3,"year":2002}
+{"genre":"Reality-TV","movie":"Sister Wives","rating":4.4,"year":2010}
+{"genre":"Documentary, Reality-TV","movie":"Teen Mom 2","rating":4.4,"year":2011}
+{"genre":"Music, Reality-TV","movie":"The X Factor","rating":4.5,"year":2004}
+{"genre":"Reality-TV","movie":"Storage Hunters","rating":4.5,"year":2011}
+{"genre":"Reality-TV","movie":"Celebrity Big Brother","rating":4.6,"year":2001}
+{"genre":"Reality-TV","movie":"Dance Moms","rating":4.6,"year":2011}
+{"genre":"Reality-TV","movie":"The Real Housewives of Beverly Hills","rating":4.6,"year":2010}
+{"genre":"Game-Show, Reality-TV, Romance","movie":"Flavor of Love","rating":4.6,"year":2006}
+{"genre":"Reality-TV","movie":"Made in Chelsea","rating":4.6,"year":2011}
+{"genre":"Reality-TV","movie":"Lizard Lick Towing","rating":4.7,"year":2011}
+{"genre":"Reality-TV","movie":"The Millionaire Matchmaker","rating":4.7,"year":2008}
+{"genre":"Drama, Reality-TV","movie":"Laguna Beach: The Real Orange County","rating":4.8,"year":20042006}
+{"genre":"Reality-TV","movie":"I Love New York","rating":4.8,"year":2007}
+{"genre":"Drama, Reality-TV","movie":"Bad Girls Club","rating":4.8,"year":2006}
+{"genre":"Reality-TV","movie":"Hardcore Pawn","rating":4.8,"year":2009}
+{"genre":"Family, Reality-TV","movie":"Jon & Kate Plus 8","rating":4.9,"year":2007}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Rock of Love with Bret Michaels","rating":5.0,"year":2007}
+{"genre":"Reality-TV","movie":"Hogan Knows Best","rating":5.0,"year":2005}
+{"genre":"Reality-TV","movie":"Mob Wives","rating":5.0,"year":20112016}
+{"genre":"Horror, Reality-TV","movie":"Most Haunted","rating":5.1,"year":2002}
+{"genre":"Reality-TV","movie":"Vanderpump Rules","rating":5.1,"year":2013}
+{"genre":"Music, Reality-TV","movie":"Cribs","rating":5.1,"year":2000}
+{"genre":"Game-Show, Reality-TV","movie":"The Moment of Truth","rating":5.1,"year":2008}
+{"genre":"Game-Show, Reality-TV","movie":"The Apprentice","rating":5.2,"year":2004}
+{"genre":"Adventure, Crime, Reality-TV","movie":"Dog the Bounty Hunter","rating":5.2,"year":20032012}
+{"genre":"Reality-TV","movie":"Say Yes to the Dress","rating":5.2,"year":2007}
+{"genre":"Reality-TV","movie":"Supernanny","rating":5.2,"year":20052012}
+{"genre":"Reality-TV","movie":"Paranormal State","rating":5.3,"year":2007}
+{"genre":"Comedy, Drama, Reality-TV","movie":"Geordie Shore","rating":5.3,"year":2011}
+{"genre":"Game-Show, Reality-TV","movie":"Big Brother","rating":5.4,"year":2000}
+{"genre":"Documentary, Reality-TV","movie":"Ax Men","rating":5.5,"year":2008}
+{"genre":"Game-Show, Reality-TV","movie":"The Biggest Loser","rating":5.5,"year":2004}
+{"genre":"Game-Show, Reality-TV","movie":"America's Next Top Model","rating":5.6,"year":2003}
+{"genre":"Game-Show, Reality-TV, Thriller","movie":"Fear Factor","rating":5.6,"year":2001}
+{"genre":"Documentary, Reality-TV","movie":"LA Ink","rating":5.6,"year":2007}
+{"genre":"Comedy, Reality-TV, Romance","movie":"The Girls Next Door","rating":5.6,"year":2005}
+{"genre":"Comedy, Music, Reality-TV","movie":"The Osbournes","rating":5.6,"year":20022005}
+{"genre":"Adventure, Comedy, Reality-TV","movie":"I'm a Celebrity, Get Me Out of Here!","rating":5.8,"year":2002}
+{"genre":"Reality-TV","movie":"Trading Spaces","rating":5.8,"year":2000}
+{"genre":"Reality-TV","movie":"Pimp My Ride","rating":5.8,"year":20042007}
+{"genre":"Action, Game-Show, Reality-TV","movie":"American Gladiators","rating":5.8,"year":2008}
+{"genre":"Comedy, Reality-TV","movie":"Queer Eye","rating":5.9,"year":20032007}
+{"genre":"Reality-TV","movie":"Gene Simmons: Family Jewels","rating":5.9,"year":2006}
+{"genre":"Game-Show, Music, Reality-TV","movie":"Strictly Come Dancing","rating":5.9,"year":2004}
+{"genre":"Reality-TV","movie":"Undercover Boss","rating":5.9,"year":2010}
+{"genre":"Comedy, Reality-TV","movie":"Punk'd","rating":6.0,"year":20032015}
+{"genre":"Reality-TV, Sport","movie":"Monster Garage","rating":6.0,"year":20022007}
+{"genre":"Comedy, Reality-TV","movie":"Bam's Unholy Union","rating":6.0,"year":2007}
+{"genre":"Reality-TV","movie":"Auction Hunters","rating":6.0,"year":2010}
+{"genre":"Comedy, Music, Reality-TV","movie":"Britain's Got Talent","rating":6.0,"year":2007}
+{"genre":"Drama, Reality-TV","movie":"Celebrity Rehab with Dr. Drew","rating":6.1,"year":2008}
+{"genre":"Reality-TV","movie":"Sons of Guns","rating":6.1,"year":2011}
+{"genre":"Fantasy, Reality-TV","movie":"Criss Angel Mindfreak","rating":6.1,"year":20052010}
+{"genre":"Reality-TV, Romance","movie":"Beauty and the Geek","rating":6.1,"year":2005}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Last Comic Standing","rating":6.1,"year":2003}
+{"genre":"Comedy, Reality-TV, Sport","movie":"American Chopper: The Series","rating":6.2,"year":2003}
+{"genre":"Documentary, Reality-TV","movie":"Whale Wars","rating":6.2,"year":2008}
+{"genre":"Comedy, Reality-TV","movie":"Duck Dynasty","rating":6.3,"year":2012}
+{"genre":"Comedy, Reality-TV","movie":"Ridiculousness","rating":6.3,"year":2011}
+{"genre":"Reality-TV","movie":"Alaskan Bush People","rating":6.3,"year":2014}
+{"genre":"Reality-TV","movie":"Love It or List It","rating":6.3,"year":2008}
+{"genre":"Action, Reality-TV","movie":"Swamp People","rating":6.3,"year":2010}
+{"genre":"Game-Show, Reality-TV","movie":"Food Network Star","rating":6.3,"year":2005}
+{"genre":"Reality-TV","movie":"Storage Wars","rating":6.4,"year":2010}
+{"genre":"Documentary, Drama, Reality-TV","movie":"Hoarders","rating":6.4,"year":2009}
+{"genre":"Documentary, Adventure, Reality-TV","movie":"Ice Road Truckers","rating":6.4,"year":2007}
+{"genre":"Comedy, Reality-TV","movie":"The Jamie Kennedy Experiment","rating":6.5,"year":20022007}
+{"genre":"Reality-TV","movie":"Jersey Shore Family Vacation","rating":6.5,"year":2018}
+{"genre":"Documentary, Reality-TV","movie":"Little People, Big World","rating":6.5,"year":2006}
+{"genre":"Game-Show, Music, Reality-TV","movie":"The Voice","rating":6.6,"year":2011}
+{"genre":"Reality-TV","movie":"The Glee Project","rating":6.6,"year":20112012}
+{"genre":"Comedy, Reality-TV","movie":"Viva la Bam","rating":6.7,"year":20032006}
+{"genre":"Game-Show, Reality-TV","movie":"Come Dine with Me","rating":6.7,"year":2005}
+{"genre":"Adventure, Reality-TV","movie":"Naked and Afraid","rating":6.7,"year":2013}
+{"genre":"Documentary, Reality-TV","movie":"Miami Ink","rating":6.7,"year":20052008}
+{"genre":"Family, Reality-TV","movie":"Cake Boss","rating":6.7,"year":2009}
+{"genre":"Action, Comedy, Reality-TV","movie":"Dirty Sanchez","rating":6.7,"year":2002}
+{"genre":"Game-Show, Reality-TV","movie":"MasterChef Junior","rating":6.7,"year":2013}
+{"genre":"Reality-TV","movie":"American Restoration","rating":6.7,"year":2010}
+{"genre":"Documentary, Reality-TV, Sport","movie":"Overhaulin'","rating":6.8,"year":2004}
+{"genre":"Game-Show, Music, Reality-TV","movie":"So You Think You Can Dance","rating":6.8,"year":2005}
+{"genre":"Horror, Reality-TV, Sci-Fi","movie":"The Dead Files","rating":6.8,"year":2011}
+{"genre":"Reality-TV","movie":"The Remix","rating":6.8,"year":2018}
+{"genre":"Reality-TV","movie":"The Curse of Oak Island","rating":6.9,"year":2014}
+{"genre":"Reality-TV","movie":"Restaurant: Impossible","rating":6.9,"year":2011}
+{"genre":"Reality-TV","movie":"Jackass: The Lost Tapes","rating":6.9,"year":2009}
+{"genre":"Family, Reality-TV","movie":"What Not to Wear","rating":6.9,"year":20032013}
+{"genre":"Music, Reality-TV","movie":"America's Best Dance Crew","rating":6.9,"year":2008}
+{"genre":"Comedy, Horror, Reality-TV","movie":"Scare Tactics","rating":6.9,"year":2003}
+{"genre":"Reality-TV","movie":"Dragons' Den","rating":7.0,"year":2005}
+{"genre":"Documentary, Music, Reality-TV","movie":"Run's House","rating":7.0,"year":2005}
+{"genre":"Adventure, Game-Show, Reality-TV","movie":"Survivor","rating":7.0,"year":2000}
+{"genre":"Animation, Comedy, Reality-TV","movie":"Drawn Together","rating":7.0,"year":20042007}
+{"genre":"Documentary, Reality-TV","movie":"American Pickers","rating":7.0,"year":2010}
+{"genre":"Comedy, Reality-TV","movie":"The Dudesons","rating":7.1,"year":2006}
+{"genre":"Reality-TV","movie":"Hotel Hell","rating":7.1,"year":2012}
+{"genre":"Reality-TV","movie":"Hell's Kitchen","rating":7.1,"year":2004}
+{"genre":"Reality-TV","movie":"Project Greenlight","rating":7.1,"year":20012015}
+{"genre":"Game-Show, Reality-TV","movie":"Iron Chef America: The Series","rating":7.2,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"Ca$h Cab","rating":7.2,"year":2005}
+{"genre":"Reality-TV","movie":"Counting Cars","rating":7.2,"year":2012}
+{"genre":"Reality-TV","movie":"Ace of Cakes","rating":7.2,"year":2006}
+{"genre":"Reality-TV","movie":"Pawn Stars","rating":7.2,"year":2009}
+{"genre":"Reality-TV","movie":"Gold Rush: Alaska","rating":7.2,"year":2010}
+{"genre":"Reality-TV","movie":"Catfish: The TV Show","rating":7.2,"year":2012}
+{"genre":"Reality-TV","movie":"Irmãos à Obra","rating":7.3,"year":2011}
+{"genre":"Action, Comedy, Reality-TV","movie":"Jackass","rating":7.3,"year":20002002}
+{"genre":"Comedy, Reality-TV","movie":"Kathy Griffin: My Life on the D-List","rating":7.3,"year":20052010}
+{"genre":"Game-Show, Reality-TV","movie":"The Apprentice UK","rating":7.3,"year":2005}
+{"genre":"Game-Show, Reality-TV","movie":"Project Runway","rating":7.3,"year":2004}
+{"genre":"Game-Show, Reality-TV","movie":"Ultimate Beastmaster","rating":7.3,"year":2017}
+{"genre":"Game-Show, Reality-TV","movie":"Masterchef","rating":7.3,"year":2010}
+{"genre":"Documentary, Reality-TV, Talk-Show","movie":"Girls Incarcerated","rating":7.4,"year":2018}
+{"genre":"Reality-TV","movie":"Kid Nation","rating":7.4,"year":2007}
+{"genre":"Reality-TV","movie":"Man v. Food","rating":7.4,"year":2008}
+{"genre":"Reality-TV","movie":"Diners, Drive-ins and Dives","rating":7.4,"year":2006}
+{"genre":"Reality-TV","movie":"Ink Master","rating":7.4,"year":2012}
+{"genre":"Reality-TV","movie":"Kitchen Nightmares","rating":7.4,"year":20072014}
+{"genre":"Reality-TV","movie":"Nailed It!","rating":7.4,"year":2018}
+{"genre":"Reality-TV","movie":"Flip This House","rating":7.5,"year":2005}
+{"genre":"Reality-TV","movie":"Chopped","rating":7.5,"year":2007}
+{"genre":"Family, Reality-TV","movie":"Shark Tank","rating":7.5,"year":2009}
+{"genre":"Reality-TV","movie":"RuPaul's Drag Race: Untucked!","rating":7.6,"year":2010}
+{"genre":"Game-Show, Reality-TV","movie":"Top Chef","rating":7.6,"year":2006}
+{"genre":"Reality-TV","movie":"Destination Truth","rating":7.6,"year":2007}
+{"genre":"Adventure, Reality-TV","movie":"Dual Survival","rating":7.6,"year":2010}
+{"genre":"Reality-TV","movie":"Fast N' Loud","rating":7.6,"year":2012}
+{"genre":"Documentary, Reality-TV","movie":"Derren Brown: The Push","rating":7.6,"year":2016}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Billy on the Street with Billy Eichner","rating":7.6,"year":2011}
+{"genre":"Reality-TV, Sport","movie":"Top Shot","rating":7.6,"year":2010}
+{"genre":"Reality-TV","movie":"Bar Rescue","rating":7.7,"year":2011}
+{"genre":"Comedy, Crime, Reality-TV","movie":"Kenny Hotz's Triumph of the Will","rating":7.7,"year":2011}
+{"genre":"Reality-TV","movie":"Comic Book Men","rating":7.7,"year":2012}
+{"genre":"Reality-TV, Sport","movie":"First Team: Juventus","rating":7.7,"year":2018}
+{"genre":"Reality-TV","movie":"Ramsay's Kitchen Nightmares","rating":7.7,"year":20042014}
+{"genre":"Documentary, Comedy, Reality-TV","movie":"The Mortified Guide","rating":7.7,"year":2018}
+{"genre":"Comedy, Reality-TV","movie":"La familia P. Luche","rating":7.8,"year":2002}
+{"genre":"Comedy, Reality-TV, Sport","movie":"Rob & Big","rating":7.8,"year":20062008}
+{"genre":"Reality-TV","movie":"The Colony","rating":7.8,"year":2009}
+{"genre":"Comedy, Reality-TV","movie":"Rob Dyrdek's Fantasy Factory","rating":7.8,"year":2009}
+{"genre":"Action, Comedy, Reality-TV","movie":"Nitro Circus","rating":7.8,"year":2009}
+{"genre":"Reality-TV","movie":"Bizarre Foods with Andrew Zimmern","rating":7.9,"year":2006}
+{"genre":"Adventure, Reality-TV","movie":"Running Wild with Bear Grylls","rating":7.9,"year":2014}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Kenny vs. Spenny","rating":7.9,"year":2002}
+{"genre":"Action, Reality-TV, Sport","movie":"The Ultimate Fighter","rating":7.9,"year":2005}
+{"genre":"Family, Reality-TV","movie":"Dog Whisperer with Cesar Millan","rating":8.0,"year":20042016}
+{"genre":"Documentary, Adventure, Reality-TV","movie":"Deadliest Catch","rating":8.0,"year":2005}
+{"genre":"Adventure, Drama, Reality-TV","movie":"Intervention","rating":8.0,"year":2005}
+{"genre":"Documentary, Reality-TV","movie":"30 Days","rating":8.0,"year":20052008}
+{"genre":"Reality-TV","movie":"Magic's Biggest Secrets Finally Revealed","rating":8.0,"year":2002}
+{"genre":"Adventure, Comedy, Reality-TV","movie":"The Moaning of Life","rating":8.2,"year":2013}
+{"genre":"Adventure, Reality-TV","movie":"Man vs. Wild","rating":8.2,"year":2006}
+{"genre":"Game-Show, Reality-TV","movie":"Face Off","rating":8.2,"year":2011}
+{"genre":"Reality-TV","movie":"MasterChef Australia","rating":8.2,"year":2009}
+{"genre":"Game-Show, Reality-TV","movie":"RuPaul's Drag Race","rating":8.3,"year":2009}
+{"genre":"Crime, Mystery, Reality-TV","movie":"The First 48","rating":8.3,"year":2004}
+{"genre":"Documentary, Mystery, Reality-TV","movie":"MythBusters","rating":8.3,"year":2003}
+{"genre":"Comedy, Reality-TV","movie":"The Joe Schmo Show","rating":8.3,"year":2003}
+{"genre":"Reality-TV","movie":"RuPaul's Drag Race All Stars","rating":8.4,"year":2012}
+{"genre":"Reality-TV","movie":"Fixer Upper","rating":8.4,"year":2013}
+{"genre":"Documentary, Reality-TV, Sport","movie":"Hard Knocks","rating":8.5,"year":2001}
+{"genre":"Comedy, Reality-TV","movie":"Impractical Jokers","rating":8.6,"year":2011}
+{"genre":"Reality-TV","movie":"The Great British Baking Show","rating":8.6,"year":2010}
+{"genre":"Reality-TV","movie":" Queer Eye","rating":8.7,"year":2018}
+{"genre":"Comedy, Game-Show, Reality-TV","movie":"Running Man","rating":8.9,"year":2010}
+{"genre":"Game-Show, Reality-TV, Sport","movie":"High Stakes Poker","rating":9.0,"year":2006}
+{"genre":"Reality-TV","movie":"Khawatir","rating":9.4,"year":2005}
+{"genre":"Reality-TV","movie":"The Healer (TV Series 2017)","rating":9.6,"year":2017}

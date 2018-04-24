@@ -1,0 +1,500 @@
+{"genre":"Documentary, Music","movie":"Biebermania!","rating":1.0,"year":2011}
+{"genre":"Documentary","movie":"Amazing China","rating":1.1,"year":2018}
+{"genre":"Documentary","movie":"Justin Bieber: Rise to Fame","rating":1.1,"year":2011}
+{"genre":"Documentary, Music","movie":"Justin Bieber: Never Say Never","rating":1.6,"year":2011}
+{"genre":"Documentary, Music","movie":"Justin Bieber: All Around the World","rating":1.6,"year":2012}
+{"genre":"Documentary, Music","movie":"Justin Bieber's Believe","rating":1.7,"year":2013}
+{"genre":"Documentary, Reality-TV","movie":"My Super Sweet 16","rating":1.9,"year":2005}
+{"genre":"Documentary, Music","movie":"Jonas Brothers: The 3D Concert Experience","rating":2.1,"year":2009}
+{"genre":"Documentary, Biography","movie":"The Undefeated","rating":2.2,"year":2011}
+{"genre":"Documentary, Music","movie":"Hannah Montana and Miley Cyrus: Best of Both Worlds Concert","rating":2.4,"year":2008}
+{"genre":"Documentary","movie":"The Real Cancun","rating":2.7,"year":2003}
+{"genre":"Documentary, Reality-TV","movie":"17 Kids and Counting","rating":3.4,"year":20082015}
+{"genre":"Documentary","movie":"2000 MTV Movie Awards","rating":3.6,"year":2000}
+{"genre":"Documentary","movie":"Expelled: No Intelligence Allowed","rating":3.7,"year":2008}
+{"genre":"Documentary","movie":"I Am Cait","rating":3.7,"year":2015}
+{"genre":"Documentary","movie":"Is Genesis History?","rating":4.1,"year":2017}
+{"genre":"Documentary, Drama","movie":"Finding Bigfoot","rating":4.2,"year":2011}
+{"genre":"Documentary","movie":"The Atheist Delusion","rating":4.2,"year":2016}
+{"genre":"Documentary, Music","movie":"One Direction: This Is Us","rating":4.2,"year":2013}
+{"genre":"Documentary, War","movie":"Celsius 41.11: The Temperature at Which the Brain... Begins to Die","rating":4.3,"year":2004}
+{"genre":"Documentary, Reality-TV","movie":"Cause for Concern","rating":4.3,"year":2002}
+{"genre":"Documentary, Reality-TV","movie":"Teen Mom 2","rating":4.4,"year":2011}
+{"genre":"Documentary, Short","movie":"Fitna","rating":4.7,"year":2008}
+{"genre":"Documentary","movie":"Fahrenhype 9\/11","rating":4.9,"year":2004}
+{"genre":"Documentary, Crime","movie":"Monster: The Josef Fritzl Story","rating":4.9,"year":2010}
+{"genre":"Documentary, Comedy","movie":"Slutever","rating":4.9,"year":2018}
+{"genre":"Documentary","movie":"Michael Moore Hates America","rating":5.0,"year":2004}
+{"genre":"Documentary","movie":"God's Not Dead","rating":5.1,"year":2013}
+{"genre":"Documentary","movie":"Interior. Leather Bar.","rating":5.1,"year":2013}
+{"genre":"Documentary","movie":"The Buried Secret of M. Night Shyamalan","rating":5.1,"year":2004}
+{"genre":"Documentary","movie":"2016: Obama's America","rating":5.1,"year":2012}
+{"genre":"Documentary, Comedy","movie":"Hilarity for Charity","rating":5.2,"year":2018}
+{"genre":"Documentary","movie":"Slacker Uprising","rating":5.2,"year":2007}
+{"genre":"Documentary, Comedy, Drama","movie":"What the #$*! Do We (K)now!?","rating":5.3,"year":2004}
+{"genre":"Documentary, History","movie":"Stupidity","rating":5.4,"year":2003}
+{"genre":"Documentary, Music","movie":"Glee: The 3D Concert Movie","rating":5.4,"year":2011}
+{"genre":"Documentary, History","movie":"A Funny Thing Happened on the Way to the Moon","rating":5.4,"year":2001}
+{"genre":"Documentary","movie":"After Porn Ends 2","rating":5.4,"year":2017}
+{"genre":"Documentary, Comedy","movie":"Martin Lawrence Live: Runteldat","rating":5.4,"year":2002}
+{"genre":"Documentary","movie":"Mansome","rating":5.4,"year":2012}
+{"genre":"Documentary, Biography, History","movie":"Hillary's America: The Secret History of the Democratic Party","rating":5.4,"year":2016}
+{"genre":"Documentary","movie":"Top Gear USA","rating":5.4,"year":2008}
+{"genre":"Documentary","movie":"Generation Wealth","rating":5.4,"year":2018}
+{"genre":"Documentary, Reality-TV","movie":"Ax Men","rating":5.5,"year":2008}
+{"genre":"Documentary, History","movie":"1915 Armenian Genocide","rating":5.5,"year":2010}
+{"genre":"Documentary, Comedy","movie":"Kavin Jay: Everybody Calm Down!","rating":5.5,"year":2018}
+{"genre":"Documentary","movie":"My Amityville Horror","rating":5.5,"year":2012}
+{"genre":"Documentary","movie":"UnHung Hero","rating":5.5,"year":2013}
+{"genre":"Documentary, Reality-TV","movie":"LA Ink","rating":5.6,"year":2007}
+{"genre":"Documentary","movie":"Zoo","rating":5.6,"year":2007}
+{"genre":"Documentary","movie":"Vaxxed: From Cover-Up to Catastrophe","rating":5.6,"year":2016}
+{"genre":"Documentary","movie":"America: Imagine the World Without Her","rating":5.6,"year":2014}
+{"genre":"Documentary","movie":"After Porn Ends","rating":5.7,"year":2012}
+{"genre":"Documentary, History, War","movie":"Armenian Genocide","rating":5.7,"year":2006}
+{"genre":"Documentary, Short","movie":"Jet Li Is 'The One'","rating":5.7,"year":2002}
+{"genre":"Documentary","movie":"O Segredo","rating":5.7,"year":2006}
+{"genre":"Documentary","movie":"Manufacturing Dissent: Uncovering Michael Moore","rating":5.7,"year":2007}
+{"genre":"Documentary","movie":"Conspiracy Theory: Did We Land on the Moon?","rating":5.7,"year":2001}
+{"genre":"Documentary, Horror","movie":"The Nightmare","rating":5.8,"year":2015}
+{"genre":"Documentary, Comedy","movie":"Kevin Hart: What Now?","rating":5.8,"year":2016}
+{"genre":"Documentary","movie":"Destino > Felicidade","rating":5.8,"year":2017}
+{"genre":"Documentary","movie":"Bronies: The Extremely Unexpected Adult Fans of My Little Pony","rating":5.8,"year":2012}
+{"genre":"Documentary","movie":"Michael Moore in TrumpLand","rating":5.8,"year":2016}
+{"genre":"Documentary","movie":"Ghost Hunters International","rating":5.8,"year":2008}
+{"genre":"Documentary","movie":"Love Is a Verb","rating":5.9,"year":2014}
+{"genre":"Documentary, Music","movie":"Katy Perry: Part of Me","rating":5.9,"year":2012}
+{"genre":"Documentary, Comedy","movie":"Amy Schumer: Live at the Apollo","rating":6.0,"year":2015}
+{"genre":"Documentary, Horror","movie":"Demon House","rating":6.0,"year":2018}
+{"genre":"Documentary, Music","movie":"Screamers","rating":6.0,"year":2006}
+{"genre":"Documentary, Comedy","movie":"Heckler","rating":6.1,"year":2007}
+{"genre":"Documentary, Comedy","movie":"Super High Me","rating":6.1,"year":2007}
+{"genre":"Documentary, Animation, History","movie":"Video Games: The Movie","rating":6.1,"year":2014}
+{"genre":"Documentary","movie":"Thinking XXX","rating":6.1,"year":2004}
+{"genre":"Documentary, Horror","movie":"Boogeymen: The Killer Compilation","rating":6.1,"year":2001}
+{"genre":"Documentary","movie":"Hot Girls Wanted","rating":6.1,"year":2015}
+{"genre":"Documentary, Action, Comedy","movie":"Dirty Sanchez: The Movie","rating":6.2,"year":2006}
+{"genre":"Documentary","movie":"Last Party 2000","rating":6.2,"year":2001}
+{"genre":"Documentary, Action, Comedy","movie":"The Dudesons Movie","rating":6.2,"year":2006}
+{"genre":"Documentary","movie":"Dogville Confessions","rating":6.2,"year":2003}
+{"genre":"Documentary, Reality-TV","movie":"Whale Wars","rating":6.2,"year":2008}
+{"genre":"Documentary","movie":"Casting JonBenet","rating":6.2,"year":2017}
+{"genre":"Documentary, Comedy","movie":"Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland","rating":6.2,"year":2006}
+{"genre":"Documentary, Music","movie":"Reincarnated","rating":6.2,"year":2012}
+{"genre":"Documentary, History","movie":"Are All Men Pedophiles?","rating":6.2,"year":2013}
+{"genre":"Documentary, Music","movie":"The Concert for New York City","rating":6.2,"year":2001}
+{"genre":"Documentary","movie":"Voyeur","rating":6.2,"year":2017}
+{"genre":"Documentary, Sport","movie":"Bra Boys","rating":6.2,"year":2007}
+{"genre":"Documentary","movie":"An Inconvenient Sequel: Truth to Power","rating":6.2,"year":2017}
+{"genre":"Documentary, Crime","movie":"A Very British Gangster","rating":6.2,"year":2007}
+{"genre":"Documentary","movie":"Ukraine on Fire","rating":6.2,"year":2016}
+{"genre":"Documentary, Sport","movie":"Real: The Movie","rating":6.2,"year":2005}
+{"genre":"Documentary","movie":"5th Gear","rating":6.2,"year":2002}
+{"genre":"Documentary","movie":"Room 237","rating":6.2,"year":2012}
+{"genre":"Documentary, Biography, Crime","movie":"Beware the Slenderman","rating":6.3,"year":2016}
+{"genre":"Documentary, Comedy","movie":"A Complete History of My Sexual Failures","rating":6.3,"year":2008}
+{"genre":"Documentary, Biography, Sport","movie":"Zidane: A 21st Century Portrait","rating":6.3,"year":2006}
+{"genre":"Documentary, Sci-Fi","movie":"Fact or Faked: Paranormal Files","rating":6.3,"year":2010}
+{"genre":"Documentary, Family, History","movie":"Back in Time","rating":6.3,"year":2015}
+{"genre":"Documentary, Music","movie":"Beyoncé: Life Is But a Dream","rating":6.3,"year":2013}
+{"genre":"Documentary","movie":"Dark Secrets Inside Bohemian Grove","rating":6.3,"year":2000}
+{"genre":"Documentary, Sport","movie":"Kobe Doin' Work","rating":6.4,"year":2009}
+{"genre":"Documentary","movie":"Mercury 13","rating":6.4,"year":2018}
+{"genre":"Documentary, Crime, History","movie":"H.H. Holmes: America's First Serial Killer","rating":6.4,"year":2004}
+{"genre":"Documentary","movie":"Freakonomics","rating":6.4,"year":2010}
+{"genre":"Documentary, Comedy","movie":"What Would Jesus Buy?","rating":6.4,"year":2007}
+{"genre":"Documentary, Music","movie":"America: A Tribute to Heroes","rating":6.4,"year":2001}
+{"genre":"Documentary, Biography, Sport","movie":"Ronaldo","rating":6.4,"year":2015}
+{"genre":"Documentary, Comedy","movie":"Marlon Wayans: Woke-ish","rating":6.4,"year":2018}
+{"genre":"Documentary, Drama","movie":"Voyage of Time: Life's Journey","rating":6.4,"year":2016}
+{"genre":"Documentary","movie":"The Porn Diaries","rating":6.4,"year":2008}
+{"genre":"Documentary","movie":"Searching for Debra Winger","rating":6.4,"year":2002}
+{"genre":"Documentary","movie":"Take Your Pills","rating":6.4,"year":2018}
+{"genre":"Documentary, Drama, Reality-TV","movie":"Hoarders","rating":6.4,"year":2009}
+{"genre":"Documentary, Biography","movie":"Porn Star: The Legend of Ron Jeremy","rating":6.4,"year":2001}
+{"genre":"Documentary, Crime, Horror","movie":"Cropsey","rating":6.4,"year":2009}
+{"genre":"Documentary, Crime, History","movie":"Killer Legends","rating":6.4,"year":2014}
+{"genre":"Documentary","movie":"Naked States","rating":6.4,"year":2000}
+{"genre":"Documentary, Biography, Crime","movie":"The Jeffrey Dahmer Files","rating":6.4,"year":2012}
+{"genre":"Documentary, Comedy","movie":"The Aristocrats","rating":6.4,"year":2005}
+{"genre":"Documentary","movie":"Dear Mr. Watterson","rating":6.4,"year":2013}
+{"genre":"Documentary","movie":"Strong Island","rating":6.4,"year":2017}
+{"genre":"Documentary","movie":"Trekkies 2","rating":6.4,"year":2004}
+{"genre":"Documentary, Adventure, Reality-TV","movie":"Ice Road Truckers","rating":6.4,"year":2007}
+{"genre":"Documentary, Action, Comedy","movie":"Jackass 2.5","rating":6.5,"year":2007}
+{"genre":"Documentary, Comedy, Music","movie":"Sarah Silverman: Jesus Is Magic","rating":6.5,"year":2005}
+{"genre":"Documentary, Action, History","movie":"Hell and Back Again","rating":6.5,"year":2011}
+{"genre":"Documentary, Thriller","movie":"Girl Model","rating":6.5,"year":2011}
+{"genre":"Documentary, Music","movie":"One Direction: Where We Are - The Concert Film","rating":6.5,"year":2014}
+{"genre":"Documentary","movie":"American Teen","rating":6.5,"year":2008}
+{"genre":"Documentary, Music","movie":"Rock School","rating":6.5,"year":2005}
+{"genre":"Documentary, Biography, Sport","movie":"Cristiano Ronaldo: World at His Feet","rating":6.5,"year":2014}
+{"genre":"Documentary, Comedy, War","movie":"Where in the World Is Osama Bin Laden?","rating":6.5,"year":2008}
+{"genre":"Documentary","movie":"Derrida","rating":6.5,"year":2002}
+{"genre":"Documentary","movie":"Leviathan","rating":6.5,"year":2012}
+{"genre":"Documentary","movie":"Nobody Speak: Trials of the Free Press","rating":6.5,"year":2017}
+{"genre":"Documentary","movie":"Videocracy","rating":6.5,"year":2009}
+{"genre":"Documentary, Reality-TV","movie":"Little People, Big World","rating":6.5,"year":2006}
+{"genre":"Documentary, Family","movie":"Aliens of the Deep","rating":6.5,"year":2005}
+{"genre":"Documentary","movie":"Born Rich","rating":6.5,"year":2003}
+{"genre":"Documentary","movie":"Detropia","rating":6.5,"year":2012}
+{"genre":"Documentary, Drama","movie":"What the Bleep!?: Down the Rabbit Hole","rating":6.5,"year":2006}
+{"genre":"Documentary","movie":"My Date with Drew","rating":6.5,"year":2004}
+{"genre":"Documentary, Action, Comedy","movie":"Superheroes","rating":6.5,"year":2011}
+{"genre":"Documentary","movie":"Ghost Hunters","rating":6.5,"year":2004}
+{"genre":"Documentary","movie":"Five Dedicated to Ozu","rating":6.6,"year":2003}
+{"genre":"Documentary, History, News","movie":"Banking on Bitcoin","rating":6.6,"year":2016}
+{"genre":"Documentary, Music","movie":"Whitney: Can I Be Me","rating":6.6,"year":2017}
+{"genre":"Documentary","movie":"Southern Comfort","rating":6.6,"year":2001}
+{"genre":"Comedy, Documentary","movie":"DysFunktional Family","rating":6.6,"year":2003}
+{"genre":"Documentary, Comedy","movie":"The Greatest Movie Ever Sold","rating":6.6,"year":2011}
+{"genre":"Documentary, Biography","movie":"Unknown White Male","rating":6.6,"year":2005}
+{"genre":"Documentary, War","movie":"Gunner Palace","rating":6.6,"year":2004}
+{"genre":"Documentary, Action, Comedy","movie":"Jackass: The Movie","rating":6.6,"year":2002}
+{"genre":"Documentary, Short","movie":"O Mercador","rating":6.6,"year":2018}
+{"genre":"Documentary, Action, History","movie":"The Hornet's Nest","rating":6.6,"year":2014}
+{"genre":"Documentary","movie":"My Scientology Movie","rating":6.7,"year":2015}
+{"genre":"Documentary, Music","movie":"Super 8 Stories","rating":6.7,"year":2001}
+{"genre":"Documentary","movie":"Atari: Game Over","rating":6.7,"year":2014}
+{"genre":"Documentary","movie":"Saving Capitalism","rating":6.7,"year":2017}
+{"genre":"Documentary","movie":"Tony Robbins: I Am Not Your Guru","rating":6.7,"year":2016}
+{"genre":"Documentary","movie":"De Wilde Stad","rating":6.7,"year":2018}
+{"genre":"Documentary","movie":"No Impact Man: The Documentary","rating":6.7,"year":2009}
+{"genre":"Comedy, Documentary","movie":"The Original Kings of Comedy","rating":6.7,"year":2000}
+{"genre":"Documentary","movie":"Minimalism: A Documentary About the Important Things","rating":6.7,"year":2015}
+{"genre":"Documentary, Reality-TV","movie":"Miami Ink","rating":6.7,"year":20052008}
+{"genre":"Documentary, Crime","movie":"Gringo: The Dangerous Life of John McAfee","rating":6.7,"year":2016}
+{"genre":"Documentary, Biography, Drama","movie":"Mustafa","rating":6.7,"year":2008}
+{"genre":"Documentary, Crime, History","movie":"Cocaine Cowboys 2","rating":6.7,"year":2008}
+{"genre":"Documentary, Comedy","movie":"The People vs. George Lucas","rating":6.7,"year":2010}
+{"genre":"Documentary","movie":"Seduced and Abandoned","rating":6.7,"year":2013}
+{"genre":"Documentary, Biography, Sport","movie":"Becoming Zlatan","rating":6.7,"year":2015}
+{"genre":"Documentary","movie":"Obsession: Radical Islam's War Against the West","rating":6.7,"year":2005}
+{"genre":"Documentary, Music","movie":"Naqoyqatsi","rating":6.7,"year":2002}
+{"genre":"Documentary","movie":"In the Basement","rating":6.7,"year":2014}
+{"genre":"Documentary, Sport","movie":"Maradona by Kusturica","rating":6.7,"year":2008}
+{"genre":"Documentary","movie":"Salinger","rating":6.7,"year":2013}
+{"genre":"Documentary, Action, Comedy","movie":"Nitro Circus: The Movie","rating":6.7,"year":2012}
+{"genre":"Documentary, Comedy","movie":"Kevin Hart: Let Me Explain","rating":6.8,"year":2013}
+{"genre":"Documentary","movie":" The Blue Planet","rating":6.8,"year":2001}
+{"genre":"Documentary","movie":"The Great Global Warming Swindle","rating":6.8,"year":2007}
+{"genre":"Documentary, Reality-TV, Sport","movie":"Overhaulin'","rating":6.8,"year":2004}
+{"genre":"Documentary","movie":"Human Flow: Não Existe Lar se Não Há Para Onde Ir","rating":6.8,"year":2017}
+{"genre":"Documentary","movie":"Art & Copy","rating":6.8,"year":2009}
+{"genre":"Documentary","movie":"Baadasssss Cinema","rating":6.8,"year":2002}
+{"genre":"Documentary, Comedy","movie":"The Three Amigos","rating":6.8,"year":2003}
+{"genre":"Documentary, Biography, History","movie":"Inside Deep Throat","rating":6.8,"year":2005}
+{"genre":"Documentary, Action, Comedy","movie":"Jackass 3.5","rating":6.8,"year":2011}
+{"genre":"Documentary","movie":"Wal-Mart: The High Cost of Low Price","rating":6.8,"year":2005}
+{"genre":"Documentary, Horror","movie":"Dario Argento: An Eye for Horror","rating":6.8,"year":2000}
+{"genre":"Documentary, Sci-Fi","movie":"Aftermath: Population Zero","rating":6.8,"year":2008}
+{"genre":"Documentary","movie":"I Think We're Alone Now","rating":6.8,"year":2008}
+{"genre":"Documentary, Biography, Drama","movie":"Knuckle","rating":6.8,"year":2011}
+{"genre":"Documentary","movie":"Thrive: What on Earth Will it Take?","rating":6.8,"year":2011}
+{"genre":"Documentary, Biography, Crime","movie":"Whitey: United States of America v. James J. Bulger","rating":6.8,"year":2014}
+{"genre":"Documentary","movie":"Fogo no Mar","rating":6.8,"year":2016}
+{"genre":"Documentary, History, News","movie":"Korengal","rating":6.8,"year":2014}
+{"genre":"Documentary, Adventure","movie":"Craigslist Joe","rating":6.8,"year":2012}
+{"genre":"Documentary","movie":"Seeing Allred","rating":6.8,"year":2018}
+{"genre":"Documentary","movie":"Hell House","rating":6.8,"year":2001}
+{"genre":"Documentary","movie":"There's Something Wrong with Aunt Diane","rating":6.8,"year":2011}
+{"genre":"Documentary, Biography, Drama","movie":"Dreams of a Life","rating":6.8,"year":2011}
+{"genre":"Documentary, Thriller","movie":"Talhotblond:","rating":6.8,"year":2009}
+{"genre":"Documentary","movie":"The Propaganda Game","rating":6.8,"year":2015}
+{"genre":"Documentary","movie":"Game Over: Kasparov and the Machine","rating":6.8,"year":2003}
+{"genre":"Documentary, Adventure, Romance","movie":"Keep the River on Your Right: A Modern Cannibal Tale","rating":6.8,"year":2000}
+{"genre":"Documentary, Comedy","movie":"Dane Cook: Vicious Circle","rating":6.8,"year":2006}
+{"genre":"Documentary","movie":"We Steal Secrets: The Story of WikiLeaks","rating":6.9,"year":2013}
+{"genre":"Documentary, Biography, Family","movie":"Mitt","rating":6.9,"year":2014}
+{"genre":"Documentary","movie":"Page One: Inside the New York Times","rating":6.9,"year":2011}
+{"genre":"Documentary","movie":"The Unbelievers","rating":6.9,"year":2013}
+{"genre":"Documentary, Adventure","movie":"The Summit","rating":6.9,"year":2012}
+{"genre":"Documentary, Comedy","movie":"Exporting Raymond","rating":6.9,"year":2010}
+{"genre":"Documentary, Short","movie":"Heroin(e)","rating":6.9,"year":2017}
+{"genre":"Documentary, Biography","movie":"The Captains","rating":6.9,"year":2011}
+{"genre":"Documentary","movie":"He Named Me Malala","rating":6.9,"year":2015}
+{"genre":"Documentary","movie":"Downloaded","rating":6.9,"year":2013}
+{"genre":"Documentary","movie":"Drug Lords","rating":6.9,"year":2018}
+{"genre":"Documentary","movie":"The Flat","rating":6.9,"year":2011}
+{"genre":"Documentary","movie":"Meet the Mormons","rating":6.9,"year":2014}
+{"genre":"Documentary","movie":"The Woman Who Wasn't There","rating":6.9,"year":2012}
+{"genre":"Documentary","movie":"Countdown to Zero","rating":6.9,"year":2010}
+{"genre":"Documentary","movie":"Steve Jobs: The Man in the Machine","rating":6.9,"year":2015}
+{"genre":"Documentary","movie":" Rotten","rating":6.9,"year":2018}
+{"genre":"Documentary","movie":"Bodysong","rating":6.9,"year":2003}
+{"genre":"Documentary, Biography, Music","movie":"Leonard Cohen: I'm Your Man","rating":6.9,"year":2005}
+{"genre":"Documentary, Biography, Crime","movie":"Biggie and Tupac","rating":6.9,"year":2002}
+{"genre":"Documentary, Comedy","movie":"Word Wars","rating":6.9,"year":2004}
+{"genre":"Documentary, Short","movie":"Journey Into Amazing Caves","rating":6.9,"year":2001}
+{"genre":"Documentary, Crime","movie":"Crips and Bloods: Made in America","rating":6.9,"year":2008}
+{"genre":"Documentary, Comedy","movie":"Good Hair","rating":6.9,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The God Who Wasn't There","rating":6.9,"year":2005}
+{"genre":"Documentary, Comedy","movie":"The Yes Men","rating":6.9,"year":2003}
+{"genre":"Documentary, Family","movie":"Ghosts of the Abyss","rating":6.9,"year":2003}
+{"genre":"Documentary","movie":"Journeys with George","rating":6.9,"year":2002}
+{"genre":"Documentary, Comedy","movie":"Margaret Cho: Notorious C.H.O.","rating":6.9,"year":2002}
+{"genre":"Documentary, Biography, Crime","movie":"Pussy Riot: A Punk Prayer","rating":7.0,"year":2013}
+{"genre":"Documentary, Sport","movie":"Deutschland. Ein Sommermärchen","rating":7.0,"year":2006}
+{"genre":"Documentary, Comedy","movie":"Jerry Before Seinfeld","rating":7.0,"year":2017}
+{"genre":"Documentary, Music","movie":"Cool and Crazy","rating":7.0,"year":2001}
+{"genre":"Documentary","movie":"The F Word","rating":7.0,"year":2005}
+{"genre":"Documentary, Comedy, Music","movie":"Conan O'Brien Can't Stop","rating":7.0,"year":2011}
+{"genre":"Documentary, Animation, Short","movie":"Magnificent Desolation: Walking on the Moon 3D","rating":7.0,"year":2005}
+{"genre":"Documentary, Music, Reality-TV","movie":"Run's House","rating":7.0,"year":2005}
+{"genre":"Documentary","movie":"The September Issue","rating":7.0,"year":2009}
+{"genre":"Documentary","movie":"Somm","rating":7.0,"year":2012}
+{"genre":"Documentary","movie":"Man vs Snake: The Long and Twisted Tale of Nibbler","rating":7.0,"year":2015}
+{"genre":"Documentary, Biography","movie":"The Wolfpack","rating":7.0,"year":2015}
+{"genre":"Documentary, Comedy","movie":"Comedy Central Roast of Flavor Flav","rating":7.0,"year":2007}
+{"genre":"Documentary, Comedy","movie":"Comedian","rating":7.0,"year":2002}
+{"genre":"Documentary, Biography, Sport","movie":"Pantani: The Accidental Death of a Cyclist","rating":7.0,"year":2014}
+{"genre":"Comedy, Documentary","movie":"David Cross: Let America Laugh","rating":7.0,"year":2003}
+{"genre":"Documentary, Biography, Sport","movie":"Like Water","rating":7.0,"year":2011}
+{"genre":"Documentary","movie":"Comandante","rating":7.0,"year":2003}
+{"genre":"Documentary","movie":"Welcome to Leith","rating":7.0,"year":2015}
+{"genre":"Documentary, Comedy","movie":"Brainiac: Science Abuse","rating":7.0,"year":20032008}
+{"genre":"Documentary, Crime","movie":"Amanda Knox","rating":7.0,"year":2016}
+{"genre":"Documentary","movie":"Deep Web","rating":7.0,"year":2015}
+{"genre":"Documentary, Biography, Music","movie":"Mayor of the Sunset Strip","rating":7.0,"year":2003}
+{"genre":"Documentary","movie":"Comic-Con Episode IV: A Fan's Hope","rating":7.0,"year":2011}
+{"genre":"Documentary, Action, Comedy","movie":"Jackass 3D","rating":7.0,"year":2010}
+{"genre":"Documentary, Comedy","movie":"Norm Macdonald: Hitler's Dog, Gossip & Trickery","rating":7.0,"year":2017}
+{"genre":"Documentary","movie":"Louis, Martin & Michael","rating":7.0,"year":2003}
+{"genre":"Documentary","movie":"The Redeemed and the Dominant: Fittest on Earth","rating":7.0,"year":2018}
+{"genre":"Documentary","movie":"ABC Africa","rating":7.0,"year":2001}
+{"genre":"Documentary","movie":"911: In Plane Site","rating":7.0,"year":2004}
+{"genre":"Documentary","movie":"Stan Lee's Mutants, Monsters & Marvels","rating":7.0,"year":2002}
+{"genre":"Documentary","movie":"Endgame","rating":7.0,"year":2007}
+{"genre":"Documentary, Biography, Sport","movie":"Iverson","rating":7.0,"year":2014}
+{"genre":"Documentary, Reality-TV","movie":"American Pickers","rating":7.0,"year":2010}
+{"genre":"Documentary, Family","movie":"Arctic Tale","rating":7.0,"year":2007}
+{"genre":"Documentary","movie":"The Parking Lot Movie","rating":7.0,"year":2010}
+{"genre":"Documentary, Comedy, Drama","movie":"1000 Ways to Die","rating":7.0,"year":20082012}
+{"genre":"Documentary","movie":"Prescription Thugs","rating":7.0,"year":2015}
+{"genre":"Documentary, Horror","movie":"A Haunting in Connecticut","rating":7.0,"year":2002}
+{"genre":"Documentary","movie":"9\/11: The Road to Tyranny","rating":7.0,"year":2002}
+{"genre":"Documentary, Comedy","movie":"Aziz Ansari: Dangerously Delicious","rating":7.1,"year":2012}
+{"genre":"Documentary, Comedy","movie":"Bill Burr: Walk Your Way Out","rating":7.1,"year":2017}
+{"genre":"Documentary, Biography","movie":"Wormwood","rating":7.1,"year":2017}
+{"genre":"Documentary, Romance","movie":"Crazy Love","rating":7.1,"year":2007}
+{"genre":"Documentary","movie":"King Corn","rating":7.1,"year":2007}
+{"genre":"Documentary","movie":"One of Us","rating":7.1,"year":2017}
+{"genre":"Documentary","movie":"The Queen of Versailles","rating":7.1,"year":2012}
+{"genre":"Documentary","movie":"Small Town Gay Bar","rating":7.1,"year":2006}
+{"genre":"Documentary","movie":"Who the #$&% Is Jackson Pollock?","rating":7.1,"year":2006}
+{"genre":"Documentary","movie":"The Last Gladiators","rating":7.1,"year":2011}
+{"genre":"Documentary","movie":"Chasing Ghosts: Beyond the Arcade","rating":7.1,"year":2007}
+{"genre":"Documentary","movie":"The Basque Ball: Skin Against Stone","rating":7.1,"year":2003}
+{"genre":"Documentary, Comedy","movie":"Bill Maher: Victory Begins at Home","rating":7.1,"year":2003}
+{"genre":"Documentary, Biography, Sport","movie":"I Am Bolt","rating":7.1,"year":2016}
+{"genre":"Comedy, Documentary","movie":"Blue Collar Comedy Tour Rides Again","rating":7.1,"year":2004}
+{"genre":"Documentary","movie":"Holy Hell","rating":7.1,"year":2016}
+{"genre":"Documentary, Biography, Music","movie":"Nas: Time Is Illmatic","rating":7.1,"year":2014}
+{"genre":"Documentary, Crime","movie":"Tales of the Grim Sleeper","rating":7.1,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"Gascoigne","rating":7.1,"year":2015}
+{"genre":"Documentary","movie":"The Gleaners and I: Two Years Later","rating":7.1,"year":2002}
+{"genre":"Documentary","movie":"Cinemania","rating":7.1,"year":2002}
+{"genre":"Documentary","movie":"Surplus: Terrorized Into Being Consumers","rating":7.1,"year":2003}
+{"genre":"Documentary","movie":"Devil's Playground","rating":7.1,"year":2002}
+{"genre":"Documentary, Biography, Crime","movie":"The Witness","rating":7.1,"year":2015}
+{"genre":"Documentary","movie":"Lo and Behold, Reveries of the Connected World","rating":7.1,"year":2016}
+{"genre":"Documentary","movie":"Overnight","rating":7.1,"year":2003}
+{"genre":"Documentary","movie":"The Death of \"Superman Lives\": What Happened?","rating":7.1,"year":2015}
+{"genre":"Documentary, Action, Drama","movie":"Ghosts of Cité Soleil","rating":7.1,"year":2006}
+{"genre":"Documentary, Drama, Sport","movie":"Generation Iron","rating":7.1,"year":2013}
+{"genre":"Documentary, Animation","movie":"Is the Man Who Is Tall Happy?","rating":7.1,"year":2013}
+{"genre":"Documentary, Biography, History","movie":"The Unknown Known","rating":7.1,"year":2013}
+{"genre":"Documentary, Biography, Music","movie":"Gaga: Five Foot Two","rating":7.1,"year":2017}
+{"genre":"Documentary, Action, Comedy","movie":"Jackass Number Two","rating":7.1,"year":2006}
+{"genre":"Documentary","movie":"Unacknowledged","rating":7.1,"year":2017}
+{"genre":"Documentary, Sport","movie":"Knuckleball!","rating":7.1,"year":2012}
+{"genre":"Documentary","movie":"That Guy ... Who Was in That Thing 1","rating":7.1,"year":2012}
+{"genre":"Documentary","movie":"Startup.com","rating":7.1,"year":2001}
+{"genre":"Documentary, Biography","movie":"A Huey P. Newton Story","rating":7.1,"year":2001}
+{"genre":"Documentary, History","movie":" National Geographic Explorer","rating":7.1,"year":1985}
+{"genre":"Documentary","movie":"Home Movie","rating":7.1,"year":2001}
+{"genre":"Documentary","movie":"Johan Cruijff - En un momento dado","rating":7.1,"year":2004}
+{"genre":"Documentary, Adventure","movie":"The Last Trapper","rating":7.1,"year":2004}
+{"genre":"Documentary","movie":"Mondovino","rating":7.1,"year":2004}
+{"genre":"Documentary","movie":"Genesis","rating":7.1,"year":2004}
+{"genre":"Documentary, Music","movie":"Britney Spears Live from Las Vegas","rating":7.1,"year":2001}
+{"genre":"Documentary, Crime, Drama","movie":"Kids for Cash","rating":7.1,"year":2013}
+{"genre":"Documentary","movie":"Fuck","rating":7.1,"year":2005}
+{"genre":"Documentary, Music","movie":"Rize","rating":7.1,"year":2005}
+{"genre":"Documentary","movie":"Trembling Before G-d","rating":7.1,"year":2001}
+{"genre":"Documentary, Sport","movie":"Into the Mind","rating":7.1,"year":2013}
+{"genre":"Documentary","movie":"Casino Jack and the United States of Money","rating":7.1,"year":2010}
+{"genre":"Documentary, Horror","movie":"His Name Was Jason: 30 Years of Friday the 13th","rating":7.1,"year":2009}
+{"genre":"Documentary, Music","movie":"Until the Light Takes Us","rating":7.1,"year":2008}
+{"genre":"Documentary","movie":"Catfish","rating":7.1,"year":2010}
+{"genre":"Documentary, Crime","movie":"Tabloid","rating":7.1,"year":2010}
+{"genre":"Documentary","movie":"South of the Border","rating":7.1,"year":2009}
+{"genre":"Documentary, Music","movie":"Beautiful Losers","rating":7.1,"year":2008}
+{"genre":"Documentary","movie":"Just, Melvin: Just Evil","rating":7.1,"year":2000}
+{"genre":"Documentary","movie":"The Wild and Wonderful Whites of West Virginia","rating":7.1,"year":2009}
+{"genre":"Documentary","movie":"Objectified","rating":7.1,"year":2009}
+{"genre":"Documentary","movie":"Bebês","rating":7.1,"year":2010}
+{"genre":"Documentary, History, War","movie":"The Age of Stupid","rating":7.1,"year":2009}
+{"genre":"Documentary","movie":"American Grindhouse","rating":7.1,"year":2010}
+{"genre":"Documentary","movie":"Rotten","rating":7.1,"year":2018}
+{"genre":"Documentary","movie":"Examined Life","rating":7.1,"year":2008}
+{"genre":"Documentary","movie":"Tales from the Script","rating":7.1,"year":2009}
+{"genre":"Documentary, Music","movie":"Something from Nothing: The Art of Rap","rating":7.2,"year":2012}
+{"genre":"Documentary","movie":"Viva Zapatero!","rating":7.2,"year":2005}
+{"genre":"Documentary","movie":"Chimpanzé","rating":7.2,"year":2012}
+{"genre":"Comedy, Documentary","movie":"Blue Collar Comedy Tour: The Movie","rating":7.2,"year":2003}
+{"genre":"Documentary, Biography","movie":"Tarnation","rating":7.2,"year":2003}
+{"genre":"Documentary, Crime","movie":"Aileen: Life and Death of a Serial Killer","rating":7.2,"year":2003}
+{"genre":"Documentary, Biography","movie":"Cutie and the Boxer","rating":7.2,"year":2013}
+{"genre":"Documentary","movie":"Lovecraft: Fear of the Unknown","rating":7.2,"year":2008}
+{"genre":"Documentary, Music","movie":"loudQUIETloud: A Film About the Pixies","rating":7.2,"year":2006}
+{"genre":"Documentary, Biography, Music","movie":"Air Guitar Nation","rating":7.2,"year":2006}
+{"genre":"Documentary","movie":"Valentino: The Last Emperor","rating":7.2,"year":2008}
+{"genre":"Documentary","movie":"Keith Richards: Under the Influence","rating":7.2,"year":2015}
+{"genre":"Documentary","movie":"Transcendent Man","rating":7.2,"year":2009}
+{"genre":"Documentary","movie":"Fat Head","rating":7.2,"year":2009}
+{"genre":"Documentary","movie":"Betting on Zero","rating":7.2,"year":2016}
+{"genre":"Documentary, Comedy, Romance","movie":"Meet the Patels","rating":7.2,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"I Am Ali","rating":7.2,"year":2014}
+{"genre":"Documentary, Biography","movie":"The Green Prince","rating":7.2,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"Manny","rating":7.2,"year":2014}
+{"genre":"Documentary","movie":"We Live in Public","rating":7.2,"year":2009}
+{"genre":"Documentary","movie":"Wheel of Time","rating":7.2,"year":2003}
+{"genre":"Documentary","movie":"Born in China","rating":7.2,"year":2016}
+{"genre":"Documentary","movie":"Dinosaur 13","rating":7.2,"year":2014}
+{"genre":"Documentary","movie":"Into the Inferno","rating":7.2,"year":2016}
+{"genre":"Documentary, Music","movie":"Live Forever","rating":7.2,"year":2003}
+{"genre":"Documentary","movie":"Banksy Does New York","rating":7.2,"year":2014}
+{"genre":"Documentary","movie":"Pecados do Meu Pai","rating":7.2,"year":2009}
+{"genre":"Documentary, Comedy","movie":"Aziz Ansari: Intimate Moments for a Sensual Evening","rating":7.2,"year":2010}
+{"genre":"Documentary, Music","movie":"Gimme Danger","rating":7.2,"year":2016}
+{"genre":"Documentary, Biography","movie":"David Lynch: The Art Life","rating":7.2,"year":2016}
+{"genre":"Documentary, Biography, Drama","movie":"Who Took Johnny","rating":7.2,"year":2014}
+{"genre":"Documentary, Comedy, Drama","movie":"Super Size Me","rating":7.2,"year":2004}
+{"genre":"Documentary","movie":"Audrie & Daisy","rating":7.2,"year":2016}
+{"genre":"Documentary, Action, Sci-Fi","movie":"DC's Legends of Tomorrow: Their Time Is Now","rating":7.2,"year":2016}
+{"genre":"Documentary, Comedy, Music","movie":"Dave Chappelle's Block Party","rating":7.2,"year":2005}
+{"genre":"Documentary, History, Mystery","movie":"Loose Change: Second Edition","rating":7.2,"year":2005}
+{"genre":"Documentary","movie":"Rewind This!","rating":7.2,"year":2013}
+{"genre":"Documentary","movie":"Narco Cultura","rating":7.2,"year":2013}
+{"genre":"Documentary, Comedy","movie":"Jimmy Carr: Funny Business","rating":7.2,"year":2016}
+{"genre":"Documentary","movie":"Schlock! The Secret History of American Movies","rating":7.2,"year":2001}
+{"genre":"Documentary, Horror","movie":"Nightmares in Red, White and Blue: The Evolution of the American Horror Film","rating":7.2,"year":2009}
+{"genre":"Documentary, Biography, Drama","movie":"The Arbor","rating":7.2,"year":2010}
+{"genre":"Documentary, Biography, Comedy","movie":"Winnebago Man","rating":7.2,"year":2009}
+{"genre":"Documentary, History, War","movie":"Loose Change 9\/11: An American Coup","rating":7.2,"year":2009}
+{"genre":"Documentary, Comedy","movie":"Comedy Central Roast of Pamela Anderson","rating":7.2,"year":2005}
+{"genre":"Documentary","movie":"Abacus: Small Enough to Jail","rating":7.2,"year":2016}
+{"genre":"Documentary","movie":"Plötsligt i Vinslöv","rating":7.2,"year":2001}
+{"genre":"Documentary","movie":"Whores' Glory","rating":7.2,"year":2011}
+{"genre":"Documentary, Sport","movie":"First Descent","rating":7.2,"year":2005}
+{"genre":"Documentary, Biography","movie":"Fellini: I'm a Born Liar","rating":7.2,"year":2002}
+{"genre":"Documentary","movie":"The Backyard","rating":7.2,"year":2002}
+{"genre":"Documentary, Biography, Crime","movie":"If a Tree Falls: A Story of the Earth Liberation Front","rating":7.2,"year":2011}
+{"genre":"Documentary, Family, Mystery","movie":"My Kid Could Paint That","rating":7.2,"year":2007}
+{"genre":"Documentary, Biography, Sport","movie":"Conor McGregor: Notorious","rating":7.2,"year":2017}
+{"genre":"Documentary, Sport","movie":"Stoked: The Rise and Fall of Gator","rating":7.2,"year":2002}
+{"genre":"Documentary, Biography","movie":"The Eyes of Tammy Faye","rating":7.2,"year":2000}
+{"genre":"Documentary","movie":"Helvetica","rating":7.2,"year":2007}
+{"genre":"Documentary","movie":"Confessions of a Superhero","rating":7.2,"year":2007}
+{"genre":"Documentary, Biography, History","movie":"Terror's Advocate","rating":7.2,"year":2007}
+{"genre":"Documentary, History","movie":"DRUNK STONED BRILLIANT DEAD: The Story of the National Lampoon","rating":7.2,"year":2015}
+{"genre":"Documentary, Biography, Music","movie":"Shine a Light","rating":7.2,"year":2008}
+{"genre":"Documentary, History, Mystery","movie":"Loose Change: Final Cut","rating":7.2,"year":2007}
+{"genre":"Documentary, Comedy","movie":"Vegucated","rating":7.2,"year":2011}
+{"genre":"Documentary","movie":"Revenge of the Electric Car","rating":7.2,"year":2011}
+{"genre":"Documentary","movie":"Decasia","rating":7.3,"year":2002}
+{"genre":"Documentary","movie":"DMT: The Spirit Molecule","rating":7.3,"year":2010}
+{"genre":"Documentary","movie":"We Are Legion: The Story of the Hacktivists","rating":7.3,"year":2012}
+{"genre":"Documentary, Music","movie":"The Stone Roses: Made of Stone","rating":7.3,"year":2013}
+{"genre":"Documentary","movie":"Resurrect Dead: The Mystery of the Toynbee Tiles","rating":7.3,"year":2011}
+{"genre":"Documentary, Biography","movie":"Love, Marilyn","rating":7.3,"year":2012}
+{"genre":"Documentary","movie":"Beef","rating":7.3,"year":2003}
+{"genre":"Documentary","movie":"Manufactured Landscapes","rating":7.3,"year":2006}
+{"genre":"Documentary, Biography, Crime","movie":"Team Foxcatcher","rating":7.3,"year":2016}
+{"genre":"Documentary","movie":"Maxed Out","rating":7.3,"year":2006}
+{"genre":"Documentary, Adventure, Comedy","movie":"Wildboyz","rating":7.3,"year":20032006}
+{"genre":"Documentary, Horror","movie":"Going to Pieces: The Rise and Fall of the Slasher Film","rating":7.3,"year":2006}
+{"genre":"Documentary","movie":"The Director and The Jedi","rating":7.3,"year":2018}
+{"genre":"Documentary, Biography, Drama","movie":"Rich Hill","rating":7.3,"year":2014}
+{"genre":"Documentary, Crime, Drama","movie":"Into the Abyss","rating":7.3,"year":2011}
+{"genre":"Documentary, Comedy","movie":"Revolution OS","rating":7.3,"year":2001}
+{"genre":"Documentary, Biography, Sport","movie":"The Armstrong Lie","rating":7.3,"year":2013}
+{"genre":"Documentary, Comedy","movie":"Bill Maher: I'm Swiss","rating":7.3,"year":2005}
+{"genre":"Documentary, Biography, War","movie":"Eu Fui a Secretária de Hitler","rating":7.3,"year":2002}
+{"genre":"Documentary, Music","movie":"This Is It","rating":7.3,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The Goebbels Experiment","rating":7.3,"year":2005}
+{"genre":"Documentary, Drama","movie":"Ao Mar","rating":7.3,"year":2009}
+{"genre":"Documentary","movie":"David Bowie: The Last Five Years","rating":7.3,"year":2017}
+{"genre":"Documentary, Comedy","movie":"Kim Jong-Il's Comedy Club","rating":7.3,"year":2009}
+{"genre":"Documentary, Comedy","movie":"Aziz Ansari: Buried Alive","rating":7.3,"year":2013}
+{"genre":"Documentary, Music","movie":"Daft Punk Unchained","rating":7.3,"year":2015}
+{"genre":"Documentary, History, Music","movie":"All Things Must Pass: The Rise and Fall of Tower Records","rating":7.3,"year":2015}
+{"genre":"Documentary, Comedy, Music","movie":"Mistaken for Strangers","rating":7.3,"year":2013}
+{"genre":"Documentary","movie":"Harmontown","rating":7.3,"year":2014}
+{"genre":"Documentary","movie":"Monkey Kingdom","rating":7.3,"year":2015}
+{"genre":"Documentary, Drama, History","movie":"A Film Unfinished","rating":7.3,"year":2010}
+{"genre":"Documentary","movie":"The Ambassador","rating":7.3,"year":2011}
+{"genre":"Documentary, Drama","movie":"The Bridge","rating":7.3,"year":2006}
+{"genre":"Documentary, Biography","movie":"Of Time and the City","rating":7.3,"year":2008}
+{"genre":"Documentary, Short","movie":"Extremis","rating":7.3,"year":2016}
+{"genre":"Documentary","movie":"The 11th Hour","rating":7.3,"year":2007}
+{"genre":"Documentary, Adventure, Biography","movie":"The Wildest Dream","rating":7.3,"year":2010}
+{"genre":"Documentary, History","movie":"America: The Story of the US","rating":7.3,"year":2010}
+{"genre":"Documentary","movie":"The Year of the Yao","rating":7.3,"year":2004}
+{"genre":"Documentary, Music","movie":"Welcome to Death Row","rating":7.3,"year":2001}
+{"genre":"Documentary","movie":"Manda Bala (Send a Bullet)","rating":7.3,"year":2007}
+{"genre":"Documentary","movie":"Born Into Brothels: Calcutta's Red Light Kids","rating":7.3,"year":2004}
+{"genre":"Documentary","movie":"I Like Killing Flies","rating":7.3,"year":2004}
+{"genre":"Documentary, Comedy","movie":"Peter Kay: Live at the Manchester Arena","rating":7.3,"year":2004}
+{"genre":"Documentary","movie":"Twist of Faith","rating":7.3,"year":2004}
+{"genre":"Documentary, Comedy, Drama","movie":"The Other F Word","rating":7.3,"year":2011}
+{"genre":"Documentary, Biography, Sport","movie":"Champs","rating":7.3,"year":2014}
+{"genre":"Documentary, War","movie":"Noam Chomsky: Rebel Without a Pause","rating":7.3,"year":2003}
+{"genre":"Documentary, Sport","movie":"Once in a Lifetime: The Extraordinary Story of the New York Cosmos","rating":7.3,"year":2006}
+{"genre":"Documentary, Sport","movie":"Surfwise","rating":7.3,"year":2007}
+{"genre":"Documentary, Biography, History","movie":"Good Ol' Freda","rating":7.3,"year":2013}
+{"genre":"Documentary","movie":"Sour Grapes","rating":7.3,"year":2016}
+{"genre":"Documentary, War","movie":"Iraq in Fragments","rating":7.3,"year":2006}
+{"genre":"Documentary, Crime","movie":"Roman Polanski: Wanted and Desired","rating":7.3,"year":2008}
+{"genre":"Documentary, Biography, Sport","movie":"Messi","rating":7.3,"year":2014}
+{"genre":"Documentary","movie":"Dior e Eu","rating":7.3,"year":2014}
+{"genre":"Documentary, Biography, Music","movie":"Scott Walker: 30 Century Man","rating":7.3,"year":2006}
+{"genre":"Documentary, Comedy, Drama","movie":"Best Worst Movie","rating":7.3,"year":2009}
+{"genre":"Documentary, Animation, History","movie":"Chicago 10","rating":7.4,"year":2007}
+{"genre":"Documentary","movie":"Howard Zinn: You Can't Be Neutral on a Moving Train","rating":7.4,"year":2004}
+{"genre":"Documentary","movie":"Megastructures","rating":7.4,"year":2004}
+{"genre":"Documentary, Sci-Fi","movie":"The Beginning: Making 'Episode I'","rating":7.4,"year":2001}
+{"genre":"Documentary, News","movie":"Terms and Conditions May Apply","rating":7.4,"year":2013}
+{"genre":"Documentary, Biography, Sport","movie":"Linsanity","rating":7.4,"year":2013}
+{"genre":"Documentary, Biography, Music","movie":"The Nomi Song","rating":7.4,"year":2004}
+{"genre":"Documentary, Crime, News","movie":"Capitalism: A Love Story","rating":7.4,"year":2009}
+{"genre":"Documentary","movie":"Particle Fever","rating":7.4,"year":2013}
+{"genre":"Documentary","movie":"That Sugar Film","rating":7.4,"year":2014}
+{"genre":"Documentary","movie":"Defamation","rating":7.4,"year":2009}
+{"genre":"Documentary, History, Sci-Fi","movie":"Ancient Aliens","rating":7.4,"year":2009}
+{"genre":"Documentary, Music","movie":"Score: A Film Music Documentary","rating":7.4,"year":2016}
+{"genre":"Documentary, Music","movie":"Down from the Mountain","rating":7.4,"year":2000}
+{"genre":"Documentary, Reality-TV, Talk-Show","movie":"Girls Incarcerated","rating":7.4,"year":2018}
+{"genre":"Documentary, History","movie":"O Ataque das Mulheres Assassinas","rating":7.4,"year":2010}
+{"genre":"Documentary","movie":"Louis Theroux: Under the Knife","rating":7.4,"year":2007}
+{"genre":"Documentary","movie":"Louis Theroux: A Place for Paedophiles","rating":7.4,"year":2009}
+{"genre":"Documentary, Biography","movie":"De Palma","rating":7.4,"year":2015}
+{"genre":"Documentary","movie":"Bears","rating":7.4,"year":2014}
+{"genre":"Documentary, War","movie":"Paper Clips","rating":7.4,"year":2004}
+{"genre":"Documentary","movie":"Into Great Silence","rating":7.4,"year":2005}
+{"genre":"Documentary, Music","movie":"Michael Jackson's Journey from Motown to Off the Wall","rating":7.4,"year":2016}
+{"genre":"Comedy, Documentary","movie":"The Comedians of Comedy","rating":7.4,"year":2005}
+{"genre":"Documentary","movie":"Under the Sun","rating":7.4,"year":2015}
+{"genre":"Documentary","movie":"Expedition: Bismarck","rating":7.4,"year":2002}
+{"genre":"Documentary, Biography, Music","movie":"Supermensch: The Legend of Shep Gordon","rating":7.4,"year":2013}
+{"genre":"Documentary, Biography","movie":"My Architect","rating":7.4,"year":2003}
+{"genre":"Documentary, Biography, Comedy","movie":"Joan Rivers: A Piece of Work","rating":7.4,"year":2010}
+{"genre":"Documentary","movie":"Chelsea Does","rating":7.4,"year":2016}
+{"genre":"Documentary","movie":"A Imagem que Falta","rating":7.4,"year":2013}
+{"genre":"Documentary","movie":"Cameraperson","rating":7.4,"year":2016}
+{"genre":"Documentary, Adventure, Drama","movie":"Living on One Dollar","rating":7.4,"year":2013}
+{"genre":"Documentary","movie":"Big River Man","rating":7.4,"year":2009}
+{"genre":"Documentary","movie":"Client 9: The Rise and Fall of Eliot Spitzer","rating":7.4,"year":2010}
+{"genre":"Documentary","movie":"Midnight Movies: From the Margin to the Mainstream","rating":7.4,"year":2005}
+{"genre":"Documentary","movie":"Pandora's Promise","rating":7.4,"year":2013}

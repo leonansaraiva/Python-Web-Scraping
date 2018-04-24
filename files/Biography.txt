@@ -1,0 +1,500 @@
+{"genre":"Biography, Drama","movie":"Reis","rating":1.8,"year":2017}
+{"genre":"Biography, Horror, Sci-Fi","movie":"Alien Origin","rating":1.9,"year":2012}
+{"genre":"Documentary, Biography","movie":"The Undefeated","rating":2.2,"year":2011}
+{"genre":"Adventure, Biography, Drama","movie":"The Gaul","rating":2.7,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"Time You Change","rating":2.8,"year":2010}
+{"genre":"Biography, Drama","movie":"Liz & Dick","rating":4.1,"year":2012}
+{"genre":"Biography, Drama, History","movie":"Killing Jesus","rating":4.6,"year":2015}
+{"genre":"Biography, Crime, Drama","movie":"Gacy","rating":4.7,"year":2003}
+{"genre":"Biography, Drama","movie":"Pregnancy Pact","rating":5.0,"year":2010}
+{"genre":"Adventure, Biography, Comedy","movie":"Army of One","rating":5.0,"year":2016}
+{"genre":"Biography, Drama, Romance","movie":"William & Kate","rating":5.0,"year":2011}
+{"genre":"Biography, Drama, War","movie":"Everyman's War","rating":5.1,"year":2009}
+{"genre":"Biography, Drama","movie":"The 15:17 to Paris","rating":5.1,"year":2018}
+{"genre":"Biography, Drama, History","movie":"Sibelius","rating":5.2,"year":2003}
+{"genre":"Biography, Comedy, Drama","movie":"The Longshots","rating":5.2,"year":2008}
+{"genre":"Action, Biography, Drama","movie":"Free Man","rating":5.2,"year":2011}
+{"genre":"Biography, Crime, Drama","movie":"Get Rich or Die Tryin'","rating":5.2,"year":2005}
+{"genre":"Biography, Drama","movie":"Klimt","rating":5.2,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Mathilde","rating":5.3,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"The Craigslist Killer","rating":5.3,"year":2011}
+{"genre":"Biography, Drama, Romance","movie":"Against the Ropes","rating":5.3,"year":2004}
+{"genre":"Biography, Drama, Music","movie":"Veljeni vartija","rating":5.3,"year":2018}
+{"genre":"Biography, Drama","movie":"Anna Nicole","rating":5.3,"year":2013}
+{"genre":"Action, Biography, Drama","movie":"A Origem do Dragão","rating":5.3,"year":2016}
+{"genre":"Biography, Comedy, Romance","movie":"Isn't She Great","rating":5.4,"year":2000}
+{"genre":"Action, Adventure, Biography","movie":"The Ten Commandments","rating":5.4,"year":2006}
+{"genre":"Documentary, Biography, History","movie":"Hillary's America: The Secret History of the Democratic Party","rating":5.4,"year":2016}
+{"genre":"Biography, Fantasy, Horror","movie":"A Maldição da Casa Winchester","rating":5.4,"year":2018}
+{"genre":"Action, Biography, Comedy","movie":"Bad Ass","rating":5.5,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"Hendrix","rating":5.5,"year":2000}
+{"genre":"Biography, Drama","movie":"Best","rating":5.5,"year":2000}
+{"genre":"Biography, Drama","movie":"Rudy: The Rudy Giuliani Story","rating":5.5,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"El cantante","rating":5.5,"year":2006}
+{"genre":"Action, Biography, Crime","movie":"Baader","rating":5.5,"year":2002}
+{"genre":"Biography, Drama, History","movie":"The Day Reagan Was Shot","rating":5.5,"year":2001}
+{"genre":"Biography, Drama, Romance","movie":"Diana","rating":5.5,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"Dahmer","rating":5.6,"year":2002}
+{"genre":"Action, Adventure, Biography","movie":"Alexander","rating":5.6,"year":2004}
+{"genre":"Biography, Crime, Drama","movie":"The Chameleon","rating":5.6,"year":2010}
+{"genre":"Biography, Drama, Music","movie":"Jimi: All Is by My Side","rating":5.6,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"Taken in Broad Daylight","rating":5.6,"year":2009}
+{"genre":"Biography, Comedy, Drama","movie":"Love Ranch","rating":5.6,"year":2010}
+{"genre":"Biography, Drama, Romance","movie":"Summer in February","rating":5.6,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"Ed Gein","rating":5.6,"year":2000}
+{"genre":"Biography, Drama, Musical","movie":"Any Body Can Dance 2","rating":5.6,"year":2015}
+{"genre":"Action, Biography, Drama","movie":"The Assailant","rating":5.7,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Rainha do Deserto","rating":5.7,"year":2015}
+{"genre":"Adventure, Biography, Drama","movie":"6 Below: Miracle on the Mountain","rating":5.7,"year":2017}
+{"genre":"Adventure, Biography, Drama","movie":"Blackbeard","rating":5.7,"year":2006}
+{"genre":"Animation, Adventure, Biography","movie":"El Cid: A Lenda","rating":5.7,"year":2003}
+{"genre":"Biography, Crime, Drama","movie":"Capítulo 27","rating":5.7,"year":2007}
+{"genre":"Biography, Drama, Romance","movie":"I Am Michael","rating":5.7,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"Bride of the Wind","rating":5.7,"year":2001}
+{"genre":"Biography, Drama, Romance","movie":"The Last of Robin Hood","rating":5.7,"year":2013}
+{"genre":"Biography, Drama","movie":"I'm Not Ashamed","rating":5.7,"year":2016}
+{"genre":"Biography, Drama, Romance","movie":"A Matador's Mistress","rating":5.7,"year":2008}
+{"genre":"Biography, Drama, Sport","movie":"The 5th Quarter","rating":5.7,"year":2010}
+{"genre":"Biography, Comedy, Drama","movie":"Stealing Sinatra","rating":5.7,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Son of God","rating":5.7,"year":2014}
+{"genre":"Biography, Drama, Romance","movie":"Grace de Mônaco","rating":5.7,"year":2014}
+{"genre":"Biography, Drama, Music","movie":"I Saw the Light","rating":5.7,"year":2015}
+{"genre":"Biography, Drama","movie":"Pasolini","rating":5.7,"year":2014}
+{"genre":"Biography, Drama, Family","movie":"Heaven Is for Real","rating":5.8,"year":2014}
+{"genre":"Biography, Comedy, Sci-Fi","movie":"Alien Autopsy","rating":5.8,"year":2006}
+{"genre":"Biography, Drama, Family","movie":"The Sound of Music Live!","rating":5.8,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"The Hunt for the BTK Killer","rating":5.8,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Measuring the World","rating":5.8,"year":2012}
+{"genre":"Action, Biography, Drama","movie":"The Legend of Ben Hall","rating":5.8,"year":2017}
+{"genre":"Biography, Drama, Sport","movie":"Azhar","rating":5.8,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"Stoned","rating":5.8,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Marlene - O Mito, A Vida, O Filme","rating":5.8,"year":2000}
+{"genre":"Adventure, Biography, Drama","movie":"Amelia","rating":5.8,"year":2009}
+{"genre":"Biography, Drama, Thriller","movie":"O Grande Assalto 11.6","rating":5.8,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"All Eyez on Me","rating":5.8,"year":2017}
+{"genre":"Biography, Drama, War","movie":"Segredos da Paixão","rating":5.8,"year":2011}
+{"genre":"Biography, Drama, Fantasy","movie":"Digging Up the Marrow","rating":5.8,"year":2014}
+{"genre":"Biography, Drama","movie":"Barry","rating":5.9,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"England Is Mine","rating":5.9,"year":2017}
+{"genre":"Biography, Comedy, Drama","movie":"Matti: Hell Is for Heroes","rating":5.9,"year":2006}
+{"genre":"Biography, Crime, Drama","movie":"Bundy","rating":5.9,"year":2002}
+{"genre":"Biography, Drama","movie":"Rated X","rating":5.9,"year":2000}
+{"genre":"Biography, Drama","movie":"Jobs","rating":5.9,"year":2013}
+{"genre":"Biography, Drama, History","movie":"A Jovem Rainha","rating":5.9,"year":2015}
+{"genre":"Action, Biography, Crime","movie":"Shootout at Wadala","rating":5.9,"year":2013}
+{"genre":"Biography, Comedy, Drama","movie":"Hyde Park on Hudson","rating":5.9,"year":2012}
+{"genre":"Biography, Drama, History","movie":"Adolf Eichmann","rating":5.9,"year":2007}
+{"genre":"Biography, Drama, Fantasy","movie":"Bathory: Countess of Blood","rating":5.9,"year":2008}
+{"genre":"Biography, Drama, Romance","movie":"The Reagans","rating":5.9,"year":2003}
+{"genre":"Biography, Drama, Romance","movie":"Effie Gray","rating":5.9,"year":2014}
+{"genre":"Biography, Drama","movie":"The Audrey Hepburn Story","rating":5.9,"year":2000}
+{"genre":"Biography, Comedy, Drama","movie":"The Polka King","rating":5.9,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"Holy Rollers","rating":5.9,"year":2010}
+{"genre":"Biography, Comedy, Romance","movie":"I Am a Sex Addict","rating":6.0,"year":2005}
+{"genre":"Animation, Biography, Drama","movie":"God's Faithful Servant: Barla","rating":6.0,"year":2011}
+{"genre":"Biography, Drama, Mystery","movie":"De Amor e Trevas","rating":6.0,"year":2015}
+{"genre":"Biography, Crime, Drama","movie":"Blue Caprice","rating":6.0,"year":2013}
+{"genre":"Biography, Comedy, Drama","movie":"The Look of Love","rating":6.0,"year":2013}
+{"genre":"Action, Biography, Drama","movie":"The Lost Bladesman","rating":6.0,"year":2011}
+{"genre":"Biography, Drama","movie":"Walt Before Mickey","rating":6.0,"year":2015}
+{"genre":"Action, Biography, Comedy","movie":"Günah Keçisi","rating":6.0,"year":2011}
+{"genre":"Adventure, Biography, History","movie":"God Loves Caviar","rating":6.0,"year":2012}
+{"genre":"Biography, Comedy, Drama","movie":"Badding","rating":6.0,"year":2000}
+{"genre":"Biography, Crime, Thriller","movie":"The Gray Man","rating":6.0,"year":2007}
+{"genre":"Action, Biography, Crime","movie":"Domino: A Caçadora de Recompensas","rating":6.0,"year":2005}
+{"genre":"Biography, Crime, Drama","movie":"The Riverman","rating":6.0,"year":2004}
+{"genre":"Biography, Drama, Music","movie":"In His Life: The John Lennon Story","rating":6.0,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"Daydream Believers: The Monkees' Story","rating":6.0,"year":2000}
+{"genre":"Biography, Comedy, Drama","movie":"The Night We Called It a Day","rating":6.0,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Van Diemen's Land","rating":6.0,"year":2009}
+{"genre":"Biography, Crime, Drama","movie":"Devil's Knot","rating":6.1,"year":2013}
+{"genre":"Biography, Drama, Sport","movie":"Fab Five: The Texas Cheerleader Scandal","rating":6.1,"year":2008}
+{"genre":"Biography, Drama","movie":"The Mercy","rating":6.1,"year":2018}
+{"genre":"Biography, Drama","movie":"Self Medicated","rating":6.1,"year":2005}
+{"genre":"Biography, Drama","movie":"Confessions of a Brazilian Call Girl","rating":6.1,"year":2011}
+{"genre":"Biography, Drama, Music","movie":"A História de Linda McCartney","rating":6.1,"year":2000}
+{"genre":"Biography, Drama","movie":"Nora","rating":6.1,"year":2000}
+{"genre":"Biography, Drama","movie":"The Life of Aleksis Kivi","rating":6.1,"year":2001}
+{"genre":"Biography, Drama, Musical","movie":"The Devil's Violinist","rating":6.1,"year":2013}
+{"genre":"Biography, Drama","movie":"High Roller: The Stu Ungar Story","rating":6.1,"year":2003}
+{"genre":"Biography, Drama, History","movie":"The Case for Christ","rating":6.1,"year":2017}
+{"genre":"Action, Biography, Crime","movie":"Kidnapping Mr. Heineken","rating":6.1,"year":2015}
+{"genre":"Biography, Drama, Romance","movie":"Saint Laurent","rating":6.1,"year":2014}
+{"genre":"Action, Biography, History","movie":"Rudhramadevi","rating":6.1,"year":2015}
+{"genre":"Biography, Drama","movie":"Jimmy P.","rating":6.1,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Most Hated Woman in America","rating":6.1,"year":2017}
+{"genre":"Biography, Drama, Family","movie":"Double Teamed","rating":6.2,"year":2002}
+{"genre":"Biography, Crime, Drama","movie":"Sade","rating":6.2,"year":2000}
+{"genre":"Biography, Drama, History","movie":"To Kill a King","rating":6.2,"year":2003}
+{"genre":"Biography, Crime, Drama","movie":"Ricky 6","rating":6.2,"year":2000}
+{"genre":"Biography, Crime, Drama","movie":"Ann Rule Presents: The Stranger Beside Me","rating":6.2,"year":2003}
+{"genre":"Biography, History","movie":"The Borgia","rating":6.2,"year":2006}
+{"genre":"Biography, Drama","movie":"Growing Up Brady","rating":6.2,"year":2000}
+{"genre":"Biography, Drama, History","movie":"Zubeidaa","rating":6.2,"year":2001}
+{"genre":"Biography, Drama","movie":"Alija","rating":6.2,"year":2018}
+{"genre":"Biography, Drama, History","movie":"A Batalha pelo Império","rating":6.2,"year":2010}
+{"genre":"Biography, Drama, Sport","movie":"Gracie","rating":6.2,"year":2007}
+{"genre":"Biography, Drama, History","movie":"The Invisible Woman","rating":6.2,"year":2013}
+{"genre":"Biography, Drama","movie":"Yves Saint Laurent","rating":6.2,"year":2014}
+{"genre":"Action, Biography, Drama","movie":"Ip Man 2 - A Batalha Final","rating":6.2,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Ganes","rating":6.2,"year":2007}
+{"genre":"Biography, Comedy, Crime","movie":"O Super Lobista","rating":6.2,"year":2010}
+{"genre":"Action, Biography, Crime","movie":"Bad Boys","rating":6.2,"year":2003}
+{"genre":"Biography, Drama","movie":"Borboletas Negras","rating":6.2,"year":2011}
+{"genre":"Biography, Drama","movie":"Lovelace","rating":6.2,"year":2013}
+{"genre":"Biography, Drama, Thriller","movie":"The Fifth Estate","rating":6.2,"year":2013}
+{"genre":"Biography, Drama, Romance","movie":"The Edge of Love","rating":6.3,"year":2008}
+{"genre":"Documentary, Biography, Crime","movie":"Beware the Slenderman","rating":6.3,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"Jamesy Boy","rating":6.3,"year":2014}
+{"genre":"Biography","movie":"The Conquest","rating":6.3,"year":2011}
+{"genre":"Biography, Horror, Thriller","movie":"Dark Prince: The True Story of Dracula","rating":6.3,"year":2000}
+{"genre":"Biography, Drama, History","movie":"W.","rating":6.3,"year":2008}
+{"genre":"Biography, Drama, Romance","movie":"Hemingway & Gellhorn","rating":6.3,"year":2012}
+{"genre":"Biography, Crime, Drama","movie":"Takedown","rating":6.3,"year":2000}
+{"genre":"Biography, Drama, Romance","movie":"Geração Prozac","rating":6.3,"year":2001}
+{"genre":"Biography, Drama, History","movie":"A Condessa","rating":6.3,"year":2009}
+{"genre":"Documentary, Biography, Sport","movie":"Zidane: A 21st Century Portrait","rating":6.3,"year":2006}
+{"genre":"Biography, Drama, Music","movie":"Cornelis","rating":6.3,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Gods and Generals","rating":6.3,"year":2003}
+{"genre":"Biography, Crime, Drama","movie":"Party Monster","rating":6.3,"year":2003}
+{"genre":"Biography, Drama, Romance","movie":"Sylvia","rating":6.3,"year":2003}
+{"genre":"Biography, Comedy, Drama","movie":"Final Portrait","rating":6.3,"year":2017}
+{"genre":"Biography, Drama","movie":"The Gamechangers","rating":6.3,"year":2015}
+{"genre":"Biography, Drama, History","movie":"One Night with the King","rating":6.3,"year":2006}
+{"genre":"Biography, Drama, History","movie":"The Immortal Life of Henrietta Lacks","rating":6.3,"year":2017}
+{"genre":"Biography, Comedy, Drama","movie":"Que Viva Eisenstein! - 10 Dias que Abalaram o México","rating":6.3,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"Phil Spector","rating":6.3,"year":2013}
+{"genre":"Biography, Drama","movie":"LBJ","rating":6.3,"year":2016}
+{"genre":"Adventure, Biography, Comedy","movie":"A Walk in the Woods","rating":6.3,"year":2015}
+{"genre":"Biography, Comedy, Crime","movie":"Kid Cannabis","rating":6.4,"year":2014}
+{"genre":"Action, Biography, Crime","movie":"Rakhta Charitra 2","rating":6.4,"year":2010}
+{"genre":"Biography, Drama, Horror","movie":"My Friend Dahmer","rating":6.4,"year":2017}
+{"genre":"Biography, Comedy, Crime","movie":"Mr. Nice","rating":6.4,"year":2010}
+{"genre":"Biography, Drama","movie":"Blonde","rating":6.4,"year":2001}
+{"genre":"Biography, Drama, History","movie":"Mark Felt: The Man Who Brought Down the White House","rating":6.4,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"Compliance","rating":6.4,"year":2012}
+{"genre":"Documentary, Biography, Sport","movie":"Ronaldo","rating":6.4,"year":2015}
+{"genre":"Biography, Drama, Romance","movie":"Steal This Movie","rating":6.4,"year":2000}
+{"genre":"Biography, Drama, History","movie":"The Birth of a Nation","rating":6.4,"year":2016}
+{"genre":"Action, Biography, Comedy","movie":"Miles Ahead","rating":6.4,"year":2015}
+{"genre":"Biography, Drama","movie":"Piñero","rating":6.4,"year":2001}
+{"genre":"Documentary, Biography","movie":"Porn Star: The Legend of Ron Jeremy","rating":6.4,"year":2001}
+{"genre":"Biography, Comedy, Drama","movie":"How to Lose Friends & Alienate People","rating":6.4,"year":2008}
+{"genre":"Biography, Drama","movie":"The Iron Lady","rating":6.4,"year":2011}
+{"genre":"Biography, Drama","movie":"Cesar Chavez","rating":6.4,"year":2014}
+{"genre":"Action, Adventure, Biography","movie":"O Barão Vermelho","rating":6.4,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"Mozart's Sister","rating":6.4,"year":2010}
+{"genre":"Action, Biography, Thriller","movie":"The Man with the Iron Heart","rating":6.4,"year":2017}
+{"genre":"Documentary, Biography, Crime","movie":"The Jeffrey Dahmer Files","rating":6.4,"year":2012}
+{"genre":"Biography, Comedy","movie":"Os Sabores do Palácio","rating":6.4,"year":2012}
+{"genre":"Biography, Crime, Drama","movie":"3096 Dias de Cativeiro","rating":6.4,"year":2013}
+{"genre":"Biography, Drama","movie":"Factory Girl","rating":6.4,"year":2006}
+{"genre":"Biography, Comedy, Drama","movie":"Eight Miles High","rating":6.4,"year":2007}
+{"genre":"Biography, Drama, History","movie":"Marie Antoinette","rating":6.4,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Southside with You","rating":6.4,"year":2016}
+{"genre":"Biography, Drama","movie":"Frankie & Alice","rating":6.5,"year":2010}
+{"genre":"Biography, Drama, Music","movie":"Somos Tão Jovens","rating":6.5,"year":2013}
+{"genre":"Biography, Drama","movie":"Burton and Taylor","rating":6.5,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Telstar: The Joe Meek Story","rating":6.5,"year":2008}
+{"genre":"Action, Biography, Crime","movie":"Nokas","rating":6.5,"year":2010}
+{"genre":"Biography, Crime, Drama","movie":"Cass","rating":6.5,"year":2008}
+{"genre":"Biography, Drama","movie":"Mockingbird Don't Sing","rating":6.5,"year":2001}
+{"genre":"Action, Adventure, Biography","movie":"O Tomar da Montanha do Tigre","rating":6.5,"year":2014}
+{"genre":"Biography, Comedy, Drama","movie":"Martin and Lewis","rating":6.5,"year":2002}
+{"genre":"Documentary, Biography, Sport","movie":"Cristiano Ronaldo: World at His Feet","rating":6.5,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Churchill","rating":6.5,"year":2017}
+{"genre":"Biography, Drama","movie":"Thomas Kinkade's Christmas Cottage","rating":6.5,"year":2008}
+{"genre":"Animation, Adventure, Biography","movie":"Joseph: King of Dreams","rating":6.5,"year":2000}
+{"genre":"Biography, Crime, Drama","movie":"Bonnie & Clyde","rating":6.5,"year":2013}
+{"genre":"Biography, Drama, Romance","movie":"Kill Your Darlings","rating":6.5,"year":2013}
+{"genre":"Action, Adventure, Biography","movie":"Ned Kelly","rating":6.5,"year":2003}
+{"genre":"Biography, Drama, Romance","movie":"Fur: An Imaginary Portrait of Diane Arbus","rating":6.5,"year":2006}
+{"genre":"Biography, Comedy, Drama","movie":"Riding in Cars with Boys","rating":6.5,"year":2001}
+{"genre":"Biography, Drama","movie":"Young Bruce Lee","rating":6.5,"year":2010}
+{"genre":"Biography, Drama, Sport","movie":"The Program","rating":6.5,"year":2015}
+{"genre":"Biography, Comedy, Crime","movie":"The Informant!","rating":6.5,"year":2009}
+{"genre":"Biography, Drama, Romance","movie":"Freeheld","rating":6.5,"year":2015}
+{"genre":"Biography, Drama, Romance","movie":"A Dangerous Method","rating":6.5,"year":2011}
+{"genre":"Biography, Drama","movie":"Camille Claudel 1915","rating":6.5,"year":2013}
+{"genre":"Action, Biography, Drama","movie":"Rommel","rating":6.5,"year":2012}
+{"genre":"Biography, Crime, Drama","movie":"Hollywoodland","rating":6.5,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Renoir","rating":6.5,"year":2012}
+{"genre":"Biography, Drama, Music","movie":"What We Do Is Secret","rating":6.5,"year":2007}
+{"genre":"Biography, Drama, Romance","movie":"Big Miracle","rating":6.5,"year":2012}
+{"genre":"Biography, Drama, War","movie":"Thank You for Your Service","rating":6.5,"year":2017}
+{"genre":"Biography, Drama","movie":"Genius","rating":6.5,"year":2016}
+{"genre":"Adventure, Biography, Drama","movie":"The Other Side of Heaven","rating":6.5,"year":2001}
+{"genre":"Biography, Crime, Drama","movie":"Helter Skelter","rating":6.5,"year":2004}
+{"genre":"Adventure, Biography, Drama","movie":"Against the Sun","rating":6.5,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Olga","rating":6.5,"year":2004}
+{"genre":"Biography, Drama","movie":"Sex, Drugs & Taxation","rating":6.6,"year":2013}
+{"genre":"Biography, Drama, Romance","movie":"Vatel - Um Banquete para o Rei","rating":6.6,"year":2000}
+{"genre":"Biography, Drama","movie":"Denial","rating":6.6,"year":2016}
+{"genre":"Action, Biography, Drama","movie":"The Grandmaster","rating":6.6,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"The Runaways","rating":6.6,"year":2010}
+{"genre":"Biography, Comedy, Drama","movie":"Lucy","rating":6.6,"year":2003}
+{"genre":"Biography, Comedy, Drama","movie":"Bernard and Doris","rating":6.6,"year":2006}
+{"genre":"Biography, Drama","movie":"The Notorious Bettie Page","rating":6.6,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"The Rose of the Rascal","rating":6.6,"year":2001}
+{"genre":"Biography, Crime, Drama","movie":"I, Olga","rating":6.6,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Experimenter","rating":6.6,"year":2015}
+{"genre":"Adventure, Biography, Drama","movie":"The Lost City of Z","rating":6.6,"year":2016}
+{"genre":"Biography, Comedy, Crime","movie":"O Golpista do Ano","rating":6.6,"year":2009}
+{"genre":"Biography, Drama","movie":"VIPs","rating":6.6,"year":2010}
+{"genre":"Biography, Crime, Drama","movie":"Provoked: A True Story","rating":6.6,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Viceroy's House","rating":6.6,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"The Snowtown Murders","rating":6.6,"year":2011}
+{"genre":"Adventure, Biography, Drama","movie":"Gagarin. Pervyy v kosmose","rating":6.6,"year":2013}
+{"genre":"Biography, Crime, Drama","movie":"J. Edgar","rating":6.6,"year":2011}
+{"genre":"Adventure, Biography, Comedy","movie":"My One and Only","rating":6.6,"year":2009}
+{"genre":"Biography, Drama, History","movie":"Magnificent Century","rating":6.6,"year":20112014}
+{"genre":"Biography, Drama, Family","movie":"Right on Track","rating":6.6,"year":2003}
+{"genre":"Biography, Comedy, Drama","movie":"Walesa","rating":6.6,"year":2013}
+{"genre":"Biography, Drama","movie":"Pandaemonium","rating":6.6,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"Hysteria: The Def Leppard Story","rating":6.6,"year":2001}
+{"genre":"Biography, Drama, History","movie":"The Young Karl Marx","rating":6.6,"year":2017}
+{"genre":"Biography, Drama","movie":"Vysotsky: Thank God I'm Alive","rating":6.6,"year":2011}
+{"genre":"Documentary, Biography","movie":"Unknown White Male","rating":6.6,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Callas Forever","rating":6.6,"year":2002}
+{"genre":"Biography, Drama, History","movie":"Nightwatching","rating":6.6,"year":2007}
+{"genre":"Biography, Drama","movie":"Rosewater","rating":6.6,"year":2014}
+{"genre":"Biography, Drama","movie":"A Quiet Passion","rating":6.6,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"When the Sky Falls","rating":6.6,"year":2000}
+{"genre":"Action, Biography, Drama","movie":"Rise of the Legend","rating":6.6,"year":2014}
+{"genre":"Biography, Crime, Drama","movie":"Auto Focus","rating":6.6,"year":2002}
+{"genre":"Biography, Drama, Music","movie":"Bessie","rating":6.6,"year":2015}
+{"genre":"Biography, Drama","movie":"Fitzgerald","rating":6.6,"year":2002}
+{"genre":"Biography, Drama, History","movie":"Lutero","rating":6.6,"year":2003}
+{"genre":"Biography, Drama, History","movie":"And Starring Pancho Villa as Himself","rating":6.6,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"To Write Love on Her Arms","rating":6.6,"year":2012}
+{"genre":"Biography, Drama","movie":"Brain on Fire","rating":6.6,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"Sex & Drugs & Rock & Roll","rating":6.6,"year":2010}
+{"genre":"Biography, Drama","movie":"Paterno","rating":6.6,"year":2018}
+{"genre":"Biography, Drama, Romance","movie":"Rebel in the Rye","rating":6.6,"year":2017}
+{"genre":"Action, Biography, Drama","movie":"Punhos de Aço","rating":6.6,"year":2016}
+{"genre":"Biography, Comedy, Drama","movie":"Cantinflas: A Magia da Comédia","rating":6.6,"year":2014}
+{"genre":"Biography, Drama, Romance","movie":"Little Ashes","rating":6.6,"year":2008}
+{"genre":"Biography, Comedy, Drama","movie":"Whiskey Tango Foxtrot","rating":6.6,"year":2016}
+{"genre":"Biography, Drama","movie":"Nanga Parbat","rating":6.6,"year":2010}
+{"genre":"Biography, Drama, Music","movie":"De-Lovely","rating":6.6,"year":2004}
+{"genre":"Biography, Comedy, Drama","movie":"Sixty Six","rating":6.7,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Caesar","rating":6.7,"year":2002}
+{"genre":"Biography, Drama, Music","movie":"You Are God","rating":6.7,"year":2012}
+{"genre":"Action, Adventure, Biography","movie":"Selva","rating":6.7,"year":2017}
+{"genre":"Biography, Drama","movie":"El Greco","rating":6.7,"year":2007}
+{"genre":"Biography, Drama","movie":"Romulus, Meu Pai","rating":6.7,"year":2007}
+{"genre":"Action, Biography, Drama","movie":"Ashoka the Great","rating":6.7,"year":2001}
+{"genre":"Biography, Drama, Romance","movie":"Creation","rating":6.7,"year":2009}
+{"genre":"Biography, Drama","movie":"Mavi Gözlü Dev","rating":6.7,"year":2007}
+{"genre":"Biography, Drama, Music","movie":"Janie Jones","rating":6.7,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Catch a Fire","rating":6.7,"year":2006}
+{"genre":"Biography, Crime, Drama","movie":"Cleveland Abduction","rating":6.7,"year":2015}
+{"genre":"Action, Biography, Comedy","movie":"Return to the Batcave: The Misadventures of Adam and Burt","rating":6.7,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Jimmy's Hall","rating":6.7,"year":2014}
+{"genre":"Biography, Crime, Drama","movie":"Boss of Bosses","rating":6.7,"year":2001}
+{"genre":"Biography, Crime, Drama","movie":"Roberto Succo","rating":6.7,"year":2001}
+{"genre":"Documentary, Biography, Drama","movie":"Mustafa","rating":6.7,"year":2008}
+{"genre":"Adventure, Biography","movie":"A Odisséia de Jacques","rating":6.7,"year":2016}
+{"genre":"Biography, Drama, Romance","movie":"Bobby Jones: Stroke of Genius","rating":6.7,"year":2004}
+{"genre":"Biography, Drama, History","movie":"Mangal Pandey: The Rising","rating":6.7,"year":2005}
+{"genre":"Animation, Biography, Drama","movie":"Miss Hokusai","rating":6.7,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"Little Richard","rating":6.7,"year":2000}
+{"genre":"Documentary, Biography, Sport","movie":"Becoming Zlatan","rating":6.7,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Mad Love","rating":6.7,"year":2001}
+{"genre":"Biography, Drama, History","movie":"The New World","rating":6.7,"year":2005}
+{"genre":"Biography, Drama, Music","movie":"Beyond the Sea","rating":6.7,"year":2004}
+{"genre":"Biography, Comedy, Drama","movie":"Toast","rating":6.7,"year":2010}
+{"genre":"Biography, Drama","movie":"Magic Beyond Words: The J.K. Rowling Story","rating":6.7,"year":2011}
+{"genre":"Action, Adventure, Biography","movie":"Hidalgo","rating":6.7,"year":2004}
+{"genre":"Biography, Drama, History","movie":"A Mighty Heart","rating":6.7,"year":2007}
+{"genre":"Biography, Drama","movie":"Underground: A História De Julian Assange","rating":6.7,"year":2012}
+{"genre":"Biography, Comedy, Drama","movie":"The Lady in the Van","rating":6.7,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"The Soloist","rating":6.7,"year":2009}
+{"genre":"Biography, Drama, Mystery","movie":"Monsieur N.","rating":6.7,"year":2003}
+{"genre":"Biography, Drama, History","movie":"The Other Boleyn Girl","rating":6.7,"year":2008}
+{"genre":"Biography, Comedy, Drama","movie":"Taking Woodstock","rating":6.7,"year":2009}
+{"genre":"Action, Adventure, Biography","movie":"Attila","rating":6.7,"year":2001}
+{"genre":"Biography, Crime, Drama","movie":"Notorious","rating":6.7,"year":2009}
+{"genre":"Biography, Drama","movie":"Enid","rating":6.7,"year":2009}
+{"genre":"Biography, Drama","movie":"Coco Before Chanel","rating":6.7,"year":2009}
+{"genre":"Biography, Comedy, Drama","movie":"The Dirty Picture","rating":6.7,"year":2011}
+{"genre":"Biography, Drama, Romance","movie":"Howl","rating":6.8,"year":2010}
+{"genre":"Biography, Drama, History","movie":"Confirmation","rating":6.8,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"Angel of Evil","rating":6.8,"year":2010}
+{"genre":"Biography, Comedy, Drama","movie":"Godard Mon Amour","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, Thriller","movie":"Fair Game","rating":6.8,"year":2010}
+{"genre":"Biography, Drama, Sport","movie":"Ali","rating":6.8,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"Copying Beethoven","rating":6.8,"year":2006}
+{"genre":"Biography, Drama","movie":"#TemanTapiMenikah","rating":6.8,"year":2018}
+{"genre":"Biography, Drama, Sport","movie":"Joe and Max","rating":6.8,"year":2002}
+{"genre":"Biography, Comedy, Drama","movie":"One Chance","rating":6.8,"year":2013}
+{"genre":"Action, Biography, Drama","movie":"Mary Kom","rating":6.8,"year":2014}
+{"genre":"Biography, Drama","movie":"The Pirates of Somalia","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, History","movie":"The Special Relationship","rating":6.8,"year":2010}
+{"genre":"Biography, Crime, Drama","movie":"The Robber","rating":6.8,"year":2010}
+{"genre":"Biography, Drama, War","movie":"A Caminho de Kandahar","rating":6.8,"year":2001}
+{"genre":"Biography, Drama, Sport","movie":"Bleed for This","rating":6.8,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"Jersey Boys","rating":6.8,"year":2014}
+{"genre":"Biography, Drama","movie":"Dovlatov","rating":6.8,"year":2018}
+{"genre":"Documentary, Biography, History","movie":"Inside Deep Throat","rating":6.8,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Conspiração e Poder","rating":6.8,"year":2015}
+{"genre":"Biography, Drama","movie":"Muhammad Ali's Greatest Fight","rating":6.8,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Victoria & Abdul","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, History","movie":"Mr. Turner","rating":6.8,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Killing Lincoln","rating":6.8,"year":2013}
+{"genre":"Biography, Drama, History","movie":"Forever Enthralled","rating":6.8,"year":2008}
+{"genre":"Biography, Crime, Drama","movie":"The Wizard of Lies","rating":6.8,"year":2017}
+{"genre":"Biography, Drama, Music","movie":"Falco - Verdammt, wir leben noch!","rating":6.8,"year":2008}
+{"genre":"Biography, Crime, Drama","movie":"O Pastor","rating":6.8,"year":2004}
+{"genre":"Documentary, Biography, Drama","movie":"Knuckle","rating":6.8,"year":2011}
+{"genre":"Documentary, Biography, Crime","movie":"Whitey: United States of America v. James J. Bulger","rating":6.8,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Admiral","rating":6.8,"year":2008}
+{"genre":"Biography, Drama, Romance","movie":"Um Reino Unido","rating":6.8,"year":2016}
+{"genre":"Documentary, Biography, Drama","movie":"Dreams of a Life","rating":6.8,"year":2011}
+{"genre":"Biography, Drama, History","movie":"Leopardi: Um Jovem Fabuloso","rating":6.8,"year":2014}
+{"genre":"Biography, Comedy","movie":"A Futile and Stupid Gesture","rating":6.8,"year":2018}
+{"genre":"Biography, Drama, History","movie":"Operação Valkiria","rating":6.8,"year":2004}
+{"genre":"Biography, Comedy, Drama","movie":"Battle of the Sexes","rating":6.8,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"Hellsinki","rating":6.8,"year":2009}
+{"genre":"Biography, Drama, Romance","movie":"Jornada da Alma","rating":6.8,"year":2002}
+{"genre":"Biography, Comedy, Crime","movie":"Bernie","rating":6.8,"year":2011}
+{"genre":"Biography, Drama, Romance","movie":"Film Stars Don't Die in Liverpool","rating":6.8,"year":2017}
+{"genre":"Biography, Drama","movie":"Hitchcock","rating":6.8,"year":2012}
+{"genre":"Action, Biography, Crime","movie":"Machine Gun Preacher","rating":6.8,"year":2011}
+{"genre":"Biography, Crime, Drama","movie":"The Iceman","rating":6.9,"year":2012}
+{"genre":"Documentary, Biography, Family","movie":"Mitt","rating":6.9,"year":2014}
+{"genre":"Biography, Comedy, Drama","movie":"Florence Foster Jenkins","rating":6.9,"year":2016}
+{"genre":"Documentary, Biography","movie":"The Captains","rating":6.9,"year":2011}
+{"genre":"Biography, Drama, History","movie":"Suffragette","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Os 33","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"The Stanford Prison Experiment","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Süskind","rating":6.9,"year":2012}
+{"genre":"Biography","movie":"Fabrizio De André: Principe libero","rating":6.9,"year":2018}
+{"genre":"Biography, Drama, Sport","movie":"My Name Is Lenny","rating":6.9,"year":2017}
+{"genre":"Biography, Drama, Music","movie":"Beijar e Chorar","rating":6.9,"year":2017}
+{"genre":"Biography, Drama","movie":"Puncture","rating":6.9,"year":2011}
+{"genre":"Biography, Drama","movie":"Tom of Finland","rating":6.9,"year":2017}
+{"genre":"Biography, Drama, Music","movie":"Get on Up","rating":6.9,"year":2014}
+{"genre":"Action, Biography, Crime","movie":"Chasing the Dragon","rating":6.9,"year":2017}
+{"genre":"Biography, Crime, Drama","movie":"All the Money in the World","rating":6.9,"year":2017}
+{"genre":"Biography, Comedy, Drama","movie":"A Garota das Nove Perucas","rating":6.9,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Liberator","rating":6.9,"year":2013}
+{"genre":"Biography, Drama, Music","movie":"Monica Z","rating":6.9,"year":2013}
+{"genre":"Biography, Drama","movie":"Christine","rating":6.9,"year":2016}
+{"genre":"Biography, Comedy, Drama","movie":"Don't Worry, He Won't Get Far on Foot","rating":6.9,"year":2018}
+{"genre":"Action, Adventure, Biography","movie":"In the Heart of the Sea","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"Chet Baker: A Lenda do Jazz","rating":6.9,"year":2015}
+{"genre":"Biography, Drama, Music","movie":"My Way - O Mito Além da Música","rating":6.9,"year":2012}
+{"genre":"Action, Biography, Drama","movie":"Free State of Jones","rating":6.9,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"Black Mass","rating":6.9,"year":2015}
+{"genre":"Documentary, Biography, Music","movie":"Leonard Cohen: I'm Your Man","rating":6.9,"year":2005}
+{"genre":"Documentary, Biography, Crime","movie":"Biggie and Tupac","rating":6.9,"year":2002}
+{"genre":"Biography, Drama","movie":"Karol: A Man Who Became Pope","rating":6.9,"year":2005}
+{"genre":"Action, Biography, Crime","movie":"Rise of the Footsoldier","rating":6.9,"year":2007}
+{"genre":"Biography, Drama","movie":"Skin","rating":6.9,"year":2008}
+{"genre":"Biography, Drama","movie":"A Vida de João Paulo II","rating":6.9,"year":2005}
+{"genre":"Adventure, Biography, Drama","movie":"The Tulse Luper Suitcases, Part 1: The Moab Story","rating":6.9,"year":2003}
+{"genre":"Biography, Drama, Music","movie":"Skazany na bluesa","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Elizabeth: The Golden Age","rating":6.9,"year":2007}
+{"genre":"Biography, Drama, Romance","movie":"Vincere","rating":6.9,"year":2009}
+{"genre":"Biography, Drama, Sport","movie":"3: The Dale Earnhardt Story","rating":6.9,"year":2004}
+{"genre":"Biography, Drama","movie":"When Did You Last See Your Father?","rating":6.9,"year":2007}
+{"genre":"Biography, Comedy, Drama","movie":"The Life and Death of Peter Sellers","rating":6.9,"year":2004}
+{"genre":"Biography, Comedy, Music","movie":"Made in Hungaria","rating":6.9,"year":2009}
+{"genre":"Documentary, Biography, History","movie":"The God Who Wasn't There","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, History","movie":"Two Sons of Francisco","rating":6.9,"year":2005}
+{"genre":"Biography, Drama, History","movie":"The Duchess","rating":6.9,"year":2008}
+{"genre":"Biography, Drama, Music","movie":"Gainsbourg: A Heroic Life","rating":6.9,"year":2010}
+{"genre":"Biography, Drama, Sport","movie":"Radio","rating":6.9,"year":2003}
+{"genre":"Biography, Drama, Romance","movie":"Girl with a Pearl Earring","rating":6.9,"year":2003}
+{"genre":"Biography, Crime, Drama","movie":"O Custo da Coragem","rating":6.9,"year":2003}
+{"genre":"Biography, Drama, History","movie":"Che: Part Two","rating":6.9,"year":2008}
+{"genre":"Biography, Crime, Drama","movie":"Alpha Dog","rating":6.9,"year":2006}
+{"genre":"Biography, Drama, History","movie":"Goya's Ghosts","rating":6.9,"year":2006}
+{"genre":"Biography, Comedy, Drama","movie":"O Homem Que Inventou o Natal","rating":7.0,"year":2017}
+{"genre":"Biography, Comedy, Drama","movie":"The Three Stooges","rating":7.0,"year":2000}
+{"genre":"Biography, Drama, Sport","movie":"Million Dollar Arm","rating":7.0,"year":2014}
+{"genre":"Documentary, Biography, Crime","movie":"Pussy Riot: A Punk Prayer","rating":7.0,"year":2013}
+{"genre":"Biography, Drama, Sport","movie":"Pawn Sacrifice","rating":7.0,"year":2014}
+{"genre":"Biography, Crime, Drama","movie":"Big Eyes","rating":7.0,"year":2014}
+{"genre":"Biography, Drama, History","movie":"Prophet Joseph","rating":7.0,"year":2008}
+{"genre":"Biography, Drama, Sport","movie":"Foxcatcher","rating":7.0,"year":2014}
+{"genre":"Biography, Crime, Drama","movie":"Kill the Messenger","rating":7.0,"year":2014}
+{"genre":"Biography, Drama, War","movie":"Jarhead","rating":7.0,"year":2005}
+{"genre":"Biography, Drama, Sport","movie":"Borg vs McEnroe","rating":7.0,"year":2017}
+{"genre":"Biography, Drama","movie":"Miss Potter","rating":7.0,"year":2006}
+{"genre":"Biography, Drama, Romance","movie":"Bright Star","rating":7.0,"year":2009}
+{"genre":"Biography, Crime, Drama","movie":"Bully","rating":7.0,"year":2001}
+{"genre":"Biography, Drama, Music","movie":"Não Estou Lá","rating":7.0,"year":2007}
+{"genre":"Biography, Crime, Drama","movie":"Breach","rating":7.0,"year":2007}
+{"genre":"Biography, Drama, History","movie":"Bobby","rating":7.0,"year":2006}
+{"genre":"Animation, Short, Biography","movie":"Dear Basketball","rating":7.0,"year":2017}
+{"genre":"Biography, Drama, Romance","movie":"Julie & Julia","rating":7.0,"year":2009}
+{"genre":"Biography, Drama, Romance","movie":"Flores Raras","rating":7.0,"year":2013}
+{"genre":"Adventure, Biography, Drama","movie":"End of the Spear","rating":7.0,"year":2005}
+{"genre":"Biography, Crime, Drama","movie":"Public Enemies","rating":7.0,"year":2009}
+{"genre":"Biography, Drama","movie":"Stronger","rating":7.0,"year":2017}
+{"genre":"Biography, Drama, Romance","movie":"The Last Station","rating":7.0,"year":2009}
+{"genre":"Biography, Drama","movie":"My Week with Marilyn","rating":7.0,"year":2011}
+{"genre":"Biography, Drama, Romance","movie":"Behind the Candelabra","rating":7.0,"year":2013}
+{"genre":"Biography, Drama, History","movie":"The Zookeeper's Wife","rating":7.0,"year":2017}
+{"genre":"Biography, Drama, Music","movie":"Cadillac Records","rating":7.0,"year":2008}
+{"genre":"Biography, Comedy, Drama","movie":"Verão de '92","rating":7.0,"year":2015}
+{"genre":"Biography, Drama","movie":"A Funny Man","rating":7.0,"year":2011}
+{"genre":"Biography, Crime, Drama","movie":"O Clã","rating":7.0,"year":2015}
+{"genre":"Biography, Drama, History","movie":"Safe Conduct","rating":7.0,"year":2002}
+{"genre":"Documentary, Biography","movie":"The Wolfpack","rating":7.0,"year":2015}
+{"genre":"Biography, Drama","movie":"The Deal","rating":7.0,"year":2003}
+{"genre":"Biography, Drama","movie":"Coco Chanel","rating":7.0,"year":2008}
+{"genre":"Biography, Crime, Drama","movie":"Legend","rating":7.0,"year":2015}
+{"genre":"Documentary, Biography, Sport","movie":"Pantani: The Accidental Death of a Cyclist","rating":7.0,"year":2014}
+{"genre":"Biography, Comedy, Drama","movie":"Bem-vindo à Marly-Gomont","rating":7.0,"year":2016}
+{"genre":"Biography, Drama","movie":"Jogada de Gênio","rating":7.0,"year":2008}
+{"genre":"Biography, Thriller","movie":"The Man with Thousand Faces","rating":7.0,"year":2016}
+{"genre":"Documentary, Biography, Sport","movie":"Like Water","rating":7.0,"year":2011}
+{"genre":"Biography, Crime, Drama","movie":"Neruda","rating":7.0,"year":2016}
+{"genre":"Biography, Drama, Music","movie":"Two of Us","rating":7.0,"year":2000}
+{"genre":"Documentary, Biography, Music","movie":"Mayor of the Sunset Strip","rating":7.0,"year":2003}
+{"genre":"Biography, Drama, War","movie":"13 Minutes","rating":7.0,"year":2015}
+{"genre":"Biography, Drama","movie":"Pollock","rating":7.0,"year":2000}
+{"genre":"Biography, Drama, Music","movie":"Cazuza: O Tempo Não Pára","rating":7.0,"year":2004}
+{"genre":"Biography, Drama, Romance","movie":"Christopher and His Kind","rating":7.0,"year":2011}
+{"genre":"Biography, Drama, Romance","movie":"The Secret Diaries of Miss Anne Lister","rating":7.0,"year":2010}
+{"genre":"Biography, Crime, Drama","movie":"The Infiltrator","rating":7.0,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"Murderous Maids","rating":7.0,"year":2000}
+{"genre":"Biography, Drama","movie":"Chico Xavier","rating":7.0,"year":2010}
+{"genre":"Documentary, Biography, Sport","movie":"Iverson","rating":7.0,"year":2014}
+{"genre":"Biography, Crime, Drama","movie":"The Assassination of Richard Nixon","rating":7.0,"year":2004}
+{"genre":"Biography, Drama, Romance","movie":"Loving","rating":7.0,"year":2016}
+{"genre":"Biography, Drama, History","movie":"Repórteres de Guerra","rating":7.0,"year":2010}
+{"genre":"Documentary, Biography","movie":"Wormwood","rating":7.1,"year":2017}
+{"genre":"Action, Biography, Crime","movie":"Shootout at Lokhandwala","rating":7.1,"year":2007}
+{"genre":"Biography, Drama, History","movie":"The Color of Freedom","rating":7.1,"year":2007}
+{"genre":"Biography, Drama","movie":"Hannah Arendt - Ideias Que Chocaram o Mundo","rating":7.1,"year":2012}
+{"genre":"Biography, Comedy, Drama","movie":"Música da Alma","rating":7.1,"year":2012}
+{"genre":"Biography, Drama, Romance","movie":"Iris","rating":7.1,"year":2001}
+{"genre":"Action, Adventure, Biography","movie":"Xingu","rating":7.1,"year":2011}
+{"genre":"Action, Biography, Crime","movie":"Bronson","rating":7.1,"year":2008}
+{"genre":"Biography, Comedy, Drama","movie":"Charlie Wilson's War","rating":7.1,"year":2007}
+{"genre":"Biography, Comedy, Drama","movie":"De Encontro com a Vida","rating":7.1,"year":2017}
+{"genre":"Biography, Drama, Romance","movie":"Becoming Jane","rating":7.1,"year":2007}
+{"genre":"Biography, Drama, History","movie":"The Danish Girl","rating":7.1,"year":2015}
+{"genre":"Biography, Drama, Romance","movie":"Kinsey","rating":7.1,"year":2004}
+{"genre":"Action, Biography, Drama","movie":"O Grande Mestre 3","rating":7.1,"year":2015}
+{"genre":"Action, Biography, Drama","movie":"A Luta Pela Beleza","rating":7.1,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"I Am Bolt","rating":7.1,"year":2016}
+{"genre":"Biography, Comedy, Crime","movie":"Confessions of a Dangerous Mind","rating":7.1,"year":2002}
+{"genre":"Action, Biography, Drama","movie":"Fighter in the Wind","rating":7.1,"year":2004}
+{"genre":"Documentary, Biography, Music","movie":"Nas: Time Is Illmatic","rating":7.1,"year":2014}
+{"genre":"Action, Biography, Crime","movie":"Jack Strong","rating":7.1,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"Gascoigne","rating":7.1,"year":2015}
+{"genre":"Biography, Drama, Family","movie":"Miracles from Heaven","rating":7.1,"year":2016}
+{"genre":"Biography, Drama, Sport","movie":"Raça","rating":7.1,"year":2016}
+{"genre":"Biography, Crime, Drama","movie":"Madame Satã","rating":7.1,"year":2002}
+{"genre":"Biography, Crime, Drama","movie":"Aquarius","rating":7.1,"year":20152016}
+{"genre":"Biography, Drama, Thriller","movie":"The People vs. Fritz Bauer","rating":7.1,"year":2015}
+{"genre":"Documentary, Biography, Crime","movie":"The Witness","rating":7.1,"year":2015}
+{"genre":"Biography, Drama","movie":"The Brooke Ellison Story","rating":7.1,"year":2004}
+{"genre":"Biography, Drama","movie":"Professor Marston and the Wonder Women","rating":7.1,"year":2017}
+{"genre":"Biography, Drama","movie":"Goodbye Christopher Robin","rating":7.1,"year":2017}
+{"genre":"Biography, Drama","movie":"The Last Mitterrand","rating":7.1,"year":2005}

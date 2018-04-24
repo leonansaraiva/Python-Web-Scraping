@@ -1,0 +1,84 @@
+{"genre":"Western","movie":"Brothers in Arms","rating":2.3,"year":2005}
+{"genre":"Action, Drama, Western","movie":"Gang of Roses","rating":2.3,"year":2003}
+{"genre":"Action, Horror, Western","movie":"The Quick and the Undead","rating":2.7,"year":2006}
+{"genre":"Action, Fantasy, Western","movie":"BloodRayne: Deliverance","rating":2.7,"year":2007}
+{"genre":"Comedy, Western","movie":"Lucky Luke and the Daltons","rating":3.2,"year":2004}
+{"genre":"Drama, Western","movie":"South of Heaven, West of Hell","rating":4.1,"year":2000}
+{"genre":"Drama, Western","movie":"Wyatt Earp's Revenge","rating":4.5,"year":2012}
+{"genre":"Action, Western","movie":"Dead Men","rating":4.6,"year":2018}
+{"genre":"Western","movie":"Hickok","rating":4.7,"year":2017}
+{"genre":"Adventure, Comedy, Western","movie":"Lucky Luke","rating":4.8,"year":2009}
+{"genre":"Crime, Drama, Western","movie":"Wild Horses","rating":4.8,"year":2015}
+{"genre":"Western","movie":"A Difícil Vingança","rating":4.8,"year":2012}
+{"genre":"Comedy, Western","movie":"The Ridiculous 6","rating":4.8,"year":2015}
+{"genre":"Western","movie":"Gone Are the Days","rating":4.8,"year":2018}
+{"genre":"Action, Western","movie":"Traded","rating":5.1,"year":2016}
+{"genre":"Adventure, Western","movie":"Renegade","rating":5.2,"year":2004}
+{"genre":"Comedy, Horror, Western","movie":"Undead or Alive: A Zombedy","rating":5.3,"year":2007}
+{"genre":"Horror, Thriller, Western","movie":"Blood River","rating":5.3,"year":2009}
+{"genre":"Action, Horror, Western","movie":"Left for Dead","rating":5.3,"year":2007}
+{"genre":"Comedy, Western","movie":"Casa de mi Padre","rating":5.5,"year":2012}
+{"genre":"Comedy, Drama, Western","movie":"Damsel","rating":5.5,"year":2018}
+{"genre":"Horror, Thriller, Western","movie":"Dead Birds","rating":5.7,"year":2004}
+{"genre":"Drama, Romance, Western","movie":"Cowboy Up","rating":5.8,"year":2001}
+{"genre":"Horror, Thriller, Western","movie":"The Burrowers","rating":5.8,"year":2008}
+{"genre":"Drama, Romance, Western","movie":"All the Pretty Horses","rating":5.8,"year":2000}
+{"genre":"Action, Drama, Western","movie":"Jane Got a Gun","rating":5.9,"year":2015}
+{"genre":"Action, Adventure, Western","movie":"The Legend of Zorro","rating":5.9,"year":2005}
+{"genre":"Action, Western","movie":"American Outlaws","rating":6.0,"year":2001}
+{"genre":"Western","movie":"The Killer","rating":6.0,"year":2017}
+{"genre":"Drama, Western","movie":"The Keeping Room","rating":6.0,"year":2014}
+{"genre":"Adventure, Comedy, Western","movie":"Saving Private Perez","rating":6.0,"year":2011}
+{"genre":"Western","movie":"The Virginian","rating":6.0,"year":2000}
+{"genre":"Drama, Western","movie":"Killer Women","rating":6.1,"year":2014}
+{"genre":"Comedy, Romance, Western","movie":"A Million Ways to Die in the West","rating":6.1,"year":2014}
+{"genre":"Action, Drama, Western","movie":"The Ballad of Lefty Brown","rating":6.2,"year":2017}
+{"genre":"Thriller, Western","movie":"Sweetwater","rating":6.2,"year":2013}
+{"genre":"Action, Western","movie":"Sukiyaki Western Django","rating":6.3,"year":2007}
+{"genre":"Drama, Western","movie":"Jauja","rating":6.3,"year":2014}
+{"genre":"Action, Fantasy, Western","movie":"O Caminho do Guerreiro","rating":6.3,"year":2010}
+{"genre":"Drama, Western","movie":"O Retorno de John Henry","rating":6.3,"year":2015}
+{"genre":"Thriller, Western","movie":"Busca Sangrenta","rating":6.4,"year":2010}
+{"genre":"Action, Adventure, Western","movie":"The Lone Ranger","rating":6.5,"year":2013}
+{"genre":"Drama, Romance, Western","movie":"The Claim","rating":6.5,"year":2000}
+{"genre":"Adventure, Thriller, Western","movie":"The Missing","rating":6.5,"year":2003}
+{"genre":"Comedy, Western","movie":"Manitou's Shoe","rating":6.6,"year":2001}
+{"genre":"Adventure, Drama, Western","movie":"The Retrieval","rating":6.6,"year":2013}
+{"genre":"Drama, Western","movie":"The Homesman","rating":6.6,"year":2014}
+{"genre":"Action, Adventure, Western","movie":"Os Implacáveis","rating":6.6,"year":2011}
+{"genre":"Drama, Thriller, Western","movie":"Frontera","rating":6.6,"year":2014}
+{"genre":"Drama, Western","movie":"Meek's Cutoff","rating":6.6,"year":2010}
+{"genre":"Drama, Western","movie":"A Salvação","rating":6.7,"year":2014}
+{"genre":"Drama, Romance, Western","movie":"Dust","rating":6.7,"year":2001}
+{"genre":"Romance, Western","movie":"Painted Woman","rating":6.8,"year":2017}
+{"genre":"Drama, Western","movie":"Texas Rising","rating":6.8,"year":2015}
+{"genre":"Action, Adventure, Western","movie":"The Magnificent Seven","rating":6.9,"year":2016}
+{"genre":"Western","movie":"Slow West","rating":6.9,"year":2015}
+{"genre":"Drama, Romance, Western","movie":"The Outsider","rating":7.0,"year":2002}
+{"genre":"Drama, Family, Western","movie":"Love's Abiding Joy","rating":7.1,"year":2006}
+{"genre":"Thriller, Western","movie":"Amaldiçoada","rating":7.1,"year":2016}
+{"genre":"Action, Western","movie":"Crossfire Trail","rating":7.1,"year":2001}
+{"genre":"Mystery, Western","movie":"O Vale Sombrio","rating":7.1,"year":2014}
+{"genre":"Romance, Western","movie":"Monte Walsh","rating":7.2,"year":2003}
+{"genre":"Drama, War, Western","movie":"Longe dos Homens","rating":7.2,"year":2014}
+{"genre":"Drama, Western","movie":"Comanche Moon","rating":7.2,"year":2008}
+{"genre":"Drama, History, Western","movie":"Bury My Heart at Wounded Knee","rating":7.2,"year":2007}
+{"genre":"Drama, Family, Western","movie":"Love's Enduring Promise","rating":7.3,"year":2004}
+{"genre":"Adventure, Drama, Western","movie":"Hostiles","rating":7.3,"year":2017}
+{"genre":"Action, Adventure, Western","movie":"Os Invencíveis","rating":7.3,"year":2008}
+{"genre":"Action, Comedy, Western","movie":"Let the Bullets Fly","rating":7.4,"year":2010}
+{"genre":"Comedy, Western","movie":"Yahsi Bati - The Ottoman Cowboys","rating":7.4,"year":2009}
+{"genre":"Crime, Drama, Western","movie":"The Proposition","rating":7.4,"year":2005}
+{"genre":"Drama, Family, Western","movie":"Love's Long Journey","rating":7.4,"year":2005}
+{"genre":"Drama, Western","movie":"The Son","rating":7.5,"year":2017}
+{"genre":"Adventure, Drama, Western","movie":"Klondike","rating":7.5,"year":2014}
+{"genre":"Drama, History, Western","movie":"O Rastreador","rating":7.5,"year":2002}
+{"genre":"Crime, Drama, Western","movie":"Damnation","rating":7.6,"year":2017}
+{"genre":"Adventure, Drama, Western","movie":"True Grit","rating":7.6,"year":2010}
+{"genre":"Western","movie":"Broken Trail","rating":7.8,"year":2006}
+{"genre":"Short, Comedy, Western","movie":"The Gunfighter","rating":8.1,"year":2014}
+{"genre":"Western, Action, Crime","movie":"Peacemakers","rating":8.2,"year":2003}
+{"genre":"Drama, Western","movie":"Hell on Wheels","rating":8.3,"year":20112016}
+{"genre":"Action, Western","movie":"Gun","rating":8.4,"year":2005}
+{"genre":"Drama, Western","movie":"Godless","rating":8.4,"year":2017}
+{"genre":"Drama, Western","movie":"Django Unchained","rating":8.4,"year":2012}

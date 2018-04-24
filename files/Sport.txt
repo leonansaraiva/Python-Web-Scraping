@@ -1,0 +1,405 @@
+{"genre":"Comedy, Romance, Sport","movie":"Dream.net","rating":2.0,"year":2009}
+{"genre":"Action, Sport","movie":"Crossover","rating":2.1,"year":2006}
+{"genre":"Drama, History, Sport","movie":"United Passions","rating":2.1,"year":2014}
+{"genre":"Comedy, Sport","movie":"Who's Your Caddy?","rating":2.1,"year":2007}
+{"genre":"Comedy, Sport","movie":"Surf School","rating":2.1,"year":2006}
+{"genre":"Action, Comedy, Sport","movie":"Backyard Dogs","rating":2.2,"year":2000}
+{"genre":"Comedy, Sport","movie":"Hole in One","rating":3.0,"year":2009}
+{"genre":"Action, Sci-Fi, Sport","movie":"Rollerball","rating":3.0,"year":2002}
+{"genre":"Drama, Romance, Sport","movie":"Gol! III: Assumindo o Mundial","rating":3.3,"year":2009}
+{"genre":"Comedy, Family, Sport","movie":"MVP: Most Vertical Primate","rating":3.5,"year":2001}
+{"genre":"Crime, Drama, Sport","movie":"Snowboarder","rating":3.5,"year":2003}
+{"genre":"Action, Crime, Sport","movie":"Street Fighter: A Lenda de Chun-Li","rating":3.7,"year":2009}
+{"genre":"Comedy, Romance, Sport","movie":"The Love Guru","rating":3.8,"year":2008}
+{"genre":"Comedy, Family, Sport","movie":"Jogada de Mestre","rating":3.9,"year":2000}
+{"genre":"Comedy, Sport","movie":"The Comebacks","rating":4.2,"year":2007}
+{"genre":"Comedy, Family, Sport","movie":"Bud 5: Arrasando no Vôlei","rating":4.2,"year":2003}
+{"genre":"Comedy, Sport","movie":"Slap Shot 2: Breaking the Ice","rating":4.3,"year":2002}
+{"genre":"Comedy, Family, Sport","movie":"Like Mike 2: Streetball","rating":4.3,"year":2006}
+{"genre":"Comedy, Sport","movie":"Shooting Stars","rating":4.3,"year":2002}
+{"genre":"Comedy, Sport","movie":"Cloud 9","rating":4.3,"year":2006}
+{"genre":"Comedy, Family, Sport","movie":"The Sandlot 2","rating":4.5,"year":2005}
+{"genre":"Comedy, Sport","movie":"Bring It on Again","rating":4.5,"year":2004}
+{"genre":"Action, Drama, Sport","movie":"Driven","rating":4.5,"year":2001}
+{"genre":"Drama, Sport","movie":"All You've Got","rating":4.5,"year":2006}
+{"genre":"Comedy, Drama, Sport","movie":"Dil Bole Hadippa!","rating":4.6,"year":2009}
+{"genre":"Adventure, Comedy, Sport","movie":"Chilly Dogs","rating":4.6,"year":2001}
+{"genre":"Comedy, Horror, Sport","movie":"Gutterballs","rating":4.7,"year":2008}
+{"genre":"Crime, Drama, Sport","movie":"Green Street Hooligans 2","rating":4.8,"year":2009}
+{"genre":"Comedy, Sport","movie":"Basquete Shaolin: Águias das Quadras","rating":4.8,"year":2008}
+{"genre":"Drama, Sport","movie":"Dhan Dhana Dhan Goal","rating":4.9,"year":2007}
+{"genre":"Comedy, Sport, Thriller","movie":"Diwanji Moola Grand Prix","rating":5.0,"year":2018}
+{"genre":"Comedy, Sport","movie":"Freaky Ali","rating":5.0,"year":2016}
+{"genre":"Comedy, Family, Sport","movie":"Rebound","rating":5.1,"year":2005}
+{"genre":"Comedy, Sport","movie":"The Hot Flashes","rating":5.1,"year":2013}
+{"genre":"Action, Sport, Thriller","movie":"Queimando o Asfalto","rating":5.1,"year":2008}
+{"genre":"Comedy, Romance, Sport","movie":"Mr. Woodcock","rating":5.1,"year":2007}
+{"genre":"Family, Sport","movie":"The Sandlot: Heading Home","rating":5.2,"year":2007}
+{"genre":"Comedy, Family, Sport","movie":"Berlin Kaplani","rating":5.2,"year":2012}
+{"genre":"Drama, Sport","movie":"The Phenom","rating":5.2,"year":2016}
+{"genre":"Action, Crime, Sport","movie":"Caçadores de Emoção: Além do Limite","rating":5.3,"year":2015}
+{"genre":"Comedy, Sport","movie":"Ready to Rumble","rating":5.3,"year":2000}
+{"genre":"Comedy, Crime, Sport","movie":"Balls of Fury","rating":5.3,"year":2007}
+{"genre":"Comedy, Sport","movie":"Les seigneurs","rating":5.3,"year":2012}
+{"genre":"Action, Sport","movie":"Fúria Sobre Rodas","rating":5.3,"year":2003}
+{"genre":"Drama, Horror, Sport","movie":"Homecoming","rating":5.4,"year":2009}
+{"genre":"Action, Drama, Sport","movie":"A Revanche","rating":5.4,"year":2014}
+{"genre":"Comedy, Sport","movie":"Bring It On: Fight to the Finish","rating":5.4,"year":2009}
+{"genre":"Comedy, Sport","movie":"Bring It On: In It to Win It","rating":5.4,"year":2007}
+{"genre":"Family, Romance, Sport","movie":"Ta Ra Rum Pum","rating":5.5,"year":2007}
+{"genre":"Comedy, Drama, Sport","movie":"Blackball","rating":5.5,"year":2003}
+{"genre":"Drama, Sport","movie":"She Monkeys","rating":5.5,"year":2011}
+{"genre":"Drama, Sport","movie":"All Things Fall Apart","rating":5.5,"year":2011}
+{"genre":"Drama, Romance, Sport","movie":"Blue Crush 2","rating":5.5,"year":2011}
+{"genre":"Drama, Sport","movie":"Undefeated","rating":5.5,"year":2003}
+{"genre":"Comedy, Sport","movie":"Balls Out: Gary the Tennis Coach","rating":5.5,"year":2009}
+{"genre":"Drama, Sport, Thriller","movie":"At Any Price","rating":5.6,"year":2012}
+{"genre":"Action, Comedy, Sport","movie":"The Benchwarmers","rating":5.6,"year":2006}
+{"genre":"Comedy, Drama, Sport","movie":"Long Flat Balls","rating":5.6,"year":2006}
+{"genre":"Comedy, Romance, Sport","movie":"FC Venus","rating":5.6,"year":2005}
+{"genre":"Comedy, Romance, Sport","movie":"Division III: Football's Finest","rating":5.6,"year":2011}
+{"genre":"Family, Romance, Sport","movie":"Den Brother","rating":5.6,"year":2010}
+{"genre":"Drama, Romance, Sport","movie":"Blue Crush","rating":5.6,"year":2002}
+{"genre":"Action, Drama, Sport","movie":"Fighting","rating":5.6,"year":2009}
+{"genre":"Comedy, Drama, Sport","movie":"Les Boys III","rating":5.7,"year":2001}
+{"genre":"Action, Drama, Sport","movie":"The Philly Kid","rating":5.7,"year":2012}
+{"genre":"Comedy, Sport","movie":"Bring It On: All or Nothing","rating":5.7,"year":2006}
+{"genre":"Comedy, Romance, Sport","movie":"Playing for Keeps","rating":5.7,"year":2012}
+{"genre":"Comedy, Family, Sport","movie":"Nacho Libre","rating":5.7,"year":2006}
+{"genre":"Biography, Drama, Sport","movie":"The 5th Quarter","rating":5.7,"year":2010}
+{"genre":"Drama, Family, Sport","movie":"Hometown Legend","rating":5.7,"year":2002}
+{"genre":"Action, Drama, Sport","movie":"Never Back Down 2: The Beatdown","rating":5.8,"year":2011}
+{"genre":"Drama, Family, Sport","movie":"Pride","rating":5.8,"year":2007}
+{"genre":"Drama, Romance, Sport","movie":"Annapolis","rating":5.8,"year":2006}
+{"genre":"Comedy, Sport","movie":"Bad News Bears","rating":5.8,"year":2005}
+{"genre":"Comedy, Sport","movie":"The Ringer","rating":5.8,"year":2005}
+{"genre":"Biography, Drama, Sport","movie":"Azhar","rating":5.8,"year":2016}
+{"genre":"Comedy, Sport","movie":"Blue Mountain State: The Rise of Thadland","rating":5.8,"year":2016}
+{"genre":"Comedy, Sport","movie":"Goon: Last of the Enforcers","rating":5.8,"year":2017}
+{"genre":"Comedy, Sport","movie":"Semi-Pro","rating":5.8,"year":2008}
+{"genre":"Comedy, Drama, Sport","movie":"Jogo da Vida","rating":5.8,"year":2011}
+{"genre":"Comedy, Drama, Sport","movie":"Game 6","rating":5.9,"year":2005}
+{"genre":"Drama, Sport","movie":"Goal II: Living the Dream","rating":5.9,"year":2007}
+{"genre":"Comedy, Romance, Sport","movie":"Just Wright","rating":5.9,"year":2010}
+{"genre":"Drama, Romance, Sport","movie":"Cyclomania","rating":5.9,"year":2001}
+{"genre":"Drama, Romance, Sport","movie":"Lucky You","rating":5.9,"year":2007}
+{"genre":"Drama, Family, Sport","movie":"Full-Court Miracle","rating":5.9,"year":2003}
+{"genre":"Drama, Sport","movie":"Patiala House","rating":5.9,"year":2011}
+{"genre":"Drama, Sport","movie":"Home Run","rating":6.0,"year":2013}
+{"genre":"Drama, Sport","movie":"The Slaughter Rule","rating":6.0,"year":2002}
+{"genre":"Drama, Sport","movie":"Amateur","rating":6.0,"year":2018}
+{"genre":"Action, Drama, Sport","movie":"Boy s tenyu","rating":6.0,"year":2005}
+{"genre":"Comedy, Sport","movie":"Beer League","rating":6.0,"year":2006}
+{"genre":"Adventure, Comedy, Sport","movie":"Grind","rating":6.0,"year":2003}
+{"genre":"Reality-TV, Sport","movie":"Monster Garage","rating":6.0,"year":20022007}
+{"genre":"Comedy, Sport","movie":"Ping Pong Playa","rating":6.0,"year":2007}
+{"genre":"Drama, Sport","movie":"Crooked Arrows","rating":6.0,"year":2012}
+{"genre":"Comedy, Romance, Sport","movie":"Bring It On","rating":6.0,"year":2000}
+{"genre":"Action, Drama, Sport","movie":"Apne","rating":6.0,"year":2007}
+{"genre":"Action, Drama, Sport","movie":"Carman: The Champion","rating":6.0,"year":2001}
+{"genre":"Comedy, Drama, Sport","movie":"The Bronze","rating":6.0,"year":2015}
+{"genre":"Drama, Sport","movie":"Seven Days in Utopia","rating":6.1,"year":2011}
+{"genre":"Biography, Drama, Sport","movie":"Fab Five: The Texas Cheerleader Scandal","rating":6.1,"year":2008}
+{"genre":"Comedy, Drama, Sport","movie":"When Billie Beat Bobby","rating":6.1,"year":2001}
+{"genre":"Action, Sport","movie":"Born to Race","rating":6.1,"year":2011}
+{"genre":"Comedy, Family, Sport","movie":"Eddie's Million Dollar Cook-Off","rating":6.1,"year":2003}
+{"genre":"Comedy, Romance, Sport","movie":"Lucky Trouble","rating":6.2,"year":2011}
+{"genre":"Drama, Sport","movie":"The Miracle Season","rating":6.2,"year":2018}
+{"genre":"Comedy, Reality-TV, Sport","movie":"American Chopper: The Series","rating":6.2,"year":2003}
+{"genre":"Drama, History, Sport","movie":"The Game of Their Lives","rating":6.2,"year":2005}
+{"genre":"Drama, Sport, Thriller","movie":"Two for the Money","rating":6.2,"year":2005}
+{"genre":"Drama, Sport","movie":"First Match","rating":6.2,"year":2018}
+{"genre":"Comedy, Family, Sport","movie":"The Game Plan","rating":6.2,"year":2007}
+{"genre":"Comedy, Romance, Sport","movie":"United","rating":6.2,"year":2003}
+{"genre":"Documentary, Sport","movie":"Bra Boys","rating":6.2,"year":2007}
+{"genre":"Comedy, Romance, Sport","movie":"Cuban Fury","rating":6.2,"year":2014}
+{"genre":"Biography, Drama, Sport","movie":"Gracie","rating":6.2,"year":2007}
+{"genre":"Documentary, Sport","movie":"Real: The Movie","rating":6.2,"year":2005}
+{"genre":"Comedy, Sport","movie":"Curling King","rating":6.2,"year":2011}
+{"genre":"Drama, Sport","movie":"A Shot at Glory","rating":6.3,"year":2000}
+{"genre":"Drama, Family, Sport","movie":"Alley Cats Strike","rating":6.3,"year":2000}
+{"genre":"Comedy, Romance, Sport","movie":"Wimbledon","rating":6.3,"year":2004}
+{"genre":"Drama, Sport","movie":"4 Minute Mile","rating":6.3,"year":2014}
+{"genre":"Comedy, Sport","movie":"Blades of Glory","rating":6.3,"year":2007}
+{"genre":"Drama, Romance, Sport","movie":"1 Mile to You","rating":6.3,"year":2017}
+{"genre":"Drama, Sport","movie":"Fast Girls","rating":6.3,"year":2012}
+{"genre":"Comedy, Sport","movie":"Out Cold","rating":6.3,"year":2001}
+{"genre":"Documentary, Biography, Sport","movie":"Zidane: A 21st Century Portrait","rating":6.3,"year":2006}
+{"genre":"Drama, Sport","movie":"Mergulhando Fundo","rating":6.3,"year":2013}
+{"genre":"Drama, Sport","movie":"The Hell of '63","rating":6.3,"year":2009}
+{"genre":"Drama, Sport","movie":"Legendary","rating":6.3,"year":2010}
+{"genre":"Comedy, Romance, Sport","movie":"Chalet Girl","rating":6.3,"year":2011}
+{"genre":"Action, Sport","movie":"WWE Elimination Chamber","rating":6.4,"year":2018}
+{"genre":"Documentary, Sport","movie":"Kobe Doin' Work","rating":6.4,"year":2009}
+{"genre":"Drama, Sport","movie":"The Junction Boys","rating":6.4,"year":2002}
+{"genre":"Drama, Romance, Sport","movie":"Ice Castles","rating":6.4,"year":2010}
+{"genre":"Drama, Sport","movie":"A Gentleman's Game","rating":6.4,"year":2002}
+{"genre":"Action, Comedy, Sport","movie":"Here Comes the Boom","rating":6.4,"year":2012}
+{"genre":"Action, Sport","movie":"TNA Impact! Wrestling","rating":6.4,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"Ronaldo","rating":6.4,"year":2015}
+{"genre":"Short, Action, Sport","movie":"Turbo Charged Prelude to 2 Fast 2 Furious","rating":6.4,"year":2003}
+{"genre":"Drama, Sport","movie":"Price of Glory","rating":6.4,"year":2000}
+{"genre":"Drama, Sport","movie":"Hardball","rating":6.4,"year":2001}
+{"genre":"Comedy, Drama, Sport","movie":"Grudge Match","rating":6.4,"year":2013}
+{"genre":"Comedy, Romance, Sport","movie":"Wo ist Fred?","rating":6.4,"year":2006}
+{"genre":"Comedy, Crime, Sport","movie":"The Longest Yard","rating":6.4,"year":2005}
+{"genre":"Adventure, Drama, Sport","movie":"Contra a Maré","rating":6.4,"year":2013}
+{"genre":"Drama, Romance, Sport","movie":"Monsterthursday","rating":6.4,"year":2004}
+{"genre":"Comedy, Drama, Sport","movie":"Virada Radical - Desafio e Conquista","rating":6.4,"year":2006}
+{"genre":"Comedy, Romance, Sport","movie":"She's the Man","rating":6.4,"year":2006}
+{"genre":"Comedy, Romance, Sport","movie":"The Big Bad Swim","rating":6.5,"year":2006}
+{"genre":"Documentary, Biography, Sport","movie":"Cristiano Ronaldo: World at His Feet","rating":6.5,"year":2014}
+{"genre":"Drama, Sport","movie":"The Mighty Macs","rating":6.5,"year":2009}
+{"genre":"Comedy, Sport","movie":"The Replacements","rating":6.5,"year":2000}
+{"genre":"Drama, Romance, Sport","movie":"The Gymnast","rating":6.5,"year":2006}
+{"genre":"Action, Drama, Sport","movie":"Jawbone","rating":6.5,"year":2017}
+{"genre":"Biography, Drama, Sport","movie":"The Program","rating":6.5,"year":2015}
+{"genre":"Drama, Sport","movie":"Woodlawn","rating":6.5,"year":2015}
+{"genre":"Action, Crime, Sport","movie":"Premium Rush","rating":6.5,"year":2012}
+{"genre":"Action, Sport","movie":"Never Back Down: No Surrender","rating":6.5,"year":2016}
+{"genre":"Action, Drama, Sport","movie":"Never Back Down","rating":6.6,"year":2008}
+{"genre":"Comedy, Drama, Sport","movie":"There's Only One Jimmy Grimble","rating":6.6,"year":2000}
+{"genre":"Comedy, Sport","movie":"The Winning Season","rating":6.6,"year":2009}
+{"genre":"Drama, Romance, Sport","movie":"You'll Get Over It","rating":6.6,"year":2002}
+{"genre":"Drama, Sport","movie":"Fighting Tommy Riley","rating":6.6,"year":2004}
+{"genre":"Drama, Sport","movie":"Madison","rating":6.6,"year":2001}
+{"genre":"Comedy, Romance, Sport","movie":"Run, Fatboy, Run","rating":6.6,"year":2007}
+{"genre":"Action, Comedy, Sport","movie":"Talladega Nights: The Ballad of Ricky Bobby","rating":6.6,"year":2006}
+{"genre":"Comedy, Drama, Sport","movie":"My Life on Ice","rating":6.6,"year":2002}
+{"genre":"Comedy, Drama, Sport","movie":"Ghislain Lambert's Bicycle","rating":6.6,"year":2001}
+{"genre":"Drama, Sport","movie":"Hurricane Season","rating":6.7,"year":2009}
+{"genre":"Drama, Fantasy, Sport","movie":"The Legend of Bagger Vance","rating":6.7,"year":2000}
+{"genre":"Drama, Sport","movie":"Facing the Giants","rating":6.7,"year":2006}
+{"genre":"Comedy, Sport","movie":"Dodgeball: A True Underdog Story","rating":6.7,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"Becoming Zlatan","rating":6.7,"year":2015}
+{"genre":"Comedy, Drama, Sport","movie":"Rudo e Cursi","rating":6.7,"year":2008}
+{"genre":"Drama, Sport","movie":"Resurrecting the Champ","rating":6.7,"year":2007}
+{"genre":"Drama, Sport","movie":"The Final Season","rating":6.7,"year":2007}
+{"genre":"Drama, Romance, Sport","movie":"Land of Storms","rating":6.7,"year":2014}
+{"genre":"Documentary, Sport","movie":"Maradona by Kusturica","rating":6.7,"year":2008}
+{"genre":"Drama, Sport","movie":"Monday Night Mayhem","rating":6.7,"year":2002}
+{"genre":"Drama, Romance, Sport","movie":"Goal! The Dream Begins","rating":6.7,"year":2005}
+{"genre":"Drama, Family, Sport","movie":"When the Game Stands Tall","rating":6.7,"year":2014}
+{"genre":"Documentary, Reality-TV, Sport","movie":"Overhaulin'","rating":6.8,"year":2004}
+{"genre":"Drama, Romance, Sport","movie":"Australian Rules","rating":6.8,"year":2002}
+{"genre":"Biography, Drama, Sport","movie":"Ali","rating":6.8,"year":2001}
+{"genre":"Biography, Drama, Sport","movie":"Joe and Max","rating":6.8,"year":2002}
+{"genre":"Drama, Sport","movie":"Trouble with the Curve","rating":6.8,"year":2012}
+{"genre":"Biography, Drama, Sport","movie":"Bleed for This","rating":6.8,"year":2016}
+{"genre":"Drama, Sport","movie":"Brian's Song","rating":6.8,"year":2001}
+{"genre":"Comedy, Sport","movie":"Mike Bassett: England Manager","rating":6.8,"year":2001}
+{"genre":"Drama, Sport","movie":"Draft Day","rating":6.8,"year":2014}
+{"genre":"Drama, Sport","movie":"Lessons of a Dream","rating":6.8,"year":2011}
+{"genre":"Drama, Sport","movie":"Redbelt","rating":6.8,"year":2008}
+{"genre":"Drama, Sport","movie":"Girlfight","rating":6.8,"year":2000}
+{"genre":"Action, Sport","movie":"WrestleMania","rating":6.8,"year":2018}
+{"genre":"Comedy, Drama, Sport","movie":"As Damas de Ferro","rating":6.8,"year":2000}
+{"genre":"Drama, Sport","movie":"O Milagre de Berna","rating":6.8,"year":2003}
+{"genre":"Comedy, Sport","movie":"Goon","rating":6.8,"year":2011}
+{"genre":"Drama, Family, Sport","movie":"Will","rating":6.9,"year":2011}
+{"genre":"Biography, Drama, Sport","movie":"My Name Is Lenny","rating":6.9,"year":2017}
+{"genre":"Comedy, Romance, Sport","movie":"A Datilógrafa","rating":6.9,"year":2012}
+{"genre":"Action, Game-Show, Sport","movie":"American Ninja Warrior","rating":6.9,"year":2009}
+{"genre":"Biography, Drama, Sport","movie":"3: The Dale Earnhardt Story","rating":6.9,"year":2004}
+{"genre":"Crime, Drama, Sport","movie":"The Football Factory","rating":6.9,"year":2004}
+{"genre":"Drama, Family, Sport","movie":"Dreamer: Inspired by a True Story","rating":6.9,"year":2005}
+{"genre":"Drama, Sport","movie":"Whip It","rating":6.9,"year":2009}
+{"genre":"Biography, Drama, Sport","movie":"Radio","rating":6.9,"year":2003}
+{"genre":"Crime, Drama, Sport","movie":"Gridiron Gang","rating":6.9,"year":2006}
+{"genre":"Biography, Drama, Sport","movie":"Million Dollar Arm","rating":7.0,"year":2014}
+{"genre":"Biography, Drama, Sport","movie":"Pawn Sacrifice","rating":7.0,"year":2014}
+{"genre":"Documentary, Sport","movie":"Deutschland. Ein Sommermärchen","rating":7.0,"year":2006}
+{"genre":"Biography, Drama, Sport","movie":"Foxcatcher","rating":7.0,"year":2014}
+{"genre":"Biography, Drama, Sport","movie":"Borg vs McEnroe","rating":7.0,"year":2017}
+{"genre":"Documentary, Biography, Sport","movie":"Pantani: The Accidental Death of a Cyclist","rating":7.0,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"Like Water","rating":7.0,"year":2011}
+{"genre":"Comedy, Sport","movie":"The Foul King","rating":7.0,"year":2000}
+{"genre":"Comedy, Drama, Sport","movie":"Poolhall Junkies","rating":7.0,"year":2002}
+{"genre":"Documentary, Biography, Sport","movie":"Iverson","rating":7.0,"year":2014}
+{"genre":"Drama, Family, Sport","movie":"The Rookie","rating":7.0,"year":2002}
+{"genre":"Action, Drama, Sport","movie":"O Faixa Preta","rating":7.1,"year":2007}
+{"genre":"Comedy, Sport","movie":"7 Days in Hell","rating":7.1,"year":2015}
+{"genre":"Documentary, Biography, Sport","movie":"I Am Bolt","rating":7.1,"year":2016}
+{"genre":"Documentary, Biography, Sport","movie":"Gascoigne","rating":7.1,"year":2015}
+{"genre":"Action, Drama, Sport","movie":"Sultan","rating":7.1,"year":2016}
+{"genre":"Biography, Drama, Sport","movie":"Raça","rating":7.1,"year":2016}
+{"genre":"Drama, Sport","movie":"Handsome Devil","rating":7.1,"year":2016}
+{"genre":"Documentary, Drama, Sport","movie":"Generation Iron","rating":7.1,"year":2013}
+{"genre":"Drama, Sport","movie":"O Escocês Voador","rating":7.1,"year":2006}
+{"genre":"Documentary, Sport","movie":"Knuckleball!","rating":7.1,"year":2012}
+{"genre":"Drama, Sport","movie":"We Are Marshall","rating":7.1,"year":2006}
+{"genre":"Comedy, Sport","movie":"Tour de Pharmacy","rating":7.1,"year":2017}
+{"genre":"Drama, Family, Sport","movie":"Going to the Mat","rating":7.1,"year":2004}
+{"genre":"Biography, Drama, Sport","movie":"Lords of Dogtown","rating":7.1,"year":2005}
+{"genre":"Documentary, Sport","movie":"Into the Mind","rating":7.1,"year":2013}
+{"genre":"Drama, Sport","movie":"Rocky Balboa","rating":7.2,"year":2006}
+{"genre":"Comedy, Drama, Sport","movie":"Win Win","rating":7.2,"year":2011}
+{"genre":"Comedy, Sport","movie":"Waterboys","rating":7.2,"year":2001}
+{"genre":"Biography, Drama, Sport","movie":"Glory Road","rating":7.2,"year":2006}
+{"genre":"Biography, Drama, Sport","movie":"Pelé: Birth of a Legend","rating":7.2,"year":2016}
+{"genre":"Documentary, Biography, Sport","movie":"I Am Ali","rating":7.2,"year":2014}
+{"genre":"Documentary, Biography, Sport","movie":"Manny","rating":7.2,"year":2014}
+{"genre":"Biography, Family, Sport","movie":"Greater","rating":7.2,"year":2016}
+{"genre":"Drama, Romance, Sport","movie":"Love & Basketball","rating":7.2,"year":2000}
+{"genre":"Comedy, Drama, Sport","movie":"Pinpon","rating":7.2,"year":2002}
+{"genre":"Comedy, Drama, Sport","movie":"Back on Track","rating":7.2,"year":2013}
+{"genre":"Biography, Drama, Sport","movie":"Campeão","rating":7.2,"year":2003}
+{"genre":"Drama, History, Sport","movie":"O Esgrimista","rating":7.2,"year":2015}
+{"genre":"Biography, Drama, Sport","movie":"Unbroken","rating":7.2,"year":2014}
+{"genre":"Biography, Drama, Sport","movie":"My All-American","rating":7.2,"year":2015}
+{"genre":"Documentary, Sport","movie":"First Descent","rating":7.2,"year":2005}
+{"genre":"Drama, Sport","movie":"Linha de Passe","rating":7.2,"year":2008}
+{"genre":"Documentary, Biography, Sport","movie":"Conor McGregor: Notorious","rating":7.2,"year":2017}
+{"genre":"Crime, Drama, Sport","movie":"Trapped in a Purple Haze","rating":7.2,"year":2000}
+{"genre":"Documentary, Sport","movie":"Stoked: The Rise and Fall of Gator","rating":7.2,"year":2002}
+{"genre":"Biography, Drama, Sport","movie":"Chasing Mavericks","rating":7.2,"year":2012}
+{"genre":"Biography, Drama, Sport","movie":"The Express","rating":7.3,"year":2008}
+{"genre":"Comedy, Drama, Sport","movie":"Avellaneda's Moon","rating":7.3,"year":2004}
+{"genre":"Drama, Romance, Sport","movie":"Peaceful Warrior","rating":7.3,"year":2006}
+{"genre":"Documentary, Biography, Sport","movie":"The Armstrong Lie","rating":7.3,"year":2013}
+{"genre":"Drama, Sport","movie":"Forever Strong","rating":7.3,"year":2008}
+{"genre":"Comedy, Drama, Sport","movie":"Fora do Jogo","rating":7.3,"year":2006}
+{"genre":"Action, Drama, Sport","movie":"Tudo Pela Vitória","rating":7.3,"year":2004}
+{"genre":"Biography, Drama, Sport","movie":"Coach Carter","rating":7.3,"year":2005}
+{"genre":"Comedy, Romance, Sport","movie":"The Hammer","rating":7.3,"year":2007}
+{"genre":"Action, Comedy, Sport","movie":"Shaolin Soccer","rating":7.3,"year":2001}
+{"genre":"Documentary, Biography, Sport","movie":"Champs","rating":7.3,"year":2014}
+{"genre":"Documentary, Sport","movie":"Once in a Lifetime: The Extraordinary Story of the New York Cosmos","rating":7.3,"year":2006}
+{"genre":"Documentary, Sport","movie":"Surfwise","rating":7.3,"year":2007}
+{"genre":"Documentary, Biography, Sport","movie":"Messi","rating":7.3,"year":2014}
+{"genre":"Drama, History, Sport","movie":"Seabiscuit","rating":7.3,"year":2003}
+{"genre":"Documentary, Biography, Sport","movie":"Linsanity","rating":7.4,"year":2013}
+{"genre":"Action, Sport","movie":"WWE Royal Rumble","rating":7.4,"year":2018}
+{"genre":"Action, Drama, Sport","movie":"Crying Fist","rating":7.4,"year":2005}
+{"genre":"Drama, Sport","movie":"Nocaute","rating":7.4,"year":2015}
+{"genre":"Documentary, Sport","movie":"Go Tigers!","rating":7.4,"year":2001}
+{"genre":"Drama, Sport","movie":"Offside","rating":7.4,"year":2000}
+{"genre":"Biography, Drama, Sport","movie":"McFarland, USA","rating":7.4,"year":2015}
+{"genre":"Drama, Sport","movie":"Pitch","rating":7.4,"year":20162017}
+{"genre":"Drama, Sport, Thriller","movie":"Before the Fall","rating":7.4,"year":2004}
+{"genre":"Drama, Sport","movie":"Veloz Como o Vento","rating":7.4,"year":2016}
+{"genre":"Biography, Drama, Sport","movie":"Queen of Katwe","rating":7.4,"year":2016}
+{"genre":"Drama, Family, Sport","movie":"Hermano - Uma Fábula Sobre Futebol","rating":7.4,"year":2010}
+{"genre":"Documentary, Biography, Sport","movie":"Stop at Nothing: The Lance Armstrong Story","rating":7.5,"year":2014}
+{"genre":"Documentary, Sport","movie":"Michael Jordan to the Max","rating":7.5,"year":2000}
+{"genre":"Documentary, Sport","movie":"Step Into Liquid","rating":7.5,"year":2003}
+{"genre":"Comedy, Drama, Sport","movie":"De Marathon","rating":7.5,"year":2012}
+{"genre":"Action, Sport","movie":"Tony Hawk's Pro Skater 4","rating":7.5,"year":2002}
+{"genre":"Biography, Drama, Sport","movie":"42","rating":7.5,"year":2013}
+{"genre":"Documentary, Adventure, Sport","movie":"The Eagle Huntress","rating":7.5,"year":2016}
+{"genre":"Documentary, Biography, Sport","movie":"Tyson","rating":7.5,"year":2008}
+{"genre":"News, Sport, Talk-Show","movie":"Around the Horn","rating":7.5,"year":2002}
+{"genre":"Drama, Romance, Sport","movie":"My Brother... Nikhil","rating":7.5,"year":2005}
+{"genre":"Documentary, Sport","movie":"Paixão pela Velocidade","rating":7.5,"year":2009}
+{"genre":"Action, Sport","movie":"Need for Speed: Carbon","rating":7.5,"year":2006}
+{"genre":"Action, Sport","movie":"WrestleMania 2000","rating":7.5,"year":2000}
+{"genre":"Comedy, Drama, Sport","movie":"Em Busca De Um Milagre","rating":7.6,"year":2004}
+{"genre":"Comedy, Drama, Sport","movie":"Ballers","rating":7.6,"year":2015}
+{"genre":"Biography, Drama, Sport","movie":"The Damned United","rating":7.6,"year":2009}
+{"genre":"Drama, Sport","movie":"Kai po che!","rating":7.6,"year":2013}
+{"genre":"Documentary, Drama, Sport","movie":"180° South","rating":7.6,"year":2010}
+{"genre":"Drama, Sport","movie":"Palmas Brancas","rating":7.6,"year":2006}
+{"genre":"Documentary, Sport","movie":"Bigger Stronger Faster*","rating":7.6,"year":2008}
+{"genre":"Biography, Drama, Sport","movie":"Moneyball","rating":7.6,"year":2011}
+{"genre":"Sport","movie":"WrestleMania 23","rating":7.6,"year":2007}
+{"genre":"Reality-TV, Sport","movie":"Top Shot","rating":7.6,"year":2010}
+{"genre":"Action, Sport","movie":"Tony Hawk's Underground","rating":7.6,"year":2003}
+{"genre":"Drama, Sport","movie":"I Am Shahid Afridi","rating":7.6,"year":2013}
+{"genre":"Drama, Sport","movie":"Creed","rating":7.6,"year":2015}
+{"genre":"Drama, Sport","movie":"Make It or Break It","rating":7.6,"year":20092012}
+{"genre":"Family, Sport","movie":"1983","rating":7.7,"year":2014}
+{"genre":"Biography, Drama, Sport","movie":"The Blind Side","rating":7.7,"year":2009}
+{"genre":"Biography, Drama, Sport","movie":"Legend No. 17","rating":7.7,"year":2013}
+{"genre":"Documentary, Sport","movie":"The Heart of the Game","rating":7.7,"year":2005}
+{"genre":"Sport","movie":"WrestleMania 21","rating":7.7,"year":2005}
+{"genre":"Documentary, Sport","movie":"Dogtown and Z-Boys","rating":7.7,"year":2001}
+{"genre":"Drama, Romance, Sport","movie":"One Tree Hill","rating":7.7,"year":20032012}
+{"genre":"Reality-TV, Sport","movie":"First Team: Juventus","rating":7.7,"year":2018}
+{"genre":"Action, Drama, Sport","movie":"Saala Khadoos","rating":7.7,"year":2016}
+{"genre":"Documentary, Sport","movie":"Fire in Babylon","rating":7.7,"year":2010}
+{"genre":"Documentary, Biography, Sport","movie":"More Than a Game","rating":7.7,"year":2008}
+{"genre":"Comedy, Music, Sport","movie":"Drengene fra Angora","rating":7.7,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"Williams","rating":7.7,"year":2017}
+{"genre":"Sport","movie":"Tony Hawk's Pro Skater 3","rating":7.7,"year":2001}
+{"genre":"Biography, Drama, Sport","movie":"The Rocket","rating":7.7,"year":2005}
+{"genre":"Documentary, Sport","movie":"The Smashing Machine","rating":7.8,"year":2002}
+{"genre":"Biography, Drama, Sport","movie":"M.S. Dhoni: The Untold Story","rating":7.8,"year":2016}
+{"genre":"Biography, Drama, Sport","movie":"Remember the Titans","rating":7.8,"year":2000}
+{"genre":"Biography, Drama, Sport","movie":"Marathon","rating":7.8,"year":2005}
+{"genre":"Drama, Romance, Sport","movie":"Shelter","rating":7.8,"year":2007}
+{"genre":"Biography, Drama, Sport","movie":"The World's Fastest Indian","rating":7.8,"year":2005}
+{"genre":"Documentary, Sport","movie":"Murderball","rating":7.8,"year":2005}
+{"genre":"Action, Family, Sport","movie":"Wii Sports","rating":7.8,"year":2006}
+{"genre":"Comedy, Reality-TV, Sport","movie":"Rob & Big","rating":7.8,"year":20062008}
+{"genre":"Documentary, History, Sport","movie":"Deep Water","rating":7.8,"year":2006}
+{"genre":"Biography, Drama, Sport","movie":"The Fighter","rating":7.8,"year":2010}
+{"genre":"Documentary, Action, Sport","movie":"Fastest","rating":7.8,"year":2011}
+{"genre":"Documentary, Biography, Sport","movie":"Irmãos Klitschko: As Lendas do Boxe","rating":7.8,"year":2011}
+{"genre":"Drama, Sport","movie":"Three Seconds","rating":7.8,"year":2017}
+{"genre":"Comedy, Romance, Sport","movie":"Chennai 600028","rating":7.9,"year":2007}
+{"genre":"Drama, Sport","movie":"The Bronx Is Burning","rating":7.9,"year":2007}
+{"genre":"Sport","movie":"WrestleMania 22","rating":7.9,"year":2006}
+{"genre":"Drama, Sport","movie":"The Wrestler","rating":7.9,"year":2008}
+{"genre":"Documentary, History, Sport","movie":"Riding Giants","rating":7.9,"year":2004}
+{"genre":"Biography, Sport","movie":"Captain","rating":7.9,"year":2018}
+{"genre":"Documentary, Sport","movie":"Next Goal Wins","rating":7.9,"year":2014}
+{"genre":"Action, Reality-TV, Sport","movie":"The Ultimate Fighter","rating":7.9,"year":2005}
+{"genre":"Action, Sport","movie":"WrestleMania X8","rating":8.0,"year":2002}
+{"genre":"Comedy, Drama, Sport","movie":"GLOW","rating":8.0,"year":2017}
+{"genre":"Documentary, Sport, Thriller","movie":"Icarus","rating":8.0,"year":2017}
+{"genre":"Comedy, Drama, Sport","movie":"Brockmire","rating":8.0,"year":2017}
+{"genre":"Documentary, Biography, Sport","movie":"Andre the Giant","rating":8.0,"year":2018}
+{"genre":"Action, Sci-Fi, Sport","movie":"Unreal Tournament 2004","rating":8.0,"year":2004}
+{"genre":"Documentary, Sport","movie":"TT3D: Closer to the Edge","rating":8.0,"year":2011}
+{"genre":"Biography, Drama, Sport","movie":"Cinderella Man","rating":8.0,"year":2005}
+{"genre":"Documentary, History, Sport","movie":"1","rating":8.0,"year":2013}
+{"genre":"Action, Drama, Sport","movie":"Aadukalam","rating":8.0,"year":2011}
+{"genre":"Documentary, Sport","movie":"The Class of 92","rating":8.1,"year":2013}
+{"genre":"Crime, Drama, Sport","movie":"Lights Out","rating":8.1,"year":2011}
+{"genre":"Documentary, Sport","movie":"The Battered Bastards of Baseball","rating":8.1,"year":2014}
+{"genre":"Sport","movie":"Indian Premier League","rating":8.1,"year":2008}
+{"genre":"Sport","movie":"FIFA 14","rating":8.1,"year":2013}
+{"genre":"Documentary, Biography, Sport","movie":"The King of Kong: A Fistful of Quarters","rating":8.1,"year":2007}
+{"genre":"Sport","movie":"Summerslam","rating":8.1,"year":2002}
+{"genre":"Action, Sport","movie":"Royal Rumble","rating":8.1,"year":2000}
+{"genre":"News, Sport","movie":"Gillette Soccer Saturday","rating":8.1,"year":2000}
+{"genre":"Drama, Sport","movie":"Million Dollar Baby","rating":8.1,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"Facing Ali","rating":8.1,"year":2009}
+{"genre":"Documentary, Sport","movie":"Bones Brigade: An Autobiography","rating":8.1,"year":2012}
+{"genre":"Drama, Sport","movie":"Warrior","rating":8.2,"year":2011}
+{"genre":"Drama, Sport","movie":"Iqbal","rating":8.2,"year":2005}
+{"genre":"Documentary, Biography, Sport","movie":"The Crash Reel","rating":8.2,"year":2013}
+{"genre":"Documentary, Biography, Sport","movie":"The Two Escobars","rating":8.2,"year":2010}
+{"genre":"Sport","movie":"WrestleMania XX","rating":8.2,"year":2004}
+{"genre":"Drama, Family, Sport","movie":"Chak de! India","rating":8.2,"year":2007}
+{"genre":"Animation, Comedy, Sport","movie":"Kuroko's Basketball","rating":8.3,"year":20122015}
+{"genre":"Action, Drama, Sport","movie":"The Brawler","rating":8.3,"year":2017}
+{"genre":"Drama, Sport","movie":"Inside Edge","rating":8.3,"year":2017}
+{"genre":"Sport","movie":"London 2012 Olympic Opening Ceremony: Isles of Wonder","rating":8.3,"year":2012}
+{"genre":"Biography, Drama, Sport","movie":"Corra, Milkha, Corra","rating":8.3,"year":2013}
+{"genre":"Animation, Action, Sport","movie":"Gambling Apocalypse Kaiji","rating":8.3,"year":20072011}
+{"genre":"News, Sport, Talk-Show","movie":"Pardon the Interruption","rating":8.3,"year":2001}
+{"genre":"Sport","movie":"FIFA 13","rating":8.3,"year":2012}
+{"genre":"Comedy, Sport","movie":"The League","rating":8.3,"year":20092015}
+{"genre":"Comedy, Drama, Sport","movie":"Eastbound & Down","rating":8.3,"year":20092013}
+{"genre":"Documentary, Adventure, Sport","movie":"The Art of Flight","rating":8.3,"year":2011}
+{"genre":"Comedy, Sport","movie":"Cheap Seats: Without Ron Parker","rating":8.3,"year":20042006}
+{"genre":"Action, Sport","movie":"WrestleMania XIX","rating":8.4,"year":2003}
+{"genre":"Documentary, Sport","movie":"The Other Dream Team","rating":8.4,"year":2012}
+{"genre":"Comedy, Sport","movie":"Blue Mountain State","rating":8.4,"year":20102011}
+{"genre":"Animation, Fantasy, Sport","movie":"Hikaru no go","rating":8.4,"year":20012003}
+{"genre":"Family, Sport","movie":"Gran Turismo 3: A-Spec","rating":8.4,"year":2001}
+{"genre":"Documentary, Biography, Sport","movie":"Unforgivable Blackness: The Rise and Fall of Jack Johnson","rating":8.4,"year":2004}
+{"genre":"Action, Drama, Sport","movie":"Veneno","rating":8.5,"year":2018}
+{"genre":"Documentary, Reality-TV, Sport","movie":"Hard Knocks","rating":8.5,"year":2001}
+{"genre":"Documentary, Sport","movie":"Last Chance U","rating":8.5,"year":2016}
+{"genre":"Crime, Drama, Sport","movie":"Playmakers","rating":8.5,"year":2003}
+{"genre":"Documentary, Sport","movie":"The Rise & Fall of ECW","rating":8.6,"year":2004}
+{"genre":"Documentary, Biography, Sport","movie":"Senna","rating":8.6,"year":2010}
+{"genre":"Comedy, Sport","movie":"Sudani from Nigeria","rating":8.7,"year":2018}
+{"genre":"Documentary, History, Sport","movie":"1968","rating":8.7,"year":2018}
+{"genre":"Drama, Sport","movie":"Friday Night Lights","rating":8.7,"year":20062011}
+{"genre":"Sport","movie":"ECW One Night Stand","rating":8.7,"year":2005}
+{"genre":"Drama, Romance, Sport","movie":" One Tree Hill","rating":8.8,"year":20032012}
+{"genre":"Game-Show, Reality-TV, Sport","movie":"High Stakes Poker","rating":9.0,"year":2006}
+{"genre":"Action, Sport","movie":"WrestleMania X-Seven","rating":9.1,"year":2001}

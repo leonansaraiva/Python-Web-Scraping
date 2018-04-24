@@ -1,0 +1,68 @@
+{"genre":"Comedy, Talk-Show","movie":" Top Gear","rating":2.1,"year":2002}
+{"genre":"Comedy, Music, Talk-Show","movie":"Last Call with Carson Daly","rating":2.8,"year":2002}
+{"genre":"Comedy, Talk-Show","movie":"Bill Nye Saves the World","rating":3.5,"year":2017}
+{"genre":"Comedy, Talk-Show","movie":"The Jay Leno Show","rating":3.7,"year":20092010}
+{"genre":"Talk-Show","movie":"The Talk","rating":3.8,"year":2010}
+{"genre":"Drama, Talk-Show","movie":"Dr. Phil","rating":4.0,"year":2002}
+{"genre":"Talk-Show","movie":"The Tyra Banks Show","rating":4.1,"year":20052011}
+{"genre":"Talk-Show","movie":"The Jeremy Kyle Show","rating":4.2,"year":2005}
+{"genre":"News, Talk-Show","movie":"Hannity","rating":4.4,"year":2009}
+{"genre":"Comedy, News, Talk-Show","movie":"The Nightly Show with Larry Wilmore","rating":5.5,"year":2015}
+{"genre":"Comedy, News, Talk-Show","movie":"The Young Turks","rating":5.9,"year":2005}
+{"genre":"Comedy, Talk-Show","movie":"Fashion Police","rating":6.0,"year":2002}
+{"genre":"News, Talk-Show","movie":"The Rachel Maddow Show","rating":6.0,"year":2008}
+{"genre":"Comedy, Talk-Show","movie":"WatchMojo","rating":6.0,"year":2006}
+{"genre":"Comedy, Talk-Show","movie":"Chelsea Lately","rating":6.1,"year":20072014}
+{"genre":"Comedy, Talk-Show","movie":"Late Night with Seth Meyers","rating":6.1,"year":2014}
+{"genre":"Comedy, News, Talk-Show","movie":"Full Frontal with Samantha Bee","rating":6.2,"year":2016}
+{"genre":"Talk-Show","movie":"Chelsea","rating":6.3,"year":2016}
+{"genre":"Comedy, Talk-Show","movie":"The Late Late Show with James Corden","rating":6.5,"year":2015}
+{"genre":"News, Talk-Show","movie":"Countdown w\/ Keith Olbermann","rating":6.6,"year":20032012}
+{"genre":"Comedy, Talk-Show","movie":"Rove Live","rating":6.7,"year":20002009}
+{"genre":"Comedy, Music, Talk-Show","movie":"Jimmy Kimmel Live!","rating":6.8,"year":2003}
+{"genre":"Comedy, Music, Talk-Show","movie":"Late Night with Jimmy Fallon","rating":7.0,"year":2009}
+{"genre":"Comedy, Talk-Show","movie":"Ellen: The Ellen DeGeneres Show","rating":7.2,"year":2003}
+{"genre":"Talk-Show","movie":"The Being Frank Show","rating":7.3,"year":2010}
+{"genre":"Documentary, Reality-TV, Talk-Show","movie":"Girls Incarcerated","rating":7.4,"year":2018}
+{"genre":"Talk-Show","movie":"Talking Dead","rating":7.4,"year":2011}
+{"genre":"News, Sport, Talk-Show","movie":"Around the Horn","rating":7.5,"year":2002}
+{"genre":"Comedy, Talk-Show","movie":"The Late Show with Stephen Colbert","rating":7.5,"year":2015}
+{"genre":"Comedy, Music, Talk-Show","movie":"The Tonight Show Starring Jimmy Fallon","rating":7.6,"year":2014}
+{"genre":"Comedy, Talk-Show","movie":"James & Mike Mondays","rating":7.6,"year":2012}
+{"genre":"Comedy, News, Talk-Show","movie":"Real Time with Bill Maher","rating":7.6,"year":2003}
+{"genre":"Comedy, Talk-Show","movie":"Comedy Bang! Bang!","rating":7.6,"year":2012}
+{"genre":"Comedy, Music, Talk-Show","movie":"Friday Night with Jonathan Ross","rating":7.7,"year":20012010}
+{"genre":"Comedy, Talk-Show","movie":"Man to Man with Dean Learner","rating":7.7,"year":2006}
+{"genre":"Documentary, Talk-Show","movie":"Beyond Stranger Things","rating":7.7,"year":2017}
+{"genre":"Comedy, Talk-Show","movie":"Da Ali G Show","rating":8.0,"year":2000}
+{"genre":"Comedy, Talk-Show","movie":"Koffee with Karan","rating":8.0,"year":2004}
+{"genre":"Comedy, Music, Talk-Show","movie":"The Tonight Show with Conan O'Brien","rating":8.1,"year":20092010}
+{"genre":"Comedy, Music, Talk-Show","movie":"Conan","rating":8.1,"year":2010}
+{"genre":"Comedy, Talk-Show","movie":"Comedians in Cars Getting Coffee","rating":8.2,"year":2012}
+{"genre":"Talk-Show","movie":"My Next Guest Needs No Introduction with David Letterman","rating":8.2,"year":2018}
+{"genre":"Comedy, Talk-Show","movie":"Dinner for Five","rating":8.2,"year":20012005}
+{"genre":"Comedy, Talk-Show","movie":"Comedy Nights with Kapil","rating":8.2,"year":20132016}
+{"genre":"Animation, Comedy, Talk-Show","movie":"I Hate Everything","rating":8.2,"year":2013}
+{"genre":"Comedy, Talk-Show","movie":"The Kapil Sharma Show","rating":8.2,"year":2016}
+{"genre":"Comedy, Music, Talk-Show","movie":"The Graham Norton Show","rating":8.3,"year":2007}
+{"genre":"News, Sport, Talk-Show","movie":"Pardon the Interruption","rating":8.3,"year":2001}
+{"genre":"Animation, Comedy, Talk-Show","movie":"The Ricky Gervais Show","rating":8.3,"year":20102012}
+{"genre":"Comedy, Music, Talk-Show","movie":"The Late Late Show with Craig Ferguson","rating":8.3,"year":20052015}
+{"genre":"Comedy, News, Talk-Show","movie":" Last Week Tonight with John Oliver","rating":8.4,"year":2014}
+{"genre":"Short, Comedy, Talk-Show","movie":"Game Grumps","rating":8.4,"year":2012}
+{"genre":"Talk-Show","movie":" My Next Guest Needs No Introduction with David Letterman","rating":8.5,"year":2018}
+{"genre":"Comedy, News, Talk-Show","movie":"The Colbert Report","rating":8.5,"year":20052015}
+{"genre":"Comedy, Talk-Show","movie":"IMDb Me","rating":8.6,"year":2018}
+{"genre":"Comedy, Talk-Show","movie":"Between Two Ferns with Zach Galifianakis","rating":8.6,"year":2008}
+{"genre":"Comedy, Talk-Show","movie":"The Eric Andre Show","rating":8.6,"year":2012}
+{"genre":"Talk-Show","movie":" Jeena Isi Ka Naam Hai","rating":8.6,"year":20022007}
+{"genre":"Comedy, Talk-Show","movie":"Check It Out! with Dr. Steve Brule","rating":8.6,"year":20102016}
+{"genre":"Comedy, Talk-Show","movie":"Top Gear","rating":8.7,"year":2002}
+{"genre":"Comedy, Talk-Show","movie":"The Grand Tour","rating":8.7,"year":2016}
+{"genre":"Comedy, Talk-Show","movie":"Your Movie Sucks","rating":8.7,"year":2010}
+{"genre":"Talk-Show","movie":"Swar Shuaib","rating":8.9,"year":2014}
+{"genre":"Comedy, News, Talk-Show","movie":"Last Week Tonight with John Oliver","rating":9.0,"year":2014}
+{"genre":"Comedy, Talk-Show","movie":" The Grand Tour","rating":9.0,"year":2016}
+{"genre":"Talk-Show","movie":"Jeena Isi Ka Naam Hai","rating":9.0,"year":20022007}
+{"genre":"Documentary, Talk-Show","movie":"Satyamev Jayate","rating":9.2,"year":2012}
+{"genre":"Comedy, Talk-Show","movie":"Half in the Bag","rating":9.3,"year":2011}

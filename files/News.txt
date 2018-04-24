@@ -1,0 +1,43 @@
+{"genre":"Comedy, News","movie":"TMZ on TV","rating":3.5,"year":2007}
+{"genre":"News, Talk-Show","movie":"Hannity","rating":4.4,"year":2009}
+{"genre":"News","movie":" IMDb on the Scene","rating":4.6,"year":2015}
+{"genre":"News","movie":"Anderson Cooper 360°","rating":4.9,"year":2003}
+{"genre":"News","movie":"The 75th Golden Globe Awards","rating":5.4,"year":2018}
+{"genre":"Comedy, News, Talk-Show","movie":"The Nightly Show with Larry Wilmore","rating":5.5,"year":2015}
+{"genre":"Comedy, News, Talk-Show","movie":"The Young Turks","rating":5.9,"year":2005}
+{"genre":"News, Talk-Show","movie":"The Rachel Maddow Show","rating":6.0,"year":2008}
+{"genre":"Crime, Drama, News","movie":"Killing Them Softly","rating":6.2,"year":2012}
+{"genre":"Comedy, News, Talk-Show","movie":"Full Frontal with Samantha Bee","rating":6.2,"year":2016}
+{"genre":"News","movie":"The 75th Annual Academy Awards","rating":6.3,"year":2003}
+{"genre":"News","movie":"The 83rd Annual Academy Awards","rating":6.4,"year":2011}
+{"genre":"Documentary, History, News","movie":"Banking on Bitcoin","rating":6.6,"year":2016}
+{"genre":"News, Talk-Show","movie":"Countdown w\/ Keith Olbermann","rating":6.6,"year":20032012}
+{"genre":"Documentary, History, News","movie":"Korengal","rating":6.8,"year":2014}
+{"genre":"News","movie":"The 82nd Annual Academy Awards","rating":6.8,"year":2010}
+{"genre":"News","movie":"The 79th Annual Academy Awards","rating":7.3,"year":2007}
+{"genre":"Documentary, News","movie":"Terms and Conditions May Apply","rating":7.4,"year":2013}
+{"genre":"Documentary, Crime, News","movie":"Capitalism: A Love Story","rating":7.4,"year":2009}
+{"genre":"News, Sport, Talk-Show","movie":"Around the Horn","rating":7.5,"year":2002}
+{"genre":"Documentary, Drama, News","movie":"(Dis)Honesty: The Truth About Lies","rating":7.5,"year":2015}
+{"genre":"Comedy, News, Talk-Show","movie":"Real Time with Bill Maher","rating":7.6,"year":2003}
+{"genre":"Documentary, History, News","movie":"How to Survive a Plague","rating":7.6,"year":2012}
+{"genre":"Documentary, History, News","movie":"Best of Enemies: Buckley vs. Vidal","rating":7.6,"year":2015}
+{"genre":"Comedy, Game-Show, News","movie":" The Big Breakfast","rating":7.6,"year":19922002}
+{"genre":"News","movie":"Attack of the Show!","rating":7.7,"year":20052013}
+{"genre":"Documentary, News","movie":"Four Horsemen","rating":7.8,"year":2012}
+{"genre":"News","movie":"The 81st Annual Academy Awards","rating":8.0,"year":2009}
+{"genre":"Documentary, History, News","movie":"Burma VJ: Reporting from a Closed Country","rating":8.0,"year":2008}
+{"genre":"Documentary, Biography, News","movie":"Requiem for the American Dream","rating":8.1,"year":2015}
+{"genre":"News, Sport","movie":"Gillette Soccer Saturday","rating":8.1,"year":2000}
+{"genre":"Documentary, History, News","movie":"O Peso das Correntes","rating":8.2,"year":2010}
+{"genre":"Documentary, News","movie":"Alive Inside","rating":8.2,"year":2014}
+{"genre":"News, Sport, Talk-Show","movie":"Pardon the Interruption","rating":8.3,"year":2001}
+{"genre":"Documentary, News","movie":"The Culture High","rating":8.3,"year":2014}
+{"genre":"Music, News","movie":"Tinseltown TV","rating":8.3,"year":2002}
+{"genre":"Documentary, News","movie":"Before the Flood","rating":8.3,"year":2016}
+{"genre":"Comedy, News, Talk-Show","movie":" Last Week Tonight with John Oliver","rating":8.4,"year":2014}
+{"genre":"Comedy, News, Talk-Show","movie":"The Colbert Report","rating":8.5,"year":20052015}
+{"genre":"Documentary, News","movie":"Vice","rating":8.9,"year":2013}
+{"genre":"Comedy, News, Talk-Show","movie":"Last Week Tonight with John Oliver","rating":9.0,"year":2014}
+{"genre":"Documentary, History, News","movie":"A Billion Lives","rating":9.0,"year":2016}
+{"genre":"Short, Music, News","movie":"Les Journées pas si classiques que ça","rating":9.2,"year":2009}
